@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d761">
+    <sentence id="DDI-DrugBank.d761.s4" text="XENICAL inhibited absorption of a vitamin E acetate supplement by approximately 60%. ">
+        <entity charOffset="0-6" id="DDI-DrugBank.d761.s4.e0" text="XENICAL" type="brand" />
+        <entity charOffset="34-50" id="DDI-DrugBank.d761.s4.e1" text="vitamin E acetate" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d761.s4.e0" e2="DDI-DrugBank.d761.s4.e1" id="DDI-DrugBank.d761.s4.p0" type="mechanism" />
+    </sentence>
+    </document>

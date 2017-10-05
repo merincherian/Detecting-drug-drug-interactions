@@ -1,0 +1,15 @@
+<document id="DDI-MedLine.d106">
+    <sentence id="DDI-MedLine.d106.s0" text="Clinical implications of warfarin interactions with five sedatives.&#10;">
+        <entity charOffset="25-32" id="DDI-MedLine.d106.s0.e0" text="warfarin" type="drug" />
+        <entity charOffset="57-65" id="DDI-MedLine.d106.s0.e1" text="sedatives" type="group" />
+        <pair ddi="true" e1="DDI-MedLine.d106.s0.e0" e2="DDI-MedLine.d106.s0.e1" id="DDI-MedLine.d106.s0.p0" type="int" />
+    </sentence>
+    <sentence id="DDI-MedLine.d106.s2" text="Each subject received an individualized fixed daily dose of warfarin and served as his own pre- and postsedative treatment control. ">
+        <entity charOffset="60-67" id="DDI-MedLine.d106.s2.e0" text="warfarin" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d106.s5" text="there was no significant change in prothrombin test results during the trials of chloral hydrate and methaqualone. ">
+        <entity charOffset="81-95" id="DDI-MedLine.d106.s5.e0" text="chloral hydrate" type="drug" />
+        <entity charOffset="101-112" id="DDI-MedLine.d106.s5.e1" text="methaqualone" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d106.s5.e0" e2="DDI-MedLine.d106.s5.e1" id="DDI-MedLine.d106.s5.p0" />
+    </sentence>
+    </document>

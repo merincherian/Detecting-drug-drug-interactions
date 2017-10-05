@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d121">
+    <sentence id="DDI-DrugBank.d121.s2" text="The bioavailability of the capsule formulation of cefprozil was not affected when administered 5 minutes following an antacid.">
+        <entity charOffset="50-58" id="DDI-DrugBank.d121.s2.e0" text="cefprozil" type="drug" />
+        <entity charOffset="118-124" id="DDI-DrugBank.d121.s2.e1" text="antacid" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d121.s2.e0" e2="DDI-DrugBank.d121.s2.e1" id="DDI-DrugBank.d121.s2.p0" />
+    </sentence>
+</document>

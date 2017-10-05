@@ -1,0 +1,15 @@
+<document id="DDI-DrugBank.d727">
+    <sentence id="DDI-DrugBank.d727.s0" text="Zidovudine competitively inhibits the intracellular phosphorylation of stavudine. ">
+        <entity charOffset="0-9" id="DDI-DrugBank.d727.s0.e0" text="Zidovudine" type="drug" />
+        <entity charOffset="71-79" id="DDI-DrugBank.d727.s0.e1" text="stavudine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d727.s0.e0" e2="DDI-DrugBank.d727.s0.e1" id="DDI-DrugBank.d727.s0.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d727.s1" text="Therefore, use of zidovudine in combination with ZERIT should be avoided. ">
+        <entity charOffset="18-27" id="DDI-DrugBank.d727.s1.e0" text="zidovudine" type="drug" />
+        <entity charOffset="49-53" id="DDI-DrugBank.d727.s1.e1" text="ZERIT" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d727.s1.e0" e2="DDI-DrugBank.d727.s1.e1" id="DDI-DrugBank.d727.s1.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d727.s4" text="therefore, concomitant use of stavudine with either of these drugs should be undertaken with caution.">
+        <entity charOffset="30-38" id="DDI-DrugBank.d727.s4.e0" text="stavudine" type="drug" />
+    </sentence>
+</document>

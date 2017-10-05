@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d498">
+    <sentence id="DDI-DrugBank.d498.s1" text="These antibiotics should be used in the myasthenic patient only where definitely indicated, and then careful adjustment should be made of adjunctive anticholinesterase dosage.">
+        <entity charOffset="6-16" id="DDI-DrugBank.d498.s1.e0" text="antibiotics" type="group" />
+        <entity charOffset="149-166" id="DDI-DrugBank.d498.s1.e1" text="anticholinesterase" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d498.s1.e0" e2="DDI-DrugBank.d498.s1.e1" id="DDI-DrugBank.d498.s1.p0" type="advise" />
+    </sentence>
+    </document>

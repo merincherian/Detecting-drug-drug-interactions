@@ -1,0 +1,37 @@
+<document id="DDI-DrugBank.d411">
+    <sentence id="DDI-DrugBank.d411.s6" text="Amiodarone: Amiodarone therapy alone can cause hypothyroidism or hyperthyroidism.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d411.s6.e0" text="Amiodarone" type="drug" />
+        <entity charOffset="12-21" id="DDI-DrugBank.d411.s6.e1" text="Amiodarone" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d411.s6.e0" e2="DDI-DrugBank.d411.s6.e1" id="DDI-DrugBank.d411.s6.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d411.s7" text="Anticoagulants (Oral): The hypoprothrombinemic effect of anticoagulants may be potentiated, apparently by increased catabloism of vitamin K-dependent clotting factors.">
+        <entity charOffset="0-13" id="DDI-DrugBank.d411.s7.e0" text="Anticoagulants" type="group" />
+        <entity charOffset="57-70" id="DDI-DrugBank.d411.s7.e1" text="anticoagulants" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d411.s7.e0" e2="DDI-DrugBank.d411.s7.e1" id="DDI-DrugBank.d411.s7.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d411.s9" text="b-Adrenergic Blocking Agents: Actions of some of beta-blocking agents may be impaired when hypothyroid patients become euthyroid.">
+        <entity charOffset="0-27" id="DDI-DrugBank.d411.s9.e0" text="b-Adrenergic Blocking Agents" type="group" />
+        <entity charOffset="49-68" id="DDI-DrugBank.d411.s9.e1" text="beta-blocking agents" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d411.s9.e0" e2="DDI-DrugBank.d411.s9.e1" id="DDI-DrugBank.d411.s9.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d411.s11" text="Digitalis Glycosides: Therapeutic effects of digitalis glycosides may be reduced.">
+        <entity charOffset="0-19" id="DDI-DrugBank.d411.s11.e0" text="Digitalis Glycosides" type="group" />
+        <entity charOffset="45-64" id="DDI-DrugBank.d411.s11.e1" text="digitalis glycosides" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d411.s11.e0" e2="DDI-DrugBank.d411.s11.e1" id="DDI-DrugBank.d411.s11.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d411.s15" text="Sodium Iodide (123I and 131I), Sodium Pertechnetate Tc99m: Uptake of radiolabeled ions may be decreased.">
+        <entity charOffset="0-12" id="DDI-DrugBank.d411.s15.e0" text="Sodium Iodide" type="drug" />
+        <entity charOffset="31-56" id="DDI-DrugBank.d411.s15.e1" text="Sodium Pertechnetate Tc99m" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d411.s15.e0" e2="DDI-DrugBank.d411.s15.e1" id="DDI-DrugBank.d411.s15.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d411.s17" text="Untreated hypothyroidism may interfere with the growth response to somatrem or somatropin.">
+        <entity charOffset="67-74" id="DDI-DrugBank.d411.s17.e0" text="somatrem" type="drug" />
+        <entity charOffset="79-88" id="DDI-DrugBank.d411.s17.e1" text="somatropin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d411.s17.e0" e2="DDI-DrugBank.d411.s17.e1" id="DDI-DrugBank.d411.s17.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d411.s18" text="Theophylline: Theophylline clearance may decrease in hypothyroid patients and return toward normal when a euthyroid state is achieved.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d411.s18.e0" text="Theophylline" type="drug" />
+        <entity charOffset="14-25" id="DDI-DrugBank.d411.s18.e1" text="Theophylline" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d411.s18.e0" e2="DDI-DrugBank.d411.s18.e1" id="DDI-DrugBank.d411.s18.p0" />
+    </sentence>
+    </document>

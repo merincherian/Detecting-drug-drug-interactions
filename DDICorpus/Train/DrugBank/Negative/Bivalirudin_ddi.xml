@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d569">
+    <sentence id="DDI-DrugBank.d569.s2" text="There is no experience with co-administration of Angiomax and plasma expanders such as dextran.">
+        <entity charOffset="49-56" id="DDI-DrugBank.d569.s2.e0" text="Angiomax" type="brand" />
+        <entity charOffset="87-93" id="DDI-DrugBank.d569.s2.e1" text="dextran" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d569.s2.e0" e2="DDI-DrugBank.d569.s2.e1" id="DDI-DrugBank.d569.s2.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d569.s5" text="Among 494 subjects who received Angiomax in clinical trials and were tested for antibodies, 2 subjects had treatment-emergent positive bivalirudin antibody tests.">
+        <entity charOffset="32-39" id="DDI-DrugBank.d569.s5.e0" text="Angiomax" type="brand" />
+        <entity charOffset="135-145" id="DDI-DrugBank.d569.s5.e1" text="bivalirudin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d569.s5.e0" e2="DDI-DrugBank.d569.s5.e1" id="DDI-DrugBank.d569.s5.p0" />
+    </sentence>
+    </document>

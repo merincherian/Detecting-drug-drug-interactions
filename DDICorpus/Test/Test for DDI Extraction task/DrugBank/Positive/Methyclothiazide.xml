@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d736">
+    <sentence id="DDI-DrugBank.d736.s3" text="Thiazides may decrease arterial responsiveness to norepinephrine. ">
+        <entity charOffset="0-8" id="DDI-DrugBank.d736.s3.e0" text="Thiazides" type="group" />
+        <entity charOffset="50-63" id="DDI-DrugBank.d736.s3.e1" text="norepinephrine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d736.s3.e0" e2="DDI-DrugBank.d736.s3.e1" id="DDI-DrugBank.d736.s3.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d736.s5" text="Thiazide drugs may increase the responsiveness of tubocurarine. ">
+        <entity charOffset="0-13" id="DDI-DrugBank.d736.s5.e0" text="Thiazide drugs" type="group" />
+        <entity charOffset="50-61" id="DDI-DrugBank.d736.s5.e1" text="tubocurarine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d736.s5.e0" e2="DDI-DrugBank.d736.s5.e1" id="DDI-DrugBank.d736.s5.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d736.s7" text="Thiazides may add to or potentiate the action of other antihypertensive drugs. ">
+        <entity charOffset="0-8" id="DDI-DrugBank.d736.s7.e0" text="Thiazides" type="group" />
+        <entity charOffset="55-76" id="DDI-DrugBank.d736.s7.e1" text="antihypertensive drugs" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d736.s7.e0" e2="DDI-DrugBank.d736.s7.e1" id="DDI-DrugBank.d736.s7.p0" type="effect" />
+    </sentence>
+    </document>

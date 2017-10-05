@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d595">
+    <sentence id="DDI-DrugBank.d595.s2" text="The addition of sodium bicarbonate to parenteral solutions containing calcium should be avoided, except where compatibility has been previously established. ">
+        <entity charOffset="16-33" id="DDI-DrugBank.d595.s2.e0" text="sodium bicarbonate" type="drug" />
+        <entity charOffset="70-76" id="DDI-DrugBank.d595.s2.e1" text="calcium" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d595.s2.e0" e2="DDI-DrugBank.d595.s2.e1" id="DDI-DrugBank.d595.s2.p0" />
+    </sentence>
+    </document>

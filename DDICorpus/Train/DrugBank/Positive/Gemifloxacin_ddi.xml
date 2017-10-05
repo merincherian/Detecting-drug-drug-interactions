@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d347">
+    <sentence id="DDI-DrugBank.d347.s8" text="Sucralfate should not be taken within 2 hours of FACTIVE.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d347.s8.e0" text="Sucralfate" type="drug" />
+        <entity charOffset="49-55" id="DDI-DrugBank.d347.s8.e1" text="FACTIVE" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d347.s8.e0" e2="DDI-DrugBank.d347.s8.e1" id="DDI-DrugBank.d347.s8.p0" type="advise" />
+    </sentence>
+</document>

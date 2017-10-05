@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d405">
+    <sentence id="DDI-DrugBank.d405.s0" text="Dicumarol and warfarin may decrease hypoprothrombinemic effect.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d405.s0.e0" text="Dicumarol" type="drug" />
+        <entity charOffset="14-21" id="DDI-DrugBank.d405.s0.e1" text="warfarin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d405.s0.e0" e2="DDI-DrugBank.d405.s0.e1" id="DDI-DrugBank.d405.s0.p0" />
+    </sentence>
+    </document>

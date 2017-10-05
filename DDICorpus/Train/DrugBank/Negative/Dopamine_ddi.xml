@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d325">
+    <sentence id="DDI-DrugBank.d325.s0" text="Because dopamine is metabolized by monoamine oxidase (MAO), inhibition of this enzyme prolongs and potentiates the effect of dopamine.">
+        <entity charOffset="8-15" id="DDI-DrugBank.d325.s0.e0" text="dopamine" type="drug" />
+        <entity charOffset="125-132" id="DDI-DrugBank.d325.s0.e1" text="dopamine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d325.s0.e0" e2="DDI-DrugBank.d325.s0.e1" id="DDI-DrugBank.d325.s0.p0" />
+    </sentence>
+    </document>

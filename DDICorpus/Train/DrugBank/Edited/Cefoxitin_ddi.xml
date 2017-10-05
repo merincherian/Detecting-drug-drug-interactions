@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d556">
+    <sentence id="DDI-DrugBank.d556.s0" text="Increased nephrotoxicity has been reported following concomitant administration of cephalosporins and aminoglycoside antibiotics.">
+        <entity charOffset="83-96" id="DDI-DrugBank.d556.s0.e0" text="cephalosporins" type="group" />
+        <entity charOffset="102-127" id="DDI-DrugBank.d556.s0.e1" text="aminoglycoside antibiotics" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d556.s0.e0" e2="DDI-DrugBank.d556.s0.e1" id="DDI-DrugBank.d556.s0.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d556.s1" text="Drug/Laboratory Test Interactions As with cephalothin, high concentrations of cefoxitin ( 100 micrograms/mL) may interfere with measurement of serum and urine creatinine levels by the Jaff  reaction, and produce false increases of modest degree in the levels of creatinine reported.">
+        <entity charOffset="42-52" id="DDI-DrugBank.d556.s1.e0" text="cephalothin" type="drug" />
+        <entity charOffset="78-86" id="DDI-DrugBank.d556.s1.e1" text="cefoxitin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d556.s1.e0" e2="DDI-DrugBank.d556.s1.e1" id="DDI-DrugBank.d556.s1.p0" />
+    </sentence>
+    </document>

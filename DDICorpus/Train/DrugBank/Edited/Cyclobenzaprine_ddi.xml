@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d150">
+    <sentence id="DDI-DrugBank.d150.s0" text="FLEXERIL may have life-threatening interactions with MAO inhibitors.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d150.s0.e0" text="FLEXERIL" type="brand" />
+        <entity charOffset="53-66" id="DDI-DrugBank.d150.s0.e1" text="MAO inhibitors" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d150.s0.e0" e2="DDI-DrugBank.d150.s0.e1" id="DDI-DrugBank.d150.s0.p0" type="int" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d150.s2" text="Tricyclic antidepressants may block the antihypertensive action of guanethidine and similarly acting compounds.">
+        <entity charOffset="0-24" id="DDI-DrugBank.d150.s2.e0" text="Tricyclic antidepressants" type="group" />
+        <entity charOffset="67-78" id="DDI-DrugBank.d150.s2.e1" text="guanethidine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d150.s2.e0" e2="DDI-DrugBank.d150.s2.e1" id="DDI-DrugBank.d150.s2.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d150.s3" text="Tricyclic antidepressants may enhance the seizure risk in patients taking tramadol">
+        <entity charOffset="0-24" id="DDI-DrugBank.d150.s3.e0" text="Tricyclic antidepressants" type="group" />
+        <entity charOffset="74-81" id="DDI-DrugBank.d150.s3.e1" text="tramadol" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d150.s3.e0" e2="DDI-DrugBank.d150.s3.e1" id="DDI-DrugBank.d150.s3.p0" type="effect" />
+    </sentence>
+    </document>

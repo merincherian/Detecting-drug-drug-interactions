@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d393">
+    <sentence id="DDI-DrugBank.d393.s5" text="There was a small decrease in the clearance of cetirizine caused by a 400-mg dose of theophylline;">
+        <entity charOffset="47-56" id="DDI-DrugBank.d393.s5.e0" text="cetirizine" type="drug" />
+        <entity charOffset="85-96" id="DDI-DrugBank.d393.s5.e1" text="theophylline" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d393.s5.e0" e2="DDI-DrugBank.d393.s5.e1" id="DDI-DrugBank.d393.s5.p0" type="mechanism" />
+    </sentence>
+    </document>

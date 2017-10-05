@@ -1,0 +1,46 @@
+<document id="DDI-MedLine.d46">
+    <sentence id="DDI-MedLine.d46.s0" text="Influence of coadministration of fluoxetine on cisapride pharmacokinetics and QTc intervals in healthy volunteers.&#10;">
+        <entity charOffset="33-42" id="DDI-MedLine.d46.s0.e0" text="fluoxetine" type="drug" />
+        <entity charOffset="47-55" id="DDI-MedLine.d46.s0.e1" text="cisapride" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d46.s0.e0" e2="DDI-MedLine.d46.s0.e1" id="DDI-MedLine.d46.s0.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d46.s1" text="STUDY OBJECTIVE: To evaluate the effect of fluoxetine on the pharmacokinetics and cardiovascular safety of cisapride at steady state in healthy men. ">
+        <entity charOffset="43-52" id="DDI-MedLine.d46.s1.e0" text="fluoxetine" type="drug" />
+        <entity charOffset="107-115" id="DDI-MedLine.d46.s1.e1" text="cisapride" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d46.s1.e0" e2="DDI-MedLine.d46.s1.e1" id="DDI-MedLine.d46.s1.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d46.s6" text="phase 1 (days 1-6): cisapride 10 mg 4 times/day; ">
+        <entity charOffset="20-28" id="DDI-MedLine.d46.s6.e0" text="cisapride" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d46.s8" text="phase 2 (days 14-44): fluoxetine 20 mg/day; ">
+        <entity charOffset="22-31" id="DDI-MedLine.d46.s8.e0" text="fluoxetine" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d46.s9" text="and phase 3 (days 45-52): cisapride 10 mg 4 times/day (days 45-51) plus fluoxetine 20 mg/day (days 45-52). ">
+        <entity charOffset="26-34" id="DDI-MedLine.d46.s9.e0" text="cisapride" type="drug" />
+        <entity charOffset="72-81" id="DDI-MedLine.d46.s9.e1" text="fluoxetine" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d46.s9.e0" e2="DDI-MedLine.d46.s9.e1" id="DDI-MedLine.d46.s9.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d46.s10" text="MEASUREMENTS and MAIN RESULTS: Blood samples were drawn and 12-lead electrocardiograms performed at specified time points after the last morning dose of cisapride in phases 1 and 3. ">
+        <entity charOffset="153-161" id="DDI-MedLine.d46.s10.e0" text="cisapride" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d46.s13" text="Coadministration of fluoxetine significantly decreased cisapride plasma concentrations. ">
+        <entity charOffset="20-29" id="DDI-MedLine.d46.s13.e0" text="fluoxetine" type="drug" />
+        <entity charOffset="55-63" id="DDI-MedLine.d46.s13.e1" text="cisapride" type="drug" />
+        <pair ddi="true" e1="DDI-MedLine.d46.s13.e0" e2="DDI-MedLine.d46.s13.e1" id="DDI-MedLine.d46.s13.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-MedLine.d46.s14" text="There were no clinically significant changes in corrected QT intervals during administration of cisapride alone or with fluoxetine. ">
+        <entity charOffset="96-104" id="DDI-MedLine.d46.s14.e0" text="cisapride" type="drug" />
+        <entity charOffset="120-129" id="DDI-MedLine.d46.s14.e1" text="fluoxetine" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d46.s14.e0" e2="DDI-MedLine.d46.s14.e1" id="DDI-MedLine.d46.s14.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d46.s15" text="Cisapride was well tolerated when administered alone or with fluoxetine. ">
+        <entity charOffset="0-8" id="DDI-MedLine.d46.s15.e0" text="Cisapride" type="drug" />
+        <entity charOffset="61-70" id="DDI-MedLine.d46.s15.e1" text="fluoxetine" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d46.s15.e0" e2="DDI-MedLine.d46.s15.e1" id="DDI-MedLine.d46.s15.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d46.s16" text="CONCLUSION: Cisapride can be administered safely to patients receiving low therapeutic dosages of fluoxetine.">
+        <entity charOffset="12-20" id="DDI-MedLine.d46.s16.e0" text="Cisapride" type="drug" />
+        <entity charOffset="98-107" id="DDI-MedLine.d46.s16.e1" text="fluoxetine" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d46.s16.e0" e2="DDI-MedLine.d46.s16.e1" id="DDI-MedLine.d46.s16.p0" />
+    </sentence>
+</document>

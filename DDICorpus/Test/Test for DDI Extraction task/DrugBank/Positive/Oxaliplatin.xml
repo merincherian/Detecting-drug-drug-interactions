@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d728">
+    <sentence id="DDI-DrugBank.d728.s2" text="Increases of 5-FU plasma concentrations by approximately 20% have been observed with doses of 130 mg/m2 ELOXATIN dosed every 3 weeks. ">
+        <entity charOffset="13-16" id="DDI-DrugBank.d728.s2.e0" text="5-FU" type="drug" />
+        <entity charOffset="104-111" id="DDI-DrugBank.d728.s2.e1" text="ELOXATIN" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d728.s2.e0" e2="DDI-DrugBank.d728.s2.e1" id="DDI-DrugBank.d728.s2.p0" type="mechanism" />
+    </sentence>
+    </document>

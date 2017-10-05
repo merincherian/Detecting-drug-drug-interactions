@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d442">
+    <sentence id="DDI-DrugBank.d442.s0" text="Increases in prothrombin time have been noted in patients receiving long- term warfarin therapy after flutamide was initiated.">
+        <entity charOffset="79-86" id="DDI-DrugBank.d442.s0.e0" text="warfarin" type="drug" />
+        <entity charOffset="102-110" id="DDI-DrugBank.d442.s0.e1" text="flutamide" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d442.s0.e0" e2="DDI-DrugBank.d442.s0.e1" id="DDI-DrugBank.d442.s0.p0" type="effect" />
+    </sentence>
+    </document>

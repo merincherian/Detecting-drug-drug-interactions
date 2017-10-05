@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d637">
+    <sentence id="DDI-DrugBank.d637.s1" text="Use of neuroleptics in conjunction with oral morphine may increase the risk of respiratory depression, hypotension and profound sedation or coma. ">
+        <entity charOffset="7-18" id="DDI-DrugBank.d637.s1.e0" text="neuroleptics" type="group" />
+        <entity charOffset="45-52" id="DDI-DrugBank.d637.s1.e1" text="morphine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d637.s1.e0" e2="DDI-DrugBank.d637.s1.e1" id="DDI-DrugBank.d637.s1.p0" type="effect" />
+    </sentence>
+    </document>

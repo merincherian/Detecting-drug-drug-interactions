@@ -1,0 +1,37 @@
+<document id="DDI-DrugBank.d633">
+    <sentence id="DDI-DrugBank.d633.s0" text="Since MEXITIL is a substrate for the metabolic pathways involving CYP2D6 and CYP1A2 enzymes, inhibition or induction of either of these enzymes would be expected to alter mexiletine plasma concentrations. ">
+        <entity charOffset="6-12" id="DDI-DrugBank.d633.s0.e0" text="MEXITIL" type="brand" />
+        <entity charOffset="171-180" id="DDI-DrugBank.d633.s0.e1" text="mexiletine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d633.s0.e0" e2="DDI-DrugBank.d633.s0.e1" id="DDI-DrugBank.d633.s0.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d633.s1" text="In a formal, single-dose interaction study (n = 6 males) the clearance of mexiletine was decreased by 38% following the coadministration of fluvoxamine, an inhibitor of CYP1A2. ">
+        <entity charOffset="74-83" id="DDI-DrugBank.d633.s1.e0" text="mexiletine" type="drug" />
+        <entity charOffset="140-150" id="DDI-DrugBank.d633.s1.e1" text="fluvoxamine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d633.s1.e0" e2="DDI-DrugBank.d633.s1.e1" id="DDI-DrugBank.d633.s1.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d633.s2" text="In another formal study (n = 8 extensive and n = 7 poor metabolizers of CYP2D6), coadministration of propafenone did not alter the kinetics of mexiletine in the poor CYP2D6 metabolizer group. ">
+        <entity charOffset="101-111" id="DDI-DrugBank.d633.s2.e0" text="propafenone" type="drug" />
+        <entity charOffset="143-152" id="DDI-DrugBank.d633.s2.e1" text="mexiletine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d633.s2.e0" e2="DDI-DrugBank.d633.s2.e1" id="DDI-DrugBank.d633.s2.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d633.s4" text="In this crossover steady state study, the pharmacokinetics of propafenone were unaffected in either phenotype by the coadministration of mexiletine. ">
+        <entity charOffset="62-72" id="DDI-DrugBank.d633.s4.e0" text="propafenone" type="drug" />
+        <entity charOffset="137-146" id="DDI-DrugBank.d633.s4.e1" text="mexiletine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d633.s4.e0" e2="DDI-DrugBank.d633.s4.e1" id="DDI-DrugBank.d633.s4.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d633.s6" text="When concomitant administration of either of these two drugs with mexiletine is initiated, the dose of mexiletine should be slowly titrated to desired effect. ">
+        <entity charOffset="66-75" id="DDI-DrugBank.d633.s6.e0" text="mexiletine" type="drug" />
+        <entity charOffset="103-112" id="DDI-DrugBank.d633.s6.e1" text="mexiletine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d633.s6.e0" e2="DDI-DrugBank.d633.s6.e1" id="DDI-DrugBank.d633.s6.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d633.s11" text="In a formal study, benzodiazepines were shown not to affect Mexitil    plasma concentrations. ">
+        <entity charOffset="19-33" id="DDI-DrugBank.d633.s11.e0" text="benzodiazepines" type="group" />
+        <entity charOffset="60-66" id="DDI-DrugBank.d633.s11.e1" text="Mexitil" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d633.s11.e0" e2="DDI-DrugBank.d633.s11.e1" id="DDI-DrugBank.d633.s11.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d633.s20" text="Additionally, in one controlled study in five normal subjects and seven patients, the clearance of caffeine was decreased 50% following the administration of Mexitil   .">
+        <entity charOffset="99-106" id="DDI-DrugBank.d633.s20.e0" text="caffeine" type="drug" />
+        <entity charOffset="158-164" id="DDI-DrugBank.d633.s20.e1" text="Mexitil" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d633.s20.e0" e2="DDI-DrugBank.d633.s20.e1" id="DDI-DrugBank.d633.s20.p0" type="mechanism" />
+    </sentence>
+</document>

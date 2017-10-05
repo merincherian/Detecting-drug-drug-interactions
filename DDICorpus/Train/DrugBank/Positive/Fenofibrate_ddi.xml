@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d283">
+    <sentence id="DDI-DrugBank.d283.s6" text="The benefits and risks of using TRICOR with immunosuppressants and other potentially nephrotoxic agents should be carefully considered, and the lowest effective dose employed">
+        <entity charOffset="32-37" id="DDI-DrugBank.d283.s6.e0" text="TRICOR" type="brand" />
+        <entity charOffset="44-61" id="DDI-DrugBank.d283.s6.e1" text="immunosuppressants" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d283.s6.e0" e2="DDI-DrugBank.d283.s6.e1" id="DDI-DrugBank.d283.s6.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d283.s12" text="Therefore, fenofibrate should be taken at least 1 hour before or 4-6 hours after a bile acid binding resin to avoid impeding its absorption .">
+        <entity charOffset="11-21" id="DDI-DrugBank.d283.s12.e0" text="fenofibrate" type="drug" />
+        <entity charOffset="83-105" id="DDI-DrugBank.d283.s12.e1" text="bile acid binding resin" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d283.s12.e0" e2="DDI-DrugBank.d283.s12.e1" id="DDI-DrugBank.d283.s12.p0" type="advise" />
+    </sentence>
+    </document>

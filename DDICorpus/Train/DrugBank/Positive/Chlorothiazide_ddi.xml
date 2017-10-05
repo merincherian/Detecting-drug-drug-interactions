@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d46">
+    <sentence id="DDI-DrugBank.d46.s15" text="- Lithium: Generally should not be given with diuretics.">
+        <entity charOffset="2-8" id="DDI-DrugBank.d46.s15.e0" text="Lithium" type="drug" />
+        <entity charOffset="46-54" id="DDI-DrugBank.d46.s15.e1" text="diuretics" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d46.s15.e0" e2="DDI-DrugBank.d46.s15.e1" id="DDI-DrugBank.d46.s15.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d46.s17" text="Refer to the package insert for lithium preparations before use of such preparations with chlorothiazide">
+        <entity charOffset="32-38" id="DDI-DrugBank.d46.s17.e0" text="lithium" type="drug" />
+        <entity charOffset="90-103" id="DDI-DrugBank.d46.s17.e1" text="chlorothiazide" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d46.s17.e0" e2="DDI-DrugBank.d46.s17.e1" id="DDI-DrugBank.d46.s17.p0" type="advise" />
+    </sentence>
+    </document>

@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d7">
+    <sentence id="DDI-DrugBank.d7.s0" text="The rate of metabolism and the leukopenic activity of cyclophosphamide reportedly are increased by chronic administration of high doses of phenobarbital.">
+        <entity charOffset="54-69" id="DDI-DrugBank.d7.s0.e0" text="cyclophosphamide" type="drug" />
+        <entity charOffset="139-151" id="DDI-DrugBank.d7.s0.e1" text="phenobarbital" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d7.s0.e0" e2="DDI-DrugBank.d7.s0.e1" id="DDI-DrugBank.d7.s0.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d7.s2" text="Cyclophosphamide treatment, which causes a marked and persistent inhibition of cholinesterase activity, potentiates the effect of succinylcholine chloride.">
+        <entity charOffset="0-15" id="DDI-DrugBank.d7.s2.e0" text="Cyclophosphamide" type="drug" />
+        <entity charOffset="130-153" id="DDI-DrugBank.d7.s2.e1" text="succinylcholine chloride" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d7.s2.e0" e2="DDI-DrugBank.d7.s2.e1" id="DDI-DrugBank.d7.s2.p0" type="effect" />
+    </sentence>
+    </document>

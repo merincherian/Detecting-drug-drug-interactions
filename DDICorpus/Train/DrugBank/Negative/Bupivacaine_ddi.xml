@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d153">
+    <sentence id="DDI-DrugBank.d153.s3" text="Concurrent administration of vasopressor drugs and of ergot-type oxytocic drugs may cause severe, persistent hypertension or cerebrovascular accidents.">
+        <entity charOffset="29-45" id="DDI-DrugBank.d153.s3.e0" text="vasopressor drugs" type="group" />
+        <entity charOffset="54-78" id="DDI-DrugBank.d153.s3.e1" text="ergot-type oxytocic drugs" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d153.s3.e0" e2="DDI-DrugBank.d153.s3.e1" id="DDI-DrugBank.d153.s3.p0" />
+    </sentence>
+    </document>

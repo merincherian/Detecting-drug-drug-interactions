@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d241">
+    <sentence id="DDI-DrugBank.d241.s2" text="However, patients receiving infusions of FLOLAN in clinical trials were maintained on anticoagulants without evidence of increased bleeding.">
+        <entity charOffset="41-46" id="DDI-DrugBank.d241.s2.e0" text="FLOLAN" type="brand" />
+        <entity charOffset="86-99" id="DDI-DrugBank.d241.s2.e1" text="anticoagulants" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d241.s2.e0" e2="DDI-DrugBank.d241.s2.e1" id="DDI-DrugBank.d241.s2.p0" />
+    </sentence>
+    </document>

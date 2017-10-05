@@ -1,0 +1,42 @@
+<document id="DDI-DrugBank.d509">
+    <sentence id="DDI-DrugBank.d509.s2" text="1- adrenergic receptor antagonism, aripiprazole has the potential to enhance the effect of certain antihypertensive agents.">
+        <entity charOffset="35-46" id="DDI-DrugBank.d509.s2.e0" text="aripiprazole" type="drug" />
+        <entity charOffset="99-121" id="DDI-DrugBank.d509.s2.e1" text="antihypertensive agents" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d509.s2.e0" e2="DDI-DrugBank.d509.s2.e1" id="DDI-DrugBank.d509.s2.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d509.s3" text="Potential for Other Drugs to Affect ABILIFY Aripiprazole is not a substrate of CYP1A1, CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, or CYP2E1 enzymes.">
+        <entity charOffset="36-42" id="DDI-DrugBank.d509.s3.e0" text="ABILIFY" type="brand" />
+        <entity charOffset="44-55" id="DDI-DrugBank.d509.s3.e1" text="Aripiprazole" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d509.s3.e0" e2="DDI-DrugBank.d509.s3.e1" id="DDI-DrugBank.d509.s3.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d509.s7" text="Agents that induce CYP3A4 (eg, carbamazepine) could cause an increase in aripiprazole clearance and lower blood levels.">
+        <entity charOffset="31-43" id="DDI-DrugBank.d509.s7.e0" text="carbamazepine" type="drug" />
+        <entity charOffset="73-84" id="DDI-DrugBank.d509.s7.e1" text="aripiprazole" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d509.s7.e0" e2="DDI-DrugBank.d509.s7.e1" id="DDI-DrugBank.d509.s7.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d509.s17" text="Other significant inhibitors of CYP2D6, such as fluoxetine or paroxetine, would be expected to have similar effects and, therefore, should be accompanied by similar dose reductions.">
+        <entity charOffset="48-57" id="DDI-DrugBank.d509.s17.e0" text="fluoxetine" type="drug" />
+        <entity charOffset="62-71" id="DDI-DrugBank.d509.s17.e1" text="paroxetine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d509.s17.e0" e2="DDI-DrugBank.d509.s17.e1" id="DDI-DrugBank.d509.s17.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d509.s22" text="When carbamazepine is withdrawn from the combination therapy, aripiprazole dose should then be reduced.">
+        <entity charOffset="5-17" id="DDI-DrugBank.d509.s22.e0" text="carbamazepine" type="drug" />
+        <entity charOffset="62-73" id="DDI-DrugBank.d509.s22.e1" text="aripiprazole" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d509.s22.e0" e2="DDI-DrugBank.d509.s22.e1" id="DDI-DrugBank.d509.s22.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d509.s24" text="Potential for ABILIFY to Affect Other Drugs Aripiprazole is unlikely to cause clinically important pharmacokinetic interactions with drugs metabolized by cytochrome P450 enzymes.">
+        <entity charOffset="14-20" id="DDI-DrugBank.d509.s24.e0" text="ABILIFY" type="brand" />
+        <entity charOffset="44-55" id="DDI-DrugBank.d509.s24.e1" text="Aripiprazole" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d509.s24.e0" e2="DDI-DrugBank.d509.s24.e1" id="DDI-DrugBank.d509.s24.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d509.s26" text="Additionally, aripiprazole and dehydroaripiprazole did not show potential for altering CYP1A2-mediated metabolism in vitro.">
+        <entity charOffset="14-25" id="DDI-DrugBank.d509.s26.e0" text="aripiprazole" type="drug" />
+        <entity charOffset="31-49" id="DDI-DrugBank.d509.s26.e1" text="dehydroaripiprazole" type="drug_n" />
+        <pair ddi="false" e1="DDI-DrugBank.d509.s26.e0" e2="DDI-DrugBank.d509.s26.e1" id="DDI-DrugBank.d509.s26.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d509.s28" text="As with most psychoactive medications, patients should be advised to avoid alcohol while taking ABILIFY">
+        <entity charOffset="75-81" id="DDI-DrugBank.d509.s28.e0" text="alcohol" type="drug" />
+        <entity charOffset="96-102" id="DDI-DrugBank.d509.s28.e1" text="ABILIFY" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d509.s28.e0" e2="DDI-DrugBank.d509.s28.e1" id="DDI-DrugBank.d509.s28.p0" type="advise" />
+    </sentence>
+    </document>

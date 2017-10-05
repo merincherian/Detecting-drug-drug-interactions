@@ -1,0 +1,37 @@
+<document id="DDI-DrugBank.d368">
+    <sentence id="DDI-DrugBank.d368.s4" text="Caution is advised when beginning, discontinuing, or changing the dose of DIAMOX in patients receiving primidone.">
+        <entity charOffset="74-79" id="DDI-DrugBank.d368.s4.e0" text="DIAMOX" type="brand" />
+        <entity charOffset="103-111" id="DDI-DrugBank.d368.s4.e1" text="primidone" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d368.s4.e0" e2="DDI-DrugBank.d368.s4.e1" id="DDI-DrugBank.d368.s4.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d368.s6" text="Acetazolamide may increase the effects of other folic acid antagonists.">
+        <entity charOffset="0-12" id="DDI-DrugBank.d368.s6.e0" text="Acetazolamide" type="drug" />
+        <entity charOffset="48-69" id="DDI-DrugBank.d368.s6.e1" text="folic acid antagonists" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d368.s6.e0" e2="DDI-DrugBank.d368.s6.e1" id="DDI-DrugBank.d368.s6.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d368.s9" text="Acetazolamide decreases urinary excretion of amphetamine and may enhance the magnitude and duration of their effect.">
+        <entity charOffset="0-12" id="DDI-DrugBank.d368.s9.e0" text="Acetazolamide" type="drug" />
+        <entity charOffset="45-55" id="DDI-DrugBank.d368.s9.e1" text="amphetamine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d368.s9.e0" e2="DDI-DrugBank.d368.s9.e1" id="DDI-DrugBank.d368.s9.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d368.s10" text="Acetazolamide reduces urinary excretion of quinidine and may enhance its effect.">
+        <entity charOffset="0-12" id="DDI-DrugBank.d368.s10.e0" text="Acetazolamide" type="drug" />
+        <entity charOffset="43-51" id="DDI-DrugBank.d368.s10.e1" text="quinidine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d368.s10.e0" e2="DDI-DrugBank.d368.s10.e1" id="DDI-DrugBank.d368.s10.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d368.s11" text="Acetazolamide may prevent the urinary antiseptic effect of methenamine.">
+        <entity charOffset="0-12" id="DDI-DrugBank.d368.s11.e0" text="Acetazolamide" type="drug" />
+        <entity charOffset="59-69" id="DDI-DrugBank.d368.s11.e1" text="methenamine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d368.s11.e0" e2="DDI-DrugBank.d368.s11.e1" id="DDI-DrugBank.d368.s11.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d368.s13" text="Acetazolamide and sodium bicarbonate used concurrently increases the risk of renal calculus formation.">
+        <entity charOffset="0-12" id="DDI-DrugBank.d368.s13.e0" text="Acetazolamide" type="drug" />
+        <entity charOffset="18-35" id="DDI-DrugBank.d368.s13.e1" text="sodium bicarbonate" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d368.s13.e0" e2="DDI-DrugBank.d368.s13.e1" id="DDI-DrugBank.d368.s13.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d368.s14" text="Acetazolamide may elevate cyclosporine levels.">
+        <entity charOffset="0-12" id="DDI-DrugBank.d368.s14.e0" text="Acetazolamide" type="drug" />
+        <entity charOffset="26-37" id="DDI-DrugBank.d368.s14.e1" text="cyclosporine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d368.s14.e0" e2="DDI-DrugBank.d368.s14.e1" id="DDI-DrugBank.d368.s14.p0" type="mechanism" />
+    </sentence>
+</document>

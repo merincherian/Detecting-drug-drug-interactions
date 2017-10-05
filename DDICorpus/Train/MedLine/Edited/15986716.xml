@@ -1,0 +1,17 @@
+<document id="DDI-MedLine.d122">
+    <sentence id="DDI-MedLine.d122.s1" text="Many people use both alcohol and nicotine (i.e., cigarettes and other tobacco products). ">
+        <entity charOffset="21-27" id="DDI-MedLine.d122.s1.e0" text="alcohol" type="drug" />
+        <entity charOffset="33-40" id="DDI-MedLine.d122.s1.e1" text="nicotine" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d122.s1.e0" e2="DDI-MedLine.d122.s1.e1" id="DDI-MedLine.d122.s1.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d122.s3" text="The initiation of alcohol or nicotine use may be precipitated by similar personality characteristics in the user, such as impulsivity and sensation seeking. ">
+        <entity charOffset="18-24" id="DDI-MedLine.d122.s3.e0" text="alcohol" type="drug" />
+        <entity charOffset="29-36" id="DDI-MedLine.d122.s3.e1" text="nicotine" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d122.s3.e0" e2="DDI-MedLine.d122.s3.e1" id="DDI-MedLine.d122.s3.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d122.s4" text="Moreover, the mechanisms underlying the development of dependence may be similar for alcohol and nicotine. ">
+        <entity charOffset="85-91" id="DDI-MedLine.d122.s4.e0" text="alcohol" type="drug" />
+        <entity charOffset="97-104" id="DDI-MedLine.d122.s4.e1" text="nicotine" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d122.s4.e0" e2="DDI-MedLine.d122.s4.e1" id="DDI-MedLine.d122.s4.p0" />
+    </sentence>
+    </document>

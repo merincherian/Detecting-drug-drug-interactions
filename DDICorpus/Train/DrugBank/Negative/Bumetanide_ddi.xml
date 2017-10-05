@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d331">
+    <sentence id="DDI-DrugBank.d331.s10" text="- Digoxin: Interaction studies in humans have shown no effect on digoxin blood levels.">
+        <entity charOffset="2-8" id="DDI-DrugBank.d331.s10.e0" text="Digoxin" type="drug" />
+        <entity charOffset="65-71" id="DDI-DrugBank.d331.s10.e1" text="digoxin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d331.s10.e0" e2="DDI-DrugBank.d331.s10.e1" id="DDI-DrugBank.d331.s10.p0" />
+    </sentence>
+    </document>

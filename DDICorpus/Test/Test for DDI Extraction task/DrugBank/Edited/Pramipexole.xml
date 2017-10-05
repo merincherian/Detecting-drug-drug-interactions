@@ -1,0 +1,16 @@
+<document id="DDI-DrugBank.d737">
+    <sentence id="DDI-DrugBank.d737.s7" text="CYP interactions: Inhibitors of cytochrome P450 enzymes would not be expected to affect pramipexole elimination because pramipexole is not appreciably metabolized by these enzymes in vivo or in vitro. ">
+        <entity charOffset="88-98" id="DDI-DrugBank.d737.s7.e0" text="pramipexole" type="drug" />
+        <entity charOffset="120-130" id="DDI-DrugBank.d737.s7.e1" text="pramipexole" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d737.s7.e0" e2="DDI-DrugBank.d737.s7.e1" id="DDI-DrugBank.d737.s7.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d737.s8" text="Pramipexole does not inhibit CYP enzymes CYPIA2, CYP2C9, CYP2CI9, CYP2EI, and CYP3A4. ">
+        <entity charOffset="0-10" id="DDI-DrugBank.d737.s8.e0" text="Pramipexole" type="drug" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d737.s9" text="Inhibition of CYP2D6 was observed with an apparent Ki of 30 uM, indicating that pramipexole will not inhibit CYP enzymes at plasma concentrations observed following the highest recommended clinical dose (1.5 mg tid). ">
+        <entity charOffset="80-90" id="DDI-DrugBank.d737.s9.e0" text="pramipexole" type="drug" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d737.s11" text="Drug/ Laboratory Test Interactions There are no known interactions between MIRAPEX and laboratory tests.">
+        <entity charOffset="75-81" id="DDI-DrugBank.d737.s11.e0" text="MIRAPEX" type="brand" />
+    </sentence>
+</document>

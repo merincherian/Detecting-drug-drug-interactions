@@ -1,0 +1,14 @@
+<document id="DDI-DrugBank.d659">
+    <sentence id="DDI-DrugBank.d659.s1" text="Patients on Warfarin should have more frequent monitoring of prothrombin times, while patients with other risk factors complicated by hemorrhage (e.g., recent surgery, peptic ulceration) should have periodic examinations for bleeding including hematocrit and/or hemoglobin. ">
+        <entity charOffset="12-19" id="DDI-DrugBank.d659.s1.e0" text="Warfarin" type="drug" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d659.s3" text="Such patients should be closely monitored for signs of toxicity and have their theophylline dosage adjusted as necessary. ">
+        <entity charOffset="79-90" id="DDI-DrugBank.d659.s3.e0" text="theophylline" type="drug" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d659.s5" text="Small decreases in blood pressure have been observed in some patients treated with TRENTAL; ">
+        <entity charOffset="83-89" id="DDI-DrugBank.d659.s5.e0" text="TRENTAL" type="brand" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d659.s7" text="If indicated, dosage of the antihypertensive agents should be reduced.">
+        <entity charOffset="28-50" id="DDI-DrugBank.d659.s7.e0" text="antihypertensive agents" type="group" />
+    </sentence>
+</document>

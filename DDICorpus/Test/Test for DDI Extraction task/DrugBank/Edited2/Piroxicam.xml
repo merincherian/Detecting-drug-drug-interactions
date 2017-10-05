@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d656">
+    <sentence id="DDI-DrugBank.d656.s3" text="It is recommended that plasma lithium levels be monitored when initiating, adjusting and discontinuing FELDENE.">
+        <entity charOffset="30-36" id="DDI-DrugBank.d656.s3.e0" text="lithium" type="drug" />
+        <entity charOffset="103-109" id="DDI-DrugBank.d656.s3.e1" text="FELDENE" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d656.s3.e0" e2="DDI-DrugBank.d656.s3.e1" id="DDI-DrugBank.d656.s3.p0" type="advise" />
+    </sentence>
+</document>

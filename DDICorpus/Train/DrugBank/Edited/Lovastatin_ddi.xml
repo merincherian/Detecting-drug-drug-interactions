@@ -1,0 +1,22 @@
+<document id="DDI-DrugBank.d567">
+    <sentence id="DDI-DrugBank.d567.s14" text="However, another HMG-CoA reductase inhibitor has been found to produce a less than two-second increase in prothrombin time in healthy volunteers receiving low doses of warfarin.">
+        <entity charOffset="17-43" id="DDI-DrugBank.d567.s14.e0" text="HMG-CoA reductase inhibitor" type="group" />
+        <entity charOffset="168-175" id="DDI-DrugBank.d567.s14.e1" text="warfarin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d567.s14.e0" e2="DDI-DrugBank.d567.s14.e1" id="DDI-DrugBank.d567.s14.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d567.s15" text="Also, bleeding and/or increased prothrombin time have been reported in a few patients taking coumarin anticoagulants concomitantly with lovastatin.">
+        <entity charOffset="93-114" id="DDI-DrugBank.d567.s15.e0" text="coumarin anticoagulant" type="group" />
+        <entity charOffset="136-145" id="DDI-DrugBank.d567.s15.e1" text="lovastatin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d567.s15.e0" e2="DDI-DrugBank.d567.s15.e1" id="DDI-DrugBank.d567.s15.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d567.s16" text="It is recommended that in patients taking anticoagulants, prothrombin time be determined before starting lovastatin and frequently enough during early therapy to insure that no significant alteration of prothrombin time occurs.">
+        <entity charOffset="42-55" id="DDI-DrugBank.d567.s16.e0" text="anticoagulants" type="group" />
+        <entity charOffset="105-114" id="DDI-DrugBank.d567.s16.e1" text="lovastatin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d567.s16.e0" e2="DDI-DrugBank.d567.s16.e1" id="DDI-DrugBank.d567.s16.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d567.s19" text="Lovastatin therapy has not been associated with bleeding or with changes in prothrombin time in patients not taking anticoagulants.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d567.s19.e0" text="Lovastatin" type="drug" />
+        <entity charOffset="116-129" id="DDI-DrugBank.d567.s19.e1" text="anticoagulants" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d567.s19.e0" e2="DDI-DrugBank.d567.s19.e1" id="DDI-DrugBank.d567.s19.p0" />
+    </sentence>
+    </document>

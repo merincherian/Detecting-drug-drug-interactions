@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d59">
+    <sentence id="DDI-DrugBank.d59.s1" text="The pressor effects of ERGOMAR and other vasoconstrictor drugs can combine to cause dangerous hypertension.">
+        <entity charOffset="23-29" id="DDI-DrugBank.d59.s1.e0" text="ERGOMAR" type="brand" />
+        <entity charOffset="41-61" id="DDI-DrugBank.d59.s1.e1" text="vasoconstrictor drugs" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d59.s1.e0" e2="DDI-DrugBank.d59.s1.e1" id="DDI-DrugBank.d59.s1.p0" type="effect" />
+    </sentence>
+</document>

@@ -1,0 +1,8 @@
+<document id="DDI-MedLine.d9">
+    <sentence id="DDI-MedLine.d9.s0" text="Pharmacokinetics of calcium-entry blockers.&#10;">
+        <entity charOffset="20-41" id="DDI-MedLine.d9.s0.e0" text="calcium-entry blockers" type="group" />
+    </sentence>
+    <sentence id="DDI-MedLine.d9.s7" text="Such data are discussed herein, with emphasis on those aspects that impact on the clinical use of the calcium-entry antagonists.">
+        <entity charOffset="102-126" id="DDI-MedLine.d9.s7.e0" text="calcium-entry antagonists" type="group" />
+    </sentence>
+</document>

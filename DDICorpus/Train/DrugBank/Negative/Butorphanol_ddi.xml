@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d246">
+    <sentence id="DDI-DrugBank.d246.s1" text="When used concurrently with such drugs, the dose of butorphanol should be the smallest effective dose and the frequency of dosing reduced as much as possible when administered concomitantly with drugs that potentiate the action of opioids.">
+        <entity charOffset="52-62" id="DDI-DrugBank.d246.s1.e0" text="butorphanol" type="drug" />
+        <entity charOffset="231-237" id="DDI-DrugBank.d246.s1.e1" text="opioids" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d246.s1.e0" e2="DDI-DrugBank.d246.s1.e1" id="DDI-DrugBank.d246.s1.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d246.s6" text="In neither case were the pharmacokinetics of sumatriptan affected by coadministration with STADOL NS.">
+        <entity charOffset="45-55" id="DDI-DrugBank.d246.s6.e0" text="sumatriptan" type="drug" />
+        <entity charOffset="91-99" id="DDI-DrugBank.d246.s6.e1" text="STADOL NS" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d246.s6.e0" e2="DDI-DrugBank.d246.s6.e1" id="DDI-DrugBank.d246.s6.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d246.s15" text="No information is available about the use of butorphanol concurrently with MAO inhibitors.">
+        <entity charOffset="45-55" id="DDI-DrugBank.d246.s15.e0" text="butorphanol" type="drug" />
+        <entity charOffset="75-88" id="DDI-DrugBank.d246.s15.e1" text="MAO inhibitors" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d246.s15.e0" e2="DDI-DrugBank.d246.s15.e1" id="DDI-DrugBank.d246.s15.p0" />
+    </sentence>
+</document>

@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d176">
+    <sentence id="DDI-DrugBank.d176.s1" text="The possibility of hypotensive effects can be minimized by either discontinuing the diuretic or increasing salt intake prior to initiation of treatment with fosinopril sodium.">
+        <entity charOffset="84-91" id="DDI-DrugBank.d176.s1.e0" text="diuretic" type="group" />
+        <entity charOffset="157-173" id="DDI-DrugBank.d176.s1.e1" text="fosinopril sodium" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d176.s1.e0" e2="DDI-DrugBank.d176.s1.e1" id="DDI-DrugBank.d176.s1.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d176.s14" text="In a pharmacokinetic interaction study with warfarin, bioavailability parameters, the degree of protein binding, and the anticoagulant effect (measured by prothrombin time) of warfarin were not significantly changed.">
+        <entity charOffset="44-51" id="DDI-DrugBank.d176.s14.e0" text="warfarin" type="drug" />
+        <entity charOffset="176-183" id="DDI-DrugBank.d176.s14.e1" text="warfarin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d176.s14.e0" e2="DDI-DrugBank.d176.s14.e1" id="DDI-DrugBank.d176.s14.p0" />
+    </sentence>
+    </document>

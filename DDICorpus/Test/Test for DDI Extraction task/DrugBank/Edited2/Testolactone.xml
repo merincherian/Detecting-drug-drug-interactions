@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d658">
+    <sentence id="DDI-DrugBank.d658.s0" text="When administered concurrently, testolactone may increase the effects of oral anticoagulants; ">
+        <entity charOffset="32-43" id="DDI-DrugBank.d658.s0.e0" text="testolactone" type="drug" />
+        <entity charOffset="78-91" id="DDI-DrugBank.d658.s0.e1" text="anticoagulants" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d658.s0.e0" e2="DDI-DrugBank.d658.s0.e1" id="DDI-DrugBank.d658.s0.p0" type="effect" />
+    </sentence>
+    </document>

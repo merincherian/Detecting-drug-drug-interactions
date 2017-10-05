@@ -1,0 +1,17 @@
+<document id="DDI-MedLine.d96">
+    <sentence id="DDI-MedLine.d96.s0" text="Jacalin: an IgA-binding lectin.&#10;">
+        <entity charOffset="0-6" id="DDI-MedLine.d96.s0.e0" text="Jacalin" type="drug_n" />
+    </sentence>
+    <sentence id="DDI-MedLine.d96.s1" text="We previously reported that seeds of Artocarpus integrifolia (jackfruit) contain a lectin, which we call jacalin, that is both a potent T cell mitogen and an apparently T cell-independent activator of human B cells for the secretion of immunoglobulins. ">
+        <entity charOffset="105-111" id="DDI-MedLine.d96.s1.e0" text="jacalin" type="drug_n" />
+    </sentence>
+    <sentence id="DDI-MedLine.d96.s3" text="In this paper, we show that the precipitate is formed after the interaction of jacalin and the serum protein added to the culture medium. ">
+        <entity charOffset="79-85" id="DDI-MedLine.d96.s3.e0" text="jacalin" type="drug_n" />
+    </sentence>
+    <sentence id="DDI-MedLine.d96.s5" text="In secretions such as colostrum, IgA is the only protein precipitated by jacalin. ">
+        <entity charOffset="73-79" id="DDI-MedLine.d96.s5.e0" text="jacalin" type="drug_n" />
+    </sentence>
+    <sentence id="DDI-MedLine.d96.s7" text="Jacalin is a D-Gal binding lectin and should be a useful tool for studying of serum and secretory IgA.">
+        <entity charOffset="0-6" id="DDI-MedLine.d96.s7.e0" text="Jacalin" type="drug_n" />
+    </sentence>
+</document>

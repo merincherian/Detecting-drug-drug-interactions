@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d678">
+    <sentence id="DDI-DrugBank.d678.s1" text="The metabolism of Metopirone is accelerated by phenytoin; ">
+        <entity charOffset="18-27" id="DDI-DrugBank.d678.s1.e0" text="Metopirone" type="brand" />
+        <entity charOffset="47-55" id="DDI-DrugBank.d678.s1.e1" text="phenytoin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d678.s1.e0" e2="DDI-DrugBank.d678.s1.e1" id="DDI-DrugBank.d678.s1.p0" type="mechanism" />
+    </sentence>
+    </document>

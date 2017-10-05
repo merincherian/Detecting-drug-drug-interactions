@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d456">
+    <sentence id="DDI-DrugBank.d456.s13" text="Patients taking warfarin or other coumarin-derivative anticoagulants should be monitored regularly for changes in prothrombin time or INR">
+        <entity charOffset="16-23" id="DDI-DrugBank.d456.s13.e0" text="warfarin" type="drug" />
+        <entity charOffset="34-67" id="DDI-DrugBank.d456.s13.e1" text="coumarin-derivative anticoagulants" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d456.s13.e0" e2="DDI-DrugBank.d456.s13.e1" id="DDI-DrugBank.d456.s13.p0" />
+    </sentence>
+    </document>

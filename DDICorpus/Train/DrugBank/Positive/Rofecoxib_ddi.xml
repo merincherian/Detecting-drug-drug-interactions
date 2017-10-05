@@ -1,0 +1,22 @@
+<document id="DDI-DrugBank.d210">
+    <sentence id="DDI-DrugBank.d210.s2" text="This interaction should be given consideration in patients taking VIOXX concomitantly with ACE inhibitors.">
+        <entity charOffset="66-70" id="DDI-DrugBank.d210.s2.e0" text="VIOXX" type="brand" />
+        <entity charOffset="91-104" id="DDI-DrugBank.d210.s2.e1" text="ACE inhibitors" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d210.s2.e0" e2="DDI-DrugBank.d210.s2.e1" id="DDI-DrugBank.d210.s2.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d210.s20" text="At higher than recommended doses, VIOXX 75 mg administered once daily for 10 days increased plasma concentrations by 23% as measured by AUC0-24hr in patients receiving methotrexate 7.5 to 15 mg/week for rheumatoid arthritis.">
+        <entity charOffset="34-38" id="DDI-DrugBank.d210.s20.e0" text="VIOXX" type="brand" />
+        <entity charOffset="168-179" id="DDI-DrugBank.d210.s20.e1" text="methotrexate" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d210.s20.e0" e2="DDI-DrugBank.d210.s20.e1" id="DDI-DrugBank.d210.s20.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d210.s32" text="In single and multiple dose studies in healthy subjects receiving both warfarin and rofecoxib, prothrombin time (measured as INR) was increased by approximately 8% to 11%.">
+        <entity charOffset="71-78" id="DDI-DrugBank.d210.s32.e0" text="warfarin" type="drug" />
+        <entity charOffset="84-92" id="DDI-DrugBank.d210.s32.e1" text="rofecoxib" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d210.s32.e0" e2="DDI-DrugBank.d210.s32.e1" id="DDI-DrugBank.d210.s32.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d210.s33" text="In post-marketing experience, bleeding events have been reported, predominantly in the elderly, in association with increases in prothrombin time in patients receiving VIOXX concurrently with warfarin.">
+        <entity charOffset="168-172" id="DDI-DrugBank.d210.s33.e0" text="VIOXX" type="brand" />
+        <entity charOffset="192-199" id="DDI-DrugBank.d210.s33.e1" text="warfarin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d210.s33.e0" e2="DDI-DrugBank.d210.s33.e1" id="DDI-DrugBank.d210.s33.p0" type="effect" />
+    </sentence>
+</document>

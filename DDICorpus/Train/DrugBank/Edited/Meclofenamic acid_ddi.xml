@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d113">
+    <sentence id="DDI-DrugBank.d113.s4" text="Meclofenamate sodium does not affect serum salicylate levels.">
+        <entity charOffset="0-19" id="DDI-DrugBank.d113.s4.e0" text="Meclofenamate sodium" type="drug" />
+        <entity charOffset="43-52" id="DDI-DrugBank.d113.s4.e1" text="salicylate" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d113.s4.e0" e2="DDI-DrugBank.d113.s4.e1" id="DDI-DrugBank.d113.s4.p0" />
+    </sentence>
+    </document>

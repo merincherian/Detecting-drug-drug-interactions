@@ -1,0 +1,27 @@
+<document id="DDI-DrugBank.d437">
+    <sentence id="DDI-DrugBank.d437.s5" text="Indinavir steady-state Cmax, A.C. and Cmin were decreased by 22%, 38%, and 27%, respectively, by concomitant amprenavir.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d437.s5.e0" text="Indinavir" type="drug" />
+        <entity charOffset="109-118" id="DDI-DrugBank.d437.s5.e1" text="amprenavir" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d437.s5.e0" e2="DDI-DrugBank.d437.s5.e1" id="DDI-DrugBank.d437.s5.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d437.s7" text="Saquinavir steady-state Cmax, A.C. and Cmin were increased 21%, decreased 19%, and decreased 48%, respectively, by concomitant amprenavir.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d437.s7.e0" text="Saquinavir" type="drug" />
+        <entity charOffset="127-136" id="DDI-DrugBank.d437.s7.e1" text="amprenavir" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d437.s7.e0" e2="DDI-DrugBank.d437.s7.e1" id="DDI-DrugBank.d437.s7.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d437.s8" text="Nelfinavir steady-state Cmax, A.C. and Cmin were increased by 12%, 15%, and 14%, respectively, by concomitant amprenavir.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d437.s8.e0" text="Nelfinavir" type="drug" />
+        <entity charOffset="110-119" id="DDI-DrugBank.d437.s8.e1" text="amprenavir" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d437.s8.e0" e2="DDI-DrugBank.d437.s8.e1" id="DDI-DrugBank.d437.s8.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d437.s13" text="Laboratory Tests: The combination of Amprenavir and low-dose ritonavir has been associated with elevations of cholesterol and triglycerides, SGOT (AST), and SGPT (ALT) in some patients.">
+        <entity charOffset="37-46" id="DDI-DrugBank.d437.s13.e0" text="Amprenavir" type="drug" />
+        <entity charOffset="61-69" id="DDI-DrugBank.d437.s13.e1" text="ritonavir" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d437.s13.e0" e2="DDI-DrugBank.d437.s13.e1" id="DDI-DrugBank.d437.s13.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d437.s14" text="Appropriate laboratory testing should be considered prior to initiating combination therapy with Amprenavir and ritonavir and at periodic intervals or if any clinical signs or symptoms of hyperlipidemia or elevated liver function tests occur during therapy.">
+        <entity charOffset="97-106" id="DDI-DrugBank.d437.s14.e0" text="Amprenavir" type="drug" />
+        <entity charOffset="112-120" id="DDI-DrugBank.d437.s14.e1" text="ritonavir" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d437.s14.e0" e2="DDI-DrugBank.d437.s14.e1" id="DDI-DrugBank.d437.s14.p0" type="advise" />
+    </sentence>
+    </document>

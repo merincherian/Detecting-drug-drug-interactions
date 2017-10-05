@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d603">
+    <sentence id="DDI-DrugBank.d603.s0" text="When administered concomitantly with ProAmatine   , cardiac glycosides may enhance or precipitate bradycardia, A.V. ">
+        <entity charOffset="37-46" id="DDI-DrugBank.d603.s0.e0" text="ProAmatine" type="brand" />
+        <entity charOffset="52-69" id="DDI-DrugBank.d603.s0.e1" text="cardiac glycosides" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d603.s0.e0" e2="DDI-DrugBank.d603.s0.e1" id="DDI-DrugBank.d603.s0.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d603.s3" text="ProAmatine    has been used in patients concomitantly treated with salt-retaining steroid therapy (i.e., fludrocortisone acetate), with or without salt supplementation. ">
+        <entity charOffset="0-9" id="DDI-DrugBank.d603.s3.e0" text="ProAmatine" type="brand" />
+        <entity charOffset="105-127" id="DDI-DrugBank.d603.s3.e1" text="fludrocortisone acetate" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d603.s3.e0" e2="DDI-DrugBank.d603.s3.e1" id="DDI-DrugBank.d603.s3.p0" />
+    </sentence>
+    </document>

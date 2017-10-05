@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d498">
+    <sentence id="DDI-DrugBank.d498.s2" text="Local and some general anesthetics, antiarrhythmic agents and other drugs that interfere with neuromuscular transmission should be used cautiously, if at all, in patients with myasthenia gravis;">
+        <entity charOffset="23-33" id="DDI-DrugBank.d498.s2.e0" text="anesthetics" type="group" />
+        <entity charOffset="36-56" id="DDI-DrugBank.d498.s2.e1" text="antiarrhythmic agents" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d498.s2.e0" e2="DDI-DrugBank.d498.s2.e1" id="DDI-DrugBank.d498.s2.p0" />
+    </sentence>
+    </document>

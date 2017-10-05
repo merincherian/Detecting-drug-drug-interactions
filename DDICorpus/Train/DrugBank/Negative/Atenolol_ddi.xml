@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d73">
+    <sentence id="DDI-DrugBank.d73.s7" text="Information on concurrent usage of atenolol and aspirin is limited.">
+        <entity charOffset="35-42" id="DDI-DrugBank.d73.s7.e0" text="atenolol" type="drug" />
+        <entity charOffset="48-54" id="DDI-DrugBank.d73.s7.e1" text="aspirin" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d73.s7.e0" e2="DDI-DrugBank.d73.s7.e1" id="DDI-DrugBank.d73.s7.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d73.s8" text="Data from several studies, ie, TIMI-II, ISIS-2, currently do not suggest any clinical interaction between aspirin and beta blockers in the acute myocardial infarction setting.">
+        <entity charOffset="106-112" id="DDI-DrugBank.d73.s8.e0" text="aspirin" type="brand" />
+        <entity charOffset="118-130" id="DDI-DrugBank.d73.s8.e1" text="beta blockers" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d73.s8.e0" e2="DDI-DrugBank.d73.s8.e1" id="DDI-DrugBank.d73.s8.p0" />
+    </sentence>
+    </document>

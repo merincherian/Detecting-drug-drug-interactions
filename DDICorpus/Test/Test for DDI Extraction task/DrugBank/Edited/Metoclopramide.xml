@@ -1,0 +1,15 @@
+<document id="DDI-DrugBank.d652">
+    <sentence id="DDI-DrugBank.d652.s2" text="The finding that metoclopramide releases catecholamines in patients with essential hypertension suggests that it should be used cautiously, if at all, in patients receiving monoamine oxi-dase inhibitors. ">
+        <entity charOffset="17-30" id="DDI-DrugBank.d652.s2.e0" text="metoclopramide" type="drug" />
+        <entity charOffset="173-201" id="DDI-DrugBank.d652.s2.e1" text="monoamine oxi-dase inhibitors" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d652.s2.e0" e2="DDI-DrugBank.d652.s2.e1" id="DDI-DrugBank.d652.s2.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d652.s5" text="Exogenously administered insulin may begin to act before food has left the stomach and lead to hypoglycemia. ">
+        <entity charOffset="25-31" id="DDI-DrugBank.d652.s5.e0" text="insulin" type="drug" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d652.s6" text="Because the action of metoclopramide will influence the delivery of food to the intestines and thus the rate of absorption, insulin dosage or timing of dosage may require adjustment.">
+        <entity charOffset="22-35" id="DDI-DrugBank.d652.s6.e0" text="metoclopramide" type="drug" />
+        <entity charOffset="124-130" id="DDI-DrugBank.d652.s6.e1" text="insulin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d652.s6.e0" e2="DDI-DrugBank.d652.s6.e1" id="DDI-DrugBank.d652.s6.p0" type="advise" />
+    </sentence>
+</document>

@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d275">
+    <sentence id="DDI-DrugBank.d275.s3" text="Two percent of patients treated concurrently with Kineret and etanercept developed neutropenia (ANC  1 x 109/L).">
+        <entity charOffset="50-56" id="DDI-DrugBank.d275.s3.e0" text="Kineret" type="brand" />
+        <entity charOffset="62-71" id="DDI-DrugBank.d275.s3.e1" text="etanercept" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d275.s3.e0" e2="DDI-DrugBank.d275.s3.e1" id="DDI-DrugBank.d275.s3.p0" type="effect" />
+    </sentence>
+</document>

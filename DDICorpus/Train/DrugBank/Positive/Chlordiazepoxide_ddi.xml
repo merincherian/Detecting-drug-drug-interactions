@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d336">
+    <sentence id="DDI-DrugBank.d336.s0" text="Although clinical studies have not established a cause and effect relationship, physicians should be aware that variable effects an blood coagulation have been reported very rarely in patients receiving oral anticoagulants and chlordiazepoxide.">
+        <entity charOffset="208-221" id="DDI-DrugBank.d336.s0.e0" text="anticoagulants" type="group" />
+        <entity charOffset="227-242" id="DDI-DrugBank.d336.s0.e1" text="chlordiazepoxide" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d336.s0.e0" e2="DDI-DrugBank.d336.s0.e1" id="DDI-DrugBank.d336.s0.p0" type="effect" />
+    </sentence>
+    </document>

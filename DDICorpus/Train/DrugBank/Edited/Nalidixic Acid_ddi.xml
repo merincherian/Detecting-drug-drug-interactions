@@ -1,0 +1,37 @@
+<document id="DDI-DrugBank.d427">
+    <sentence id="DDI-DrugBank.d427.s0" text="Elevated plasma levels of theophylline have been reported with concomitant quinolone use.">
+        <entity charOffset="26-37" id="DDI-DrugBank.d427.s0.e0" text="theophylline" type="drug" />
+        <entity charOffset="75-83" id="DDI-DrugBank.d427.s0.e1" text="quinolone" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d427.s0.e0" e2="DDI-DrugBank.d427.s0.e1" id="DDI-DrugBank.d427.s0.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d427.s2" text="Therefore, monitoring of theophylline plasma levels should be considered and dosage of theophylline adjusted, as required.">
+        <entity charOffset="25-36" id="DDI-DrugBank.d427.s2.e0" text="theophylline" type="drug" />
+        <entity charOffset="87-98" id="DDI-DrugBank.d427.s2.e1" text="theophylline" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d427.s2.e0" e2="DDI-DrugBank.d427.s2.e1" id="DDI-DrugBank.d427.s2.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d427.s3" text="Quinolones have been shown to interfere with the metabolism of caffeine.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d427.s3.e0" text="Quinolones" type="group" />
+        <entity charOffset="63-70" id="DDI-DrugBank.d427.s3.e1" text="caffeine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d427.s3.e0" e2="DDI-DrugBank.d427.s3.e1" id="DDI-DrugBank.d427.s3.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d427.s7" text="Nitrofurantoin interferes with the therapeutic action of nalidixic acid.">
+        <entity charOffset="0-13" id="DDI-DrugBank.d427.s7.e0" text="Nitrofurantoin" type="drug" />
+        <entity charOffset="57-70" id="DDI-DrugBank.d427.s7.e1" text="nalidixic acid" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d427.s7.e0" e2="DDI-DrugBank.d427.s7.e1" id="DDI-DrugBank.d427.s7.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d427.s9" text="sucralfate or divalent or trivalent cations such as iron;">
+        <entity charOffset="0-9" id="DDI-DrugBank.d427.s9.e0" text="sucralfate" type="drug" />
+        <entity charOffset="52-55" id="DDI-DrugBank.d427.s9.e1" text="iron" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d427.s9.e0" e2="DDI-DrugBank.d427.s9.e1" id="DDI-DrugBank.d427.s9.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d427.s10" text="multivitamins containing zinc;">
+        <entity charOffset="0-12" id="DDI-DrugBank.d427.s10.e0" text="multivitamins" type="group" />
+        <entity charOffset="25-28" id="DDI-DrugBank.d427.s10.e1" text="zinc" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d427.s10.e0" e2="DDI-DrugBank.d427.s10.e1" id="DDI-DrugBank.d427.s10.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d427.s14" text="Therefore, cyclosporine serum levels should be monitored and appropriate cyclosporine dosage adjustments made when these drugs are used concomitantly.">
+        <entity charOffset="11-22" id="DDI-DrugBank.d427.s14.e0" text="cyclosporine" type="drug" />
+        <entity charOffset="73-84" id="DDI-DrugBank.d427.s14.e1" text="cyclosporine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d427.s14.e0" e2="DDI-DrugBank.d427.s14.e1" id="DDI-DrugBank.d427.s14.p0" />
+    </sentence>
+</document>

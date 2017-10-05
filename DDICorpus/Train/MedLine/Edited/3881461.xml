@@ -1,0 +1,12 @@
+<document id="DDI-MedLine.d12">
+    <sentence id="DDI-MedLine.d12.s5" text="Dexamethasone had a similar effect in the presence of insulin. ">
+        <entity charOffset="0-12" id="DDI-MedLine.d12.s5.e0" text="Dexamethasone" type="drug" />
+        <entity charOffset="54-60" id="DDI-MedLine.d12.s5.e1" text="insulin" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d12.s5.e0" e2="DDI-MedLine.d12.s5.e1" id="DDI-MedLine.d12.s5.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d12.s6" text="However, retinyl acetate stimulated, but did not significantly inhibit, proliferation in the presence of insulin. ">
+        <entity charOffset="9-23" id="DDI-MedLine.d12.s6.e0" text="retinyl acetate" type="drug" />
+        <entity charOffset="105-111" id="DDI-MedLine.d12.s6.e1" text="insulin" type="drug" />
+        <pair ddi="true" e1="DDI-MedLine.d12.s6.e0" e2="DDI-MedLine.d12.s6.e1" id="DDI-MedLine.d12.s6.p0" type="effect" />
+    </sentence>
+    </document>

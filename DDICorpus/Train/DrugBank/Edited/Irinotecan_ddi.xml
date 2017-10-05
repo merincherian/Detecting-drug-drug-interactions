@@ -1,0 +1,22 @@
+<document id="DDI-DrugBank.d279">
+    <sentence id="DDI-DrugBank.d279.s0" text="The adverse effects of CAMPTOSAR, such as myelosuppression and diarrhea, would be expected to be exacerbated by other antineoplastic agents having similar adverse effects.">
+        <entity charOffset="23-31" id="DDI-DrugBank.d279.s0.e0" text="CAMPTOSAR" type="brand" />
+        <entity charOffset="118-138" id="DDI-DrugBank.d279.s0.e1" text="antineoplastic agents" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d279.s0.e0" e2="DDI-DrugBank.d279.s0.e1" id="DDI-DrugBank.d279.s0.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d279.s3" text="Lymphocytopenia has been reported in patients receiving CAMPTOSAR, and it is possible that the administration of dexamethasone as antiemetic prophylaxis may have enhanced the likelihood of this effect.">
+        <entity charOffset="56-64" id="DDI-DrugBank.d279.s3.e0" text="CAMPTOSAR" type="brand" />
+        <entity charOffset="113-125" id="DDI-DrugBank.d279.s3.e1" text="dexamethasone" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d279.s3.e0" e2="DDI-DrugBank.d279.s3.e1" id="DDI-DrugBank.d279.s3.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d279.s8" text="The incidence of akathisia in clinical trials of the weekly dosage schedule was greater (8.5%, 4/47 patients) when prochlorperazine was administered on the same day as CAMPTOSAR than when these drugs were given on separate days (1.3%, 1/80 patients).">
+        <entity charOffset="115-130" id="DDI-DrugBank.d279.s8.e0" text="prochlorperazine" type="drug" />
+        <entity charOffset="168-176" id="DDI-DrugBank.d279.s8.e1" text="CAMPTOSAR" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d279.s8.e0" e2="DDI-DrugBank.d279.s8.e1" id="DDI-DrugBank.d279.s8.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d279.s10" text="It would be expected that laxative use during therapy with CAMPTOSAR would worsen the incidence or severity of diarrhea, but this has not been studied.">
+        <entity charOffset="26-33" id="DDI-DrugBank.d279.s10.e0" text="laxative" type="group" />
+        <entity charOffset="59-67" id="DDI-DrugBank.d279.s10.e1" text="CAMPTOSAR" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d279.s10.e0" e2="DDI-DrugBank.d279.s10.e1" id="DDI-DrugBank.d279.s10.p0" type="effect" />
+    </sentence>
+    </document>

@@ -1,0 +1,8 @@
+<document id="DDI-MedLine.d28">
+    <sentence id="DDI-MedLine.d28.s0" text="New oral therapies for type 2 diabetes mellitus: The glitazones or insulin sensitizers.&#10;">
+        <entity charOffset="53-62" id="DDI-MedLine.d28.s0.e0" text="glitazones" type="group" />
+    </sentence>
+    <sentence id="DDI-MedLine.d28.s10" text="Long-term studies are needed to determine whether the insulin-sensitizing effects of the glitazones can prevent or delay premature atherosclerotic cardiovascular disease, morbidity, and death.">
+        <entity charOffset="89-98" id="DDI-MedLine.d28.s10.e0" text="glitazones" type="group" />
+    </sentence>
+</document>

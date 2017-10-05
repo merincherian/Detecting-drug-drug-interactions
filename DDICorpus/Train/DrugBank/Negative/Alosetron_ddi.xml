@@ -1,0 +1,22 @@
+<document id="DDI-DrugBank.d364">
+    <sentence id="DDI-DrugBank.d364.s0" text="Because alosetron is metabolized by a variety of hepatic CYP drug-metabolizing enzymes, inducers or inhibitors of these enzymes may change the clearance of alosetron.">
+        <entity charOffset="8-16" id="DDI-DrugBank.d364.s0.e0" text="alosetron" type="drug" />
+        <entity charOffset="156-164" id="DDI-DrugBank.d364.s0.e1" text="alosetron" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d364.s0.e0" e2="DDI-DrugBank.d364.s0.e1" id="DDI-DrugBank.d364.s0.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d364.s2" text="In a pharmacokinetic study, 40 healthy female subjects received fluvoxamine in escalating doses from 50 to 200 mg per day for 16 days, with coadministration of alosetron 1 mg on the last day.">
+        <entity charOffset="64-74" id="DDI-DrugBank.d364.s2.e0" text="fluvoxamine" type="drug" />
+        <entity charOffset="160-168" id="DDI-DrugBank.d364.s2.e1" text="alosetron" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d364.s2.e0" e2="DDI-DrugBank.d364.s2.e1" id="DDI-DrugBank.d364.s2.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d364.s7" text="In a pharmacokinetic study, 38 healthy female subjects received ketoconazole 200 mg twice daily for 7 days, with coadministration of alosetron 1 mg on the last day.">
+        <entity charOffset="64-75" id="DDI-DrugBank.d364.s7.e0" text="ketoconazole" type="drug" />
+        <entity charOffset="133-141" id="DDI-DrugBank.d364.s7.e1" text="alosetron" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d364.s7.e0" e2="DDI-DrugBank.d364.s7.e1" id="DDI-DrugBank.d364.s7.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d364.s18" text="A clinical interaction study was also conducted with alosetron and the CYP3A4 substrate cisapride.">
+        <entity charOffset="53-61" id="DDI-DrugBank.d364.s18.e0" text="alosetron" type="drug" />
+        <entity charOffset="88-96" id="DDI-DrugBank.d364.s18.e1" text="cisapride" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d364.s18.e0" e2="DDI-DrugBank.d364.s18.e1" id="DDI-DrugBank.d364.s18.p0" />
+    </sentence>
+    </document>

@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d221">
+    <sentence id="DDI-DrugBank.d221.s0" text="The risk of a potential interaction between NovoSeven and coagulation factor concentrates has not been adequately evaluated in preclinical or clinical studies.">
+        <entity charOffset="44-52" id="DDI-DrugBank.d221.s0.e0" text="NovoSeven" type="brand" />
+        <entity charOffset="58-75" id="DDI-DrugBank.d221.s0.e1" text="coagulation factor" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d221.s0.e0" e2="DDI-DrugBank.d221.s0.e1" id="DDI-DrugBank.d221.s0.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d221.s1" text="Simultaneous use of activated prothrombin complex concentrates or prothrombin complex concentrates should be avoided.">
+        <entity charOffset="20-61" id="DDI-DrugBank.d221.s1.e0" text="activated prothrombin complex concentrates" type="group" />
+        <entity charOffset="66-97" id="DDI-DrugBank.d221.s1.e1" text="prothrombin complex concentrates" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d221.s1.e0" e2="DDI-DrugBank.d221.s1.e1" id="DDI-DrugBank.d221.s1.p0" />
+    </sentence>
+    </document>

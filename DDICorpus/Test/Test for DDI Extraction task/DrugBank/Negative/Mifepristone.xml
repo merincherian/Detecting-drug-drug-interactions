@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d668">
+    <sentence id="DDI-DrugBank.d668.s1" text="Furthermore, rifampin, dexamethasone, St. ">
+        <entity charOffset="13-20" id="DDI-DrugBank.d668.s1.e0" text="rifampin" type="drug" />
+        <entity charOffset="23-35" id="DDI-DrugBank.d668.s1.e1" text="dexamethasone" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d668.s1.e0" e2="DDI-DrugBank.d668.s1.e1" id="DDI-DrugBank.d668.s1.p0" />
+    </sentence>
+    </document>

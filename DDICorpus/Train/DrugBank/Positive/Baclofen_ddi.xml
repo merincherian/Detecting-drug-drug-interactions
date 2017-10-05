@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d523">
+    <sentence id="DDI-DrugBank.d523.s1" text="Interactions attributed to the combined use of baclofen injection and epidural morphine include hypotension and dyspnea.">
+        <entity charOffset="47-54" id="DDI-DrugBank.d523.s1.e0" text="baclofen" type="drug" />
+        <entity charOffset="79-86" id="DDI-DrugBank.d523.s1.e1" text="morphine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d523.s1.e0" e2="DDI-DrugBank.d523.s1.e1" id="DDI-DrugBank.d523.s1.p0" type="effect" />
+    </sentence>
+    </document>

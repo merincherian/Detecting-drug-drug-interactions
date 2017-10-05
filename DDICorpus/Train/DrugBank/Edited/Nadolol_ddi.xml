@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d204">
+    <sentence id="DDI-DrugBank.d204.s1" text="Antidiabetic drugs (oral agents and insulin): hypoglycemia or hyperglycemia;">
+        <entity charOffset="0-17" id="DDI-DrugBank.d204.s1.e0" text="Antidiabetic drugs" type="group" />
+        <entity charOffset="36-42" id="DDI-DrugBank.d204.s1.e1" text="insulin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d204.s1.e0" e2="DDI-DrugBank.d204.s1.e1" id="DDI-DrugBank.d204.s1.p0" />
+    </sentence>
+    </document>

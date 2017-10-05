@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d669">
+    <sentence id="DDI-DrugBank.d669.s0" text="Concomitant administration of vancomycin and anesthetic agents has been associated with erythema and histamine-like flushing and anaphylactoid reactions. ">
+        <entity charOffset="30-39" id="DDI-DrugBank.d669.s0.e0" text="vancomycin" type="drug" />
+        <entity charOffset="45-61" id="DDI-DrugBank.d669.s0.e1" text="anesthetic agents" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d669.s0.e0" e2="DDI-DrugBank.d669.s0.e1" id="DDI-DrugBank.d669.s0.p0" type="effect" />
+    </sentence>
+    </document>

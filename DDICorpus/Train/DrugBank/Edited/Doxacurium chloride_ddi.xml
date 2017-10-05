@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d267">
+    <sentence id="DDI-DrugBank.d267.s0" text="Prior administration of succinylcholine has no clinically important effect on the neuromuscular blocking action of NUROMAX.">
+        <entity charOffset="24-38" id="DDI-DrugBank.d267.s0.e0" text="succinylcholine" type="drug" />
+        <entity charOffset="115-121" id="DDI-DrugBank.d267.s0.e1" text="NUROMAX" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d267.s0.e0" e2="DDI-DrugBank.d267.s0.e1" id="DDI-DrugBank.d267.s0.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d267.s2" text="There are no clinical data on concomitant use of NUROMAX and other nondepolarizing neuromuscular blocking agents.">
+        <entity charOffset="49-55" id="DDI-DrugBank.d267.s2.e0" text="NUROMAX" type="brand" />
+        <entity charOffset="83-111" id="DDI-DrugBank.d267.s2.e1" text="neuromuscular blocking agents" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d267.s2.e0" e2="DDI-DrugBank.d267.s2.e1" id="DDI-DrugBank.d267.s2.p0" />
+    </sentence>
+    </document>

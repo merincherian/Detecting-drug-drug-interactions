@@ -1,0 +1,22 @@
+<document id="DDI-DrugBank.d77">
+    <sentence id="DDI-DrugBank.d77.s4" text="Imipramine hydrochloride may potentiate the effects of CNS depressant drugs.">
+        <entity charOffset="0-23" id="DDI-DrugBank.d77.s4.e0" text="Imipramine hydrochloride" type="drug" />
+        <entity charOffset="55-74" id="DDI-DrugBank.d77.s4.e1" text="CNS depressant drugs" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d77.s4.e0" e2="DDI-DrugBank.d77.s4.e1" id="DDI-DrugBank.d77.s4.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d77.s8" text="Poor metabolizers have higher than expected plasma concentrations of tricyclic antidepressants (TCAs) when given usual doses.">
+        <entity charOffset="69-93" id="DDI-DrugBank.d77.s8.e0" text="tricyclic antidepressants" type="group" />
+        <entity charOffset="96-99" id="DDI-DrugBank.d77.s8.e1" text="TCAs" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d77.s8.e0" e2="DDI-DrugBank.d77.s8.e1" id="DDI-DrugBank.d77.s8.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d77.s19" text="Concomitant use of tricyclic antidepressants with drugs that can inhibit cytochrome P450 2D6 may require lower doses than usually prescribed for either the tricyclic antidepressant or the other drug.">
+        <entity charOffset="19-43" id="DDI-DrugBank.d77.s19.e0" text="tricyclic antidepressants" type="group" />
+        <entity charOffset="156-179" id="DDI-DrugBank.d77.s19.e1" text="tricyclic antidepressant" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d77.s19.e0" e2="DDI-DrugBank.d77.s19.e1" id="DDI-DrugBank.d77.s19.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d77.s21" text="It is desirable to monitor TCA plasma levels whenever a TCA is going to be co-administered with another drug known to be an inhibitor of P450 2D6.">
+        <entity charOffset="27-29" id="DDI-DrugBank.d77.s21.e0" text="TCA" type="group" />
+        <entity charOffset="56-58" id="DDI-DrugBank.d77.s21.e1" text="TCA" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d77.s21.e0" e2="DDI-DrugBank.d77.s21.e1" id="DDI-DrugBank.d77.s21.p0" />
+    </sentence>
+</document>

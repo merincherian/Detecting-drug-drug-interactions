@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d743">
+    <sentence id="DDI-DrugBank.d743.s11" text="A few spontaneous accounts of QT interval prolongation with ventricular arrhythmia including torsades de pointes, have been reported in patients receiving erythromycin or troleandomycin. ">
+        <entity charOffset="155-166" id="DDI-DrugBank.d743.s11.e0" text="erythromycin" type="drug" />
+        <entity charOffset="171-184" id="DDI-DrugBank.d743.s11.e1" text="troleandomycin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d743.s11.e0" e2="DDI-DrugBank.d743.s11.e1" id="DDI-DrugBank.d743.s11.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d743.s13" text="Studies to evaluate potential interactions of terfenadine with azithromycin are in progress.">
+        <entity charOffset="46-56" id="DDI-DrugBank.d743.s13.e0" text="terfenadine" type="drug" />
+        <entity charOffset="63-74" id="DDI-DrugBank.d743.s13.e1" text="azithromycin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d743.s13.e0" e2="DDI-DrugBank.d743.s13.e1" id="DDI-DrugBank.d743.s13.p0" />
+    </sentence>
+</document>

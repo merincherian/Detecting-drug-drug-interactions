@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d441">
+    <sentence id="DDI-DrugBank.d441.s7" text="Patients who are treated with ZYVOX and concomitant serotonergic agents should be closely observed for signs and symptoms of serotonin syndrome (e.g., cognitive dysfunction, hyperpyrexia, hyperreflexia, incoordination).">
+        <entity charOffset="30-34" id="DDI-DrugBank.d441.s7.e0" text="ZYVOX" type="brand" />
+        <entity charOffset="52-70" id="DDI-DrugBank.d441.s7.e1" text="serotonergic agents" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d441.s7.e0" e2="DDI-DrugBank.d441.s7.e1" id="DDI-DrugBank.d441.s7.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d441.s8" text="If any signs or symptoms occur physicians should consider discontinuation of either one or both agents (ZYVOX or concomitant serotonergic agents).">
+        <entity charOffset="104-108" id="DDI-DrugBank.d441.s8.e0" text="ZYVOX" type="brand" />
+        <entity charOffset="125-143" id="DDI-DrugBank.d441.s8.e1" text="serotonergic agents" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d441.s8.e0" e2="DDI-DrugBank.d441.s8.e1" id="DDI-DrugBank.d441.s8.p0" type="advise" />
+    </sentence>
+    </document>

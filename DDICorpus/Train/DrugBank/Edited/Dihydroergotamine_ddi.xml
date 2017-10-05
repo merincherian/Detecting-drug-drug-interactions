@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d410">
+    <sentence id="DDI-DrugBank.d410.s6" text="Vasospastic reactions have been reported with therapeutic doses of ergotamine-containing drugs when co-administered with these antibiotics.">
+        <entity charOffset="67-76" id="DDI-DrugBank.d410.s6.e0" text="ergotamine" type="drug" />
+        <entity charOffset="127-137" id="DDI-DrugBank.d410.s6.e1" text="antibiotics" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d410.s6.e0" e2="DDI-DrugBank.d410.s6.e1" id="DDI-DrugBank.d410.s6.p0" type="effect" />
+    </sentence>
+    </document>

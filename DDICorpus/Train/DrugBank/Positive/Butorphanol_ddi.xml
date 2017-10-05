@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d246">
+    <sentence id="DDI-DrugBank.d246.s7" text="These results suggest that the analgesic effect of STADOL NS may be diminished when it is administered shortly after sumatriptan nasal spray, but by 30 minutes any such reduction in effect should be minimal.">
+        <entity charOffset="51-59" id="DDI-DrugBank.d246.s7.e0" text="STADOL NS" type="brand" />
+        <entity charOffset="117-127" id="DDI-DrugBank.d246.s7.e1" text="sumatriptan" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d246.s7.e0" e2="DDI-DrugBank.d246.s7.e1" id="DDI-DrugBank.d246.s7.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d246.s12" text="It is not known if the effects of butorphanol are altered by concomitant medications that affect hepatic metabolism of drugs (erythromycin, etc.), but physicians should be alert to the possibility that a smaller initial dose and longer intervals between doses may be needed.">
+        <entity charOffset="34-44" id="DDI-DrugBank.d246.s12.e0" text="butorphanol" type="drug" />
+        <entity charOffset="126-137" id="DDI-DrugBank.d246.s12.e1" text="erythromycin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d246.s12.e0" e2="DDI-DrugBank.d246.s12.e1" id="DDI-DrugBank.d246.s12.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d246.s14" text="Therefore, a slower onset can be anticipated if STADOL NS is administered concomitantly with, or immediately following, a nasal vasoconstrictor.">
+        <entity charOffset="48-56" id="DDI-DrugBank.d246.s14.e0" text="STADOL NS" type="brand" />
+        <entity charOffset="122-142" id="DDI-DrugBank.d246.s14.e1" text="nasal vasoconstrictor" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d246.s14.e0" e2="DDI-DrugBank.d246.s14.e1" id="DDI-DrugBank.d246.s14.p0" type="effect" />
+    </sentence>
+    </document>

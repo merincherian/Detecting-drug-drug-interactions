@@ -1,0 +1,32 @@
+<document id="DDI-DrugBank.d350">
+    <sentence id="DDI-DrugBank.d350.s6" text="For patients receiving both therapies, standard monitoring of tacrolimus blood concentrations and appropriate tacrolimus dosage adjustments are recommended.">
+        <entity charOffset="62-71" id="DDI-DrugBank.d350.s6.e0" text="tacrolimus" type="drug" />
+        <entity charOffset="110-119" id="DDI-DrugBank.d350.s6.e1" text="tacrolimus" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d350.s6.e0" e2="DDI-DrugBank.d350.s6.e1" id="DDI-DrugBank.d350.s6.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d350.s7" text="In two clinical studies, cyclosporine (one 4 mg/kg dose or two 3 mg/kg doses) increased the AUC of caspofungin by approximately 35%.">
+        <entity charOffset="25-36" id="DDI-DrugBank.d350.s7.e0" text="cyclosporine" type="drug" />
+        <entity charOffset="99-109" id="DDI-DrugBank.d350.s7.e1" text="caspofungin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d350.s7.e0" e2="DDI-DrugBank.d350.s7.e1" id="DDI-DrugBank.d350.s7.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d350.s8" text="CANCIDAS did not increase the plasma levels of cyclosporine.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d350.s8.e0" text="CANCIDAS" type="brand" />
+        <entity charOffset="47-58" id="DDI-DrugBank.d350.s8.e1" text="cyclosporine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d350.s8.e0" e2="DDI-DrugBank.d350.s8.e1" id="DDI-DrugBank.d350.s8.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d350.s9" text="There were transient increases in liver ALT and AST when CANCIDAS and cyclosporine were co-administered.">
+        <entity charOffset="57-64" id="DDI-DrugBank.d350.s9.e0" text="CANCIDAS" type="brand" />
+        <entity charOffset="70-81" id="DDI-DrugBank.d350.s9.e1" text="cyclosporine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d350.s9.e0" e2="DDI-DrugBank.d350.s9.e1" id="DDI-DrugBank.d350.s9.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d350.s10" text="A drug-drug interaction study with rifampin in healthy volunteers has shown a 30% decrease in caspofungin trough concentrations.">
+        <entity charOffset="35-42" id="DDI-DrugBank.d350.s10.e0" text="rifampin" type="drug" />
+        <entity charOffset="94-104" id="DDI-DrugBank.d350.s10.e1" text="caspofungin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d350.s10.e0" e2="DDI-DrugBank.d350.s10.e1" id="DDI-DrugBank.d350.s10.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d350.s11" text="Patients on rifampin should receive 70 mg of CANCIDAS daily.">
+        <entity charOffset="12-19" id="DDI-DrugBank.d350.s11.e0" text="rifampin" type="drug" />
+        <entity charOffset="45-52" id="DDI-DrugBank.d350.s11.e1" text="CANCIDAS" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d350.s11.e0" e2="DDI-DrugBank.d350.s11.e1" id="DDI-DrugBank.d350.s11.p0" type="advise" />
+    </sentence>
+    </document>

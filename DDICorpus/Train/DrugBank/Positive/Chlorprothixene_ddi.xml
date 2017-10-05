@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d503">
+    <sentence id="DDI-DrugBank.d503.s0" text="Chlorprothixene may increase the plasma-level of concomitantly given lithium.">
+        <entity charOffset="0-14" id="DDI-DrugBank.d503.s0.e0" text="Chlorprothixene" type="drug" />
+        <entity charOffset="69-75" id="DDI-DrugBank.d503.s0.e1" text="lithium" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d503.s0.e0" e2="DDI-DrugBank.d503.s0.e1" id="DDI-DrugBank.d503.s0.p0" type="mechanism" />
+    </sentence>
+    </document>

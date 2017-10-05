@@ -1,0 +1,22 @@
+<document id="DDI-DrugBank.d565">
+    <sentence id="DDI-DrugBank.d565.s7" text="Controlled and uncontrolled domestic studies suggest that concomitant use of diltiazem hydrochloride and beta-blockers is usually well tolerated, but available data are not sufficient to predict the effects of concomitant treatment in patients with left ventricular dysfunction or cardiac conduction abnormalities.">
+        <entity charOffset="77-99" id="DDI-DrugBank.d565.s7.e0" text="diltiazem hydrochloride" type="drug" />
+        <entity charOffset="105-117" id="DDI-DrugBank.d565.s7.e1" text="beta-blockers" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d565.s7.e0" e2="DDI-DrugBank.d565.s7.e1" id="DDI-DrugBank.d565.s7.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d565.s10" text="If combination therapy is initiated or withdrawn in conjunction with propranolol, an adjustment in the propranolol dose may be warranted.">
+        <entity charOffset="69-79" id="DDI-DrugBank.d565.s10.e0" text="propranolol" type="drug" />
+        <entity charOffset="103-113" id="DDI-DrugBank.d565.s10.e1" text="propranolol" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d565.s10.e0" e2="DDI-DrugBank.d565.s10.e1" id="DDI-DrugBank.d565.s10.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d565.s28" text="The effect of cyclosporine on diltiazem plasma concentrations has not been evaluated.">
+        <entity charOffset="14-25" id="DDI-DrugBank.d565.s28.e0" text="cyclosporine" type="drug" />
+        <entity charOffset="30-38" id="DDI-DrugBank.d565.s28.e1" text="diltiazem" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d565.s28.e0" e2="DDI-DrugBank.d565.s28.e1" id="DDI-DrugBank.d565.s28.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d565.s38" text="no change in pravastatin AUC and Cmax was observed during diltiazem coadministration.">
+        <entity charOffset="13-23" id="DDI-DrugBank.d565.s38.e0" text="pravastatin" type="drug" />
+        <entity charOffset="58-66" id="DDI-DrugBank.d565.s38.e1" text="diltiazem" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d565.s38.e0" e2="DDI-DrugBank.d565.s38.e1" id="DDI-DrugBank.d565.s38.p0" />
+    </sentence>
+    </document>

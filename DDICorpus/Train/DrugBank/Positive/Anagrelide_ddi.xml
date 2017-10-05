@@ -1,0 +1,22 @@
+<document id="DDI-DrugBank.d75">
+    <sentence id="DDI-DrugBank.d75.s8" text="Anagrelide alone had no effect on platelet aggregation, but did slightly enhance the inhibition of platelet aggregation by aspirin.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d75.s8.e0" text="Anagrelide" type="drug" />
+        <entity charOffset="123-129" id="DDI-DrugBank.d75.s8.e1" text="aspirin" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d75.s8.e0" e2="DDI-DrugBank.d75.s8.e1" id="DDI-DrugBank.d75.s8.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d75.s10" text="It is known that CYP1A2 is inhibited by several medicinal products, including fluvoxamine, and such medicinal products could theoretically adversely influence the clearance of anagrelide.">
+        <entity charOffset="78-88" id="DDI-DrugBank.d75.s10.e0" text="fluvoxamine" type="drug" />
+        <entity charOffset="176-185" id="DDI-DrugBank.d75.s10.e1" text="anagrelide" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d75.s10.e0" e2="DDI-DrugBank.d75.s10.e1" id="DDI-DrugBank.d75.s10.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d75.s12" text="Anagrelide demonstrates some limited inhibitory activity towards CYP1A2 which may present a theoretical potential for interaction with other coadministered medicinal products sharing that clearance mechanism e.g. theophylline.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d75.s12.e0" text="Anagrelide" type="drug" />
+        <entity charOffset="213-224" id="DDI-DrugBank.d75.s12.e1" text="theophylline" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d75.s12.e0" e2="DDI-DrugBank.d75.s12.e1" id="DDI-DrugBank.d75.s12.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d75.s15" text="There is a single case report, which suggests that sucralfate may interfere with anagrelide absorption.">
+        <entity charOffset="51-60" id="DDI-DrugBank.d75.s15.e0" text="sucralfate" type="drug" />
+        <entity charOffset="81-90" id="DDI-DrugBank.d75.s15.e1" text="anagrelide" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d75.s15.e0" e2="DDI-DrugBank.d75.s15.e1" id="DDI-DrugBank.d75.s15.p0" type="mechanism" />
+    </sentence>
+    </document>

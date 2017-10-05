@@ -1,0 +1,18 @@
+<document id="DDI-MedLine.d8">
+    <sentence id="DDI-MedLine.d8.s0" text="In vitro activity of KRM-1648, either singly or in combination with ofloxacin, against Mycobacterium ulcerans.&#10;">
+        <entity charOffset="21-28" id="DDI-MedLine.d8.s0.e0" text="KRM-1648" type="drug_n" />
+        <entity charOffset="68-76" id="DDI-MedLine.d8.s0.e1" text="ofloxacin" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d8.s0.e0" e2="DDI-MedLine.d8.s0.e1" id="DDI-MedLine.d8.s0.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d8.s4" text="The minimal inhibitory concentration as well as minimal bactericidal concentration of KRM-1648 against M. ">
+        <entity charOffset="86-93" id="DDI-MedLine.d8.s4.e0" text="KRM-1648" type="drug_n" />
+    </sentence>
+    <sentence id="DDI-MedLine.d8.s5" text="ulcerans was between 0.012 and 0.025 mg/l, while corresponding values for rifampicin and rifabutin were in the range of 0.1-0.8 mg/l and 0.1-0.4 mg/l respectively. ">
+        <entity charOffset="74-83" id="DDI-MedLine.d8.s5.e0" text="rifampicin" type="drug" />
+        <entity charOffset="89-97" id="DDI-MedLine.d8.s5.e1" text="rifabutin" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d8.s5.e0" e2="DDI-MedLine.d8.s5.e1" id="DDI-MedLine.d8.s5.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d8.s7" text="These results suggest that KRM-1648 has a great potential in the treatment of M. ">
+        <entity charOffset="27-34" id="DDI-MedLine.d8.s7.e0" text="KRM-1648" type="drug_n" />
+    </sentence>
+    </document>

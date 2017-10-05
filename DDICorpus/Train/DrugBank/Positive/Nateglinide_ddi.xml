@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d460">
+    <sentence id="DDI-DrugBank.d460.s1" text="Starlix is a potential inhibitor of the CYP2C9 isoenzyme in vivo as indicated by its ability to inhibit the in vitro metabolism of tolbutamide.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d460.s1.e0" text="Starlix" type="brand" />
+        <entity charOffset="131-141" id="DDI-DrugBank.d460.s1.e1" text="tolbutamide" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d460.s1.e0" e2="DDI-DrugBank.d460.s1.e1" id="DDI-DrugBank.d460.s1.p0" type="mechanism" />
+    </sentence>
+    </document>

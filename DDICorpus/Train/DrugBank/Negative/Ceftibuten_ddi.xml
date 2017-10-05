@@ -1,0 +1,27 @@
+<document id="DDI-DrugBank.d32">
+    <sentence id="DDI-DrugBank.d32.s0" text="Theophylline: Twelve healthy male volunteers were administered one 200-mg ceftibuten capsule twice daily for 6 days.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d32.s0.e0" text="Theophylline" type="drug" />
+        <entity charOffset="74-83" id="DDI-DrugBank.d32.s0.e1" text="ceftibuten" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d32.s0.e0" e2="DDI-DrugBank.d32.s0.e1" id="DDI-DrugBank.d32.s0.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d32.s1" text="With the morning dose of ceftibuten on day 6, each volunteer received a single intravenous infusion of theophylline (4 mg/kg).">
+        <entity charOffset="25-34" id="DDI-DrugBank.d32.s1.e0" text="ceftibuten" type="drug" />
+        <entity charOffset="103-114" id="DDI-DrugBank.d32.s1.e1" text="theophylline" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d32.s1.e0" e2="DDI-DrugBank.d32.s1.e1" id="DDI-DrugBank.d32.s1.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d32.s3" text="The effect of ceftibuten on the pharmacokinetics of theophylline administered orally has not been investigated.">
+        <entity charOffset="14-23" id="DDI-DrugBank.d32.s3.e0" text="ceftibuten" type="drug" />
+        <entity charOffset="52-63" id="DDI-DrugBank.d32.s3.e1" text="theophylline" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d32.s3.e0" e2="DDI-DrugBank.d32.s3.e1" id="DDI-DrugBank.d32.s3.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d32.s6" text="A single dose of liquid antacid did not affect the C max or AUC of ceftibuten;">
+        <entity charOffset="24-30" id="DDI-DrugBank.d32.s6.e0" text="antacid" type="group" />
+        <entity charOffset="67-76" id="DDI-DrugBank.d32.s6.e1" text="ceftibuten" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d32.s6.e0" e2="DDI-DrugBank.d32.s6.e1" id="DDI-DrugBank.d32.s6.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d32.s12" text="The results of assays using red cells from healthy subjects to determine whether ceftibuten would cause direct Coombs reactions in vitro showed no positive reaction at ceftibuten concentrations as high as 40  g/mL.">
+        <entity charOffset="81-90" id="DDI-DrugBank.d32.s12.e0" text="ceftibuten" type="drug" />
+        <entity charOffset="168-177" id="DDI-DrugBank.d32.s12.e1" text="ceftibuten" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d32.s12.e0" e2="DDI-DrugBank.d32.s12.e1" id="DDI-DrugBank.d32.s12.p0" />
+    </sentence>
+</document>

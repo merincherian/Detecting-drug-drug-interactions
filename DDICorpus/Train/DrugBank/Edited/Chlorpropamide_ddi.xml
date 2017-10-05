@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d245">
+    <sentence id="DDI-DrugBank.d245.s8" text="In some patients, a disulfiram-like reaction may be produced by the ingestion of alcohol.">
+        <entity charOffset="20-29" id="DDI-DrugBank.d245.s8.e0" text="disulfiram" type="drug" />
+        <entity charOffset="81-87" id="DDI-DrugBank.d245.s8.e1" text="alcohol" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d245.s8.e0" e2="DDI-DrugBank.d245.s8.e1" id="DDI-DrugBank.d245.s8.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d245.s9" text="A potential interaction between oral miconazole and oral hypoglycemic agents leading to severe hypoglycemia has been reported.">
+        <entity charOffset="37-46" id="DDI-DrugBank.d245.s9.e0" text="miconazole" type="drug" />
+        <entity charOffset="57-75" id="DDI-DrugBank.d245.s9.e1" text="hypoglycemic agents" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d245.s9.e0" e2="DDI-DrugBank.d245.s9.e1" id="DDI-DrugBank.d245.s9.p0" type="effect" />
+    </sentence>
+    </document>

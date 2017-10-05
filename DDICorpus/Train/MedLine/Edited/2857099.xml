@@ -1,0 +1,8 @@
+<document id="DDI-MedLine.d27">
+    <sentence id="DDI-MedLine.d27.s1" text="When the dose of picrotoxin is minimized to 0.5 mg/kg such an effect is not observed. ">
+        <entity charOffset="17-26" id="DDI-MedLine.d27.s1.e0" text="picrotoxin" type="drug_n" />
+    </sentence>
+    <sentence id="DDI-MedLine.d27.s2" text="Prolonged daily administration of picrotoxin in a dose of 1 mg/kg results in the development of brain edema. ">
+        <entity charOffset="34-43" id="DDI-MedLine.d27.s2.e0" text="picrotoxin" type="drug_n" />
+    </sentence>
+    </document>

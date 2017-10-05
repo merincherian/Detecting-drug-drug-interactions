@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d318">
+    <sentence id="DDI-DrugBank.d318.s0" text="When administered concurrently, the following drugs may interact with amphotericin B: Antineoplastic agents: may enhance the potential for renal toxicity, bronchospasm and hypotension.">
+        <entity charOffset="70-83" id="DDI-DrugBank.d318.s0.e0" text="amphotericin B" type="drug" />
+        <entity charOffset="86-106" id="DDI-DrugBank.d318.s0.e1" text="Antineoplastic agents" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d318.s0.e0" e2="DDI-DrugBank.d318.s0.e1" id="DDI-DrugBank.d318.s0.p0" type="effect" />
+    </sentence>
+    </document>

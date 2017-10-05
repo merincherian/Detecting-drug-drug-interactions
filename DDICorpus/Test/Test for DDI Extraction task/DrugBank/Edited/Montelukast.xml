@@ -1,0 +1,27 @@
+<document id="DDI-DrugBank.d739">
+    <sentence id="DDI-DrugBank.d739.s0" text="Montelukast at a Dose of 10 mg Once Daily Dosed to Pharmacokinetic Steady State  - did not cause clinically significant changes in the kinetics of a single intravenous dose of theophylline (predominantly a cytochrome P450 1A2 substrate). ">
+        <entity charOffset="0-10" id="DDI-DrugBank.d739.s0.e0" text="Montelukast" type="drug" />
+        <entity charOffset="176-187" id="DDI-DrugBank.d739.s0.e1" text="theophylline" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d739.s0.e0" e2="DDI-DrugBank.d739.s0.e1" id="DDI-DrugBank.d739.s0.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d739.s1" text="- did not change the pharmacokinetic profile of warfarin (a substrate of cytochromes P450 2A6 and 2C9) or influence the effect of a single 30-mg oral dose of warfarin on prothrombin time or the INR (International Normalized Ratio). ">
+        <entity charOffset="48-55" id="DDI-DrugBank.d739.s1.e0" text="warfarin" type="drug" />
+        <entity charOffset="158-165" id="DDI-DrugBank.d739.s1.e1" text="warfarin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d739.s1.e0" e2="DDI-DrugBank.d739.s1.e1" id="DDI-DrugBank.d739.s1.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d739.s2" text="- did not change the pharmacokinetic profile or urinary excretion of immunoreactive digoxin. ">
+        <entity charOffset="84-90" id="DDI-DrugBank.d739.s2.e0" text="digoxin" type="drug" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d739.s7" text="No dosage adjustment for montelukast is recommended. ">
+        <entity charOffset="25-35" id="DDI-DrugBank.d739.s7.e0" text="montelukast" type="drug" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d739.s9" text="Montelukast has been administered with other therapies routinely used in the prophylaxis and chronic treatment of asthma with no apparent increase in adverse reactions. ">
+        <entity charOffset="0-10" id="DDI-DrugBank.d739.s9.e0" text="Montelukast" type="drug" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d739.s11" text="Although additional specific interaction studies were not performed, montelukast was used concomitantly with a wide range of commonly prescribed drugs in clinical studies without evidence of clinical adverse interactions. ">
+        <entity charOffset="69-79" id="DDI-DrugBank.d739.s11.e0" text="montelukast" type="drug" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d739.s14" text="No dosage adjustment for montelukast is recommended. ">
+        <entity charOffset="25-35" id="DDI-DrugBank.d739.s14.e0" text="montelukast" type="drug" />
+    </sentence>
+    </document>

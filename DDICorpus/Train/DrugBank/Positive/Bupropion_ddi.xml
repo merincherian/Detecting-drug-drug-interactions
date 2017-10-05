@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d5">
+    <sentence id="DDI-DrugBank.d5.s26" text="The consumption of alcohol during treatment with WELLBUTRIN should be minimized or avoided (also see  a href= bupropz_od.htm#CI CONTRAINDICATIONS)">
+        <entity charOffset="19-25" id="DDI-DrugBank.d5.s26.e0" text="alcohol" type="drug" />
+        <entity charOffset="49-58" id="DDI-DrugBank.d5.s26.e1" text="WELLBUTRIN" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d5.s26.e0" e2="DDI-DrugBank.d5.s26.e1" id="DDI-DrugBank.d5.s26.p0" type="advise" />
+    </sentence>
+    </document>

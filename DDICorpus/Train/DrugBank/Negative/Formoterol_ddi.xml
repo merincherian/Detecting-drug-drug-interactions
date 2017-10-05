@@ -1,0 +1,22 @@
+<document id="DDI-DrugBank.d103">
+    <sentence id="DDI-DrugBank.d103.s10" text="It is important that patients understand how to use FORADIL  (formoterol fumarate) capsules with the supplied AerolizerTM inhalation device and how it should be used in relation to other asthma or COPD medications they are taking.">
+        <entity charOffset="52-58" id="DDI-DrugBank.d103.s10.e0" text="FORADIL" type="brand" />
+        <entity charOffset="62-80" id="DDI-DrugBank.d103.s10.e1" text="formoterol fumarate" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d103.s10.e0" e2="DDI-DrugBank.d103.s10.e1" id="DDI-DrugBank.d103.s10.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d103.s15" text="Acute symptoms should be treated with a short-acting, inhaled  beta2-agonist such as salbutamol (the physician should provide the patient with such medication and instruct the patient in how it should be used).">
+        <entity charOffset="63-75" id="DDI-DrugBank.d103.s15.e0" text="beta2-agonist" type="group" />
+        <entity charOffset="85-94" id="DDI-DrugBank.d103.s15.e1" text="salbutamol" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d103.s15.e0" e2="DDI-DrugBank.d103.s15.e1" id="DDI-DrugBank.d103.s15.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d103.s20" text="FORADIL should not be used as a substitute for oral or inhaled corticosteroids.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d103.s20.e0" text="FORADIL" type="brand" />
+        <entity charOffset="63-77" id="DDI-DrugBank.d103.s20.e1" text="corticosteroids" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d103.s20.e0" e2="DDI-DrugBank.d103.s20.e1" id="DDI-DrugBank.d103.s20.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d103.s26" text="Guardians of children who have been prescribed FORADIL should be alerted to the general concern regarding asthma therapy compliance, especially neglect of anti-inflammatory therapy and overuse of short-acting  beta2-agonists.">
+        <entity charOffset="47-53" id="DDI-DrugBank.d103.s26.e0" text="FORADIL" type="brand" />
+        <entity charOffset="196-223" id="DDI-DrugBank.d103.s26.e1" text="short-acting  beta2-agonists" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d103.s26.e0" e2="DDI-DrugBank.d103.s26.e1" id="DDI-DrugBank.d103.s26.p0" />
+    </sentence>
+</document>

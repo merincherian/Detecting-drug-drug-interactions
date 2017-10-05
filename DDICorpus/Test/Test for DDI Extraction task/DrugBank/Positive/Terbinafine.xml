@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d645">
+    <sentence id="DDI-DrugBank.d645.s4" text="Terbinafine decreases the clearance of caffeine by 19%. ">
+        <entity charOffset="0-10" id="DDI-DrugBank.d645.s4.e0" text="Terbinafine" type="drug" />
+        <entity charOffset="39-46" id="DDI-DrugBank.d645.s4.e1" text="caffeine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d645.s4.e0" e2="DDI-DrugBank.d645.s4.e1" id="DDI-DrugBank.d645.s4.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d645.s5" text="Terbinafine increases the clearance of cyclosporine by 15%. ">
+        <entity charOffset="0-10" id="DDI-DrugBank.d645.s5.e0" text="Terbinafine" type="drug" />
+        <entity charOffset="39-50" id="DDI-DrugBank.d645.s5.e1" text="cyclosporine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d645.s5.e0" e2="DDI-DrugBank.d645.s5.e1" id="DDI-DrugBank.d645.s5.p0" type="mechanism" />
+    </sentence>
+    </document>

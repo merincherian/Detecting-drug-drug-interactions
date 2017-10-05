@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d209">
+    <sentence id="DDI-DrugBank.d209.s7" text="In clinical studies with PROPECIA (finasteride, 1 mg) in men 18-41 years of age, the mean value of serum prostate-specific antigen (PSA) decreased from 0.7 ng/mL at baseline to 0.5 ng/mL at Month 12.">
+        <entity charOffset="25-32" id="DDI-DrugBank.d209.s7.e0" text="PROPECIA" type="brand" />
+        <entity charOffset="35-45" id="DDI-DrugBank.d209.s7.e1" text="finasteride" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d209.s7.e0" e2="DDI-DrugBank.d209.s7.e1" id="DDI-DrugBank.d209.s7.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d209.s8" text="Further, in clinical studies with PROSCAR (finasteride, 5 mg) when used in older men who have benign prostatic hyperplasia (BPH), PSA levels are decreased by approximately 50%.">
+        <entity charOffset="34-40" id="DDI-DrugBank.d209.s8.e0" text="PROSCAR" type="brand" />
+        <entity charOffset="43-53" id="DDI-DrugBank.d209.s8.e1" text="finasteride" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d209.s8.e0" e2="DDI-DrugBank.d209.s8.e1" id="DDI-DrugBank.d209.s8.p0" />
+    </sentence>
+    </document>

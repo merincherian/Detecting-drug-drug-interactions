@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d76">
+    <sentence id="DDI-DrugBank.d76.s5" text="After stopping Fluvoxamine Tablets, at least 2 weeks should be allowed before starting a MAOI.">
+        <entity charOffset="15-25" id="DDI-DrugBank.d76.s5.e0" text="Fluvoxamine" type="drug" />
+        <entity charOffset="89-92" id="DDI-DrugBank.d76.s5.e1" text="MAOI" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d76.s5.e0" e2="DDI-DrugBank.d76.s5.e1" id="DDI-DrugBank.d76.s5.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d76.s24" text="Moreover, as noted with alprazolam, the effect of fluvoxamine may even be more pronounced when it is administered at higher doses.">
+        <entity charOffset="24-33" id="DDI-DrugBank.d76.s24.e0" text="alprazolam" type="drug" />
+        <entity charOffset="50-60" id="DDI-DrugBank.d76.s24.e1" text="fluvoxamine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d76.s24.e0" e2="DDI-DrugBank.d76.s24.e1" id="DDI-DrugBank.d76.s24.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d76.s25" text="Accordingly, diazepam and fluvoxamine should not ordinarily be co-administered.">
+        <entity charOffset="13-20" id="DDI-DrugBank.d76.s25.e0" text="diazepam" type="drug" />
+        <entity charOffset="26-36" id="DDI-DrugBank.d76.s25.e1" text="fluvoxamine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d76.s25.e0" e2="DDI-DrugBank.d76.s25.e1" id="DDI-DrugBank.d76.s25.p0" type="advise" />
+    </sentence>
+    </document>

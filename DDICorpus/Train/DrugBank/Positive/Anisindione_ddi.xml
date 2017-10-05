@@ -1,0 +1,22 @@
+<document id="DDI-DrugBank.d64">
+    <sentence id="DDI-DrugBank.d64.s4" text="Chloral hydrate may cause an increased prothrombin response by displacing the anticoagulant from protein binding sites or a diminished prothrombin response through increased metabolism of the unbound drug by hepatic enzyme induction, thus leading to inter-patient variation in ultimate prothrombin effect.">
+        <entity charOffset="0-14" id="DDI-DrugBank.d64.s4.e0" text="Chloral hydrate" type="drug" />
+        <entity charOffset="78-90" id="DDI-DrugBank.d64.s4.e1" text="anticoagulant" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d64.s4.e0" e2="DDI-DrugBank.d64.s4.e1" id="DDI-DrugBank.d64.s4.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s6" text="Drugs that have been reported to diminish oral anticoagulant response, ie, decreased prothrom-bin time response, in man significantly include: adrenocortical steroids;">
+        <entity charOffset="47-59" id="DDI-DrugBank.d64.s6.e0" text="anticoagulant" type="group" />
+        <entity charOffset="143-165" id="DDI-DrugBank.d64.s6.e1" text="adrenocortical steroids" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d64.s6.e0" e2="DDI-DrugBank.d64.s6.e1" id="DDI-DrugBank.d64.s6.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s30" text="Drugs that reportedly may increase oral anticoagulant response, ie, increased prothrombin response, in man include:alcohol*;">
+        <entity charOffset="40-52" id="DDI-DrugBank.d64.s30.e0" text="anticoagulant" type="group" />
+        <entity charOffset="115-121" id="DDI-DrugBank.d64.s30.e1" text="alcohol" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d64.s30.e0" e2="DDI-DrugBank.d64.s30.e1" id="DDI-DrugBank.d64.s30.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s91" text="The beneficial effects on arterial thrombus formation from combined therapy with antiplatelet and anticoagulant medication must be weighed against an increased risk of inducing hemorrhage.">
+        <entity charOffset="81-92;112-121" id="DDI-DrugBank.d64.s91.e0" text="antiplatelet medication" type="group" />
+        <entity charOffset="98-121" id="DDI-DrugBank.d64.s91.e1" text="anticoagulant medication" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d64.s91.e0" e2="DDI-DrugBank.d64.s91.e1" id="DDI-DrugBank.d64.s91.p0" type="advise" />
+    </sentence>
+    </document>

@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d217">
+    <sentence id="DDI-DrugBank.d217.s2" text="Therefore, monitoring of theophylline plasma levels should be considered and dosage of theophylline adjusted as required.">
+        <entity charOffset="25-36" id="DDI-DrugBank.d217.s2.e0" text="theophylline" type="drug" />
+        <entity charOffset="87-98" id="DDI-DrugBank.d217.s2.e1" text="theophylline" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d217.s2.e0" e2="DDI-DrugBank.d217.s2.e1" id="DDI-DrugBank.d217.s2.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d217.s4" text="Therefore, cyclosporine serum levels should be monitored and appropriate cyclosporine dosage adjustments made when these drugs are used concomitantly.">
+        <entity charOffset="11-22" id="DDI-DrugBank.d217.s4.e0" text="cyclosporine" type="drug" />
+        <entity charOffset="73-84" id="DDI-DrugBank.d217.s4.e1" text="cyclosporine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d217.s4.e0" e2="DDI-DrugBank.d217.s4.e1" id="DDI-DrugBank.d217.s4.p0" />
+    </sentence>
+    </document>

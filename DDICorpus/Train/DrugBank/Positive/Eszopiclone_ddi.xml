@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d216">
+    <sentence id="DDI-DrugBank.d216.s7" text="The AUC of eszopiclone was increased 2.2-fold by coadministration of ketoconazole, a potent inhibitor of CYP3A4, 400 mg daily for 5 days.">
+        <entity charOffset="11-21" id="DDI-DrugBank.d216.s7.e0" text="eszopiclone" type="drug" />
+        <entity charOffset="69-80" id="DDI-DrugBank.d216.s7.e1" text="ketoconazole" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d216.s7.e0" e2="DDI-DrugBank.d216.s7.e1" id="DDI-DrugBank.d216.s7.p0" type="mechanism" />
+    </sentence>
+    </document>

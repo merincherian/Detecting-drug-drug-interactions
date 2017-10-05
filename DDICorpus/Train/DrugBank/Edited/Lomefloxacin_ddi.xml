@@ -1,0 +1,42 @@
+<document id="DDI-DrugBank.d516">
+    <sentence id="DDI-DrugBank.d516.s4" text="Sucralfate administered 2 hours before lomefloxacin resulted in a slower absorption (mean C max decreased by 30% and mean T max increased by 1 hour) and a lesser extent of absorption (mean AUC decreased by approximately 25%).">
+        <entity charOffset="0-9" id="DDI-DrugBank.d516.s4.e0" text="Sucralfate" type="drug" />
+        <entity charOffset="39-50" id="DDI-DrugBank.d516.s4.e1" text="lomefloxacin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d516.s4.e0" e2="DDI-DrugBank.d516.s4.e1" id="DDI-DrugBank.d516.s4.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d516.s6" text="Separating the doses of antacid and lomefloxacin minimizes this decrease in bioavailability;">
+        <entity charOffset="24-30" id="DDI-DrugBank.d516.s6.e0" text="antacid" type="group" />
+        <entity charOffset="36-47" id="DDI-DrugBank.d516.s6.e1" text="lomefloxacin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d516.s6.e0" e2="DDI-DrugBank.d516.s6.e1" id="DDI-DrugBank.d516.s6.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d516.s7" text="therefore, administration of these agents should precede lomefloxacin dosing by 4 hours or follow lomefloxacin dosing by at least 2 hours.">
+        <entity charOffset="57-68" id="DDI-DrugBank.d516.s7.e0" text="lomefloxacin" type="drug" />
+        <entity charOffset="98-109" id="DDI-DrugBank.d516.s7.e1" text="lomefloxacin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d516.s7.e0" e2="DDI-DrugBank.d516.s7.e1" id="DDI-DrugBank.d516.s7.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d516.s9" text="This did not result in any statistically or clinically relevant changes in the pharmacokinetic parameters of either caffeine or its major metabolite, paraxanthine.">
+        <entity charOffset="116-123" id="DDI-DrugBank.d516.s9.e0" text="caffeine" type="drug" />
+        <entity charOffset="150-161" id="DDI-DrugBank.d516.s9.e1" text="paraxanthine" type="drug_n" />
+        <pair ddi="false" e1="DDI-DrugBank.d516.s9.e0" e2="DDI-DrugBank.d516.s9.e1" id="DDI-DrugBank.d516.s9.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d516.s14" text="The interaction between lomefloxacin and cimetidine has not been studied.">
+        <entity charOffset="24-35" id="DDI-DrugBank.d516.s14.e0" text="lomefloxacin" type="drug" />
+        <entity charOffset="41-50" id="DDI-DrugBank.d516.s14.e1" text="cimetidine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d516.s14.e0" e2="DDI-DrugBank.d516.s14.e1" id="DDI-DrugBank.d516.s14.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d516.s16" text="Interaction between lomefloxacin and cyclosporine has not been studied.">
+        <entity charOffset="20-31" id="DDI-DrugBank.d516.s16.e0" text="lomefloxacin" type="drug" />
+        <entity charOffset="37-48" id="DDI-DrugBank.d516.s16.e1" text="cyclosporine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d516.s16.e0" e2="DDI-DrugBank.d516.s16.e1" id="DDI-DrugBank.d516.s16.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d516.s20" text="Lomefloxacin is unlikely to have a significant effect on phenytoin metabolism.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d516.s20.e0" text="Lomefloxacin" type="drug" />
+        <entity charOffset="57-65" id="DDI-DrugBank.d516.s20.e1" text="phenytoin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d516.s20.e0" e2="DDI-DrugBank.d516.s20.e1" id="DDI-DrugBank.d516.s20.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d516.s21" text="Probenecid: Probenecid slows the renal elimination of lome-floxacin.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d516.s21.e0" text="Probenecid" type="drug" />
+        <entity charOffset="12-21" id="DDI-DrugBank.d516.s21.e1" text="Probenecid" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d516.s21.e0" e2="DDI-DrugBank.d516.s21.e1" id="DDI-DrugBank.d516.s21.p0" />
+    </sentence>
+    </document>

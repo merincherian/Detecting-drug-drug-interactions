@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d529">
+    <sentence id="DDI-DrugBank.d529.s5" text="This effect of aspirin (which also lowers serum concentrations of other nonsteroidal anti-inflammatory drugs given with it) has been demonstrated in patients with rheumatoid arthritis (n= 15) as well as normal volunteers (n= 16).">
+        <entity charOffset="15-21" id="DDI-DrugBank.d529.s5.e0" text="aspirin" type="brand" />
+        <entity charOffset="72-107" id="DDI-DrugBank.d529.s5.e1" text="nonsteroidal anti-inflammatory drugs" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d529.s5.e0" e2="DDI-DrugBank.d529.s5.e1" id="DDI-DrugBank.d529.s5.p0" />
+    </sentence>
+    </document>

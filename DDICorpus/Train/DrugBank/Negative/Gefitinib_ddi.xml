@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d207">
+    <sentence id="DDI-DrugBank.d207.s1" text="In patients receiving a potent CYP3A4 inducer such as rifampicin or phenytoin, a dose increase to 500 mg daily should be considered in the absence of severe adverse drug reaction, and clinical response and adverse events should be carefully monitored (see CLINICAL PHARMACOLOGY-Pharmacokinetics-Drug-Drug Interactions and DOSAGE AND ADMINISTRATION-Dosage Adjustment sections).">
+        <entity charOffset="54-63" id="DDI-DrugBank.d207.s1.e0" text="rifampicin" type="drug" />
+        <entity charOffset="68-76" id="DDI-DrugBank.d207.s1.e1" text="phenytoin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d207.s1.e0" e2="DDI-DrugBank.d207.s1.e1" id="DDI-DrugBank.d207.s1.p0" />
+    </sentence>
+    </document>

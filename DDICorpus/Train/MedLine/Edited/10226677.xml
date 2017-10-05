@@ -1,0 +1,11 @@
+<document id="DDI-MedLine.d80">
+    <sentence id="DDI-MedLine.d80.s4" text="The introductory chapter discusses the advantages and disadvantages of POCs and the magnitude and prevalence of their use.  ">
+        <entity charOffset="71-74" id="DDI-MedLine.d80.s4.e0" text="POCs" type="group" />
+    </sentence>
+    <sentence id="DDI-MedLine.d80.s11" text="The next chapter presents information on efficacy and pregnancy outcomes in terms of pregnancy rates, compliance and efficacy, ectopic pregnancies, the outcome of pregnancies conceived while using POCs, and fertility following discontinuation.  ">
+        <entity charOffset="197-200" id="DDI-MedLine.d80.s11.e0" text="POCs" type="group" />
+    </sentence>
+    <sentence id="DDI-MedLine.d80.s28" text="The last 4 chapters cover interactions with drugs and laboratory tests, common side effects, breast feeding, and effective use of POCs.  ">
+        <entity charOffset="130-133" id="DDI-MedLine.d80.s28.e0" text="POCs" type="group" />
+    </sentence>
+    </document>

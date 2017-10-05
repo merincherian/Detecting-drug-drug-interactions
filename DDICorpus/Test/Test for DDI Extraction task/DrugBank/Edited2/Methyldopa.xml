@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d779">
+    <sentence id="DDI-DrugBank.d779.s0" text="When methyldopa is used with other antihypertensive drugs, potentiation of antihypertensive effect may occur. ">
+        <entity charOffset="5-14" id="DDI-DrugBank.d779.s0.e0" text="methyldopa" type="drug" />
+        <entity charOffset="35-56" id="DDI-DrugBank.d779.s0.e1" text="antihypertensive drugs" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d779.s0.e0" e2="DDI-DrugBank.d779.s0.e1" id="DDI-DrugBank.d779.s0.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d779.s2" text="Patients may require reduced doses of anesthetics when on methyldopa. ">
+        <entity charOffset="38-48" id="DDI-DrugBank.d779.s2.e0" text="anesthetics" type="group" />
+        <entity charOffset="58-67" id="DDI-DrugBank.d779.s2.e1" text="methyldopa" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d779.s2.e0" e2="DDI-DrugBank.d779.s2.e1" id="DDI-DrugBank.d779.s2.p0" type="advise" />
+    </sentence>
+    </document>

@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d48">
+    <sentence id="DDI-DrugBank.d48.s9" text="Simultaneous administration of SPRYCEL with antacids should be avoided.">
+        <entity charOffset="31-37" id="DDI-DrugBank.d48.s9.e0" text="SPRYCEL" type="brand" />
+        <entity charOffset="44-51" id="DDI-DrugBank.d48.s9.e1" text="antacids" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d48.s9.e0" e2="DDI-DrugBank.d48.s9.e1" id="DDI-DrugBank.d48.s9.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d48.s10" text="If antacid therapy is needed, the antacid dose should be administered at least 2 hours prior to or 2 hours after the dose of SPRYCEL.">
+        <entity charOffset="3-9" id="DDI-DrugBank.d48.s10.e0" text="antacid" type="group" />
+        <entity charOffset="125-131" id="DDI-DrugBank.d48.s10.e1" text="SPRYCEL" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d48.s10.e0" e2="DDI-DrugBank.d48.s10.e1" id="DDI-DrugBank.d48.s10.p0" type="advise" />
+    </sentence>
+    </document>

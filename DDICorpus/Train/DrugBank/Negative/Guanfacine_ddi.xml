@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d507">
+    <sentence id="DDI-DrugBank.d507.s7" text="The gradual withdrawal of guafacine or a cardioselective beta-blocker could be substituted.">
+        <entity charOffset="26-34" id="DDI-DrugBank.d507.s7.e0" text="guafacine" type="drug" />
+        <entity charOffset="41-68" id="DDI-DrugBank.d507.s7.e1" text="cardioselective beta-blocker" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d507.s7.e0" e2="DDI-DrugBank.d507.s7.e1" id="DDI-DrugBank.d507.s7.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d507.s10" text="In several well-controlled studies, guanfacine was administered together with diuretics with no drug interactions reported.">
+        <entity charOffset="36-45" id="DDI-DrugBank.d507.s10.e0" text="guanfacine" type="drug" />
+        <entity charOffset="78-86" id="DDI-DrugBank.d507.s10.e1" text="diuretics" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d507.s10.e0" e2="DDI-DrugBank.d507.s10.e1" id="DDI-DrugBank.d507.s10.p0" />
+    </sentence>
+    </document>

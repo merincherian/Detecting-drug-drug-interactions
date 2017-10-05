@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d40">
+    <sentence id="DDI-DrugBank.d40.s17" text="- Although not a true drug interaction, tricyclic antidepressants may precipitate seizures in susceptible patients and Cerebyx dosage may need to be adjusted">
+        <entity charOffset="40-64" id="DDI-DrugBank.d40.s17.e0" text="tricyclic antidepressants" type="group" />
+        <entity charOffset="119-125" id="DDI-DrugBank.d40.s17.e1" text="Cerebyx" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d40.s17.e0" e2="DDI-DrugBank.d40.s17.e1" id="DDI-DrugBank.d40.s17.p0" type="effect" />
+    </sentence>
+    </document>

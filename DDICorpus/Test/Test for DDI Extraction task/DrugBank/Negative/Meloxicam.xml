@@ -1,0 +1,32 @@
+<document id="DDI-DrugBank.d597">
+    <sentence id="DDI-DrugBank.d597.s6" text="MOBIC is not a substitute for aspirin for cardiovascular prophylaxis. ">
+        <entity charOffset="0-4" id="DDI-DrugBank.d597.s6.e0" text="MOBIC" type="brand" />
+        <entity charOffset="30-36" id="DDI-DrugBank.d597.s6.e1" text="aspirin" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d597.s6.e0" e2="DDI-DrugBank.d597.s6.e1" id="DDI-DrugBank.d597.s6.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d597.s13" text="In vitro testing found no protein binding drug interaction between digoxin and meloxicam. ">
+        <entity charOffset="67-73" id="DDI-DrugBank.d597.s13.e0" text="digoxin" type="drug" />
+        <entity charOffset="79-87" id="DDI-DrugBank.d597.s13.e1" text="meloxicam" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d597.s13.e0" e2="DDI-DrugBank.d597.s13.e1" id="DDI-DrugBank.d597.s13.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d597.s16" text="Studies with furosemide agents and meloxicam have not demonstrated a reduction in natriuretic effect. ">
+        <entity charOffset="13-22" id="DDI-DrugBank.d597.s16.e0" text="furosemide" type="drug" />
+        <entity charOffset="35-43" id="DDI-DrugBank.d597.s16.e1" text="meloxicam" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d597.s16.e0" e2="DDI-DrugBank.d597.s16.e1" id="DDI-DrugBank.d597.s16.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d597.s17" text="Furosemide: single and multiple dose pharmacodynamics and pharmacokinetics are not affected by multiple doses of meloxicam. ">
+        <entity charOffset="0-9" id="DDI-DrugBank.d597.s17.e0" text="Furosemide" type="drug" />
+        <entity charOffset="113-121" id="DDI-DrugBank.d597.s17.e1" text="meloxicam" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d597.s17.e0" e2="DDI-DrugBank.d597.s17.e1" id="DDI-DrugBank.d597.s17.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d597.s24" text="Meloxicam did not have a significant effect on the pharmacokinetics of single doses of methotrexate. ">
+        <entity charOffset="0-8" id="DDI-DrugBank.d597.s24.e0" text="Meloxicam" type="drug" />
+        <entity charOffset="87-98" id="DDI-DrugBank.d597.s24.e1" text="methotrexate" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d597.s24.e0" e2="DDI-DrugBank.d597.s24.e1" id="DDI-DrugBank.d597.s24.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d597.s25" text="In vitro, methotrexate did not displace meloxicam from its human serum binding sites. ">
+        <entity charOffset="10-21" id="DDI-DrugBank.d597.s25.e0" text="methotrexate" type="drug" />
+        <entity charOffset="40-48" id="DDI-DrugBank.d597.s25.e1" text="meloxicam" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d597.s25.e0" e2="DDI-DrugBank.d597.s25.e1" id="DDI-DrugBank.d597.s25.p0" />
+    </sentence>
+    </document>

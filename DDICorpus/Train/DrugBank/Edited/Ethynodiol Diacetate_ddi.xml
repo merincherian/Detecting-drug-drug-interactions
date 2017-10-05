@@ -1,0 +1,32 @@
+<document id="DDI-DrugBank.d485">
+    <sentence id="DDI-DrugBank.d485.s2" text="Acetaminophen: May increase plasma concentration of synthetic estrogens, possibly by inhibiting conjugation.">
+        <entity charOffset="0-12" id="DDI-DrugBank.d485.s2.e0" text="Acetaminophen" type="drug" />
+        <entity charOffset="52-70" id="DDI-DrugBank.d485.s2.e1" text="synthetic estrogens" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d485.s2.e0" e2="DDI-DrugBank.d485.s2.e1" id="DDI-DrugBank.d485.s2.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s3" text="Combination hormonal contraceptives may also decrease the plasma concentration of acetaminophen.">
+        <entity charOffset="12-34" id="DDI-DrugBank.d485.s3.e0" text="hormonal contraceptives" type="group" />
+        <entity charOffset="82-94" id="DDI-DrugBank.d485.s3.e1" text="acetaminophen" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d485.s3.e0" e2="DDI-DrugBank.d485.s3.e1" id="DDI-DrugBank.d485.s3.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s4" text="Acitretin: Interferes with the contraceptive effect of microdosed progestin-containing minipill preparations.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d485.s4.e0" text="Acitretin" type="drug" />
+        <entity charOffset="66-74" id="DDI-DrugBank.d485.s4.e1" text="progestin" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d485.s4.e0" e2="DDI-DrugBank.d485.s4.e1" id="DDI-DrugBank.d485.s4.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s6" text="Aminoglutethimide: May increase CYP metabolism of progestins leading to possible decrease in contraceptive effectiveness.">
+        <entity charOffset="0-16" id="DDI-DrugBank.d485.s6.e0" text="Aminoglutethimide" type="drug" />
+        <entity charOffset="50-59" id="DDI-DrugBank.d485.s6.e1" text="progestins" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d485.s6.e0" e2="DDI-DrugBank.d485.s6.e1" id="DDI-DrugBank.d485.s6.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s34" text="Indinavir has been shown to increase plasma levels of combination hormonal contraceptives.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d485.s34.e0" text="Indinavir" type="drug" />
+        <entity charOffset="54-88" id="DDI-DrugBank.d485.s34.e1" text="combination hormonal contraceptives" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d485.s34.e0" e2="DDI-DrugBank.d485.s34.e1" id="DDI-DrugBank.d485.s34.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s44" text="Grapefruit juice increases ethinyl estradiol concentrations and would be expected to increase progesterone serum levels as well;">
+        <entity charOffset="27-43" id="DDI-DrugBank.d485.s44.e0" text="ethinyl estradiol" type="drug" />
+        <entity charOffset="94-105" id="DDI-DrugBank.d485.s44.e1" text="progesterone" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d485.s44.e0" e2="DDI-DrugBank.d485.s44.e1" id="DDI-DrugBank.d485.s44.p0" />
+    </sentence>
+    </document>

@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d115">
+    <sentence id="DDI-DrugBank.d115.s16" text="Systemic exposure to acetaminophen is expected to be increased when coadministered with Gleevec.">
+        <entity charOffset="21-33" id="DDI-DrugBank.d115.s16.e0" text="acetaminophen" type="drug" />
+        <entity charOffset="88-94" id="DDI-DrugBank.d115.s16.e1" text="Gleevec" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d115.s16.e0" e2="DDI-DrugBank.d115.s16.e1" id="DDI-DrugBank.d115.s16.p0" type="mechanism" />
+    </sentence>
+    </document>

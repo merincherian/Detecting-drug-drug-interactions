@@ -1,0 +1,10 @@
+<document id="DDI-DrugBank.d694">
+    <sentence id="DDI-DrugBank.d694.s1" text="Patients receiving digoxin should be monitored appropriately. ">
+        <entity charOffset="19-25" id="DDI-DrugBank.d694.s1.e0" text="digoxin" type="drug" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d694.s2" text="No dosage adjustment of digoxin or JANUVIA is recommended.">
+        <entity charOffset="24-30" id="DDI-DrugBank.d694.s2.e0" text="digoxin" type="drug" />
+        <entity charOffset="35-41" id="DDI-DrugBank.d694.s2.e1" text="JANUVIA" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d694.s2.e0" e2="DDI-DrugBank.d694.s2.e1" id="DDI-DrugBank.d694.s2.p0" />
+    </sentence>
+</document>

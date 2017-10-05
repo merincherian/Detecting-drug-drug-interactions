@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d732">
+    <sentence id="DDI-DrugBank.d732.s2" text="Concomitant administration of CHEMET with other chelation therapy, such as CaNa 2 EDTA is not recommended. ">
+        <entity charOffset="30-35" id="DDI-DrugBank.d732.s2.e0" text="CHEMET" type="brand" />
+        <entity charOffset="75-85" id="DDI-DrugBank.d732.s2.e1" text="CaNa 2 EDTA" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d732.s2.e0" e2="DDI-DrugBank.d732.s2.e1" id="DDI-DrugBank.d732.s2.p0" type="advise" />
+    </sentence>
+    </document>

@@ -1,0 +1,24 @@
+<document id="DDI-MedLine.d44">
+    <sentence id="DDI-MedLine.d44.s0" text="Effects of etofibrate upon the metabolism of chylomicron-like emulsions in patients with coronary artery disease.&#10;">
+        <entity charOffset="11-20" id="DDI-MedLine.d44.s0.e0" text="etofibrate" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d44.s2" text="In this study, the effects of etofibrate upon chylomicron metabolism was tested by determination of the plasma kinetics of a chylomicron-like emulsion model in 12 patients with coronary artery disease, aged 59+/-11 years, (total cholesterol: 240+/-41 mg/dl; triglycerides: 188+/-42 mg/dl) submitted to a randomized, crossover, double-blind, placebo-controlled study with administration of 1 g per day etofibrate or placebo for 1-month. ">
+        <entity charOffset="30-39" id="DDI-MedLine.d44.s2.e0" text="etofibrate" type="drug" />
+        <entity charOffset="401-410" id="DDI-MedLine.d44.s2.e1" text="etofibrate" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d44.s2.e0" e2="DDI-MedLine.d44.s2.e1" id="DDI-MedLine.d44.s2.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d44.s5" text="After etofibrate treatment, there was decrease of total cholesterol and triglyceride plasma levels and a trend to increase high-density lipoprotein cholesterol plasma levels. ">
+        <entity charOffset="6-15" id="DDI-MedLine.d44.s5.e0" text="etofibrate" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d44.s6" text="Etofibrate elicited 62% enhancement of post-heparin lipolytic activity and 100% increase of 3H-triglyceride fractional clearance rate compared with placebo treatment. ">
+        <entity charOffset="0-9" id="DDI-MedLine.d44.s6.e0" text="Etofibrate" type="drug" />
+        <entity charOffset="44-50" id="DDI-MedLine.d44.s6.e1" text="heparin" type="drug" />
+        <pair ddi="true" e1="DDI-MedLine.d44.s6.e0" e2="DDI-MedLine.d44.s6.e1" id="DDI-MedLine.d44.s6.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-MedLine.d44.s7" text="14C-cholesterol ester fractional clearance rate was 260% greater after etofibrate than after placebo. ">
+        <entity charOffset="71-80" id="DDI-MedLine.d44.s7.e0" text="etofibrate" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d44.s8" text="Therefore, a potent effect of etofibrate on both chylomicron lipolysis and remnant removal was achieved, indicating that this drug can be used to improve this metabolism in future prospective studies.">
+        <entity charOffset="30-39" id="DDI-MedLine.d44.s8.e0" text="etofibrate" type="drug" />
+    </sentence>
+</document>

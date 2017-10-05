@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d308">
+    <sentence id="DDI-DrugBank.d308.s1" text="Therefore when central nervous system depressants are administered concomitantly with hydroxyzine their dosage should be reduced.">
+        <entity charOffset="15-48" id="DDI-DrugBank.d308.s1.e0" text="central nervous system depressants" type="group" />
+        <entity charOffset="86-96" id="DDI-DrugBank.d308.s1.e1" text="hydroxyzine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d308.s1.e0" e2="DDI-DrugBank.d308.s1.e1" id="DDI-DrugBank.d308.s1.p0" type="advise" />
+    </sentence>
+    </document>

@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d64">
+    <sentence id="DDI-DrugBank.d64.s0" text="Addition or deletion of any drug from the therapeutic regimen of patients receiving oral anticoagulants may affect patient response to the anticoagulant.">
+        <entity charOffset="89-102" id="DDI-DrugBank.d64.s0.e0" text="anticoagulants" type="group" />
+        <entity charOffset="139-151" id="DDI-DrugBank.d64.s0.e1" text="anticoagulant" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d64.s0.e0" e2="DDI-DrugBank.d64.s0.e1" id="DDI-DrugBank.d64.s0.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s79" text="salicylates;sulfinpyrazone;">
+        <entity charOffset="0-10" id="DDI-DrugBank.d64.s79.e0" text="salicylates" type="group" />
+        <entity charOffset="12-25" id="DDI-DrugBank.d64.s79.e1" text="sulfinpyrazone" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d64.s79.e0" e2="DDI-DrugBank.d64.s79.e1" id="DDI-DrugBank.d64.s79.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s85" text="trimethoprim/sulfamethoxazole;">
+        <entity charOffset="0-11" id="DDI-DrugBank.d64.s85.e0" text="trimethoprim" type="drug" />
+        <entity charOffset="13-28" id="DDI-DrugBank.d64.s85.e1" text="sulfamethoxazole" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d64.s85.e0" e2="DDI-DrugBank.d64.s85.e1" id="DDI-DrugBank.d64.s85.p0" />
+    </sentence>
+    </document>

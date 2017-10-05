@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d51">
+    <sentence id="DDI-DrugBank.d51.s1" text="With the exception of albuterol, there are no formal studies fully evaluating the interaction effects of ATROVENT Inhalation Aerosol and these drugs with respect to effectiveness.">
+        <entity charOffset="22-30" id="DDI-DrugBank.d51.s1.e0" text="albuterol" type="drug" />
+        <entity charOffset="105-112" id="DDI-DrugBank.d51.s1.e1" text="ATROVENT" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d51.s1.e0" e2="DDI-DrugBank.d51.s1.e1" id="DDI-DrugBank.d51.s1.p0" />
+    </sentence>
+    </document>

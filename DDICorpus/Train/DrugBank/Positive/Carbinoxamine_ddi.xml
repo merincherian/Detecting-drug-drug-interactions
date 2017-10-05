@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d389">
+    <sentence id="DDI-DrugBank.d389.s1" text="MAO inhibitors prolong and intensify the anticholinergic effects of antihistamines.">
+        <entity charOffset="0-13" id="DDI-DrugBank.d389.s1.e0" text="MAO inhibitors" type="group" />
+        <entity charOffset="68-81" id="DDI-DrugBank.d389.s1.e1" text="antihistamines" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d389.s1.e0" e2="DDI-DrugBank.d389.s1.e1" id="DDI-DrugBank.d389.s1.p0" type="effect" />
+    </sentence>
+    </document>

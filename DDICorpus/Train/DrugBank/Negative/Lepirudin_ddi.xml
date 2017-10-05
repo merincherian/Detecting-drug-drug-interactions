@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d52">
+    <sentence id="DDI-DrugBank.d52.s1" text="Concomitant treatment with coumarin derivatives (vitamin K antagonists) and drugs that affect platelet function may also increase the risk of bleeding.">
+        <entity charOffset="27-46" id="DDI-DrugBank.d52.s1.e0" text="coumarin derivatives" type="group" />
+        <entity charOffset="49-69" id="DDI-DrugBank.d52.s1.e1" text="vitamin K antagonists" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d52.s1.e0" e2="DDI-DrugBank.d52.s1.e1" id="DDI-DrugBank.d52.s1.p0" />
+    </sentence>
+</document>

@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d360">
+    <sentence id="DDI-DrugBank.d360.s2" text="A possible interaction has been suggested with hormonal contraceptives and the herbal supplement St. Johns Wort based on some reports of oral contraceptive users experiencing breakthrough bleeding shortly after starting St. Johns Wort.">
+        <entity charOffset="47-69" id="DDI-DrugBank.d360.s2.e0" text="hormonal contraceptives" type="group" />
+        <entity charOffset="142-154" id="DDI-DrugBank.d360.s2.e1" text="contraceptive" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d360.s2.e0" e2="DDI-DrugBank.d360.s2.e1" id="DDI-DrugBank.d360.s2.p0" />
+    </sentence>
+    </document>

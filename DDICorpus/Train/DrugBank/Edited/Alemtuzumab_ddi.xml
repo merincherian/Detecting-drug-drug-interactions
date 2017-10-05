@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d407">
+    <sentence id="DDI-DrugBank.d407.s1" text="An immune response to Campath may interfere with subsequent diagnostic serum tests that utilize antibodies">
+        <entity charOffset="22-28" id="DDI-DrugBank.d407.s1.e0" text="Campath" type="brand" />
+        <entity charOffset="96-105" id="DDI-DrugBank.d407.s1.e1" text="antibodies" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d407.s1.e0" e2="DDI-DrugBank.d407.s1.e1" id="DDI-DrugBank.d407.s1.p0" />
+    </sentence>
+    </document>

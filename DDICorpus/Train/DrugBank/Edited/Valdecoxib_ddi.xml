@@ -1,0 +1,82 @@
+<document id="DDI-DrugBank.d328">
+    <sentence id="DDI-DrugBank.d328.s0" text="The drug interaction studies with valdecoxib were performed both with valdecoxib and a rapidly hydrolyzed intravenous prodrug form.">
+        <entity charOffset="34-43" id="DDI-DrugBank.d328.s0.e0" text="valdecoxib" type="drug" />
+        <entity charOffset="70-79" id="DDI-DrugBank.d328.s0.e1" text="valdecoxib" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d328.s0.e0" e2="DDI-DrugBank.d328.s0.e1" id="DDI-DrugBank.d328.s0.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d328.s5" text="Because of its lack of anti-platelet effect valdecoxib is not a substitute for aspirin for cardiovascular prophylaxis.">
+        <entity charOffset="44-53" id="DDI-DrugBank.d328.s5.e0" text="valdecoxib" type="drug" />
+        <entity charOffset="79-85" id="DDI-DrugBank.d328.s5.e1" text="aspirin" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d328.s5.e0" e2="DDI-DrugBank.d328.s5.e1" id="DDI-DrugBank.d328.s5.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d328.s9" text="This interaction should be given consideration in patients taking BEXTRA concomitantly with ACE-inhibitors.">
+        <entity charOffset="66-71" id="DDI-DrugBank.d328.s9.e0" text="BEXTRA" type="brand" />
+        <entity charOffset="92-105" id="DDI-DrugBank.d328.s9.e1" text="ACE-inhibitors" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d328.s9.e0" e2="DDI-DrugBank.d328.s9.e1" id="DDI-DrugBank.d328.s9.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d328.s13" text="Patients already stabilized on valdecoxib should be closely monitored for loss of symptom control with phenytoin coadministration.">
+        <entity charOffset="31-40" id="DDI-DrugBank.d328.s13.e0" text="valdecoxib" type="drug" />
+        <entity charOffset="103-111" id="DDI-DrugBank.d328.s13.e1" text="phenytoin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d328.s13.e0" e2="DDI-DrugBank.d328.s13.e1" id="DDI-DrugBank.d328.s13.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d328.s14" text="Valdecoxib did not have a statistically significant effect on the pharmacokinetics of phenytoin (a CYP 2C9 and CYP 2C19 substrate).">
+        <entity charOffset="0-9" id="DDI-DrugBank.d328.s14.e0" text="Valdecoxib" type="drug" />
+        <entity charOffset="86-94" id="DDI-DrugBank.d328.s14.e1" text="phenytoin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d328.s14.e0" e2="DDI-DrugBank.d328.s14.e1" id="DDI-DrugBank.d328.s14.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d328.s17" text="Dextromethorphan: Dextromethorphan is primarily metabolized by CYP 2D6 and to a lesser extent by 3A4.">
+        <entity charOffset="0-15" id="DDI-DrugBank.d328.s17.e0" text="Dextromethorphan" type="drug" />
+        <entity charOffset="18-33" id="DDI-DrugBank.d328.s17.e1" text="Dextromethorphan" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d328.s17.e0" e2="DDI-DrugBank.d328.s17.e1" id="DDI-DrugBank.d328.s17.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d328.s19" text="Even so dextromethorphan plasma concentrations in the presence of high doses of valdecoxib were almost 5-fold lower than those seen in CYP 2D6 poor metabolizers suggesting that dose adjustment is not necessary.">
+        <entity charOffset="8-23" id="DDI-DrugBank.d328.s19.e0" text="dextromethorphan" type="drug" />
+        <entity charOffset="80-89" id="DDI-DrugBank.d328.s19.e1" text="valdecoxib" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d328.s19.e0" e2="DDI-DrugBank.d328.s19.e1" id="DDI-DrugBank.d328.s19.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d328.s22" text="Lithium carbonate (450 mg BID for 7 days) had no effect on valdecoxib pharmacokinetics.">
+        <entity charOffset="0-16" id="DDI-DrugBank.d328.s22.e0" text="Lithium carbonate" type="drug" />
+        <entity charOffset="59-68" id="DDI-DrugBank.d328.s22.e1" text="valdecoxib" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d328.s22.e0" e2="DDI-DrugBank.d328.s22.e1" id="DDI-DrugBank.d328.s22.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d328.s30" text="Glyburide: Glyburide is a CYP 2C9 substrate.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d328.s30.e0" text="Glyburide" type="drug" />
+        <entity charOffset="11-19" id="DDI-DrugBank.d328.s30.e1" text="Glyburide" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d328.s30.e0" e2="DDI-DrugBank.d328.s30.e1" id="DDI-DrugBank.d328.s30.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d328.s36" text="Coadministration of glyburide with doses higher than 40 mg valdecoxib (e.g., 40 mg BID) have not been studied.">
+        <entity charOffset="20-28" id="DDI-DrugBank.d328.s36.e0" text="glyburide" type="drug" />
+        <entity charOffset="59-68" id="DDI-DrugBank.d328.s36.e1" text="valdecoxib" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d328.s36.e0" e2="DDI-DrugBank.d328.s36.e1" id="DDI-DrugBank.d328.s36.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d328.s37" text="Omeprazole: Omeprazole is a CYP 3A4 substrate and CYP 2C19 substrate and inhibitor.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d328.s37.e0" text="Omeprazole" type="drug" />
+        <entity charOffset="12-21" id="DDI-DrugBank.d328.s37.e1" text="Omeprazole" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d328.s37.e0" e2="DDI-DrugBank.d328.s37.e1" id="DDI-DrugBank.d328.s37.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d328.s38" text="Valdecoxib steady state plasma concentrations (40 mg BID) were not affected significantly with multiple doses of omeprazole (40 mg QD).">
+        <entity charOffset="0-9" id="DDI-DrugBank.d328.s38.e0" text="Valdecoxib" type="drug" />
+        <entity charOffset="113-122" id="DDI-DrugBank.d328.s38.e1" text="omeprazole" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d328.s38.e0" e2="DDI-DrugBank.d328.s38.e1" id="DDI-DrugBank.d328.s38.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d328.s39" text="Coadministration with valdecoxib increased exposure of omeprazole (AUC) by 46%.">
+        <entity charOffset="22-31" id="DDI-DrugBank.d328.s39.e0" text="valdecoxib" type="drug" />
+        <entity charOffset="55-64" id="DDI-DrugBank.d328.s39.e1" text="omeprazole" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d328.s39.e0" e2="DDI-DrugBank.d328.s39.e1" id="DDI-DrugBank.d328.s39.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d328.s40" text="Drugs whose absorption is sensitive to pH may be negatively impacted by concomitant administration of omeprazole and valdecoxib.">
+        <entity charOffset="102-111" id="DDI-DrugBank.d328.s40.e0" text="omeprazole" type="drug" />
+        <entity charOffset="117-126" id="DDI-DrugBank.d328.s40.e1" text="valdecoxib" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d328.s40.e0" e2="DDI-DrugBank.d328.s40.e1" id="DDI-DrugBank.d328.s40.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d328.s41" text="However, because higher doses (up to 360 mg QD) of omeprazole are tolerated in Zollinger-Ellison (ZE) patients, no dose adjustment for omeprazole is recommended at current doses.">
+        <entity charOffset="51-60" id="DDI-DrugBank.d328.s41.e0" text="omeprazole" type="drug" />
+        <entity charOffset="135-144" id="DDI-DrugBank.d328.s41.e1" text="omeprazole" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d328.s41.e0" e2="DDI-DrugBank.d328.s41.e1" id="DDI-DrugBank.d328.s41.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d328.s42" text="Coadministration of valdecoxib with doses higher than 40 mg QD omeprazole has not been studied.">
+        <entity charOffset="20-29" id="DDI-DrugBank.d328.s42.e0" text="valdecoxib" type="drug" />
+        <entity charOffset="63-72" id="DDI-DrugBank.d328.s42.e1" text="omeprazole" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d328.s42.e0" e2="DDI-DrugBank.d328.s42.e1" id="DDI-DrugBank.d328.s42.p0" />
+    </sentence>
+    </document>

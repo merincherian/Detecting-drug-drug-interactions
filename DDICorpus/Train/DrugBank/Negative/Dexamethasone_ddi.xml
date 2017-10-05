@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d314">
+    <sentence id="DDI-DrugBank.d314.s15" text="Digitalis glycosides: Patients on digitalis glycosides may be at increased risk of arrhythmias due to hypokalemia.">
+        <entity charOffset="0-19" id="DDI-DrugBank.d314.s15.e0" text="Digitalis glycosides" type="group" />
+        <entity charOffset="34-53" id="DDI-DrugBank.d314.s15.e1" text="digitalis glycosides" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d314.s15.e0" e2="DDI-DrugBank.d314.s15.e1" id="DDI-DrugBank.d314.s15.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s21" text="Co-administration with other drugs that are metabolized by CYP 3A4 (e.g., indinavir, erythromycin) may increase their clearance, resulting in decreased plasma concentration.">
+        <entity charOffset="74-82" id="DDI-DrugBank.d314.s21.e0" text="indinavir" type="drug" />
+        <entity charOffset="85-96" id="DDI-DrugBank.d314.s21.e1" text="erythromycin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d314.s21.e0" e2="DDI-DrugBank.d314.s21.e1" id="DDI-DrugBank.d314.s21.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s29" text="Thalidomide: Co-administration with thalidomide should be employed cautiously, as toxic epidermal necrolysis has been reported with concomitant use.">
+        <entity charOffset="0-10" id="DDI-DrugBank.d314.s29.e0" text="Thalidomide" type="drug" />
+        <entity charOffset="36-46" id="DDI-DrugBank.d314.s29.e1" text="thalidomide" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d314.s29.e0" e2="DDI-DrugBank.d314.s29.e1" id="DDI-DrugBank.d314.s29.p0" />
+    </sentence>
+    </document>

@@ -1,0 +1,5 @@
+<document id="DDI-DrugBank.d609">
+    <sentence id="DDI-DrugBank.d609.s1" text="Therefore, if an inhibitor or an inducer of CYP2C8 is started or stopped during treatment with rosiglitazone, changes in diabetes treatment may be needed based upon clinical response.">
+        <entity charOffset="95-107" id="DDI-DrugBank.d609.s1.e0" text="rosiglitazone" type="drug" />
+    </sentence>
+</document>

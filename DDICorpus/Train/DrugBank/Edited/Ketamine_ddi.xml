@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d518">
+    <sentence id="DDI-DrugBank.d518.s1" text="Ketamine is clinically compatible with the commonly used general and local anesthetic agents when an adequate respiratory exchange is maintained.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d518.s1.e0" text="Ketamine" type="drug" />
+        <entity charOffset="75-91" id="DDI-DrugBank.d518.s1.e1" text="anesthetic agents" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d518.s1.e0" e2="DDI-DrugBank.d518.s1.e1" id="DDI-DrugBank.d518.s1.p0" />
+    </sentence>
+</document>

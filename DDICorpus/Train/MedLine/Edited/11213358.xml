@@ -1,0 +1,18 @@
+<document id="DDI-MedLine.d102">
+    <sentence id="DDI-MedLine.d102.s3" text="injection of vehicle (corn oil, 0.1 mL/day), estradiol (10 microg/kg/day or 4 mg/kg/day) and/or progesterone (20 mg/kg/day), for eight days. ">
+        <entity charOffset="45-53" id="DDI-MedLine.d102.s3.e0" text="estradiol" type="drug" />
+        <entity charOffset="96-107" id="DDI-MedLine.d102.s3.e1" text="progesterone" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d102.s3.e0" e2="DDI-MedLine.d102.s3.e1" id="DDI-MedLine.d102.s3.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d102.s4" text="On the ninth day, the rats were sacrificed and aortic rings, with or without endothelium, were used to generate concentration-response curves to noradrenaline. ">
+        <entity charOffset="145-157" id="DDI-MedLine.d102.s4.e0" text="noradrenaline" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d102.s5" text="Aortic rings with intact endothelium from the high-dose (4 mg/kg/day) estradiol group were supersensitive to noradrenaline compared to the vehicle or low-dose (10 microg/kg/day) estradiol groups (pD2 values = 7.86+/-0.09, 7.30+/-0.11 and 7.35+/-0.04, respectively). ">
+        <entity charOffset="70-78" id="DDI-MedLine.d102.s5.e0" text="estradiol" type="drug" />
+        <entity charOffset="109-121" id="DDI-MedLine.d102.s5.e1" text="noradrenaline" type="drug" />
+        <pair ddi="true" e1="DDI-MedLine.d102.s5.e0" e2="DDI-MedLine.d102.s5.e1" id="DDI-MedLine.d102.s5.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-MedLine.d102.s7" text="There were no significant differences among the pD2 values for noradrenaline in aortic rings without endothelium. ">
+        <entity charOffset="63-75" id="DDI-MedLine.d102.s7.e0" text="noradrenaline" type="drug" />
+    </sentence>
+    </document>

@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d194">
+    <sentence id="DDI-DrugBank.d194.s0" text="Caution should be exercised when administering ETOPOPHOS with drugs that are known to inhibit phosphatase activities (e.g., levamisole hydrochloride).">
+        <entity charOffset="47-55" id="DDI-DrugBank.d194.s0.e0" text="ETOPOPHOS" type="brand" />
+        <entity charOffset="124-147" id="DDI-DrugBank.d194.s0.e1" text="levamisole hydrochloride" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d194.s0.e0" e2="DDI-DrugBank.d194.s0.e1" id="DDI-DrugBank.d194.s0.p0" type="advise" />
+    </sentence>
+    </document>

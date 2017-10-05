@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d521">
+    <sentence id="DDI-DrugBank.d521.s9" text="- phenytoin (Dilantin);">
+        <entity charOffset="2-10" id="DDI-DrugBank.d521.s9.e0" text="phenytoin" type="drug" />
+        <entity charOffset="13-20" id="DDI-DrugBank.d521.s9.e1" text="Dilantin" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d521.s9.e0" e2="DDI-DrugBank.d521.s9.e1" id="DDI-DrugBank.d521.s9.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d521.s10" text="- isoniazid (Nydrazid);">
+        <entity charOffset="2-10" id="DDI-DrugBank.d521.s10.e0" text="isoniazid" type="drug" />
+        <entity charOffset="13-20" id="DDI-DrugBank.d521.s10.e1" text="Nydrazid" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d521.s10.e0" e2="DDI-DrugBank.d521.s10.e1" id="DDI-DrugBank.d521.s10.p0" />
+    </sentence>
+    </document>

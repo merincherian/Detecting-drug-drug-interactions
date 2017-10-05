@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d522">
+    <sentence id="DDI-DrugBank.d522.s10" text="Serious cardiac dysrhythmias, some resulting in death, have occurred in patients receiving terfenadine concomitantly with other macrolide antibiotics.">
+        <entity charOffset="91-101" id="DDI-DrugBank.d522.s10.e0" text="terfenadine" type="drug" />
+        <entity charOffset="128-148" id="DDI-DrugBank.d522.s10.e1" text="macrolide antibiotics" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d522.s10.e0" e2="DDI-DrugBank.d522.s10.e1" id="DDI-DrugBank.d522.s10.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d522.s11" text="In addition, most macrolides are contraindicated in patients receiving terfenadine therapy who have pre-existing cardiac abnormalities (arrhythmia, bradycardia, QT c interval prolongation, ischemic heart disease, congestive heart failure, etc.) or electrolyte disturbances.">
+        <entity charOffset="18-27" id="DDI-DrugBank.d522.s11.e0" text="macrolides" type="group" />
+        <entity charOffset="71-81" id="DDI-DrugBank.d522.s11.e1" text="terfenadine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d522.s11.e0" e2="DDI-DrugBank.d522.s11.e1" id="DDI-DrugBank.d522.s11.p0" type="advise" />
+    </sentence>
+    </document>

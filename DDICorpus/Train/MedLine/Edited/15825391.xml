@@ -1,0 +1,25 @@
+<document id="DDI-MedLine.d120">
+    <sentence id="DDI-MedLine.d120.s0" text="Molecular basis for the selective toxicity of amphotericin B for yeast and filipin for animal cells.">
+        <entity charOffset="46-59" id="DDI-MedLine.d120.s0.e0" text="amphotericin B" type="drug" />
+        <entity charOffset="75-81" id="DDI-MedLine.d120.s0.e1" text="filipin" type="drug_n" />
+        <pair ddi="false" e1="DDI-MedLine.d120.s0.e0" e2="DDI-MedLine.d120.s0.e1" id="DDI-MedLine.d120.s0.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d120.s1" text="Among the polyene antibiotics, many, like filipin, cannot be used clinically because they are toxic; ">
+        <entity charOffset="10-28" id="DDI-MedLine.d120.s1.e0" text="polyene antibiotics" type="group" />
+        <entity charOffset="42-48" id="DDI-MedLine.d120.s1.e1" text="filipin" type="drug_n" />
+        <pair ddi="false" e1="DDI-MedLine.d120.s1.e0" e2="DDI-MedLine.d120.s1.e1" id="DDI-MedLine.d120.s1.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d120.s2" text="amphotericin B, however, is useful in therapy of human fungal infections because it is less toxic. ">
+        <entity charOffset="0-13" id="DDI-MedLine.d120.s2.e0" text="amphotericin B" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d120.s4" text="filipin was more potent in lysing human red blood cells, whereas amphotericin B was more potent in inhibiting yeast cell growth; ">
+        <entity charOffset="0-6" id="DDI-MedLine.d120.s4.e0" text="filipin" type="drug_n" />
+        <entity charOffset="65-78" id="DDI-MedLine.d120.s4.e1" text="amphotericin B" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d120.s4.e0" e2="DDI-MedLine.d120.s4.e1" id="DDI-MedLine.d120.s4.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d120.s5" text="and (ii) the effects of filipin were more efficiently inhibited by added cholesterol, the major membrane sterol in human cells, whereas the effects of amphotericin B were more efficiently inhibited by ergosterol, the major membrane sterol in yeast. ">
+        <entity charOffset="24-30" id="DDI-MedLine.d120.s5.e0" text="filipin" type="drug_n" />
+        <entity charOffset="151-164" id="DDI-MedLine.d120.s5.e1" text="amphotericin B" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d120.s5.e0" e2="DDI-MedLine.d120.s5.e1" id="DDI-MedLine.d120.s5.p0" />
+    </sentence>
+    </document>

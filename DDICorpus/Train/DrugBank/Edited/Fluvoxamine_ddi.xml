@@ -1,0 +1,27 @@
+<document id="DDI-DrugBank.d76">
+    <sentence id="DDI-DrugBank.d76.s5" text="After stopping Fluvoxamine Tablets, at least 2 weeks should be allowed before starting a MAOI.">
+        <entity charOffset="15-25" id="DDI-DrugBank.d76.s5.e0" text="Fluvoxamine" type="drug" />
+        <entity charOffset="89-92" id="DDI-DrugBank.d76.s5.e1" text="MAOI" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d76.s5.e0" e2="DDI-DrugBank.d76.s5.e1" id="DDI-DrugBank.d76.s5.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d76.s9" text="As noted below, a sub- for fluvoxamine in combination with alprazolam, a drug that is known to be metabolized by the IIIA4 isozyme.">
+        <entity charOffset="27-37" id="DDI-DrugBank.d76.s9.e0" text="fluvoxamine" type="drug" />
+        <entity charOffset="59-68" id="DDI-DrugBank.d76.s9.e1" text="alprazolam" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d76.s9.e0" e2="DDI-DrugBank.d76.s9.e1" id="DDI-DrugBank.d76.s9.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d76.s22" text="In these subjects (R= B), the clearance of diazepam was reduced by 65% and that of N-desmethyldiazepam to a level that was too low to measure over the course of the 2 week long study.">
+        <entity charOffset="43-50" id="DDI-DrugBank.d76.s22.e0" text="diazepam" type="drug" />
+        <entity charOffset="83-101" id="DDI-DrugBank.d76.s22.e1" text="N-desmethyldiazepam" type="drug_n" />
+        <pair ddi="false" e1="DDI-DrugBank.d76.s22.e0" e2="DDI-DrugBank.d76.s22.e1" id="DDI-DrugBank.d76.s22.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d76.s24" text="Moreover, as noted with alprazolam, the effect of fluvoxamine may even be more pronounced when it is administered at higher doses.">
+        <entity charOffset="24-33" id="DDI-DrugBank.d76.s24.e0" text="alprazolam" type="drug" />
+        <entity charOffset="50-60" id="DDI-DrugBank.d76.s24.e1" text="fluvoxamine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d76.s24.e0" e2="DDI-DrugBank.d76.s24.e1" id="DDI-DrugBank.d76.s24.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d76.s25" text="Accordingly, diazepam and fluvoxamine should not ordinarily be co-administered.">
+        <entity charOffset="13-20" id="DDI-DrugBank.d76.s25.e0" text="diazepam" type="drug" />
+        <entity charOffset="26-36" id="DDI-DrugBank.d76.s25.e1" text="fluvoxamine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d76.s25.e0" e2="DDI-DrugBank.d76.s25.e1" id="DDI-DrugBank.d76.s25.p0" type="advise" />
+    </sentence>
+    </document>

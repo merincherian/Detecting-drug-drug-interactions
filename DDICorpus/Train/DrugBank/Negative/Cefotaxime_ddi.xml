@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d100">
+    <sentence id="DDI-DrugBank.d100.s1" text="Drug/Laboratory Test Interactions Cephalosporins, including cefotaxime sodium, are known to occasionally induce a positive direct Coombs test.">
+        <entity charOffset="34-47" id="DDI-DrugBank.d100.s1.e0" text="Cephalosporins" type="group" />
+        <entity charOffset="60-76" id="DDI-DrugBank.d100.s1.e1" text="cefotaxime sodium" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d100.s1.e0" e2="DDI-DrugBank.d100.s1.e1" id="DDI-DrugBank.d100.s1.p0" />
+    </sentence>
+</document>

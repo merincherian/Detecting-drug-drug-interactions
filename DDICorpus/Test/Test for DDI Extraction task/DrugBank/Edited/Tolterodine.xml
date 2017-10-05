@@ -1,0 +1,10 @@
+<document id="DDI-DrugBank.d765">
+    <sentence id="DDI-DrugBank.d765.s0" text="CYP3A4 Inhibitors: Ketoconazole, an inhibitor of the drug metabolizing enzyme CYP3A4, significantly increased plasma concentrations of tolterodine when coadministered to subjects who were poor metabolizers (see CLINICAL PHARMACOLOGY, Variability in Metabolism and Drug-Drug Interactions). ">
+        <entity charOffset="19-30" id="DDI-DrugBank.d765.s0.e0" text="Ketoconazole" type="drug" />
+        <entity charOffset="135-145" id="DDI-DrugBank.d765.s0.e1" text="tolterodine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d765.s0.e0" e2="DDI-DrugBank.d765.s0.e1" id="DDI-DrugBank.d765.s0.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d765.s2" text="Drug-Laboratory-Test Interactions Interactions between tolterodine and laboratory tests have not been studied.">
+        <entity charOffset="55-65" id="DDI-DrugBank.d765.s2.e0" text="tolterodine" type="drug" />
+    </sentence>
+</document>

@@ -1,0 +1,10 @@
+<document id="DDI-MedLine.d134">
+    <sentence id="DDI-MedLine.d134.s2" text="An intravenous injection of perchlorate given later also produces a complete and immediately beginning depletion of pertechnetate already accumulated in the thyroid, within a period of 195 min after 99m-TcO-4-injection with a corresponding increase in blood levels. ">
+        <entity charOffset="28-38" id="DDI-MedLine.d134.s2.e0" text="perchlorate" type="drug_n" />
+        <entity charOffset="116-128" id="DDI-MedLine.d134.s2.e1" text="pertechnetate" type="drug" />
+        <pair ddi="true" e1="DDI-MedLine.d134.s2.e0" e2="DDI-MedLine.d134.s2.e1" id="DDI-MedLine.d134.s2.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-MedLine.d134.s4" text="The intravenous application of perchlorate offers advantages in clinical use.">
+        <entity charOffset="31-41" id="DDI-MedLine.d134.s4.e0" text="perchlorate" type="drug_n" />
+    </sentence>
+</document>

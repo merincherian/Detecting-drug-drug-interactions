@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d562">
+    <sentence id="DDI-DrugBank.d562.s2" text="Therefore, monitoring of theophylline plasma levels should be considered and dosage of theophylline adjusted as required.">
+        <entity charOffset="25-36" id="DDI-DrugBank.d562.s2.e0" text="theophylline" type="drug" />
+        <entity charOffset="87-98" id="DDI-DrugBank.d562.s2.e1" text="theophylline" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d562.s2.e0" e2="DDI-DrugBank.d562.s2.e1" id="DDI-DrugBank.d562.s2.p0" />
+    </sentence>
+    </document>

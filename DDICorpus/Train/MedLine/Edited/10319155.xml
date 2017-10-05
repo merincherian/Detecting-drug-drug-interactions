@@ -1,0 +1,23 @@
+<document id="DDI-MedLine.d84">
+    <sentence id="DDI-MedLine.d84.s0" text="Antimicrobial activity of Ganoderma lucidum extract alone and in combination with some antibiotics.&#10;">
+        <entity charOffset="26-50" id="DDI-MedLine.d84.s0.e0" text="Ganoderma lucidum extract" type="drug_n" />
+        <entity charOffset="87-97" id="DDI-MedLine.d84.s0.e1" text="antibiotics" type="group" />
+        <pair ddi="false" e1="DDI-MedLine.d84.s0.e0" e2="DDI-MedLine.d84.s0.e1" id="DDI-MedLine.d84.s0.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d84.s1" text="Antimicrobial activity of GL (the aqueous extract from the carpophores of Ganoderma lucidum (FR)KARST) was tested in vitro against Gram positive and Gram negative bacteria by serial broth dilution method, and the antimicrobial activity was expressed by minimal inhibitory concentration (MIC). ">
+        <entity charOffset="26-27" id="DDI-MedLine.d84.s1.e0" text="GL" type="drug_n" />
+    </sentence>
+    <sentence id="DDI-MedLine.d84.s2" text="Among fifteen species of bacteria tested, the antimicrobial activity of GL was the most potent against Micrococcus luteus (MIC, 0.75 mg/ml). ">
+        <entity charOffset="72-73" id="DDI-MedLine.d84.s2.e0" text="GL" type="drug_n" />
+    </sentence>
+    <sentence id="DDI-MedLine.d84.s4" text="The antimicrobial combinations of GL with four antibiotics resulted in additive effect in most instances, synergism in two instances, and antagonism in two instances. ">
+        <entity charOffset="34-35" id="DDI-MedLine.d84.s4.e0" text="GL" type="drug_n" />
+        <entity charOffset="47-57" id="DDI-MedLine.d84.s4.e1" text="antibiotics" type="group" />
+        <pair ddi="true" e1="DDI-MedLine.d84.s4.e0" e2="DDI-MedLine.d84.s4.e1" id="DDI-MedLine.d84.s4.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-MedLine.d84.s5" text="Synergism was observed when GL was combined with cefazolin against Bacillus subtilis and Klebsiella oxytoca.">
+        <entity charOffset="28-29" id="DDI-MedLine.d84.s5.e0" text="GL" type="drug_n" />
+        <entity charOffset="49-57" id="DDI-MedLine.d84.s5.e1" text="cefazolin" type="drug" />
+        <pair ddi="true" e1="DDI-MedLine.d84.s5.e0" e2="DDI-MedLine.d84.s5.e1" id="DDI-MedLine.d84.s5.p0" type="effect" />
+    </sentence>
+</document>

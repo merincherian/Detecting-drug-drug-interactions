@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d320">
+    <sentence id="DDI-DrugBank.d320.s2" text="Thus agents likely to be concomitantly administered with Chirocaine that are metabolized by this isoenzyme family may potentially interact with Chirocaine.">
+        <entity charOffset="57-66" id="DDI-DrugBank.d320.s2.e0" text="Chirocaine" type="brand" />
+        <entity charOffset="144-153" id="DDI-DrugBank.d320.s2.e1" text="Chirocaine" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d320.s2.e0" e2="DDI-DrugBank.d320.s2.e1" id="DDI-DrugBank.d320.s2.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d320.s5" text="macrolide antibiotics e.g., erythromycin;">
+        <entity charOffset="0-20" id="DDI-DrugBank.d320.s5.e0" text="macrolide antibiotics" type="group" />
+        <entity charOffset="28-39" id="DDI-DrugBank.d320.s5.e1" text="erythromycin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d320.s5.e0" e2="DDI-DrugBank.d320.s5.e1" id="DDI-DrugBank.d320.s5.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d320.s7" text="Dosage adjustment may be warranted when levobupivacaine is concurrently administered with CYP3A4 inhibitors and CYP1A2 inhibitors as systemic levobupivacaine levels may rise resulting in toxicity.">
+        <entity charOffset="40-54" id="DDI-DrugBank.d320.s7.e0" text="levobupivacaine" type="drug" />
+        <entity charOffset="142-156" id="DDI-DrugBank.d320.s7.e1" text="levobupivacaine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d320.s7.e0" e2="DDI-DrugBank.d320.s7.e1" id="DDI-DrugBank.d320.s7.p0" />
+    </sentence>
+</document>

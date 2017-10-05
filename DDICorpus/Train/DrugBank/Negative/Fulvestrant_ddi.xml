@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d70">
+    <sentence id="DDI-DrugBank.d70.s11" text="The potential effects of fulvestrant on the fertility of male animals were not studied but in a 6-month toxicology study, male rats treated with intramuscular doses of 15 mg/kg/30 days, 10 mg/rat/30 days, or 10 mg/rat/15 days fulvestrant showed a loss of spermatozoa from the seminiferous tubules, seminiferous tubular atrophy, and degenerative changes in the epididymides.">
+        <entity charOffset="25-35" id="DDI-DrugBank.d70.s11.e0" text="fulvestrant" type="drug" />
+        <entity charOffset="226-236" id="DDI-DrugBank.d70.s11.e1" text="fulvestrant" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d70.s11.e0" e2="DDI-DrugBank.d70.s11.e1" id="DDI-DrugBank.d70.s11.p0" />
+    </sentence>
+    </document>

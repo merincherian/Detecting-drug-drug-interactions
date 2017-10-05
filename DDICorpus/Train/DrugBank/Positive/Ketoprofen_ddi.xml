@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d499">
+    <sentence id="DDI-DrugBank.d499.s8" text="Therefore, concurrent use of aspirin and ketoprofen is not recommended.">
+        <entity charOffset="29-35" id="DDI-DrugBank.d499.s8.e0" text="aspirin" type="brand" />
+        <entity charOffset="41-50" id="DDI-DrugBank.d499.s8.e1" text="ketoprofen" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d499.s8.e0" e2="DDI-DrugBank.d499.s8.e1" id="DDI-DrugBank.d499.s8.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d499.s20" text="Therefore, the combination of ketoprofen and probenecid is not recommended.">
+        <entity charOffset="30-39" id="DDI-DrugBank.d499.s20.e0" text="ketoprofen" type="drug" />
+        <entity charOffset="45-54" id="DDI-DrugBank.d499.s20.e1" text="probenecid" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d499.s20.e0" e2="DDI-DrugBank.d499.s20.e1" id="DDI-DrugBank.d499.s20.p0" type="advise" />
+    </sentence>
+    </document>

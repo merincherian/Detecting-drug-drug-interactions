@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d60">
+    <sentence id="DDI-DrugBank.d60.s0" text="Administration of 0.1-mg/kg (2 x ED95) NIMBEX at 10% or 95% recovery following an intubating dose of succinylcholine (1 mg/kg) produced  95% neuromuscular block.">
+        <entity charOffset="39-44" id="DDI-DrugBank.d60.s0.e0" text="NIMBEX" type="brand" />
+        <entity charOffset="101-115" id="DDI-DrugBank.d60.s0.e1" text="succinylcholine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d60.s0.e0" e2="DDI-DrugBank.d60.s0.e1" id="DDI-DrugBank.d60.s0.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d60.s1" text="The time to onset of maximum block following NIMBEX is approximately 2 minutes faster with prior administration of succinylcholine.">
+        <entity charOffset="45-50" id="DDI-DrugBank.d60.s1.e0" text="NIMBEX" type="brand" />
+        <entity charOffset="115-129" id="DDI-DrugBank.d60.s1.e1" text="succinylcholine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d60.s1.e0" e2="DDI-DrugBank.d60.s1.e1" id="DDI-DrugBank.d60.s1.p0" type="effect" />
+    </sentence>
+    </document>

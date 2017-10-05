@@ -1,0 +1,22 @@
+<document id="DDI-DrugBank.d431">
+    <sentence id="DDI-DrugBank.d431.s5" text="Nonetheless, individual patients may require additional titration of their theophylline dosage when lansoprazole is started or stopped to ensure clinically effective blood levels.">
+        <entity charOffset="75-86" id="DDI-DrugBank.d431.s5.e0" text="theophylline" type="drug" />
+        <entity charOffset="100-111" id="DDI-DrugBank.d431.s5.e1" text="lansoprazole" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d431.s5.e0" e2="DDI-DrugBank.d431.s5.e1" id="DDI-DrugBank.d431.s5.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d431.s6" text="Lansoprazole has also been shown to have no clinically significant interaction with amoxicillin.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d431.s6.e0" text="Lansoprazole" type="drug" />
+        <entity charOffset="84-94" id="DDI-DrugBank.d431.s6.e1" text="amoxicillin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d431.s6.e0" e2="DDI-DrugBank.d431.s6.e1" id="DDI-DrugBank.d431.s6.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d431.s8" text="Therefore, proton pump inhibitors should be taken at least 30 minutes prior to sucralfate.">
+        <entity charOffset="11-32" id="DDI-DrugBank.d431.s8.e0" text="proton pump inhibitors" type="group" />
+        <entity charOffset="79-88" id="DDI-DrugBank.d431.s8.e1" text="sucralfate" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d431.s8.e0" e2="DDI-DrugBank.d431.s8.e1" id="DDI-DrugBank.d431.s8.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d431.s9" text="In clinical trials, antacids were administered concomitantly with lansoprazole delayed-release capsules;">
+        <entity charOffset="20-27" id="DDI-DrugBank.d431.s9.e0" text="antacids" type="group" />
+        <entity charOffset="66-77" id="DDI-DrugBank.d431.s9.e1" text="lansoprazole" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d431.s9.e0" e2="DDI-DrugBank.d431.s9.e1" id="DDI-DrugBank.d431.s9.p0" />
+    </sentence>
+    </document>

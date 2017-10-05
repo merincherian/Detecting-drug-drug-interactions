@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d647">
+    <sentence id="DDI-DrugBank.d647.s1" text="Streptozocin has been reported to prolong the elimination half-life of doxorubicin and may lead to severe bone marrow suppression; ">
+        <entity charOffset="0-11" id="DDI-DrugBank.d647.s1.e0" text="Streptozocin" type="drug" />
+        <entity charOffset="71-81" id="DDI-DrugBank.d647.s1.e1" text="doxorubicin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d647.s1.e0" e2="DDI-DrugBank.d647.s1.e1" id="DDI-DrugBank.d647.s1.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d647.s2" text="a reduction of the doxorubicin dosage should be considered in patients receiving ZANOSAR concurrently. ">
+        <entity charOffset="19-29" id="DDI-DrugBank.d647.s2.e0" text="doxorubicin" type="drug" />
+        <entity charOffset="81-87" id="DDI-DrugBank.d647.s2.e1" text="ZANOSAR" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d647.s2.e0" e2="DDI-DrugBank.d647.s2.e1" id="DDI-DrugBank.d647.s2.p0" type="advise" />
+    </sentence>
+    </document>

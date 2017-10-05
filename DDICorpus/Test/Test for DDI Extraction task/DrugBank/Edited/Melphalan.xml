@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d625">
+    <sentence id="DDI-DrugBank.d625.s1" text="Impaired renal function has been described in bone marrow transplant patients who were conditioned with high-dose intravenous melphalan and who subsequently received cyclosporin to prevent graft-versus-host disease">
+        <entity charOffset="126-134" id="DDI-DrugBank.d625.s1.e0" text="melphalan" type="drug" />
+        <entity charOffset="166-176" id="DDI-DrugBank.d625.s1.e1" text="cyclosporin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d625.s1.e0" e2="DDI-DrugBank.d625.s1.e1" id="DDI-DrugBank.d625.s1.p0" type="effect" />
+    </sentence>
+</document>

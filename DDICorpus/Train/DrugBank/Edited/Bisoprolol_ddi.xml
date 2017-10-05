@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d476">
+    <sentence id="DDI-DrugBank.d476.s0" text="ZEBETA should not be combined with other beta-blocking agents.">
+        <entity charOffset="0-5" id="DDI-DrugBank.d476.s0.e0" text="ZEBETA" type="brand" />
+        <entity charOffset="41-60" id="DDI-DrugBank.d476.s0.e1" text="beta-blocking agents" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d476.s0.e0" e2="DDI-DrugBank.d476.s0.e1" id="DDI-DrugBank.d476.s0.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d476.s7" text="There was no effect of ZEBETA on prothrombin time in patients on stable doses of warfarin.">
+        <entity charOffset="23-28" id="DDI-DrugBank.d476.s7.e0" text="ZEBETA" type="brand" />
+        <entity charOffset="81-88" id="DDI-DrugBank.d476.s7.e1" text="warfarin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d476.s7.e0" e2="DDI-DrugBank.d476.s7.e1" id="DDI-DrugBank.d476.s7.p0" />
+    </sentence>
+    </document>

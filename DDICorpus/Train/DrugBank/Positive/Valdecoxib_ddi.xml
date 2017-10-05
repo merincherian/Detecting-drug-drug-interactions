@@ -1,0 +1,22 @@
+<document id="DDI-DrugBank.d328">
+    <sentence id="DDI-DrugBank.d328.s9" text="This interaction should be given consideration in patients taking BEXTRA concomitantly with ACE-inhibitors.">
+        <entity charOffset="66-71" id="DDI-DrugBank.d328.s9.e0" text="BEXTRA" type="brand" />
+        <entity charOffset="92-105" id="DDI-DrugBank.d328.s9.e1" text="ACE-inhibitors" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d328.s9.e0" e2="DDI-DrugBank.d328.s9.e1" id="DDI-DrugBank.d328.s9.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d328.s13" text="Patients already stabilized on valdecoxib should be closely monitored for loss of symptom control with phenytoin coadministration.">
+        <entity charOffset="31-40" id="DDI-DrugBank.d328.s13.e0" text="valdecoxib" type="drug" />
+        <entity charOffset="103-111" id="DDI-DrugBank.d328.s13.e1" text="phenytoin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d328.s13.e0" e2="DDI-DrugBank.d328.s13.e1" id="DDI-DrugBank.d328.s13.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d328.s19" text="Even so dextromethorphan plasma concentrations in the presence of high doses of valdecoxib were almost 5-fold lower than those seen in CYP 2D6 poor metabolizers suggesting that dose adjustment is not necessary.">
+        <entity charOffset="8-23" id="DDI-DrugBank.d328.s19.e0" text="dextromethorphan" type="drug" />
+        <entity charOffset="80-89" id="DDI-DrugBank.d328.s19.e1" text="valdecoxib" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d328.s19.e0" e2="DDI-DrugBank.d328.s19.e1" id="DDI-DrugBank.d328.s19.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d328.s39" text="Coadministration with valdecoxib increased exposure of omeprazole (AUC) by 46%.">
+        <entity charOffset="22-31" id="DDI-DrugBank.d328.s39.e0" text="valdecoxib" type="drug" />
+        <entity charOffset="55-64" id="DDI-DrugBank.d328.s39.e1" text="omeprazole" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d328.s39.e0" e2="DDI-DrugBank.d328.s39.e1" id="DDI-DrugBank.d328.s39.p0" type="mechanism" />
+    </sentence>
+    </document>

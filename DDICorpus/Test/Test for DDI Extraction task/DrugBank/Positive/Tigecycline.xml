@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d642">
+    <sentence id="DDI-DrugBank.d642.s0" text="Prothrombin time or other suitable anticoagulation test should be monitored if tigecycline is administered with warfarin.   ">
+        <entity charOffset="79-89" id="DDI-DrugBank.d642.s0.e0" text="tigecycline" type="drug" />
+        <entity charOffset="112-119" id="DDI-DrugBank.d642.s0.e1" text="warfarin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d642.s0.e0" e2="DDI-DrugBank.d642.s0.e1" id="DDI-DrugBank.d642.s0.p0" type="advise" />
+    </sentence>
+    </document>

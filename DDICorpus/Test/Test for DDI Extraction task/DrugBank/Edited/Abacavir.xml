@@ -1,0 +1,13 @@
+<document id="DDI-DrugBank.d610">
+    <sentence id="DDI-DrugBank.d610.s2" text="Abacavir has no effect on the pharmacokinetic properties of ethanol. ">
+        <entity charOffset="0-7" id="DDI-DrugBank.d610.s2.e0" text="Abacavir" type="drug" />
+        <entity charOffset="60-66" id="DDI-DrugBank.d610.s2.e1" text="ethanol" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d610.s2.e0" e2="DDI-DrugBank.d610.s2.e1" id="DDI-DrugBank.d610.s2.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d610.s5" text="This alteration will not result in a methadone dose modification in the majority of patients; ">
+        <entity charOffset="37-45" id="DDI-DrugBank.d610.s5.e0" text="methadone" type="drug" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d610.s6" text="however, an increased methadone dose may be required in a small number of patients.">
+        <entity charOffset="22-30" id="DDI-DrugBank.d610.s6.e0" text="methadone" type="drug" />
+    </sentence>
+</document>

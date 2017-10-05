@@ -1,0 +1,22 @@
+<document id="DDI-DrugBank.d226">
+    <sentence id="DDI-DrugBank.d226.s3" text="The use of Adenocard in patients receiving digitalis may be rarely associated with ventricular fibrillation.">
+        <entity charOffset="11-19" id="DDI-DrugBank.d226.s3.e0" text="Adenocard" type="brand" />
+        <entity charOffset="43-51" id="DDI-DrugBank.d226.s3.e1" text="digitalis" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d226.s3.e0" e2="DDI-DrugBank.d226.s3.e1" id="DDI-DrugBank.d226.s3.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d226.s6" text="Adenosine effects are potentiated by dipyridamole.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d226.s6.e0" text="Adenosine" type="drug" />
+        <entity charOffset="37-48" id="DDI-DrugBank.d226.s6.e1" text="dipyridamole" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d226.s6.e0" e2="DDI-DrugBank.d226.s6.e1" id="DDI-DrugBank.d226.s6.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d226.s7" text="Thus, smaller doses of adenosine may be effective in the presence of dipyridamole.">
+        <entity charOffset="23-31" id="DDI-DrugBank.d226.s7.e0" text="adenosine" type="drug" />
+        <entity charOffset="69-80" id="DDI-DrugBank.d226.s7.e1" text="dipyridamole" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d226.s7.e0" e2="DDI-DrugBank.d226.s7.e1" id="DDI-DrugBank.d226.s7.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d226.s9" text="As the primary effect of adenosine is to decrease conduction through the A-V node, higher degrees of heart block may be produced in the presence of carbamazepine.">
+        <entity charOffset="25-33" id="DDI-DrugBank.d226.s9.e0" text="adenosine" type="drug" />
+        <entity charOffset="148-160" id="DDI-DrugBank.d226.s9.e1" text="carbamazepine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d226.s9.e0" e2="DDI-DrugBank.d226.s9.e1" id="DDI-DrugBank.d226.s9.p0" type="effect" />
+    </sentence>
+</document>

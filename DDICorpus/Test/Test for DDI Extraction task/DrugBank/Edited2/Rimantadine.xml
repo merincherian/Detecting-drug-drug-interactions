@@ -1,0 +1,22 @@
+<document id="DDI-DrugBank.d710">
+    <sentence id="DDI-DrugBank.d710.s2" text="Acetaminophen: Rimantadine HCl, 100 mg, was given twice daily for 13 days to 12 healthy volunteers. ">
+        <entity charOffset="0-12" id="DDI-DrugBank.d710.s2.e0" text="Acetaminophen" type="drug" />
+        <entity charOffset="15-29" id="DDI-DrugBank.d710.s2.e1" text="Rimantadine HCl" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d710.s2.e0" e2="DDI-DrugBank.d710.s2.e1" id="DDI-DrugBank.d710.s2.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d710.s5" text="Coadministration with acetaminophen reduced the peak concentration and AUC values for rimantadine by approximately 11%. ">
+        <entity charOffset="22-34" id="DDI-DrugBank.d710.s5.e0" text="acetaminophen" type="drug" />
+        <entity charOffset="86-96" id="DDI-DrugBank.d710.s5.e1" text="rimantadine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d710.s5.e0" e2="DDI-DrugBank.d710.s5.e1" id="DDI-DrugBank.d710.s5.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d710.s6" text="Aspirin: Rimantadine HCl, 100 mg, was given twice daily fro 13 days to 12 healthy volunteers. ">
+        <entity charOffset="0-6" id="DDI-DrugBank.d710.s6.e0" text="Aspirin" type="brand" />
+        <entity charOffset="9-23" id="DDI-DrugBank.d710.s6.e1" text="Rimantadine HCl" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d710.s6.e0" e2="DDI-DrugBank.d710.s6.e1" id="DDI-DrugBank.d710.s6.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d710.s9" text="Peak plasma concentrations and AUC of rimantadine were reduced approximately 10% in the presence of aspirin.">
+        <entity charOffset="38-48" id="DDI-DrugBank.d710.s9.e0" text="rimantadine" type="drug" />
+        <entity charOffset="100-106" id="DDI-DrugBank.d710.s9.e1" text="aspirin" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d710.s9.e0" e2="DDI-DrugBank.d710.s9.e1" id="DDI-DrugBank.d710.s9.p0" type="mechanism" />
+    </sentence>
+</document>

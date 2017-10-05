@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d693">
+    <sentence id="DDI-DrugBank.d693.s1" text="When daily doses of sulfasalazine 2 g and weekly doses of methotrexate 7.5 mg were coadministered to 15 rheumatoid arthritis patients in a drug-drug interaction study, the pharmacokinetic disposition of the drugs was not altered. ">
+        <entity charOffset="20-32" id="DDI-DrugBank.d693.s1.e0" text="sulfasalazine" type="drug" />
+        <entity charOffset="58-69" id="DDI-DrugBank.d693.s1.e1" text="methotrexate" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d693.s1.e0" e2="DDI-DrugBank.d693.s1.e1" id="DDI-DrugBank.d693.s1.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d693.s2" text="Daily doses of sulfasalazine 2 g (maximum 3 g) and weekly doses of methotrexate 7.5 mg (maximum 15 mg) were administered alone or in combination to 310 rheumatoid arthritis patients in two controlled 52-week clinical studies. ">
+        <entity charOffset="15-27" id="DDI-DrugBank.d693.s2.e0" text="sulfasalazine" type="drug" />
+        <entity charOffset="67-78" id="DDI-DrugBank.d693.s2.e1" text="methotrexate" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d693.s2.e0" e2="DDI-DrugBank.d693.s2.e1" id="DDI-DrugBank.d693.s2.p0" />
+    </sentence>
+    </document>

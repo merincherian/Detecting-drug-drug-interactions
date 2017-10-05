@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d202">
+    <sentence id="DDI-DrugBank.d202.s7" text="Fluoxetine and its active metabolite, norfluoxe-tine, have long half-lives (4 to 16 days for norfluoxetine), that may affect strategies during conversion from one drug to the other.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d202.s7.e0" text="Fluoxetine" type="drug" />
+        <entity charOffset="93-105" id="DDI-DrugBank.d202.s7.e1" text="norfluoxetine" type="drug_n" />
+        <pair ddi="false" e1="DDI-DrugBank.d202.s7.e0" e2="DDI-DrugBank.d202.s7.e1" id="DDI-DrugBank.d202.s7.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d202.s15" text="Concomitant use of tricyclic antidepressants with other drugs metabolized by cytochrome P450IID6 may require lower doses than usually prescribed for either the tricyclic antidepressant or the other drug.">
+        <entity charOffset="19-43" id="DDI-DrugBank.d202.s15.e0" text="tricyclic antidepressants" type="group" />
+        <entity charOffset="160-183" id="DDI-DrugBank.d202.s15.e1" text="tricyclic antidepressant" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d202.s15.e0" e2="DDI-DrugBank.d202.s15.e1" id="DDI-DrugBank.d202.s15.p0" />
+    </sentence>
+    </document>

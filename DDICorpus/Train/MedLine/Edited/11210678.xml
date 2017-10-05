@@ -1,0 +1,10 @@
+<document id="DDI-MedLine.d67">
+    <sentence id="DDI-MedLine.d67.s3" text="Benzodiazepines were administered to mice 30 min before applying the analgesic drugs. ">
+        <entity charOffset="0-14" id="DDI-MedLine.d67.s3.e0" text="Benzodiazepines" type="group" />
+        <entity charOffset="69-83" id="DDI-MedLine.d67.s3.e1" text="analgesic drugs" type="group" />
+        <pair ddi="false" e1="DDI-MedLine.d67.s3.e0" e2="DDI-MedLine.d67.s3.e1" id="DDI-MedLine.d67.s3.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d67.s4" text="Measurement of nociception was performed within 2 h after benzodiazepine administration. ">
+        <entity charOffset="58-71" id="DDI-MedLine.d67.s4.e0" text="benzodiazepine" type="group" />
+    </sentence>
+    </document>

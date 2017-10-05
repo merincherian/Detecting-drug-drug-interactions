@@ -1,0 +1,27 @@
+<document id="DDI-DrugBank.d382">
+    <sentence id="DDI-DrugBank.d382.s5" text="Coadministration of Aprepitant with these drugs or other drugs that are known to be metabolized by CYP2C9, such as phenytoin, may result in lower plasma concentrations of these drugs.">
+        <entity charOffset="20-29" id="DDI-DrugBank.d382.s5.e0" text="Aprepitant" type="drug" />
+        <entity charOffset="115-123" id="DDI-DrugBank.d382.s5.e1" text="phenytoin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d382.s5.e0" e2="DDI-DrugBank.d382.s5.e1" id="DDI-DrugBank.d382.s5.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d382.s17" text="In patients on chronic warfarin therapy, the prothrombin time (INR) should be closely monitored in the 2-week period, particularly at 7 to 10 days, following initiation of the 3-day regimen of Aprepitant with each chemotherapy cycle.">
+        <entity charOffset="23-30" id="DDI-DrugBank.d382.s17.e0" text="warfarin" type="drug" />
+        <entity charOffset="193-202" id="DDI-DrugBank.d382.s17.e1" text="Aprepitant" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d382.s17.e0" e2="DDI-DrugBank.d382.s17.e1" id="DDI-DrugBank.d382.s17.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d382.s20" text="therefore, the efficacy of oral contraceptives during administration of Aprepitant may be reduced.">
+        <entity charOffset="32-45" id="DDI-DrugBank.d382.s20.e0" text="contraceptives" type="group" />
+        <entity charOffset="72-81" id="DDI-DrugBank.d382.s20.e1" text="Aprepitant" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d382.s20.e0" e2="DDI-DrugBank.d382.s20.e1" id="DDI-DrugBank.d382.s20.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d382.s21" text="Although a 3-day regimen of Aprepitant given concomitantly with oral contraceptives has not been studied, alternative or back-up methods of contraception should be used.">
+        <entity charOffset="28-37" id="DDI-DrugBank.d382.s21.e0" text="Aprepitant" type="drug" />
+        <entity charOffset="69-82" id="DDI-DrugBank.d382.s21.e1" text="contraceptives" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d382.s21.e0" e2="DDI-DrugBank.d382.s21.e1" id="DDI-DrugBank.d382.s21.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d382.s32" text="Because moderate CYP3A4 inhibitors (e.g., diltiazem) result in 2-fold increase in plasma concentrations of aprepitant, concomitant administration should also be approached with caution.">
+        <entity charOffset="42-50" id="DDI-DrugBank.d382.s32.e0" text="diltiazem" type="drug" />
+        <entity charOffset="107-116" id="DDI-DrugBank.d382.s32.e1" text="aprepitant" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d382.s32.e0" e2="DDI-DrugBank.d382.s32.e1" id="DDI-DrugBank.d382.s32.p0" type="advise" />
+    </sentence>
+    </document>

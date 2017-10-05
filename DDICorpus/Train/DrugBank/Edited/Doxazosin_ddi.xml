@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d367">
+    <sentence id="DDI-DrugBank.d367.s13" text="Antihistamines (e.g., chlorpheniramine).">
+        <entity charOffset="0-13" id="DDI-DrugBank.d367.s13.e0" text="Antihistamines" type="group" />
+        <entity charOffset="22-37" id="DDI-DrugBank.d367.s13.e1" text="chlorpheniramine" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d367.s13.e0" e2="DDI-DrugBank.d367.s13.e1" id="DDI-DrugBank.d367.s13.p0" />
+    </sentence>
+    </document>

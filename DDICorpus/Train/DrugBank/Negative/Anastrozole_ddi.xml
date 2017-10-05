@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d195">
+    <sentence id="DDI-DrugBank.d195.s2" text="Anastrozole did not alter the pharmacokinetics of antipyrine.">
+        <entity charOffset="0-10" id="DDI-DrugBank.d195.s2.e0" text="Anastrozole" type="drug" />
+        <entity charOffset="50-59" id="DDI-DrugBank.d195.s2.e1" text="antipyrine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d195.s2.e0" e2="DDI-DrugBank.d195.s2.e1" id="DDI-DrugBank.d195.s2.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d195.s3" text="Although there have been no formal interaction studies other than with antipyrine, based on these in vivo and in vitro studies, it is unlikely that co-administration of a 1 mg dose of ARIMIDEX with other drugs will result in clinically significant drug inhibition of cytochrome P450-mediated metabolism of the other drugs.">
+        <entity charOffset="71-80" id="DDI-DrugBank.d195.s3.e0" text="antipyrine" type="drug" />
+        <entity charOffset="184-191" id="DDI-DrugBank.d195.s3.e1" text="ARIMIDEX" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d195.s3.e0" e2="DDI-DrugBank.d195.s3.e1" id="DDI-DrugBank.d195.s3.p0" />
+    </sentence>
+    </document>

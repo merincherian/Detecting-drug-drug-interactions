@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d736">
+    <sentence id="DDI-DrugBank.d736.s1" text="Hypokalemia may develop during concomitant use of steroids or ACTH. ">
+        <entity charOffset="50-57" id="DDI-DrugBank.d736.s1.e0" text="steroids" type="group" />
+        <entity charOffset="62-65" id="DDI-DrugBank.d736.s1.e1" text="ACTH" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d736.s1.e0" e2="DDI-DrugBank.d736.s1.e1" id="DDI-DrugBank.d736.s1.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d736.s8" text="Potentiation occurs with ganglionic or peripheral adrenergic blocking drugs.">
+        <entity charOffset="25-34;50-74" id="DDI-DrugBank.d736.s8.e0" text="ganglionic adrenergic blocking drugs" type="group" />
+        <entity charOffset="39-74" id="DDI-DrugBank.d736.s8.e1" text="peripheral adrenergic blocking drugs" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d736.s8.e0" e2="DDI-DrugBank.d736.s8.e1" id="DDI-DrugBank.d736.s8.p0" />
+    </sentence>
+</document>

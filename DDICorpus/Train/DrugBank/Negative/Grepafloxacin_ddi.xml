@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d78">
+    <sentence id="DDI-DrugBank.d78.s5" text="In some patients, this may lead to reduced clearance, prolongation of plasma half-life, and enhanced effects of caffeine and theobromine.">
+        <entity charOffset="112-119" id="DDI-DrugBank.d78.s5.e0" text="caffeine" type="drug" />
+        <entity charOffset="125-135" id="DDI-DrugBank.d78.s5.e1" text="theobromine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d78.s5.e0" e2="DDI-DrugBank.d78.s5.e1" id="DDI-DrugBank.d78.s5.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d78.s13" text="substrates, in vitro data suggest similar effects of grepafloxacin in CYP3A4 mediated metabolism and theophylline metabolism.">
+        <entity charOffset="53-65" id="DDI-DrugBank.d78.s13.e0" text="grepafloxacin" type="drug" />
+        <entity charOffset="101-112" id="DDI-DrugBank.d78.s13.e1" text="theophylline" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d78.s13.e0" e2="DDI-DrugBank.d78.s13.e1" id="DDI-DrugBank.d78.s13.p0" />
+    </sentence>
+    </document>

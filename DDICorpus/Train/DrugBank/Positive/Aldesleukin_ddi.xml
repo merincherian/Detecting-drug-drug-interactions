@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d114">
+    <sentence id="DDI-DrugBank.d114.s8" text="Myocardial injury, including myocardial infarction, myocarditis, ventricular hypokinesia, and severe rhabdomyolysis appear to be increased in patients receiving PROLEUKIN and interferon-alfa concurrently.">
+        <entity charOffset="161-169" id="DDI-DrugBank.d114.s8.e0" text="PROLEUKIN" type="brand" />
+        <entity charOffset="175-189" id="DDI-DrugBank.d114.s8.e1" text="interferon-alfa" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d114.s8.e0" e2="DDI-DrugBank.d114.s8.e1" id="DDI-DrugBank.d114.s8.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d114.s9" text="Exacerbation or the initial presentation of a number of autoimmune and inflammatory disorders has been observed following concurrent use of interferon-alfa and PROLEUKIN, including crescentic IgA glomerulonephritis, oculo-bulbar myasthenia gravis, inflammatory arthritis, thyroiditis, bullous pemphigoid, and Stevens-Johnson syndrome.">
+        <entity charOffset="140-154" id="DDI-DrugBank.d114.s9.e0" text="interferon-alfa" type="drug" />
+        <entity charOffset="160-168" id="DDI-DrugBank.d114.s9.e1" text="PROLEUKIN" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d114.s9.e0" e2="DDI-DrugBank.d114.s9.e1" id="DDI-DrugBank.d114.s9.p0" type="effect" />
+    </sentence>
+    </document>

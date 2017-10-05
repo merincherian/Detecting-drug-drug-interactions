@@ -1,0 +1,10 @@
+<document id="DDI-DrugBank.d648">
+    <sentence id="DDI-DrugBank.d648.s3" text="If EVISTA is given concurrently with warfarin, prothrombin time should be monitored. ">
+        <entity charOffset="3-8" id="DDI-DrugBank.d648.s3.e0" text="EVISTA" type="brand" />
+        <entity charOffset="37-44" id="DDI-DrugBank.d648.s3.e1" text="warfarin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d648.s3.e0" e2="DDI-DrugBank.d648.s3.e1" id="DDI-DrugBank.d648.s3.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d648.s4" text="Other Highly Protein-Bound Drugs: Raloxifene is more than 95% bound to plasma proteins. ">
+        <entity charOffset="34-43" id="DDI-DrugBank.d648.s4.e0" text="Raloxifene" type="drug" />
+    </sentence>
+    </document>

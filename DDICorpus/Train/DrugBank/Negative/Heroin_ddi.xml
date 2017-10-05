@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d514">
+    <sentence id="DDI-DrugBank.d514.s0" text="Opioids are strong central nervous system depressants, but regular users develop physiological tolerance allowing gradually increased dosages.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d514.s0.e0" text="Opioids" type="group" />
+        <entity charOffset="19-52" id="DDI-DrugBank.d514.s0.e1" text="central nervous system depressants" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d514.s0.e0" e2="DDI-DrugBank.d514.s0.e1" id="DDI-DrugBank.d514.s0.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d514.s3" text="Ironically, benzodiazepines are often used in the treatment of heroin addiction while they cause much more severe withdrawal symptoms.">
+        <entity charOffset="12-26" id="DDI-DrugBank.d514.s3.e0" text="benzodiazepines" type="group" />
+        <entity charOffset="63-68" id="DDI-DrugBank.d514.s3.e1" text="heroin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d514.s3.e0" e2="DDI-DrugBank.d514.s3.e1" id="DDI-DrugBank.d514.s3.p0" />
+    </sentence>
+    </document>

@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d619">
+    <sentence id="DDI-DrugBank.d619.s0" text="The occurrence of stupor, muscular rigidity, severe agitation, and elevated temperature has been reported in some patients receiving the combination of selegiline and meperidine. ">
+        <entity charOffset="152-161" id="DDI-DrugBank.d619.s0.e0" text="selegiline" type="drug" />
+        <entity charOffset="167-176" id="DDI-DrugBank.d619.s0.e1" text="meperidine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d619.s0.e0" e2="DDI-DrugBank.d619.s0.e1" id="DDI-DrugBank.d619.s0.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d619.s2" text="This is typical of the interaction of meperidine and MAOIs. ">
+        <entity charOffset="38-47" id="DDI-DrugBank.d619.s2.e0" text="meperidine" type="drug" />
+        <entity charOffset="53-57" id="DDI-DrugBank.d619.s2.e1" text="MAOIs" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d619.s2.e0" e2="DDI-DrugBank.d619.s2.e1" id="DDI-DrugBank.d619.s2.p0" type="int" />
+    </sentence>
+    </document>

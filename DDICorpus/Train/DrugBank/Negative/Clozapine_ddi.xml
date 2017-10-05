@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d480">
+    <sentence id="DDI-DrugBank.d480.s7" text="similar events have been reported in patients taking other psychotropic drugs or even Clozapine by itself.">
+        <entity charOffset="59-76" id="DDI-DrugBank.d480.s7.e0" text="psychotropic drugs" type="group" />
+        <entity charOffset="86-94" id="DDI-DrugBank.d480.s7.e1" text="Clozapine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d480.s7.e0" e2="DDI-DrugBank.d480.s7.e1" id="DDI-DrugBank.d480.s7.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d480.s10" text="The administration of epinephrine should be avoided in the treatment of drug induced hypotension because of a possible reverse epinephrine effect.">
+        <entity charOffset="22-32" id="DDI-DrugBank.d480.s10.e0" text="epinephrine" type="drug" />
+        <entity charOffset="127-137" id="DDI-DrugBank.d480.s10.e1" text="epinephrine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d480.s10.e0" e2="DDI-DrugBank.d480.s10.e1" id="DDI-DrugBank.d480.s10.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d480.s29" text="Concomitant use of clozapine with other drugs metabolized by cytochrome P450 2D6 may require lower doses than usually prescribed for either clozapine or the other drug.">
+        <entity charOffset="19-27" id="DDI-DrugBank.d480.s29.e0" text="clozapine" type="drug" />
+        <entity charOffset="140-148" id="DDI-DrugBank.d480.s29.e1" text="clozapine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d480.s29.e0" e2="DDI-DrugBank.d480.s29.e1" id="DDI-DrugBank.d480.s29.p0" />
+    </sentence>
+    </document>

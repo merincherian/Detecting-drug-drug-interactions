@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d66">
+    <sentence id="DDI-DrugBank.d66.s6" text="In another report, nine patients with breast cancer were reported to have decreased symptoms of methotrexate-related toxicity when given supplemental L-glutamine at a dose of 0.5 gram/kilogram/day.">
+        <entity charOffset="96-107" id="DDI-DrugBank.d66.s6.e0" text="methotrexate" type="drug" />
+        <entity charOffset="150-160" id="DDI-DrugBank.d66.s6.e1" text="L-glutamine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d66.s6.e0" e2="DDI-DrugBank.d66.s6.e1" id="DDI-DrugBank.d66.s6.p0" type="effect" />
+    </sentence>
+    </document>

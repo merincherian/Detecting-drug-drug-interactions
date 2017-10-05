@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d777">
+    <sentence id="DDI-DrugBank.d777.s5" text="The addition of aspirin to Streptokinase causes a minimal increase in the risk of minor bleeding (3.9% vs. 3.1%), but does not appear to increase the incidence of major bleeding (see">
+        <entity charOffset="16-22" id="DDI-DrugBank.d777.s5.e0" text="aspirin" type="brand" />
+        <entity charOffset="27-39" id="DDI-DrugBank.d777.s5.e1" text="Streptokinase" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d777.s5.e0" e2="DDI-DrugBank.d777.s5.e1" id="DDI-DrugBank.d777.s5.p0" type="effect" />
+    </sentence>
+</document>

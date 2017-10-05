@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d91">
+    <sentence id="DDI-DrugBank.d91.s2" text="When you are using idoxuridine, it is especially important that your health care professional know if you are using the following: Eye product containing boric acid.">
+        <entity charOffset="19-29" id="DDI-DrugBank.d91.s2.e0" text="idoxuridine" type="drug" />
+        <entity charOffset="154-163" id="DDI-DrugBank.d91.s2.e1" text="boric acid" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d91.s2.e0" e2="DDI-DrugBank.d91.s2.e1" id="DDI-DrugBank.d91.s2.p0" type="advise" />
+    </sentence>
+    </document>

@@ -1,0 +1,16 @@
+<document id="DDI-MedLine.d123">
+    <sentence id="DDI-MedLine.d123.s2" text="Here we show that a combination of galangin or 3,7-dihydroxyflavone with vancomycin may be used to sensitize resistant strains of Enterococcus faecalis and Enterococcus faecium to the level of vancomycin-sensitive strains. ">
+        <entity charOffset="35-42" id="DDI-MedLine.d123.s2.e0" text="galangin" type="drug" />
+        <entity charOffset="73-82" id="DDI-MedLine.d123.s2.e1" text="vancomycin" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d123.s2.e0" e2="DDI-MedLine.d123.s2.e1" id="DDI-MedLine.d123.s2.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d123.s4" text="MICs of vancomycin against 67% of resistant clinical isolates and a type strain of enterococci were lowered from &gt; 250 microg mL(-1) to 1">
+        <entity charOffset="8-17" id="DDI-MedLine.d123.s4.e0" text="vancomycin" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d123.s5" text="4 microg mL(-1) in the presence of galangin (12.5 microg mL(-1)) or 3,7-dihydroxyflavone (6.25 microg mL(-1)). ">
+        <entity charOffset="35-42" id="DDI-MedLine.d123.s5.e0" text="galangin" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d123.s8" text="CFUs were maintained at low levels (10(3) CFU mL(-1)) for 24 h by vancomycin/flavone combinations. ">
+        <entity charOffset="66-75" id="DDI-MedLine.d123.s8.e0" text="vancomycin" type="drug" />
+    </sentence>
+    </document>

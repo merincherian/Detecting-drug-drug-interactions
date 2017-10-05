@@ -1,0 +1,22 @@
+<document id="DDI-DrugBank.d440">
+    <sentence id="DDI-DrugBank.d440.s0" text="Calcium Supplements/Antacids">
+        <entity charOffset="0-6" id="DDI-DrugBank.d440.s0.e0" text="Calcium" type="drug" />
+        <entity charOffset="20-27" id="DDI-DrugBank.d440.s0.e1" text="Antacids" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d440.s0.e0" e2="DDI-DrugBank.d440.s0.e1" id="DDI-DrugBank.d440.s0.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d440.s7" text="Among these patients, the incidence of upper gastrointestinal adverse experiences in the patients treated with Ibandronate 150 mg once monthly was similar to that in patients treated with Ibandronate 2.5 mg once daily.">
+        <entity charOffset="111-121" id="DDI-DrugBank.d440.s7.e0" text="Ibandronate" type="drug" />
+        <entity charOffset="188-198" id="DDI-DrugBank.d440.s7.e1" text="Ibandronate" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d440.s7.e0" e2="DDI-DrugBank.d440.s7.e1" id="DDI-DrugBank.d440.s7.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d440.s9" text="In the large, placebo-controlled osteoporosis Treatment Study, aspirin and nonsteroidal anti-inflammatory drugs were taken by 62% of the 2946 patients.">
+        <entity charOffset="63-69" id="DDI-DrugBank.d440.s9.e0" text="aspirin" type="brand" />
+        <entity charOffset="75-110" id="DDI-DrugBank.d440.s9.e1" text="nonsteroidal anti-inflammatory drugs" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d440.s9.e0" e2="DDI-DrugBank.d440.s9.e1" id="DDI-DrugBank.d440.s9.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d440.s11" text="Similarly, in the 1-year monthly comparison study, aspirin and nonsteroidal anti-inflammatory drugs were taken by 39% of the 1602 patients.">
+        <entity charOffset="51-57" id="DDI-DrugBank.d440.s11.e0" text="aspirin" type="brand" />
+        <entity charOffset="63-98" id="DDI-DrugBank.d440.s11.e1" text="nonsteroidal anti-inflammatory drugs" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d440.s11.e0" e2="DDI-DrugBank.d440.s11.e1" id="DDI-DrugBank.d440.s11.p0" />
+    </sentence>
+    </document>

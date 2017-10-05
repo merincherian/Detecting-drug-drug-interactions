@@ -1,0 +1,27 @@
+<document id="DDI-DrugBank.d353">
+    <sentence id="DDI-DrugBank.d353.s2" text="Repeating the study with 6 healthy male volunteers in the absence of glibenclamide did not detect an effect of acitretin on glucose tolerance.">
+        <entity charOffset="69-81" id="DDI-DrugBank.d353.s2.e0" text="glibenclamide" type="drug" />
+        <entity charOffset="111-119" id="DDI-DrugBank.d353.s2.e1" text="acitretin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d353.s2.e0" e2="DDI-DrugBank.d353.s2.e1" id="DDI-DrugBank.d353.s2.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d353.s5" text="However, it has been established that acitretin interferes with the contraceptive effect of microdosed progestin minipill preparations.">
+        <entity charOffset="38-46" id="DDI-DrugBank.d353.s5.e0" text="acitretin" type="drug" />
+        <entity charOffset="103-111" id="DDI-DrugBank.d353.s5.e1" text="progestin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d353.s5.e0" e2="DDI-DrugBank.d353.s5.e1" id="DDI-DrugBank.d353.s5.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d353.s6" text="Microdosed minipill progestin preparations are not recommended for use with Soriatane.">
+        <entity charOffset="20-28" id="DDI-DrugBank.d353.s6.e0" text="progestin" type="drug" />
+        <entity charOffset="76-84" id="DDI-DrugBank.d353.s6.e1" text="Soriatane" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d353.s6.e0" e2="DDI-DrugBank.d353.s6.e1" id="DDI-DrugBank.d353.s6.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d353.s7" text="It is not known whether other progestational contraceptives, such as implants and injectables, are adequate methods of contraception during acitretin therapy.">
+        <entity charOffset="30-58" id="DDI-DrugBank.d353.s7.e0" text="progestational contraceptives" type="group" />
+        <entity charOffset="140-148" id="DDI-DrugBank.d353.s7.e1" text="acitretin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d353.s7.e0" e2="DDI-DrugBank.d353.s7.e1" id="DDI-DrugBank.d353.s7.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d353.s9" text="Consequently, the combination of methotrexate with acitretin is also contraindicated.">
+        <entity charOffset="33-44" id="DDI-DrugBank.d353.s9.e0" text="methotrexate" type="drug" />
+        <entity charOffset="51-59" id="DDI-DrugBank.d353.s9.e1" text="acitretin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d353.s9.e0" e2="DDI-DrugBank.d353.s9.e1" id="DDI-DrugBank.d353.s9.p0" type="advise" />
+    </sentence>
+    </document>

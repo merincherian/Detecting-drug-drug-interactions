@@ -1,0 +1,33 @@
+<document id="DDI-MedLine.d124">
+    <sentence id="DDI-MedLine.d124.s0" text="Lack of interaction between levofloxacin and oxycodone: pharmacokinetics and drug disposition.&#10;">
+        <entity charOffset="28-39" id="DDI-MedLine.d124.s0.e0" text="levofloxacin" type="drug" />
+        <entity charOffset="45-53" id="DDI-MedLine.d124.s0.e1" text="oxycodone" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d124.s0.e0" e2="DDI-MedLine.d124.s0.e1" id="DDI-MedLine.d124.s0.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d124.s2" text="This decrease in absorption results in a 36% and 50% lower AUC for trovafloxacin and ciprofloxacin, respectively, which could cause clinical failures. ">
+        <entity charOffset="67-79" id="DDI-MedLine.d124.s2.e0" text="trovafloxacin" type="drug" />
+        <entity charOffset="85-97" id="DDI-MedLine.d124.s2.e1" text="ciprofloxacin" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d124.s2.e0" e2="DDI-MedLine.d124.s2.e1" id="DDI-MedLine.d124.s2.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d124.s3" text="The authors investigated the possibility of a similar interaction between oxycodone and levofloxacin. ">
+        <entity charOffset="74-82" id="DDI-MedLine.d124.s3.e0" text="oxycodone" type="drug" />
+        <entity charOffset="88-99" id="DDI-MedLine.d124.s3.e1" text="levofloxacin" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d124.s3.e0" e2="DDI-MedLine.d124.s3.e1" id="DDI-MedLine.d124.s3.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d124.s4" text="Eight healthy volunteers were randomized in an open-label, two-way crossover study to receive oxycodone, 5 mg p.o. ">
+        <entity charOffset="94-102" id="DDI-MedLine.d124.s4.e0" text="oxycodone" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d124.s5" text="Q4H, and levofloxacin, 500 mg p.o. ">
+        <entity charOffset="9-20" id="DDI-MedLine.d124.s5.e0" text="levofloxacin" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d124.s6" text="1 hour after starting the oxycodone or levofloxacin 500 mg p.o. ">
+        <entity charOffset="26-34" id="DDI-MedLine.d124.s6.e0" text="oxycodone" type="drug" />
+        <entity charOffset="39-50" id="DDI-MedLine.d124.s6.e1" text="levofloxacin" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d124.s6.e0" e2="DDI-MedLine.d124.s6.e1" id="DDI-MedLine.d124.s6.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d124.s10" text="It was concluded that oral oxycodone and levofloxacin can be administered concomitantly without a significant decrease in AUC, Cmax, or tmax.">
+        <entity charOffset="27-35" id="DDI-MedLine.d124.s10.e0" text="oxycodone" type="drug" />
+        <entity charOffset="41-52" id="DDI-MedLine.d124.s10.e1" text="levofloxacin" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d124.s10.e0" e2="DDI-MedLine.d124.s10.e1" id="DDI-MedLine.d124.s10.p0" />
+    </sentence>
+</document>

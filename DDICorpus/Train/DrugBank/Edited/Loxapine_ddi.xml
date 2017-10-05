@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d504">
+    <sentence id="DDI-DrugBank.d504.s0" text="There have been rare reports of significant respiratory depression, stupor and/or hypotension with the concomitant use of loxapine and lorazepam.">
+        <entity charOffset="122-129" id="DDI-DrugBank.d504.s0.e0" text="loxapine" type="drug" />
+        <entity charOffset="135-143" id="DDI-DrugBank.d504.s0.e1" text="lorazepam" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d504.s0.e0" e2="DDI-DrugBank.d504.s0.e1" id="DDI-DrugBank.d504.s0.p0" type="effect" />
+    </sentence>
+    </document>

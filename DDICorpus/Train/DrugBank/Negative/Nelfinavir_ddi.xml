@@ -1,0 +1,32 @@
+<document id="DDI-DrugBank.d340">
+    <sentence id="DDI-DrugBank.d340.s1" text="Coadministration of VIRACEPT and drugs primarily metabolized by CYP3A (e.g., dihydropyridine calcium channel blockers) may result in increased plasma concentrations of the other drug that could increase or prolong both its therapeutic and adverse effects.">
+        <entity charOffset="20-27" id="DDI-DrugBank.d340.s1.e0" text="VIRACEPT" type="brand" />
+        <entity charOffset="77-116" id="DDI-DrugBank.d340.s1.e1" text="dihydropyridine calcium channel blockers" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d340.s1.e0" e2="DDI-DrugBank.d340.s1.e1" id="DDI-DrugBank.d340.s1.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d340.s3" text="Coadministration of VIRACEPT and drugs that induce CYP3A may decrease nelfinavir plasma concentrations and reduce its therapeutic effect.">
+        <entity charOffset="20-27" id="DDI-DrugBank.d340.s3.e0" text="VIRACEPT" type="brand" />
+        <entity charOffset="70-79" id="DDI-DrugBank.d340.s3.e1" text="nelfinavir" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d340.s3.e0" e2="DDI-DrugBank.d340.s3.e1" id="DDI-DrugBank.d340.s3.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d340.s4" text="Coadministration of VIRACEPT and drugs that inhibit CYP3A may increase nelfinavir plasma concentrations.">
+        <entity charOffset="20-27" id="DDI-DrugBank.d340.s4.e0" text="VIRACEPT" type="brand" />
+        <entity charOffset="71-80" id="DDI-DrugBank.d340.s4.e1" text="nelfinavir" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d340.s4.e0" e2="DDI-DrugBank.d340.s4.e1" id="DDI-DrugBank.d340.s4.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d340.s8" text="* This table is not all inclusive ** VIRACEPT may not be effective due to decreased nelfinavir plasma concentrations in patients taking these agents concomitantly">
+        <entity charOffset="37-44" id="DDI-DrugBank.d340.s8.e0" text="VIRACEPT" type="brand" />
+        <entity charOffset="84-93" id="DDI-DrugBank.d340.s8.e1" text="nelfinavir" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d340.s8.e0" e2="DDI-DrugBank.d340.s8.e1" id="DDI-DrugBank.d340.s8.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d340.s23" text="This change was not considered clinically significant and no dose adjustment is needed when ketoconazole and VIRACEPT are coadministered.">
+        <entity charOffset="92-103" id="DDI-DrugBank.d340.s23.e0" text="ketoconazole" type="drug" />
+        <entity charOffset="109-116" id="DDI-DrugBank.d340.s23.e1" text="VIRACEPT" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d340.s23.e0" e2="DDI-DrugBank.d340.s23.e1" id="DDI-DrugBank.d340.s23.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d340.s25" text="Didanosine: It is recommended that didanosine be administered on an empty stomach;">
+        <entity charOffset="0-9" id="DDI-DrugBank.d340.s25.e0" text="Didanosine" type="drug" />
+        <entity charOffset="35-44" id="DDI-DrugBank.d340.s25.e1" text="didanosine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d340.s25.e0" e2="DDI-DrugBank.d340.s25.e1" id="DDI-DrugBank.d340.s25.p0" />
+    </sentence>
+    </document>

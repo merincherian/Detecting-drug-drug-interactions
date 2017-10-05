@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d721">
+    <sentence id="DDI-DrugBank.d721.s3" text="The pharmacokinetic parameters of digoxin are not significantly modified by SKELID coadministration. ">
+        <entity charOffset="34-40" id="DDI-DrugBank.d721.s3.e0" text="digoxin" type="drug" />
+        <entity charOffset="76-81" id="DDI-DrugBank.d721.s3.e1" text="SKELID" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d721.s3.e0" e2="DDI-DrugBank.d721.s3.e1" id="DDI-DrugBank.d721.s3.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d721.s4" text="In vitro studies show that tiludronate does not displace warfarin from its binding site on protein.">
+        <entity charOffset="27-37" id="DDI-DrugBank.d721.s4.e0" text="tiludronate" type="drug" />
+        <entity charOffset="57-64" id="DDI-DrugBank.d721.s4.e1" text="warfarin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d721.s4.e0" e2="DDI-DrugBank.d721.s4.e1" id="DDI-DrugBank.d721.s4.p0" />
+    </sentence>
+</document>

@@ -1,0 +1,27 @@
+<document id="DDI-DrugBank.d163">
+    <sentence id="DDI-DrugBank.d163.s5" text="Although other hormonal contraceptives are highly effective, there have been reports of pregnancy from women who have used combined oral contraceptives, as well as topical/injectable/implantable/insertable hormonal birth control products.">
+        <entity charOffset="15-37" id="DDI-DrugBank.d163.s5.e0" text="hormonal contraceptives" type="group" />
+        <entity charOffset="123-150" id="DDI-DrugBank.d163.s5.e1" text="combined oral contraceptives" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d163.s5.e0" e2="DDI-DrugBank.d163.s5.e1" id="DDI-DrugBank.d163.s5.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d163.s7" text="It is not known if hormonal contraceptives differ in their effectiveness when used with Accutane.">
+        <entity charOffset="19-41" id="DDI-DrugBank.d163.s7.e0" text="hormonal contraceptives" type="group" />
+        <entity charOffset="88-95" id="DDI-DrugBank.d163.s7.e1" text="Accutane" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d163.s7.e0" e2="DDI-DrugBank.d163.s7.e1" id="DDI-DrugBank.d163.s7.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d163.s13" text="No formal clinical studies have been conducted to assess if there is an interactive effect on bone loss between phenytoin and Accutane.">
+        <entity charOffset="112-120" id="DDI-DrugBank.d163.s13.e0" text="phenytoin" type="drug" />
+        <entity charOffset="126-133" id="DDI-DrugBank.d163.s13.e1" text="Accutane" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d163.s13.e0" e2="DDI-DrugBank.d163.s13.e1" id="DDI-DrugBank.d163.s13.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d163.s16" text="Systemic Corticosteroids: Systemic corticosteroids are known to cause osteoporosis.">
+        <entity charOffset="0-23" id="DDI-DrugBank.d163.s16.e0" text="Systemic Corticosteroids" type="group" />
+        <entity charOffset="26-49" id="DDI-DrugBank.d163.s16.e1" text="Systemic corticosteroids" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d163.s16.e0" e2="DDI-DrugBank.d163.s16.e1" id="DDI-DrugBank.d163.s16.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d163.s17" text="No formal clinical studies have been conducted to assess if there is an interactive effect on bone loss between systemic corticosteroids and Accutane.">
+        <entity charOffset="112-135" id="DDI-DrugBank.d163.s17.e0" text="systemic corticosteroids" type="group" />
+        <entity charOffset="141-148" id="DDI-DrugBank.d163.s17.e1" text="Accutane" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d163.s17.e0" e2="DDI-DrugBank.d163.s17.e1" id="DDI-DrugBank.d163.s17.p0" />
+    </sentence>
+    </document>

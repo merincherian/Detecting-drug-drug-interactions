@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d106">
+    <sentence id="DDI-DrugBank.d106.s1" text="Ranitidine 150 mg twice daily did not interact significantly with nisoldipine (AUC was decreased by 15-20 %).">
+        <entity charOffset="0-9" id="DDI-DrugBank.d106.s1.e0" text="Ranitidine" type="drug" />
+        <entity charOffset="66-76" id="DDI-DrugBank.d106.s1.e1" text="nisoldipine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d106.s1.e0" e2="DDI-DrugBank.d106.s1.e1" id="DDI-DrugBank.d106.s1.p0" />
+    </sentence>
+    </document>

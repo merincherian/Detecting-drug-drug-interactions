@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d412">
+    <sentence id="DDI-DrugBank.d412.s16" text="Labetalol HCl has also been reported to produce a false positive test for amphetamine when screening urine for the presence of drugs using the commercially available assay methods Toxi-Lab A  (thin-layer chromatographic assay) and Emit-d.a.u.  (radioenzymatic assay).">
+        <entity charOffset="0-12" id="DDI-DrugBank.d412.s16.e0" text="Labetalol HCl" type="drug" />
+        <entity charOffset="74-84" id="DDI-DrugBank.d412.s16.e1" text="amphetamine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d412.s16.e0" e2="DDI-DrugBank.d412.s16.e1" id="DDI-DrugBank.d412.s16.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d412.s17" text="When patients being treated with labetalol have a positive urine test for amphetamine using these techniques confirmation should be made by using more specific methods such as a gas chromatographic-mass spectrometer technique.">
+        <entity charOffset="33-41" id="DDI-DrugBank.d412.s17.e0" text="labetalol" type="drug" />
+        <entity charOffset="74-84" id="DDI-DrugBank.d412.s17.e1" text="amphetamine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d412.s17.e0" e2="DDI-DrugBank.d412.s17.e1" id="DDI-DrugBank.d412.s17.p0" />
+    </sentence>
+</document>

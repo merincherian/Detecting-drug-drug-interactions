@@ -1,0 +1,11 @@
+<document id="DDI-MedLine.d70">
+    <sentence id="DDI-MedLine.d70.s0" text="Toxicity of cadmium and zinc to miracidia of Schistosoma mansoni.&#10;">
+        <entity charOffset="24-27" id="DDI-MedLine.d70.s0.e0" text="zinc" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d70.s2" text="The toxicity of cadmium, zinc, and cadmium/zinc mixtures at concentrations ranging from 10000 to 10 microg/l was investigated. ">
+        <entity charOffset="25-28" id="DDI-MedLine.d70.s2.e0" text="zinc" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d70.s5" text="Metal mixtures had no effect on egg hatching. ">
+        <entity charOffset="32-34" id="DDI-MedLine.d70.s5.e0" text="egg" type="drug" />
+    </sentence>
+    </document>

@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d94">
+    <sentence id="DDI-DrugBank.d94.s2" text="Agents that Inhibit Cytochrome P450 Isoenzymes and/or Epoxide Hydrolase Carbamazepine is metabolized mainly by cytochrome P450 (CYP) 3A4 to the active carbamazepine 10,11-epoxide, which is further metabolized to the trans-diol by epoxide hydrolase.">
+        <entity charOffset="72-84" id="DDI-DrugBank.d94.s2.e0" text="Carbamazepine" type="drug" />
+        <entity charOffset="151-177" id="DDI-DrugBank.d94.s2.e1" text="carbamazepine 10,11-epoxide" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d94.s2.e0" e2="DDI-DrugBank.d94.s2.e1" id="DDI-DrugBank.d94.s2.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d94.s5" text="Thus, if a patient has been titrated to a stable dosage of EQUETROTM, and then begins a course of treatment with one of these CYP3A4 or epoxide hydrolase inhibitors, it is reasonable to expect that a dose reduction for EQUETROTM may be necessary.">
+        <entity charOffset="59-67" id="DDI-DrugBank.d94.s5.e0" text="EQUETROTM" type="brand" />
+        <entity charOffset="219-227" id="DDI-DrugBank.d94.s5.e1" text="EQUETROTM" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d94.s5.e0" e2="DDI-DrugBank.d94.s5.e1" id="DDI-DrugBank.d94.s5.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d94.s9" text="Agents with Decreased Levels in the Presence of Carbamazepine due to Induction of Cytochrome P450 Enzymes Carbamazepine is known to induce CYP1A2 and CYP3A4.">
+        <entity charOffset="48-60" id="DDI-DrugBank.d94.s9.e0" text="Carbamazepine" type="drug" />
+        <entity charOffset="106-118" id="DDI-DrugBank.d94.s9.e1" text="Carbamazepine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d94.s9.e0" e2="DDI-DrugBank.d94.s9.e1" id="DDI-DrugBank.d94.s9.p0" />
+    </sentence>
+    </document>

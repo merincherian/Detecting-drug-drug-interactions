@@ -1,0 +1,22 @@
+<document id="DDI-DrugBank.d175">
+    <sentence id="DDI-DrugBank.d175.s8" text="Agents Causing Renin Release Captopril's effect will be augmented by antihypertensive agents that cause renin release.">
+        <entity charOffset="29-37" id="DDI-DrugBank.d175.s8.e0" text="Captopril" type="drug" />
+        <entity charOffset="69-91" id="DDI-DrugBank.d175.s8.e1" text="antihypertensive agents" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d175.s8.e0" e2="DDI-DrugBank.d175.s8.e1" id="DDI-DrugBank.d175.s8.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d175.s12" text="Beta-adrenergic blocking drugs add some further antihypertensive effect to captopril, but the overall response is less than additive.">
+        <entity charOffset="0-29" id="DDI-DrugBank.d175.s12.e0" text="Beta-adrenergic blocking drugs" type="group" />
+        <entity charOffset="75-83" id="DDI-DrugBank.d175.s12.e1" text="captopril" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d175.s12.e0" e2="DDI-DrugBank.d175.s12.e1" id="DDI-DrugBank.d175.s12.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d175.s16" text="Inhibitors Of Endogenous Prostaglandin Synthesis It has been reported that indomethacin may reduce the antihypertensive effect of captopril, especially in cases of low renin hypertension.">
+        <entity charOffset="75-86" id="DDI-DrugBank.d175.s16.e0" text="indomethacin" type="drug" />
+        <entity charOffset="130-138" id="DDI-DrugBank.d175.s16.e1" text="captopril" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d175.s16.e0" e2="DDI-DrugBank.d175.s16.e1" id="DDI-DrugBank.d175.s16.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d175.s20" text="If a diuretic is also used, it may increase the risk of lithium toxicity.">
+        <entity charOffset="5-12" id="DDI-DrugBank.d175.s20.e0" text="diuretic" type="group" />
+        <entity charOffset="56-62" id="DDI-DrugBank.d175.s20.e1" text="lithium" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d175.s20.e0" e2="DDI-DrugBank.d175.s20.e1" id="DDI-DrugBank.d175.s20.p0" type="effect" />
+    </sentence>
+    </document>

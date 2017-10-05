@@ -1,0 +1,11 @@
+<document id="DDI-DrugBank.d773">
+    <sentence id="DDI-DrugBank.d773.s0" text="Formal interaction studies of TNKase with other drugs have not been performed. ">
+        <entity charOffset="30-35" id="DDI-DrugBank.d773.s0.e0" text="TNKase" type="brand" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d773.s3" text="Drug/Laboratory Test Interactions During TNKase therapy, results of coagulation tests and/or measures of fibrinolytic activity may be unreliable unless specific precautions are taken to prevent in vitro artifacts. ">
+        <entity charOffset="41-46" id="DDI-DrugBank.d773.s3.e0" text="TNKase" type="brand" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d773.s4" text="Tenecteplase is an enzyme that, when present in blood in pharmacologic concentrations, remains active under in vitro conditions. ">
+        <entity charOffset="0-11" id="DDI-DrugBank.d773.s4.e0" text="Tenecteplase" type="drug" />
+    </sentence>
+    </document>

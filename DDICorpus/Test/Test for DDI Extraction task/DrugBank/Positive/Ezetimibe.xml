@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d572">
+    <sentence id="DDI-DrugBank.d572.s1" text="The incremental LDL-C reduction due to adding ezetimibe to cholestyramine may be reduced by this interaction. ">
+        <entity charOffset="46-54" id="DDI-DrugBank.d572.s1.e0" text="ezetimibe" type="drug" />
+        <entity charOffset="59-72" id="DDI-DrugBank.d572.s1.e1" text="cholestyramine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d572.s1.e0" e2="DDI-DrugBank.d572.s1.e1" id="DDI-DrugBank.d572.s1.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d572.s5" text="Co-administration of ZETIA with fibrates is not recommended until use in patients is studied. ">
+        <entity charOffset="21-25" id="DDI-DrugBank.d572.s5.e0" text="ZETIA" type="brand" />
+        <entity charOffset="32-39" id="DDI-DrugBank.d572.s5.e1" text="fibrates" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d572.s5.e0" e2="DDI-DrugBank.d572.s5.e1" id="DDI-DrugBank.d572.s5.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d572.s10" text="Patients who take both ezetimibe and cyclosporine should be carefully monitored. ">
+        <entity charOffset="23-31" id="DDI-DrugBank.d572.s10.e0" text="ezetimibe" type="drug" />
+        <entity charOffset="37-48" id="DDI-DrugBank.d572.s10.e1" text="cyclosporine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d572.s10.e0" e2="DDI-DrugBank.d572.s10.e1" id="DDI-DrugBank.d572.s10.p0" type="advise" />
+    </sentence>
+    </document>

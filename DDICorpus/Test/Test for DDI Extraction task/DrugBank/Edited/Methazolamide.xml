@@ -1,0 +1,5 @@
+<document id="DDI-DrugBank.d630">
+    <sentence id="DDI-DrugBank.d630.s0" text="Methazolamide should be used with caution in patients on steroid therapy because of the potential for developing hypokalemia. ">
+        <entity charOffset="0-12" id="DDI-DrugBank.d630.s0.e0" text="Methazolamide" type="drug" />
+    </sentence>
+    </document>

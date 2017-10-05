@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d633">
+    <sentence id="DDI-DrugBank.d633.s1" text="In a formal, single-dose interaction study (n = 6 males) the clearance of mexiletine was decreased by 38% following the coadministration of fluvoxamine, an inhibitor of CYP1A2. ">
+        <entity charOffset="74-83" id="DDI-DrugBank.d633.s1.e0" text="mexiletine" type="drug" />
+        <entity charOffset="140-150" id="DDI-DrugBank.d633.s1.e1" text="fluvoxamine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d633.s1.e0" e2="DDI-DrugBank.d633.s1.e1" id="DDI-DrugBank.d633.s1.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d633.s20" text="Additionally, in one controlled study in five normal subjects and seven patients, the clearance of caffeine was decreased 50% following the administration of Mexitil   .">
+        <entity charOffset="99-106" id="DDI-DrugBank.d633.s20.e0" text="caffeine" type="drug" />
+        <entity charOffset="158-164" id="DDI-DrugBank.d633.s20.e1" text="Mexitil" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d633.s20.e0" e2="DDI-DrugBank.d633.s20.e1" id="DDI-DrugBank.d633.s20.p0" type="mechanism" />
+    </sentence>
+</document>

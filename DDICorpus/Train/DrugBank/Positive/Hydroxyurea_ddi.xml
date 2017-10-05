@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d16">
+    <sentence id="DDI-DrugBank.d16.s2" text="Since hydroxyurea may raise the serum uric acid level, dosage adjustment of uricosuric medication may be necessary">
+        <entity charOffset="6-16" id="DDI-DrugBank.d16.s2.e0" text="hydroxyurea" type="drug" />
+        <entity charOffset="76-96" id="DDI-DrugBank.d16.s2.e1" text="uricosuric medication" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d16.s2.e0" e2="DDI-DrugBank.d16.s2.e1" id="DDI-DrugBank.d16.s2.p0" type="effect" />
+    </sentence>
+    </document>

@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d627">
+    <sentence id="DDI-DrugBank.d627.s0" text="Pilocarpine should be administered with caution to patients taking beta adrenergic antagonists because of the possibility of conduction disturbances. ">
+        <entity charOffset="0-10" id="DDI-DrugBank.d627.s0.e0" text="Pilocarpine" type="drug" />
+        <entity charOffset="67-93" id="DDI-DrugBank.d627.s0.e1" text="beta adrenergic antagonists" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d627.s0.e0" e2="DDI-DrugBank.d627.s0.e1" id="DDI-DrugBank.d627.s0.p0" type="advise" />
+    </sentence>
+    </document>

@@ -1,0 +1,57 @@
+<document id="DDI-DrugBank.d438">
+    <sentence id="DDI-DrugBank.d438.s5" text="Gabapentin is not appreciably metabolized nor does it interfere with the metabolism of commonly coadministered antiepileptic drugs.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d438.s5.e0" text="Gabapentin" type="drug" />
+        <entity charOffset="111-129" id="DDI-DrugBank.d438.s5.e1" text="antiepileptic drugs" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d438.s5.e0" e2="DDI-DrugBank.d438.s5.e1" id="DDI-DrugBank.d438.s5.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d438.s10" text="Likewise, gabapentin pharmacokinetics were unaltered by carbamazepine administration.">
+        <entity charOffset="10-19" id="DDI-DrugBank.d438.s10.e0" text="gabapentin" type="drug" />
+        <entity charOffset="56-68" id="DDI-DrugBank.d438.s10.e1" text="carbamazepine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d438.s10.e0" e2="DDI-DrugBank.d438.s10.e1" id="DDI-DrugBank.d438.s10.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d438.s12" text="N=17) were not different and neither were gabapentin pharmacokinetic parameters affected by valproic acid.">
+        <entity charOffset="42-51" id="DDI-DrugBank.d438.s12.e0" text="gabapentin" type="drug" />
+        <entity charOffset="92-104" id="DDI-DrugBank.d438.s12.e1" text="valproic acid" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d438.s12.e0" e2="DDI-DrugBank.d438.s12.e1" id="DDI-DrugBank.d438.s12.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d438.s16" text="Gabapentin had no effect on naproxen pharmacokinetic parameters.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d438.s16.e0" text="Gabapentin" type="drug" />
+        <entity charOffset="28-35" id="DDI-DrugBank.d438.s16.e1" text="naproxen" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d438.s16.e0" e2="DDI-DrugBank.d438.s16.e1" id="DDI-DrugBank.d438.s16.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d438.s19" text="Hydrocodone: Coadministration of Neurontin  (125 to 500 mg;">
+        <entity charOffset="0-10" id="DDI-DrugBank.d438.s19.e0" text="Hydrocodone" type="drug" />
+        <entity charOffset="33-41" id="DDI-DrugBank.d438.s19.e1" text="Neurontin" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d438.s19.e0" e2="DDI-DrugBank.d438.s19.e1" id="DDI-DrugBank.d438.s19.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d438.s22" text="Cmax and AUC values are 3% to 4% lower, respectively, after administration of 125 mg Neurontin  and 21% to 22% lower, respectively, after administration of 500 mg Neurontin .">
+        <entity charOffset="85-93" id="DDI-DrugBank.d438.s22.e0" text="Neurontin" type="brand" />
+        <entity charOffset="163-171" id="DDI-DrugBank.d438.s22.e1" text="Neurontin" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d438.s22.e0" e2="DDI-DrugBank.d438.s22.e1" id="DDI-DrugBank.d438.s22.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d438.s32" text="The effect of gabapentin on cimetidine was not evaluated.">
+        <entity charOffset="14-23" id="DDI-DrugBank.d438.s32.e0" text="gabapentin" type="drug" />
+        <entity charOffset="28-37" id="DDI-DrugBank.d438.s32.e1" text="cimetidine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d438.s32.e0" e2="DDI-DrugBank.d438.s32.e1" id="DDI-DrugBank.d438.s32.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d438.s40" text="Effect of Probenecid: Probenecid is a blocker of renal tubular secretion.">
+        <entity charOffset="10-19" id="DDI-DrugBank.d438.s40.e0" text="Probenecid" type="drug" />
+        <entity charOffset="22-31" id="DDI-DrugBank.d438.s40.e1" text="Probenecid" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d438.s40.e0" e2="DDI-DrugBank.d438.s40.e1" id="DDI-DrugBank.d438.s40.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d438.s41" text="Gabapentin pharmacokinetic parameters without and with probenecid were comparable.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d438.s41.e0" text="Gabapentin" type="drug" />
+        <entity charOffset="55-64" id="DDI-DrugBank.d438.s41.e1" text="probenecid" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d438.s41.e0" e2="DDI-DrugBank.d438.s41.e1" id="DDI-DrugBank.d438.s41.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d438.s42" text="This indicates that gabapentin does not undergo renal tubular secretion by the pathway that is blocked by probenecid.">
+        <entity charOffset="20-29" id="DDI-DrugBank.d438.s42.e0" text="gabapentin" type="drug" />
+        <entity charOffset="106-115" id="DDI-DrugBank.d438.s42.e1" text="probenecid" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d438.s42.e0" e2="DDI-DrugBank.d438.s42.e1" id="DDI-DrugBank.d438.s42.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d438.s43" text="Drug/Laboratory Tests Interactions Because false positive readings were reported with the Ames N-Multistix SG dipstick test for urinary protein when gabapentin was added to other antiepileptic drugs, the more specific sulfosalicylic acid precipitation procedure is recommended to determine the presence of urine protein">
+        <entity charOffset="149-158" id="DDI-DrugBank.d438.s43.e0" text="gabapentin" type="drug" />
+        <entity charOffset="179-197" id="DDI-DrugBank.d438.s43.e1" text="antiepileptic drugs" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d438.s43.e0" e2="DDI-DrugBank.d438.s43.e1" id="DDI-DrugBank.d438.s43.p0" />
+    </sentence>
+    </document>

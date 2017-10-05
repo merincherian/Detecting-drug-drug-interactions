@@ -1,0 +1,12 @@
+<document id="DDI-MedLine.d125">
+    <sentence id="DDI-MedLine.d125.s2" text="Rat kidney homogenates supplemented with coenzyme A, ATP, oxaloacetate, and Mg2+ converted 1,3-difluoroacetone to (-)-erythro-fluorocitrate in vitro. ">
+        <entity charOffset="91-109" id="DDI-MedLine.d125.s2.e0" text="1,3-difluoroacetone" type="drug_n" />
+        <entity charOffset="114-138" id="DDI-MedLine.d125.s2.e1" text="(-)-erythro-fluorocitrate" type="drug_n" />
+        <pair ddi="false" e1="DDI-MedLine.d125.s2.e0" e2="DDI-MedLine.d125.s2.e1" id="DDI-MedLine.d125.s2.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d125.s3" text="Administration of 1,3-difluoroacetone (100 mg kg(-1) body weight) to rats in vivo resulted in (-)-erythro-fluorocitrate synthesis in the kidney, which was preceded by an elevation in fluoride levels and followed by citrate accumulation. ">
+        <entity charOffset="18-36" id="DDI-MedLine.d125.s3.e0" text="1,3-difluoroacetone" type="drug_n" />
+        <entity charOffset="94-118" id="DDI-MedLine.d125.s3.e1" text="(-)-erythro-fluorocitrate" type="drug_n" />
+        <pair ddi="false" e1="DDI-MedLine.d125.s3.e0" e2="DDI-MedLine.d125.s3.e1" id="DDI-MedLine.d125.s3.p0" />
+    </sentence>
+    </document>

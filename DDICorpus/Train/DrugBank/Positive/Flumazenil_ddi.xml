@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d234">
+    <sentence id="DDI-DrugBank.d234.s4" text="Although ROMAZICON exerts a slight intrinsic anticonvulsant effect, its abrupt suppression of the protective effect of a benzodiazepine agonist can give rise to convulsions in epileptic patients.">
+        <entity charOffset="9-17" id="DDI-DrugBank.d234.s4.e0" text="ROMAZICON" type="brand" />
+        <entity charOffset="121-134" id="DDI-DrugBank.d234.s4.e1" text="benzodiazepine" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d234.s4.e0" e2="DDI-DrugBank.d234.s4.e1" id="DDI-DrugBank.d234.s4.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d234.s5" text="ROMAZICON blocks the central effects of benzodiazepines by competitive interaction at the receptor level.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d234.s5.e0" text="ROMAZICON" type="brand" />
+        <entity charOffset="40-54" id="DDI-DrugBank.d234.s5.e1" text="benzodiazepines" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d234.s5.e0" e2="DDI-DrugBank.d234.s5.e1" id="DDI-DrugBank.d234.s5.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d234.s6" text="The effects of nonbenzodiazepine agonists at benzodiazepine receptors, such as zopiclone, triazolopyridazines and others, are also blocked by ROMAZICON.">
+        <entity charOffset="79-87" id="DDI-DrugBank.d234.s6.e0" text="zopiclone" type="drug" />
+        <entity charOffset="142-150" id="DDI-DrugBank.d234.s6.e1" text="ROMAZICON" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d234.s6.e0" e2="DDI-DrugBank.d234.s6.e1" id="DDI-DrugBank.d234.s6.p0" type="effect" />
+    </sentence>
+    </document>

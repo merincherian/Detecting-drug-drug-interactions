@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d165">
+    <sentence id="DDI-DrugBank.d165.s0" text="Both itraconazole and its major metabolite, hydroxyitraconazole, are inhibitors of the cytochrome P450 3A4 enzyme system.">
+        <entity charOffset="5-16" id="DDI-DrugBank.d165.s0.e0" text="itraconazole" type="drug" />
+        <entity charOffset="44-62" id="DDI-DrugBank.d165.s0.e1" text="hydroxyitraconazole" type="drug_n" />
+        <pair ddi="false" e1="DDI-DrugBank.d165.s0.e0" e2="DDI-DrugBank.d165.s0.e1" id="DDI-DrugBank.d165.s0.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d165.s19" text="The physician is advised to monitor the plasma concentrations of itraconazole when any of these drugs is taken concurrently, and to increase the dose of Itraconazole if necessary.">
+        <entity charOffset="65-76" id="DDI-DrugBank.d165.s19.e0" text="itraconazole" type="drug" />
+        <entity charOffset="153-164" id="DDI-DrugBank.d165.s19.e1" text="Itraconazole" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d165.s19.e0" e2="DDI-DrugBank.d165.s19.e1" id="DDI-DrugBank.d165.s19.p0" />
+    </sentence>
+    </document>

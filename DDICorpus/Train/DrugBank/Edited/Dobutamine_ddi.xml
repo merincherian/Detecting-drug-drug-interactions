@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d274">
+    <sentence id="DDI-DrugBank.d274.s0" text="Animal studies indicate that dobutamine may be ineffective if the patient has recently received a b-blocking drug.">
+        <entity charOffset="29-38" id="DDI-DrugBank.d274.s0.e0" text="dobutamine" type="drug" />
+        <entity charOffset="98-112" id="DDI-DrugBank.d274.s0.e1" text="b-blocking drug" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d274.s0.e0" e2="DDI-DrugBank.d274.s0.e1" id="DDI-DrugBank.d274.s0.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d274.s2" text="Preliminary studies indicate that the concomitant use of dobutamine and nitroprusside results in a higher cardiac output and, usually, a lower pulmonary wedge pressure than when either drug is used alone.">
+        <entity charOffset="57-66" id="DDI-DrugBank.d274.s2.e0" text="dobutamine" type="drug" />
+        <entity charOffset="72-84" id="DDI-DrugBank.d274.s2.e1" text="nitroprusside" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d274.s2.e0" e2="DDI-DrugBank.d274.s2.e1" id="DDI-DrugBank.d274.s2.p0" type="effect" />
+    </sentence>
+    </document>

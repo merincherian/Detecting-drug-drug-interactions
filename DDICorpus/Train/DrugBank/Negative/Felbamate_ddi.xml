@@ -1,0 +1,42 @@
+<document id="DDI-DrugBank.d434">
+    <sentence id="DDI-DrugBank.d434.s6" text="Carbamazepine (CBZ)">
+        <entity charOffset="0-12" id="DDI-DrugBank.d434.s6.e0" text="Carbamazepine" type="drug" />
+        <entity charOffset="15-17" id="DDI-DrugBank.d434.s6.e1" text="CBZ" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d434.s6.e0" e2="DDI-DrugBank.d434.s6.e1" id="DDI-DrugBank.d434.s6.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s12" text="In 10 otherwise healthy subjects with epilepsy ingesting phenytoin, the steadystate trough (Cmin) phenytoin plasma concentration was 17 5 micrograms/mL.">
+        <entity charOffset="57-65" id="DDI-DrugBank.d434.s12.e0" text="phenytoin" type="drug" />
+        <entity charOffset="98-106" id="DDI-DrugBank.d434.s12.e1" text="phenytoin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d434.s12.e0" e2="DDI-DrugBank.d434.s12.e1" id="DDI-DrugBank.d434.s12.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s18" text="In nine otherwise healthy subjects with epilepsy ingesting carbamazepine, the steady-state trough (Cmin) carbamazepine concentration was 8 2 micrograms/mL.">
+        <entity charOffset="59-71" id="DDI-DrugBank.d434.s18.e0" text="carbamazepine" type="drug" />
+        <entity charOffset="105-117" id="DDI-DrugBank.d434.s18.e1" text="carbamazepine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d434.s18.e0" e2="DDI-DrugBank.d434.s18.e1" id="DDI-DrugBank.d434.s18.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s20" text="Carbamazepine epoxide steady-state Cmin concentrations increased 57% from 1.0 0.3 to 1.6 0.4 micrograms/mL with the addition of felbamate.">
+        <entity charOffset="0-20" id="DDI-DrugBank.d434.s20.e0" text="Carbamazepine epoxide" type="drug_n" />
+        <entity charOffset="128-136" id="DDI-DrugBank.d434.s20.e1" text="felbamate" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d434.s20.e0" e2="DDI-DrugBank.d434.s20.e1" id="DDI-DrugBank.d434.s20.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s21" text="In clinical trials, similar changes in carbamazepine and carbamazepine epoxide were seen.">
+        <entity charOffset="39-51" id="DDI-DrugBank.d434.s21.e0" text="carbamazepine" type="drug" />
+        <entity charOffset="57-77" id="DDI-DrugBank.d434.s21.e1" text="carbamazepine epoxide" type="drug_n" />
+        <pair ddi="false" e1="DDI-DrugBank.d434.s21.e0" e2="DDI-DrugBank.d434.s21.e1" id="DDI-DrugBank.d434.s21.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s23" text="In four subjects with epilepsy ingesting valproate, the steady-state trough (Cmin) valproate plasma concentration was 63 16 micrograms/mL.">
+        <entity charOffset="41-49" id="DDI-DrugBank.d434.s23.e0" text="valproate" type="drug" />
+        <entity charOffset="83-91" id="DDI-DrugBank.d434.s23.e1" text="valproate" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d434.s23.e0" e2="DDI-DrugBank.d434.s23.e1" id="DDI-DrugBank.d434.s23.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s26" text="Corresponding values for free valproate Cmin concentrations were 7 3, 9 4, and 11 6 micrograms/mL for 0, 1200, and 2400 mg/day Felbatol , respectively.">
+        <entity charOffset="30-38" id="DDI-DrugBank.d434.s26.e0" text="valproate" type="drug" />
+        <entity charOffset="127-134" id="DDI-DrugBank.d434.s26.e1" text="Felbatol" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d434.s26.e0" e2="DDI-DrugBank.d434.s26.e1" id="DDI-DrugBank.d434.s26.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s34" text="Steady-state plasma felbamate concentrations were found to be 29% lower than the mean concentrations of a group of newly diagnosed subjects with epilepsy also receiving 2400 mg of felbamate a day.">
+        <entity charOffset="20-28" id="DDI-DrugBank.d434.s34.e0" text="felbamate" type="drug" />
+        <entity charOffset="180-188" id="DDI-DrugBank.d434.s34.e1" text="felbamate" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d434.s34.e0" e2="DDI-DrugBank.d434.s34.e1" id="DDI-DrugBank.d434.s34.p0" />
+    </sentence>
+    </document>

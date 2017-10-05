@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d127">
+    <sentence id="DDI-DrugBank.d127.s2" text="DOXIL  may interact with drugs known to interact with the conventional formulation of doxorubicin HCl.">
+        <entity charOffset="0-4" id="DDI-DrugBank.d127.s2.e0" text="DOXIL" type="brand" />
+        <entity charOffset="86-100" id="DDI-DrugBank.d127.s2.e1" text="doxorubicin HCl" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d127.s2.e0" e2="DDI-DrugBank.d127.s2.e1" id="DDI-DrugBank.d127.s2.p0" />
+    </sentence>
+</document>

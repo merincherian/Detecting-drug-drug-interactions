@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d85">
+    <sentence id="DDI-DrugBank.d85.s8" text="Inhibition of renal lithium clearance leading to increases in plasma lithium concentrations has also been reported.">
+        <entity charOffset="20-26" id="DDI-DrugBank.d85.s8.e0" text="lithium" type="drug" />
+        <entity charOffset="69-75" id="DDI-DrugBank.d85.s8.e1" text="lithium" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d85.s8.e0" e2="DDI-DrugBank.d85.s8.e1" id="DDI-DrugBank.d85.s8.p0" />
+    </sentence>
+    </document>

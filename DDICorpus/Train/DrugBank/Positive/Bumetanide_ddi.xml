@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d331">
+    <sentence id="DDI-DrugBank.d331.s0" text="- Drugs with ototoxic potential: Especially in the presence of impaired renal function, the use of parenterally administered bumetanide in patients to whom aminoglycoside antibiotics are also being given should be avoided, except in life-threatening conditions.">
+        <entity charOffset="125-134" id="DDI-DrugBank.d331.s0.e0" text="bumetanide" type="drug" />
+        <entity charOffset="156-181" id="DDI-DrugBank.d331.s0.e1" text="aminoglycoside antibiotics" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d331.s0.e0" e2="DDI-DrugBank.d331.s0.e1" id="DDI-DrugBank.d331.s0.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d331.s6" text="Thus, probenecid should not be administered concurrently with bumetanide.">
+        <entity charOffset="6-15" id="DDI-DrugBank.d331.s6.e0" text="probenecid" type="drug" />
+        <entity charOffset="62-71" id="DDI-DrugBank.d331.s6.e1" text="bumetanide" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d331.s6.e0" e2="DDI-DrugBank.d331.s6.e1" id="DDI-DrugBank.d331.s6.p0" type="advise" />
+    </sentence>
+    </document>

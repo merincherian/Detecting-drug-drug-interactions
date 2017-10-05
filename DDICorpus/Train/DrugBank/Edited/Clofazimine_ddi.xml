@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d399">
+    <sentence id="DDI-DrugBank.d399.s0" text="Preliminary data which suggest that dapsone may inhibit the anti-inflammatory activity of Lamprene have not been confirmed.">
+        <entity charOffset="36-42" id="DDI-DrugBank.d399.s0.e0" text="dapsone" type="drug" />
+        <entity charOffset="90-97" id="DDI-DrugBank.d399.s0.e1" text="Lamprene" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d399.s0.e0" e2="DDI-DrugBank.d399.s0.e1" id="DDI-DrugBank.d399.s0.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d399.s1" text="If leprosy-associated inflammatory reactions develop in patients being treated with dapsone and clofazimine, it is still advisable to continue treatment with both drugs.">
+        <entity charOffset="84-90" id="DDI-DrugBank.d399.s1.e0" text="dapsone" type="drug" />
+        <entity charOffset="96-106" id="DDI-DrugBank.d399.s1.e1" text="clofazimine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d399.s1.e0" e2="DDI-DrugBank.d399.s1.e1" id="DDI-DrugBank.d399.s1.p0" type="advise" />
+    </sentence>
+</document>

@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d265">
+    <sentence id="DDI-DrugBank.d265.s0" text="Chlorthalidone may add to or potentiate the action of other antihypertensive drugs.">
+        <entity charOffset="0-13" id="DDI-DrugBank.d265.s0.e0" text="Chlorthalidone" type="drug" />
+        <entity charOffset="60-81" id="DDI-DrugBank.d265.s0.e1" text="antihypertensive drugs" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d265.s0.e0" e2="DDI-DrugBank.d265.s0.e1" id="DDI-DrugBank.d265.s0.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d265.s7" text="Chlorthalidone and related drugs may increase the responsiveness to tubocurarine.">
+        <entity charOffset="0-13" id="DDI-DrugBank.d265.s7.e0" text="Chlorthalidone" type="drug" />
+        <entity charOffset="68-79" id="DDI-DrugBank.d265.s7.e1" text="tubocurarine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d265.s7.e0" e2="DDI-DrugBank.d265.s7.e1" id="DDI-DrugBank.d265.s7.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d265.s8" text="Chlorthalidone and related drugs may decrease arterial responsiveness to norepinephrine.">
+        <entity charOffset="0-13" id="DDI-DrugBank.d265.s8.e0" text="Chlorthalidone" type="drug" />
+        <entity charOffset="73-86" id="DDI-DrugBank.d265.s8.e1" text="norepinephrine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d265.s8.e0" e2="DDI-DrugBank.d265.s8.e1" id="DDI-DrugBank.d265.s8.p0" type="effect" />
+    </sentence>
+    </document>

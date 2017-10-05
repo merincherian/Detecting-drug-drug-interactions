@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d635">
+    <sentence id="DDI-DrugBank.d635.s0" text="Other short-acting beta adrenergic aerosol bronchodilators should not be used concomitantly with MAXAIR AUTOHALER because they may have additive effects.">
+        <entity charOffset="6-57" id="DDI-DrugBank.d635.s0.e0" text="short-acting beta adrenergic aerosol bronchodilators" type="group" />
+        <entity charOffset="97-112" id="DDI-DrugBank.d635.s0.e1" text="MAXAIR AUTOHALER" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d635.s0.e0" e2="DDI-DrugBank.d635.s0.e1" id="DDI-DrugBank.d635.s0.p0" type="advise" />
+    </sentence>
+</document>

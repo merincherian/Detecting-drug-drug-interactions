@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d310">
+    <sentence id="DDI-DrugBank.d310.s0" text="It is possible that the cardiovascular action of other calcium channel blockers could be enhanced by the addition of Nimotop .">
+        <entity charOffset="55-78" id="DDI-DrugBank.d310.s0.e0" text="calcium channel blockers" type="group" />
+        <entity charOffset="117-123" id="DDI-DrugBank.d310.s0.e1" text="Nimotop" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d310.s0.e0" e2="DDI-DrugBank.d310.s0.e1" id="DDI-DrugBank.d310.s0.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d310.s1" text="In Europe, Nimotop  was observed to occasionally intensify the effect of antihypertensive compounds taken concomitantly by patients suffering from hypertension;">
+        <entity charOffset="11-17" id="DDI-DrugBank.d310.s1.e0" text="Nimotop" type="brand" />
+        <entity charOffset="73-98" id="DDI-DrugBank.d310.s1.e1" text="antihypertensive compounds" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d310.s1.e0" e2="DDI-DrugBank.d310.s1.e1" id="DDI-DrugBank.d310.s1.p0" type="effect" />
+    </sentence>
+    </document>

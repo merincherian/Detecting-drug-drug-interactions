@@ -1,0 +1,39 @@
+<document id="DDI-MedLine.d132">
+    <sentence id="DDI-MedLine.d132.s0" text="The emerging roles of non-nucleoside reverse transcriptase inhibitors in antiretroviral therapy.">
+        <entity charOffset="22-68" id="DDI-MedLine.d132.s0.e0" text="non-nucleoside reverse transcriptase inhibitors" type="group" />
+        <entity charOffset="73-86" id="DDI-MedLine.d132.s0.e1" text="antiretroviral" type="group" />
+        <pair ddi="false" e1="DDI-MedLine.d132.s0.e0" e2="DDI-MedLine.d132.s0.e1" id="DDI-MedLine.d132.s0.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d132.s2" text="NNRTI-based regimens may have several advantages over PI-based therapy for initial or prolonged therapy, including more convenient administration regimens, lower tablet volume, fewer drug interactions, and central nervous system penetration. ">
+        <entity charOffset="0-4" id="DDI-MedLine.d132.s2.e0" text="NNRTI" type="group" />
+        <entity charOffset="54-55" id="DDI-MedLine.d132.s2.e1" text="PI" type="group" />
+        <pair ddi="false" e1="DDI-MedLine.d132.s2.e0" e2="DDI-MedLine.d132.s2.e1" id="DDI-MedLine.d132.s2.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d132.s6" text="Limited comparative data in patients with high viral loads treated with nevirapine- or delavirdine-based regimens currently exist. ">
+        <entity charOffset="72-81" id="DDI-MedLine.d132.s6.e0" text="nevirapine" type="drug" />
+        <entity charOffset="87-97" id="DDI-MedLine.d132.s6.e1" text="delavirdine" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d132.s6.e0" e2="DDI-MedLine.d132.s6.e1" id="DDI-MedLine.d132.s6.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d132.s7" text="However, cohort data and selected patient data from clinical trials suggest comparable activity to PI-based regimens in these patients. ">
+        <entity charOffset="99-100" id="DDI-MedLine.d132.s7.e0" text="PI" type="group" />
+    </sentence>
+    <sentence id="DDI-MedLine.d132.s8" text="The superiority of efavirenz over indinavir-based regimens has been observed in comparative data in a subset of patients with high viral loads. ">
+        <entity charOffset="19-27" id="DDI-MedLine.d132.s8.e0" text="efavirenz" type="drug" />
+        <entity charOffset="34-42" id="DDI-MedLine.d132.s8.e1" text="indinavir" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d132.s8.e0" e2="DDI-MedLine.d132.s8.e1" id="DDI-MedLine.d132.s8.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d132.s9" text="In treatment-experienced patients, available uncontrolled data suggest these agents contribute to regimen efficacy in NNRTI-na  ve, treatment-experienced patients. ">
+        <entity charOffset="118-122" id="DDI-MedLine.d132.s9.e0" text="NNRTI" type="group" />
+    </sentence>
+    <sentence id="DDI-MedLine.d132.s10" text="Efavirenz has demonstrated superiority over nelfinavir in nucleoside-experienced patients, although combining these 2 agents may represent the best approach in these circumstances. ">
+        <entity charOffset="0-8" id="DDI-MedLine.d132.s10.e0" text="Efavirenz" type="drug" />
+        <entity charOffset="44-53" id="DDI-MedLine.d132.s10.e1" text="nelfinavir" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d132.s10.e0" e2="DDI-MedLine.d132.s10.e1" id="DDI-MedLine.d132.s10.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d132.s11" text="The tolerability of NNRTIs appears generally good with few individuals discontinuing in clinical studies as a result of adverse drug events. ">
+        <entity charOffset="20-25" id="DDI-MedLine.d132.s11.e0" text="NNRTIs" type="group" />
+    </sentence>
+    <sentence id="DDI-MedLine.d132.s12" text="The majority of adverse events with NNRTIs occur within the first month, and are predictable and manageable without therapy interruption.">
+        <entity charOffset="36-41" id="DDI-MedLine.d132.s12.e0" text="NNRTIs" type="group" />
+    </sentence>
+</document>

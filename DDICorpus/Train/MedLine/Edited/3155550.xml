@@ -1,0 +1,20 @@
+<document id="DDI-MedLine.d63">
+    <sentence id="DDI-MedLine.d63.s1" text="In the present study, it is proposed that the opioids applied to supraspinal brain sites produced their analgesic effects by the activation of different descending pain inhibitory systems. ">
+        <entity charOffset="46-52" id="DDI-MedLine.d63.s1.e0" text="opioids" type="group" />
+    </sentence>
+    <sentence id="DDI-MedLine.d63.s3" text="Intraventricular injection of beta-endorphin and morphine produced an inhibition of the tail-flick response to the heat stimulus in rats. ">
+        <entity charOffset="30-43" id="DDI-MedLine.d63.s3.e0" text="beta-endorphin" type="drug_n" />
+        <entity charOffset="49-56" id="DDI-MedLine.d63.s3.e1" text="morphine" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d63.s3.e0" e2="DDI-MedLine.d63.s3.e1" id="DDI-MedLine.d63.s3.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d63.s5" text="On the other hand, intrathecal naloxone (12-120 micrograms) had only a very weak effect on the tail-flick inhibition induced by intraventricular morphine (40 micrograms). ">
+        <entity charOffset="31-38" id="DDI-MedLine.d63.s5.e0" text="naloxone" type="drug" />
+        <entity charOffset="145-152" id="DDI-MedLine.d63.s5.e1" text="morphine" type="drug" />
+        <pair ddi="true" e1="DDI-MedLine.d63.s5.e0" e2="DDI-MedLine.d63.s5.e1" id="DDI-MedLine.d63.s5.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-MedLine.d63.s8" text="descending epsilon and mu systems for beta-endorphin and morphine, respectively, are proposed.">
+        <entity charOffset="38-51" id="DDI-MedLine.d63.s8.e0" text="beta-endorphin" type="drug_n" />
+        <entity charOffset="57-64" id="DDI-MedLine.d63.s8.e1" text="morphine" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d63.s8.e0" e2="DDI-MedLine.d63.s8.e1" id="DDI-MedLine.d63.s8.p0" />
+    </sentence>
+</document>

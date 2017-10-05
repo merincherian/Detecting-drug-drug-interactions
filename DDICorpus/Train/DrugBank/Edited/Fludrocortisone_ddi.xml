@@ -1,0 +1,22 @@
+<document id="DDI-DrugBank.d526">
+    <sentence id="DDI-DrugBank.d526.s4" text="Digitalis glycosides enhanced possibility of arrhythmias or digitalis toxicity associated with hypokalemia.">
+        <entity charOffset="0-19" id="DDI-DrugBank.d526.s4.e0" text="Digitalis glycosides" type="group" />
+        <entity charOffset="60-68" id="DDI-DrugBank.d526.s4.e1" text="digitalis" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d526.s4.e0" e2="DDI-DrugBank.d526.s4.e1" id="DDI-DrugBank.d526.s4.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d526.s9" text="Antidiabetic drugs (oral agents and insulin) diminished antidiabetic effect.">
+        <entity charOffset="0-17" id="DDI-DrugBank.d526.s9.e0" text="Antidiabetic drugs" type="group" />
+        <entity charOffset="36-42" id="DDI-DrugBank.d526.s9.e1" text="insulin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d526.s9.e0" e2="DDI-DrugBank.d526.s9.e1" id="DDI-DrugBank.d526.s9.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d526.s15" text="Monitor salicylate levels or the therapeutic effect for which aspirin is given;">
+        <entity charOffset="8-17" id="DDI-DrugBank.d526.s15.e0" text="salicylate" type="group" />
+        <entity charOffset="62-68" id="DDI-DrugBank.d526.s15.e1" text="aspirin" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d526.s15.e0" e2="DDI-DrugBank.d526.s15.e1" id="DDI-DrugBank.d526.s15.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d526.s18" text="Observe the patient for possible diminished effect of steroid and increase the steroid dosage accordingly.">
+        <entity charOffset="54-60" id="DDI-DrugBank.d526.s18.e0" text="steroid" type="group" />
+        <entity charOffset="79-85" id="DDI-DrugBank.d526.s18.e1" text="steroid" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d526.s18.e0" e2="DDI-DrugBank.d526.s18.e1" id="DDI-DrugBank.d526.s18.p0" />
+    </sentence>
+    </document>

@@ -1,0 +1,47 @@
+<document id="DDI-DrugBank.d3">
+    <sentence id="DDI-DrugBank.d3.s2" text="Ketorolac does not alter digoxin protein binding.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d3.s2.e0" text="Ketorolac" type="drug" />
+        <entity charOffset="25-31" id="DDI-DrugBank.d3.s2.e1" text="digoxin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d3.s2.e0" e2="DDI-DrugBank.d3.s2.e1" id="DDI-DrugBank.d3.s2.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d3.s5" text="In a study involving 12 adult volunteers, TORADOLORAL was coadministered with a single dose of 25 mg warfarin, causing no significant changes in pharmacokinetics or pharmacodynamics of warfarin.">
+        <entity charOffset="101-108" id="DDI-DrugBank.d3.s5.e0" text="warfarin" type="drug" />
+        <entity charOffset="185-192" id="DDI-DrugBank.d3.s5.e1" text="warfarin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d3.s5.e0" e2="DDI-DrugBank.d3.s5.e1" id="DDI-DrugBank.d3.s5.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d3.s6" text="In another study, TORADOLIV/IM was given with two doses of 5000 U of heparin to 11 healthy volunteers, resulting in a mean template bleeding time of 6.4 minutes (3.2 to 11.4 min) compared to a mean of 6.0 minutes (3.4 to 7.5 min) for heparin alone and 5.1 minutes (3.5 to 8.5 min) for placebo.">
+        <entity charOffset="69-75" id="DDI-DrugBank.d3.s6.e0" text="heparin" type="drug" />
+        <entity charOffset="234-240" id="DDI-DrugBank.d3.s6.e1" text="heparin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d3.s6.e0" e2="DDI-DrugBank.d3.s6.e1" id="DDI-DrugBank.d3.s6.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d3.s14" text="The effect of TORADOL on methotrexate clearance has not been studied.">
+        <entity charOffset="14-20" id="DDI-DrugBank.d3.s14.e0" text="TORADOL" type="brand" />
+        <entity charOffset="25-36" id="DDI-DrugBank.d3.s14.e1" text="methotrexate" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d3.s14.e0" e2="DDI-DrugBank.d3.s14.e1" id="DDI-DrugBank.d3.s14.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d3.s15" text="Nondepolarizing Muscle Relaxants: In postmarketing experience there have been reports of a possible interaction between TORADOLIV/IM and nondepolarizing muscle relaxants that resulted in apnea.">
+        <entity charOffset="0-31" id="DDI-DrugBank.d3.s15.e0" text="Nondepolarizing Muscle Relaxants" type="group" />
+        <entity charOffset="137-168" id="DDI-DrugBank.d3.s15.e1" text="nondepolarizing muscle relaxants" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d3.s15.e0" e2="DDI-DrugBank.d3.s15.e1" id="DDI-DrugBank.d3.s15.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d3.s16" text="The concurrent use of TORADOL with muscle relaxants has not been formally studied.">
+        <entity charOffset="22-28" id="DDI-DrugBank.d3.s16.e0" text="TORADOL" type="brand" />
+        <entity charOffset="35-50" id="DDI-DrugBank.d3.s16.e1" text="muscle relaxants" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d3.s16.e0" e2="DDI-DrugBank.d3.s16.e1" id="DDI-DrugBank.d3.s16.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d3.s17" text="ACE Inhibitors: Concomitant use of ACE inhibitors may increase the risk of renal impairment, particularly in volume-depleted patients.">
+        <entity charOffset="0-13" id="DDI-DrugBank.d3.s17.e0" text="ACE Inhibitors" type="group" />
+        <entity charOffset="35-48" id="DDI-DrugBank.d3.s17.e1" text="ACE inhibitors" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d3.s17.e0" e2="DDI-DrugBank.d3.s17.e1" id="DDI-DrugBank.d3.s17.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d3.s20" text="Morphine: TORADOLIV/IM has been administered concurrently with morphine in several clinical trials of postoperative pain without evidence of adverse interactions.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d3.s20.e0" text="Morphine" type="drug" />
+        <entity charOffset="63-70" id="DDI-DrugBank.d3.s20.e1" text="morphine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d3.s20.e0" e2="DDI-DrugBank.d3.s20.e1" id="DDI-DrugBank.d3.s20.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d3.s21" text="Do not mix TORADOL and morphine in the same syringe.">
+        <entity charOffset="11-17" id="DDI-DrugBank.d3.s21.e0" text="TORADOL" type="brand" />
+        <entity charOffset="23-30" id="DDI-DrugBank.d3.s21.e1" text="morphine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d3.s21.e0" e2="DDI-DrugBank.d3.s21.e1" id="DDI-DrugBank.d3.s21.p0" />
+    </sentence>
+    </document>

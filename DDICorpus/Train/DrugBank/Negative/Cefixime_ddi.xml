@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d339">
+    <sentence id="DDI-DrugBank.d339.s3" text="Drug/Laboratory Test Interactions A false-positive reaction for ketones in the urine may occur with tests using nitroprusside but not with those using nitroferricyanide.">
+        <entity charOffset="112-124" id="DDI-DrugBank.d339.s3.e0" text="nitroprusside" type="drug" />
+        <entity charOffset="151-167" id="DDI-DrugBank.d339.s3.e1" text="nitroferricyanide" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d339.s3.e0" e2="DDI-DrugBank.d339.s3.e1" id="DDI-DrugBank.d339.s3.p0" />
+    </sentence>
+    </document>

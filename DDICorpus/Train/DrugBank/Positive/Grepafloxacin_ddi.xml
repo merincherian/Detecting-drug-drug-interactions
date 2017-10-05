@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d78">
+    <sentence id="DDI-DrugBank.d78.s14" text="In addition, other quinolones have been reported to decrease the CYP3A4-mediated metabolism of cyclosporine.">
+        <entity charOffset="19-28" id="DDI-DrugBank.d78.s14.e0" text="quinolones" type="group" />
+        <entity charOffset="95-106" id="DDI-DrugBank.d78.s14.e1" text="cyclosporine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d78.s14.e0" e2="DDI-DrugBank.d78.s14.e1" id="DDI-DrugBank.d78.s14.p0" type="mechanism" />
+    </sentence>
+    </document>

@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d575">
+    <sentence id="DDI-DrugBank.d575.s2" text="Therefore, caution should be used in administering VUMON (teniposide injection) to patients receiving these other agents. ">
+        <entity charOffset="51-55" id="DDI-DrugBank.d575.s2.e0" text="VUMON" type="brand" />
+        <entity charOffset="58-67" id="DDI-DrugBank.d575.s2.e1" text="teniposide" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d575.s2.e0" e2="DDI-DrugBank.d575.s2.e1" id="DDI-DrugBank.d575.s2.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d575.s3" text="There was no change in the plasma kinetics of teniposide when coadministered with methotrexate. ">
+        <entity charOffset="46-55" id="DDI-DrugBank.d575.s3.e0" text="teniposide" type="drug" />
+        <entity charOffset="82-93" id="DDI-DrugBank.d575.s3.e1" text="methotrexate" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d575.s3.e0" e2="DDI-DrugBank.d575.s3.e1" id="DDI-DrugBank.d575.s3.p0" />
+    </sentence>
+    </document>

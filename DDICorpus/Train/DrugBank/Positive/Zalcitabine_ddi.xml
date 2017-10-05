@@ -1,0 +1,32 @@
+<document id="DDI-DrugBank.d263">
+    <sentence id="DDI-DrugBank.d263.s1" text="Zalcitabine also has no significant effect on the intracellular phosphorylation of ZDV, as shown in vitro in peripheral blood mononuclear cells or in two other cell lines (U937 and Molt-4).">
+        <entity charOffset="0-10" id="DDI-DrugBank.d263.s1.e0" text="Zalcitabine" type="drug" />
+        <entity charOffset="83-85" id="DDI-DrugBank.d263.s1.e1" text="ZDV" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d263.s1.e0" e2="DDI-DrugBank.d263.s1.e1" id="DDI-DrugBank.d263.s1.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d263.s5" text="Zalcitabine inhibited lamivudine phosphorylation at high concentration ratios (10 and 100);">
+        <entity charOffset="0-10" id="DDI-DrugBank.d263.s5.e0" text="Zalcitabine" type="drug" />
+        <entity charOffset="22-31" id="DDI-DrugBank.d263.s5.e1" text="lamivudine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d263.s5.e0" e2="DDI-DrugBank.d263.s5.e1" id="DDI-DrugBank.d263.s5.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d263.s9" text="Concomitant use of zalcitabine and lamivudine is not recommended.">
+        <entity charOffset="19-29" id="DDI-DrugBank.d263.s9.e0" text="zalcitabine" type="drug" />
+        <entity charOffset="35-44" id="DDI-DrugBank.d263.s9.e1" text="lamivudine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d263.s9.e0" e2="DDI-DrugBank.d263.s9.e1" id="DDI-DrugBank.d263.s9.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d263.s14" text="Concomitant use of HIVID with didanosine is not recommended.">
+        <entity charOffset="19-23" id="DDI-DrugBank.d263.s14.e0" text="HIVID" type="drug" />
+        <entity charOffset="30-39" id="DDI-DrugBank.d263.s14.e1" text="didanosine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d263.s14.e0" e2="DDI-DrugBank.d263.s14.e1" id="DDI-DrugBank.d263.s14.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d263.s16" text="Death due to fulminant pancreatitis possibly related to intravenous pentamidine and HIVID has been reported.">
+        <entity charOffset="68-78" id="DDI-DrugBank.d263.s16.e0" text="pentamidine" type="drug" />
+        <entity charOffset="84-88" id="DDI-DrugBank.d263.s16.e1" text="HIVID" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d263.s16.e0" e2="DDI-DrugBank.d263.s16.e1" id="DDI-DrugBank.d263.s16.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d263.s17" text="If intravenous pentamidine is required to treat Pneumocystis carinii pneumonia, treatment with HIVID should be interrupted.">
+        <entity charOffset="15-25" id="DDI-DrugBank.d263.s17.e0" text="pentamidine" type="drug" />
+        <entity charOffset="95-99" id="DDI-DrugBank.d263.s17.e1" text="HIVID" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d263.s17.e0" e2="DDI-DrugBank.d263.s17.e1" id="DDI-DrugBank.d263.s17.p0" type="advise" />
+    </sentence>
+    </document>

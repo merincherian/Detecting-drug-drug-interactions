@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d53">
+    <sentence id="DDI-DrugBank.d53.s0" text="Co-administration of nelfinavir at steady-state with a single dose of azithromycin.">
+        <entity charOffset="21-30" id="DDI-DrugBank.d53.s0.e0" text="nelfinavir" type="drug" />
+        <entity charOffset="70-81" id="DDI-DrugBank.d53.s0.e1" text="azithromycin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d53.s0.e0" e2="DDI-DrugBank.d53.s0.e1" id="DDI-DrugBank.d53.s0.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d53.s3" text="Azithromycin did not affect the prothrombin time response to a single dose of warfarin.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d53.s3.e0" text="Azithromycin" type="drug" />
+        <entity charOffset="78-85" id="DDI-DrugBank.d53.s3.e1" text="warfarin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d53.s3.e0" e2="DDI-DrugBank.d53.s3.e1" id="DDI-DrugBank.d53.s3.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d53.s14" text="Ergotamine or dihydroergotamine acute ergot toxicity characterized by severe peripheral vasospasm and dysesthesia.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d53.s14.e0" text="Ergotamine" type="drug" />
+        <entity charOffset="14-30" id="DDI-DrugBank.d53.s14.e1" text="dihydroergotamine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d53.s14.e0" e2="DDI-DrugBank.d53.s14.e1" id="DDI-DrugBank.d53.s14.p0" />
+    </sentence>
+    </document>

@@ -1,0 +1,18 @@
+<document id="DDI-DrugBank.d627">
+    <sentence id="DDI-DrugBank.d627.s0" text="Pilocarpine should be administered with caution to patients taking beta adrenergic antagonists because of the possibility of conduction disturbances. ">
+        <entity charOffset="0-10" id="DDI-DrugBank.d627.s0.e0" text="Pilocarpine" type="drug" />
+        <entity charOffset="67-93" id="DDI-DrugBank.d627.s0.e1" text="beta adrenergic antagonists" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d627.s0.e0" e2="DDI-DrugBank.d627.s0.e1" id="DDI-DrugBank.d627.s0.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d627.s1" text="Drugs with parasympathomimetic effects administered concurrently with pilocarpine would be expected to result in additive pharmacologic effects. ">
+        <entity charOffset="70-80" id="DDI-DrugBank.d627.s1.e0" text="pilocarpine" type="drug" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d627.s2" text="Pilocarpine might antagonize the anticholinergic effects of drugs used concomitantly. ">
+        <entity charOffset="0-10" id="DDI-DrugBank.d627.s2.e0" text="Pilocarpine" type="drug" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d627.s3" text="These effects should be considered when anticholinergic properties may be contributing to the therapeutic effect of concomitant medication (e.g., atropine, inhaled ipratropium). ">
+        <entity charOffset="146-153" id="DDI-DrugBank.d627.s3.e0" text="atropine" type="drug" />
+        <entity charOffset="164-174" id="DDI-DrugBank.d627.s3.e1" text="ipratropium" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d627.s3.e0" e2="DDI-DrugBank.d627.s3.e1" id="DDI-DrugBank.d627.s3.p0" />
+    </sentence>
+    </document>

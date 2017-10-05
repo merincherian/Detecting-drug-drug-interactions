@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d497">
+    <sentence id="DDI-DrugBank.d497.s2" text="However, in patients treated with oral carbonic anhydrase inhibitors, rare instances of drug interactions have occurred with high-dose salicylate therapy.">
+        <entity charOffset="39-67" id="DDI-DrugBank.d497.s2.e0" text="carbonic anhydrase inhibitors" type="group" />
+        <entity charOffset="135-144" id="DDI-DrugBank.d497.s2.e1" text="salicylate" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d497.s2.e0" e2="DDI-DrugBank.d497.s2.e1" id="DDI-DrugBank.d497.s2.p0" type="int" />
+    </sentence>
+    </document>

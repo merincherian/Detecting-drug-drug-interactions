@@ -1,0 +1,45 @@
+<document id="DDI-MedLine.d109">
+    <sentence id="DDI-MedLine.d109.s0" text="Effect of rofecoxib on the pharmacokinetics of digoxin in healthy volunteers.&#10;">
+        <entity charOffset="10-18" id="DDI-MedLine.d109.s0.e0" text="rofecoxib" type="drug" />
+        <entity charOffset="47-53" id="DDI-MedLine.d109.s0.e1" text="digoxin" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d109.s0.e0" e2="DDI-MedLine.d109.s0.e1" id="DDI-MedLine.d109.s0.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d109.s1" text="The authors examined the effect of the cyclooxygenase-2 (COX-2) inhibitor, rofecoxib, at steady state on the pharmacokinetics of digoxin following a single dose in healthy subjects. ">
+        <entity charOffset="75-83" id="DDI-MedLine.d109.s1.e0" text="rofecoxib" type="drug" />
+        <entity charOffset="129-135" id="DDI-MedLine.d109.s1.e1" text="digoxin" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d109.s1.e0" e2="DDI-MedLine.d109.s1.e1" id="DDI-MedLine.d109.s1.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d109.s2" text="Each healthy subject (N = 10) received rofecoxib (75 mg once daily) or placebo for 11 days in a double-blind, randomized, balanced, two-period crossover study. ">
+        <entity charOffset="39-47" id="DDI-MedLine.d109.s2.e0" text="rofecoxib" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d109.s3" text="A single 0.5 mg oral dose of digoxin elixir was administered on the 7th day of each 11-day period. ">
+        <entity charOffset="29-35" id="DDI-MedLine.d109.s3.e0" text="digoxin" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d109.s5" text="Samples for plasma and urine immunoreactive digoxin concentrations were collected through 120 hours following the digoxin dose. ">
+        <entity charOffset="44-50" id="DDI-MedLine.d109.s5.e0" text="digoxin" type="drug" />
+        <entity charOffset="114-120" id="DDI-MedLine.d109.s5.e1" text="digoxin" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d109.s5.e0" e2="DDI-MedLine.d109.s5.e1" id="DDI-MedLine.d109.s5.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d109.s6" text="No statistically significant differences between treatment groups were observed for any of the calculated digoxin pharmacokinetic parameters. ">
+        <entity charOffset="106-112" id="DDI-MedLine.d109.s6.e0" text="digoxin" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d109.s8" text="The digoxin median tmax was 0.5 hours for both treatments. ">
+        <entity charOffset="4-10" id="DDI-MedLine.d109.s8.e0" text="digoxin" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d109.s10" text="Digoxin is eliminated renally. ">
+        <entity charOffset="0-6" id="DDI-MedLine.d109.s10.e0" text="Digoxin" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d109.s11" text="The mean (SD) cumulative urinary excretion of immunoreactive digoxin after concurrent treatment with rofecoxib or placebo was 228.2 (+/- 30.8) and 235.1 (+/- 39.1) micrograms/120 hours, respectively. ">
+        <entity charOffset="61-67" id="DDI-MedLine.d109.s11.e0" text="digoxin" type="drug" />
+        <entity charOffset="101-109" id="DDI-MedLine.d109.s11.e1" text="rofecoxib" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d109.s11.e0" e2="DDI-MedLine.d109.s11.e1" id="DDI-MedLine.d109.s11.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d109.s12" text="Transient and minor adverse events occurred with similar frequency on placebo and rofecoxib treatments, and no treatment-related pattern was apparent. ">
+        <entity charOffset="82-90" id="DDI-MedLine.d109.s12.e0" text="rofecoxib" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d109.s13" text="Rofecoxib did not influence the plasma pharmacokinetics or renal elimination of a single oral dose of digoxin.">
+        <entity charOffset="0-8" id="DDI-MedLine.d109.s13.e0" text="Rofecoxib" type="drug" />
+        <entity charOffset="102-108" id="DDI-MedLine.d109.s13.e1" text="digoxin" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d109.s13.e0" e2="DDI-MedLine.d109.s13.e1" id="DDI-MedLine.d109.s13.p0" />
+    </sentence>
+</document>

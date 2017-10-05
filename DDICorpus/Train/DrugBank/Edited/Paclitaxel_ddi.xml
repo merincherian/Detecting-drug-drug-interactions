@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d288">
+    <sentence id="DDI-DrugBank.d288.s14" text="However, severe reactions, such as hypotension requiring treatment, dyspnea requiring bronchodilators, angioedema, or generalized urticaria require immediate discontinuation of TAXOL and aggressive symptomatic therapy.">
+        <entity charOffset="86-100" id="DDI-DrugBank.d288.s14.e0" text="bronchodilators" type="group" />
+        <entity charOffset="177-181" id="DDI-DrugBank.d288.s14.e1" text="TAXOL" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d288.s14.e0" e2="DDI-DrugBank.d288.s14.e1" id="DDI-DrugBank.d288.s14.p0" />
+    </sentence>
+    </document>

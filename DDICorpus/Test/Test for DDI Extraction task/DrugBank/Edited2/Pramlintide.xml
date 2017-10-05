@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d632">
+    <sentence id="DDI-DrugBank.d632.s3" text="When the rapid onset of a concomitant orally administered agent is a critical determinant of effectiveness (such as analgesics), the agent should be administered at least 1 hour prior to or 2 hours after SYMLIN injection. ">
+        <entity charOffset="116-125" id="DDI-DrugBank.d632.s3.e0" text="analgesics" type="group" />
+        <entity charOffset="204-209" id="DDI-DrugBank.d632.s3.e1" text="SYMLIN" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d632.s3.e0" e2="DDI-DrugBank.d632.s3.e1" id="DDI-DrugBank.d632.s3.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d632.s5" text="No formal interaction studies have been performed to assess the effect of SYMLIN on the kinetics of oral antidiabetic agents. ">
+        <entity charOffset="74-79" id="DDI-DrugBank.d632.s5.e0" text="SYMLIN" type="brand" />
+        <entity charOffset="105-123" id="DDI-DrugBank.d632.s5.e1" text="antidiabetic agents" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d632.s5.e0" e2="DDI-DrugBank.d632.s5.e1" id="DDI-DrugBank.d632.s5.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d632.s7" text="Thus, SYMLIN and insulin should not be mixed and must be administered separately.">
+        <entity charOffset="6-11" id="DDI-DrugBank.d632.s7.e0" text="SYMLIN" type="brand" />
+        <entity charOffset="17-23" id="DDI-DrugBank.d632.s7.e1" text="insulin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d632.s7.e0" e2="DDI-DrugBank.d632.s7.e1" id="DDI-DrugBank.d632.s7.p0" />
+    </sentence>
+</document>

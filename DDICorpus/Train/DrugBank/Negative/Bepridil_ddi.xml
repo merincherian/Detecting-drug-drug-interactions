@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d137">
+    <sentence id="DDI-DrugBank.d137.s1" text="Sublingual nitroglycerin may be taken if necessary for the control of acute angina attacks during Bepridil therapy.">
+        <entity charOffset="11-23" id="DDI-DrugBank.d137.s1.e0" text="nitroglycerin" type="drug" />
+        <entity charOffset="98-105" id="DDI-DrugBank.d137.s1.e1" text="Bepridil" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d137.s1.e0" e2="DDI-DrugBank.d137.s1.e1" id="DDI-DrugBank.d137.s1.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d137.s5" text="Limited clinical data in angina patients receiving concomitant bepridil hydrochloride and digoxin therapy indicate no discernible changes in serum digoxin levels.">
+        <entity charOffset="63-84" id="DDI-DrugBank.d137.s5.e0" text="bepridil hydrochloride" type="drug" />
+        <entity charOffset="90-96" id="DDI-DrugBank.d137.s5.e1" text="digoxin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d137.s5.e0" e2="DDI-DrugBank.d137.s5.e1" id="DDI-DrugBank.d137.s5.p0" />
+    </sentence>
+    </document>

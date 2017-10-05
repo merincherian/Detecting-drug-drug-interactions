@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d36">
+    <sentence id="DDI-DrugBank.d36.s0" text="Caution is advised in patients receiving concomitant high-dose aspirin and carbonic anhydrase inhibitors, as anorexia, tachypnea, lethargy and coma have been rarely reported due to a possible drug interaction.">
+        <entity charOffset="63-69" id="DDI-DrugBank.d36.s0.e0" text="aspirin" type="brand" />
+        <entity charOffset="75-103" id="DDI-DrugBank.d36.s0.e1" text="carbonic anhydrase inhibitors" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d36.s0.e0" e2="DDI-DrugBank.d36.s0.e1" id="DDI-DrugBank.d36.s0.p0" type="advise" />
+    </sentence>
+</document>

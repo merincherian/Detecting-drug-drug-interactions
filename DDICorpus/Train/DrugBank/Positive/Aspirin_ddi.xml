@@ -1,0 +1,22 @@
+<document id="DDI-DrugBank.d443">
+    <sentence id="DDI-DrugBank.d443.s1" text="Alcohol: Has a synergistic effect with aspirin in causing gastrointestinal bleeding.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d443.s1.e0" text="Alcohol" type="drug" />
+        <entity charOffset="39-45" id="DDI-DrugBank.d443.s1.e1" text="aspirin" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d443.s1.e0" e2="DDI-DrugBank.d443.s1.e1" id="DDI-DrugBank.d443.s1.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d443.s2" text="Corticosteroids: Concomitant administration with aspirin may increase the risk of gastrointestinal ulceration and may reduce serum salicylate levels.">
+        <entity charOffset="0-14" id="DDI-DrugBank.d443.s2.e0" text="Corticosteroids" type="group" />
+        <entity charOffset="49-55" id="DDI-DrugBank.d443.s2.e1" text="aspirin" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d443.s2.e0" e2="DDI-DrugBank.d443.s2.e1" id="DDI-DrugBank.d443.s2.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d443.s6" text="Phenobarbital: Decreases aspirin effectiveness by enzyme induction.">
+        <entity charOffset="0-12" id="DDI-DrugBank.d443.s6.e0" text="Phenobarbital" type="drug" />
+        <entity charOffset="25-31" id="DDI-DrugBank.d443.s6.e1" text="aspirin" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d443.s6.e0" e2="DDI-DrugBank.d443.s6.e1" id="DDI-DrugBank.d443.s6.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d443.s8" text="Propranolol: May decrease aspirins anti-inflammatory action by competing for the same receptors.">
+        <entity charOffset="0-10" id="DDI-DrugBank.d443.s8.e0" text="Propranolol" type="drug" />
+        <entity charOffset="26-33" id="DDI-DrugBank.d443.s8.e1" text="aspirins" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d443.s8.e0" e2="DDI-DrugBank.d443.s8.e1" id="DDI-DrugBank.d443.s8.p0" type="effect" />
+    </sentence>
+    </document>

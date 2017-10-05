@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d289">
+    <sentence id="DDI-DrugBank.d289.s10" text="Specific interaction studies have demonstrated the following: Cyclosporine A: During the first day of concomitant administration, trough concentrations of bosentan were increased by about 30-fold.">
+        <entity charOffset="62-75" id="DDI-DrugBank.d289.s10.e0" text="Cyclosporine A" type="drug" />
+        <entity charOffset="155-162" id="DDI-DrugBank.d289.s10.e1" text="bosentan" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d289.s10.e0" e2="DDI-DrugBank.d289.s10.e1" id="DDI-DrugBank.d289.s10.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d289.s17" text="Glyburide: An increased risk of elevated liver aminotransferases was observed in patients receiving concomitant therapy with glyburide.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d289.s17.e0" text="Glyburide" type="drug" />
+        <entity charOffset="125-133" id="DDI-DrugBank.d289.s17.e1" text="glyburide" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d289.s17.e0" e2="DDI-DrugBank.d289.s17.e1" id="DDI-DrugBank.d289.s17.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d289.s24" text="No dose adjustment of bosentan is necessary, but increased effects of bosentan should be considered.">
+        <entity charOffset="22-29" id="DDI-DrugBank.d289.s24.e0" text="bosentan" type="drug" />
+        <entity charOffset="70-77" id="DDI-DrugBank.d289.s24.e1" text="bosentan" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d289.s24.e0" e2="DDI-DrugBank.d289.s24.e1" id="DDI-DrugBank.d289.s24.p0" />
+    </sentence>
+    </document>

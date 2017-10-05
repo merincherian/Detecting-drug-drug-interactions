@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d761">
+    <sentence id="DDI-DrugBank.d761.s12" text="Although undercarboxylated osteocalcin, a marker of vitamin K nutritional status, was unaltered with XENICAL administration, vitamin K levels tended to decline in subjects taking XENICAL. ">
+        <entity charOffset="101-107" id="DDI-DrugBank.d761.s12.e0" text="XENICAL" type="brand" />
+        <entity charOffset="179-185" id="DDI-DrugBank.d761.s12.e1" text="XENICAL" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d761.s12.e0" e2="DDI-DrugBank.d761.s12.e1" id="DDI-DrugBank.d761.s12.p0" />
+    </sentence>
+    </document>

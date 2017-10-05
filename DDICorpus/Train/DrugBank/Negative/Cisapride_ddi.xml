@@ -1,0 +1,32 @@
+<document id="DDI-DrugBank.d237">
+    <sentence id="DDI-DrugBank.d237.s1" text="In some cases where serious ventricular arrhythmias, QT prolongation, and torsades de pointes have occurred when cisapride was taken in conjunction with one of the cytochrome P450 3A4 inhibitors, elevated blood cisapride levels were noted at the time of the QT prolongation.">
+        <entity charOffset="113-121" id="DDI-DrugBank.d237.s1.e0" text="cisapride" type="drug" />
+        <entity charOffset="211-219" id="DDI-DrugBank.d237.s1.e1" text="cisapride" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d237.s1.e0" e2="DDI-DrugBank.d237.s1.e1" id="DDI-DrugBank.d237.s1.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d237.s4" text="Anticoagulants (Oral): In patients receiving oral anticoagulants, the coagulation times were increased in some cases.">
+        <entity charOffset="0-13" id="DDI-DrugBank.d237.s4.e0" text="Anticoagulants" type="group" />
+        <entity charOffset="50-63" id="DDI-DrugBank.d237.s4.e1" text="anticoagulants" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d237.s4.e0" e2="DDI-DrugBank.d237.s4.e1" id="DDI-DrugBank.d237.s4.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d237.s13" text="Other: Coadministration of grapefruit juice with cisapride increases the bioavailability of cisapride and concomitant use should be avoided.">
+        <entity charOffset="49-57" id="DDI-DrugBank.d237.s13.e0" text="cisapride" type="drug" />
+        <entity charOffset="92-100" id="DDI-DrugBank.d237.s13.e1" text="cisapride" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d237.s13.e0" e2="DDI-DrugBank.d237.s13.e1" id="DDI-DrugBank.d237.s13.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d237.s15" text="tricyclic antidepressants (such as amitriptyline);">
+        <entity charOffset="0-24" id="DDI-DrugBank.d237.s15.e0" text="tricyclic antidepressants" type="group" />
+        <entity charOffset="35-47" id="DDI-DrugBank.d237.s15.e1" text="amitriptyline" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d237.s15.e0" e2="DDI-DrugBank.d237.s15.e1" id="DDI-DrugBank.d237.s15.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d237.s16" text="certain tetracyclic antidepressants (such as maprotiline);">
+        <entity charOffset="8-34" id="DDI-DrugBank.d237.s16.e0" text="tetracyclic antidepressants" type="group" />
+        <entity charOffset="45-55" id="DDI-DrugBank.d237.s16.e1" text="maprotiline" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d237.s16.e0" e2="DDI-DrugBank.d237.s16.e1" id="DDI-DrugBank.d237.s16.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d237.s17" text="certain antipsychotic medications (such as sertindole);">
+        <entity charOffset="8-32" id="DDI-DrugBank.d237.s17.e0" text="antipsychotic medications" type="group" />
+        <entity charOffset="43-52" id="DDI-DrugBank.d237.s17.e1" text="sertindole" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d237.s17.e0" e2="DDI-DrugBank.d237.s17.e1" id="DDI-DrugBank.d237.s17.p0" />
+    </sentence>
+    </document>

@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d29">
+    <sentence id="DDI-DrugBank.d29.s6" text="Patients treated with proton pump inhibitors and warfarin concomitantly may need to be monitored for increases in INR and prothrombin time.">
+        <entity charOffset="22-43" id="DDI-DrugBank.d29.s6.e0" text="proton pump inhibitors" type="group" />
+        <entity charOffset="49-56" id="DDI-DrugBank.d29.s6.e1" text="warfarin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d29.s6.e0" e2="DDI-DrugBank.d29.s6.e1" id="DDI-DrugBank.d29.s6.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d29.s14" text="Concomitant administration of clarithromycin with pimozide is contraindicated.">
+        <entity charOffset="30-43" id="DDI-DrugBank.d29.s14.e0" text="clarithromycin" type="drug" />
+        <entity charOffset="50-57" id="DDI-DrugBank.d29.s14.e1" text="pimozide" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d29.s14.e0" e2="DDI-DrugBank.d29.s14.e1" id="DDI-DrugBank.d29.s14.p0" type="advise" />
+    </sentence>
+</document>

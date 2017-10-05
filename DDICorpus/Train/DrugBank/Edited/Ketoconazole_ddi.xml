@@ -1,0 +1,47 @@
+<document id="DDI-DrugBank.d458">
+    <sentence id="DDI-DrugBank.d458.s6" text="Coadministration of astemizole with ketoconazole tablets is therefore contraindicated.">
+        <entity charOffset="20-29" id="DDI-DrugBank.d458.s6.e0" text="astemizole" type="drug" />
+        <entity charOffset="36-47" id="DDI-DrugBank.d458.s6.e1" text="ketoconazole" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d458.s6.e0" e2="DDI-DrugBank.d458.s6.e1" id="DDI-DrugBank.d458.s6.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d458.s8" text="Data suggest that coadministration of oral ketoconazole and cisapride can result in prolongation of the QT interval on the ECG.">
+        <entity charOffset="43-54" id="DDI-DrugBank.d458.s8.e0" text="ketoconazole" type="drug" />
+        <entity charOffset="60-68" id="DDI-DrugBank.d458.s8.e1" text="cisapride" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d458.s8.e0" e2="DDI-DrugBank.d458.s8.e1" id="DDI-DrugBank.d458.s8.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d458.s9" text="Therefore concomitant administration of ketoconazole tablets with cisapride is contraindicated.">
+        <entity charOffset="40-51" id="DDI-DrugBank.d458.s9.e0" text="ketoconazole" type="drug" />
+        <entity charOffset="66-74" id="DDI-DrugBank.d458.s9.e1" text="cisapride" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d458.s9.e0" e2="DDI-DrugBank.d458.s9.e1" id="DDI-DrugBank.d458.s9.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d458.s18" text="It is, therefore, advisable to monitor digoxin concentrations in patients receiving ketoconazole.">
+        <entity charOffset="39-45" id="DDI-DrugBank.d458.s18.e0" text="digoxin" type="drug" />
+        <entity charOffset="84-95" id="DDI-DrugBank.d458.s18.e1" text="ketoconazole" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d458.s18.e0" e2="DDI-DrugBank.d458.s18.e1" id="DDI-DrugBank.d458.s18.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d458.s20" text="In simultaneous treatment with imidazole drugs and coumarin drugs, the anticoagulant effect should be carefully titrated and monitored.">
+        <entity charOffset="31-45" id="DDI-DrugBank.d458.s20.e0" text="imidazole drugs" type="group" />
+        <entity charOffset="51-64" id="DDI-DrugBank.d458.s20.e1" text="coumarin drugs" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d458.s20.e0" e2="DDI-DrugBank.d458.s20.e1" id="DDI-DrugBank.d458.s20.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d458.s22" text="Concomitant administration of ketoconazole tablets with phenytoin may alter the metabolism of one or both of the drugs.">
+        <entity charOffset="30-41" id="DDI-DrugBank.d458.s22.e0" text="ketoconazole" type="drug" />
+        <entity charOffset="56-64" id="DDI-DrugBank.d458.s22.e1" text="phenytoin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d458.s22.e0" e2="DDI-DrugBank.d458.s22.e1" id="DDI-DrugBank.d458.s22.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d458.s23" text="It is suggested to monitor both ketoconazole and phenytoin.">
+        <entity charOffset="32-43" id="DDI-DrugBank.d458.s23.e0" text="ketoconazole" type="drug" />
+        <entity charOffset="49-57" id="DDI-DrugBank.d458.s23.e1" text="phenytoin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d458.s23.e0" e2="DDI-DrugBank.d458.s23.e1" id="DDI-DrugBank.d458.s23.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d458.s24" text="Concomitant administration of rifampin with ketoconazole tablets reduces the blood levels of the latter.">
+        <entity charOffset="30-37" id="DDI-DrugBank.d458.s24.e0" text="rifampin" type="drug" />
+        <entity charOffset="44-55" id="DDI-DrugBank.d458.s24.e1" text="ketoconazole" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d458.s24.e0" e2="DDI-DrugBank.d458.s24.e1" id="DDI-DrugBank.d458.s24.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d458.s30" text="Also, there were no clinically significant differences in adverse events when loratadine was administered with or without ketoconazole.">
+        <entity charOffset="78-87" id="DDI-DrugBank.d458.s30.e0" text="loratadine" type="drug" />
+        <entity charOffset="122-133" id="DDI-DrugBank.d458.s30.e1" text="ketoconazole" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d458.s30.e0" e2="DDI-DrugBank.d458.s30.e1" id="DDI-DrugBank.d458.s30.p0" />
+    </sentence>
+    </document>

@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d638">
+    <sentence id="DDI-DrugBank.d638.s0" text="Ritalin may decrease the hypotensive effect of guanethidine. ">
+        <entity charOffset="0-6" id="DDI-DrugBank.d638.s0.e0" text="Ritalin" type="brand" />
+        <entity charOffset="47-58" id="DDI-DrugBank.d638.s0.e1" text="guanethidine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d638.s0.e0" e2="DDI-DrugBank.d638.s0.e1" id="DDI-DrugBank.d638.s0.p0" type="effect" />
+    </sentence>
+    </document>

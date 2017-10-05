@@ -1,0 +1,33 @@
+<document id="DDI-MedLine.d42">
+    <sentence id="DDI-MedLine.d42.s0" text="Sildenafil citrate: a therapeutic update.&#10;">
+        <entity charOffset="0-17" id="DDI-MedLine.d42.s0.e0" text="Sildenafil citrate" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d42.s1" text="BACKGROUND: Since its approval by the US Food and Drug Administration in March 1998, sildenafil citrate has been used by millions of men for the treatment of erectile dysfunction. ">
+        <entity charOffset="85-102" id="DDI-MedLine.d42.s1.e0" text="sildenafil citrate" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d42.s3" text="OBJECTIVE: This paper reviews recent studies of the efficacy of sildenafil, its adverse effects and drug interactions, and socioeconomic factors involved in its use, with a focus on specific patient populations (prostate cancer, diabetes mellitus, ischemic heart disease, spinal cord injuries, neurologic disorders). ">
+        <entity charOffset="64-73" id="DDI-MedLine.d42.s3.e0" text="sildenafil" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d42.s6" text="It has not been as effective in women with sexual dysfunction, with the exception of SSRI-associated sexual dysfunction. ">
+        <entity charOffset="85-88" id="DDI-MedLine.d42.s6.e0" text="SSRI" type="group" />
+    </sentence>
+    <sentence id="DDI-MedLine.d42.s7" text="Some disorders unrelated to sexual dysfunction (eg, esophageal motility dysfunction) may also respond to sildenafil. ">
+        <entity charOffset="105-114" id="DDI-MedLine.d42.s7.e0" text="sildenafil" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d42.s8" text="In the general population, sildenafil is considered to have an acceptable tolerability profile; ">
+        <entity charOffset="27-36" id="DDI-MedLine.d42.s8.e0" text="sildenafil" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d42.s9" text="however, patients with moderate to severe cardiovascular disease or those taking nitrate therapy are at increased risk for potentially serious cardiovascular adverse effects with sildenafil therapy. ">
+        <entity charOffset="81-87" id="DDI-MedLine.d42.s9.e0" text="nitrate" type="group" />
+        <entity charOffset="179-188" id="DDI-MedLine.d42.s9.e1" text="sildenafil" type="drug" />
+        <pair ddi="true" e1="DDI-MedLine.d42.s9.e0" e2="DDI-MedLine.d42.s9.e1" id="DDI-MedLine.d42.s9.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-MedLine.d42.s10" text="In addition, patients taking drugs that inhibit the cytochrome P450 3A4 isozyme, which metabolizes sildenafil, may experience increased drug concentrations and possible toxicity from normal doses of sildenafil. ">
+        <entity charOffset="99-108" id="DDI-MedLine.d42.s10.e0" text="sildenafil" type="drug" />
+        <entity charOffset="199-208" id="DDI-MedLine.d42.s10.e1" text="sildenafil" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d42.s10.e0" e2="DDI-MedLine.d42.s10.e1" id="DDI-MedLine.d42.s10.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d42.s11" text="CONCLUSIONS: Sildenafil is an effective first-line therapy for erectile dysfunction in men. ">
+        <entity charOffset="13-22" id="DDI-MedLine.d42.s11.e0" text="Sildenafil" type="drug" />
+    </sentence>
+    </document>

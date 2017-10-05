@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d22">
+    <sentence id="DDI-DrugBank.d22.s2" text="Aminosalicylic acid may also decrease the absorption of vitamin B12, which can lead to a deficiency.">
+        <entity charOffset="0-18" id="DDI-DrugBank.d22.s2.e0" text="Aminosalicylic acid" type="drug" />
+        <entity charOffset="56-66" id="DDI-DrugBank.d22.s2.e1" text="vitamin B12" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d22.s2.e0" e2="DDI-DrugBank.d22.s2.e1" id="DDI-DrugBank.d22.s2.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d22.s3" text="Therefore you may need to take a vitamin B12 supplement while taking aminosalicylic acid.">
+        <entity charOffset="33-43" id="DDI-DrugBank.d22.s3.e0" text="vitamin B12" type="drug" />
+        <entity charOffset="69-87" id="DDI-DrugBank.d22.s3.e1" text="aminosalicylic acid" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d22.s3.e0" e2="DDI-DrugBank.d22.s3.e1" id="DDI-DrugBank.d22.s3.p0" type="advise" />
+    </sentence>
+</document>

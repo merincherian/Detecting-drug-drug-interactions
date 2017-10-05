@@ -1,0 +1,15 @@
+<document id="DDI-DrugBank.d720">
+    <sentence id="DDI-DrugBank.d720.s0" text="Ergot-containing drugs have been reported to cause prolonged vasospastic reactions. ">
+        <entity charOffset="0-4" id="DDI-DrugBank.d720.s0.e0" text="Ergot" type="group" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d720.s2" text="MAO-A inhibitors reduce sumatriptan clearance, significantly increasing systemic exposure. ">
+        <entity charOffset="0-15" id="DDI-DrugBank.d720.s2.e0" text="MAO-A inhibitors" type="group" />
+        <entity charOffset="24-34" id="DDI-DrugBank.d720.s2.e1" text="sumatriptan" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d720.s2.e0" e2="DDI-DrugBank.d720.s2.e1" id="DDI-DrugBank.d720.s2.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d720.s4" text="If concomitant treatment with sumatriptan and an SSRI is clinically warranted, appropriate observation of the patient is advised.">
+        <entity charOffset="30-40" id="DDI-DrugBank.d720.s4.e0" text="sumatriptan" type="drug" />
+        <entity charOffset="49-52" id="DDI-DrugBank.d720.s4.e1" text="SSRI" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d720.s4.e0" e2="DDI-DrugBank.d720.s4.e1" id="DDI-DrugBank.d720.s4.p0" type="advise" />
+    </sentence>
+</document>

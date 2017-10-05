@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d247">
+    <sentence id="DDI-DrugBank.d247.s1" text="All vasopressors should be used cautiously in patients taking monoamine oxidase (MAO) inhibitors.">
+        <entity charOffset="4-15" id="DDI-DrugBank.d247.s1.e0" text="vasopressors" type="group" />
+        <entity charOffset="62-95" id="DDI-DrugBank.d247.s1.e1" text="monoamine oxidase (MAO) inhibitors" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d247.s1.e0" e2="DDI-DrugBank.d247.s1.e1" id="DDI-DrugBank.d247.s1.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d247.s8" text="Diuretic agents may decrease vascular response to pressor drugs such as epinephrine.">
+        <entity charOffset="0-14" id="DDI-DrugBank.d247.s8.e0" text="Diuretic agents" type="group" />
+        <entity charOffset="72-82" id="DDI-DrugBank.d247.s8.e1" text="epinephrine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d247.s8.e0" e2="DDI-DrugBank.d247.s8.e1" id="DDI-DrugBank.d247.s8.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d247.s9" text="Epinephrine may antagonize the neuron blockade produced by guanethidine resulting in decreased antihypertensive effect and requiring increased dosage of the latter.">
+        <entity charOffset="0-10" id="DDI-DrugBank.d247.s9.e0" text="Epinephrine" type="drug" />
+        <entity charOffset="59-70" id="DDI-DrugBank.d247.s9.e1" text="guanethidine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d247.s9.e0" e2="DDI-DrugBank.d247.s9.e1" id="DDI-DrugBank.d247.s9.p0" type="effect" />
+    </sentence>
+</document>

@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d776">
+    <sentence id="DDI-DrugBank.d776.s39" text="however, in some patients there were decreases up to 47% and 33% of ethinyl estradiol and levonorgestrel levels. ">
+        <entity charOffset="68-84" id="DDI-DrugBank.d776.s39.e0" text="ethinyl estradiol" type="drug" />
+        <entity charOffset="90-103" id="DDI-DrugBank.d776.s39.e1" text="levonorgestrel" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d776.s39.e0" e2="DDI-DrugBank.d776.s39.e1" id="DDI-DrugBank.d776.s39.p0" />
+    </sentence>
+    </document>

@@ -1,0 +1,37 @@
+<document id="DDI-DrugBank.d212">
+    <sentence id="DDI-DrugBank.d212.s2" text="In addition, levetiracetam does not affect the in vitro glucuronidation of valproic acid.">
+        <entity charOffset="13-25" id="DDI-DrugBank.d212.s2.e0" text="levetiracetam" type="drug" />
+        <entity charOffset="75-87" id="DDI-DrugBank.d212.s2.e1" text="valproic acid" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d212.s2.e0" e2="DDI-DrugBank.d212.s2.e1" id="DDI-DrugBank.d212.s2.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d212.s7" text="Pharmacokinetics of levetiracetam were also not affected by phenytoin.">
+        <entity charOffset="20-32" id="DDI-DrugBank.d212.s7.e0" text="levetiracetam" type="drug" />
+        <entity charOffset="60-68" id="DDI-DrugBank.d212.s7.e1" text="phenytoin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d212.s7.e0" e2="DDI-DrugBank.d212.s7.e1" id="DDI-DrugBank.d212.s7.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d212.s9" text="Valproate 500 mg twice daily did not modify the rate or extent of levetiracetam absorption or its plasma clearance or urinary excretion.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d212.s9.e0" text="Valproate" type="drug" />
+        <entity charOffset="66-78" id="DDI-DrugBank.d212.s9.e1" text="levetiracetam" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d212.s9.e0" e2="DDI-DrugBank.d212.s9.e1" id="DDI-DrugBank.d212.s9.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d212.s16" text="Coadministration of this oral contraceptive did not influence the pharmacokinetics of levetiracetam.">
+        <entity charOffset="30-42" id="DDI-DrugBank.d212.s16.e0" text="contraceptive" type="group" />
+        <entity charOffset="86-98" id="DDI-DrugBank.d212.s16.e1" text="levetiracetam" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d212.s16.e0" e2="DDI-DrugBank.d212.s16.e1" id="DDI-DrugBank.d212.s16.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d212.s18" text="Coadministration of digoxin did not influence the pharmacokinetics of levetiracetam.">
+        <entity charOffset="20-26" id="DDI-DrugBank.d212.s18.e0" text="digoxin" type="drug" />
+        <entity charOffset="70-82" id="DDI-DrugBank.d212.s18.e1" text="levetiracetam" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d212.s18.e0" e2="DDI-DrugBank.d212.s18.e1" id="DDI-DrugBank.d212.s18.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d212.s21" text="Coadministration of warfarin did not affect the pharmacokinetics of levetiracetam.">
+        <entity charOffset="20-27" id="DDI-DrugBank.d212.s21.e0" text="warfarin" type="drug" />
+        <entity charOffset="68-80" id="DDI-DrugBank.d212.s21.e1" text="levetiracetam" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d212.s21.e0" e2="DDI-DrugBank.d212.s21.e1" id="DDI-DrugBank.d212.s21.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d212.s25" text="The effect of Keppra  on probenecid was not studied.">
+        <entity charOffset="14-19" id="DDI-DrugBank.d212.s25.e0" text="Keppra" type="brand" />
+        <entity charOffset="25-34" id="DDI-DrugBank.d212.s25.e1" text="probenecid" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d212.s25.e0" e2="DDI-DrugBank.d212.s25.e1" id="DDI-DrugBank.d212.s25.p0" />
+    </sentence>
+</document>

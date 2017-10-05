@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d176">
+    <sentence id="DDI-DrugBank.d176.s1" text="The possibility of hypotensive effects can be minimized by either discontinuing the diuretic or increasing salt intake prior to initiation of treatment with fosinopril sodium.">
+        <entity charOffset="84-91" id="DDI-DrugBank.d176.s1.e0" text="diuretic" type="group" />
+        <entity charOffset="157-173" id="DDI-DrugBank.d176.s1.e1" text="fosinopril sodium" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d176.s1.e0" e2="DDI-DrugBank.d176.s1.e1" id="DDI-DrugBank.d176.s1.p0" type="effect" />
+    </sentence>
+    </document>

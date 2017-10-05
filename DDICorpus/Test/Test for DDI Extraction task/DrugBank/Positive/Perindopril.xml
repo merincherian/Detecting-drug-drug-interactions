@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d781">
+    <sentence id="DDI-DrugBank.d781.s1" text="The possibility of hypotensive effects can be minimized by either discontinuing the diuretic or increasing the salt intake prior to initiation of treatment with perindopril. ">
+        <entity charOffset="84-91" id="DDI-DrugBank.d781.s1.e0" text="diuretic" type="group" />
+        <entity charOffset="161-171" id="DDI-DrugBank.d781.s1.e1" text="perindopril" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d781.s1.e0" e2="DDI-DrugBank.d781.s1.e1" id="DDI-DrugBank.d781.s1.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d781.s2" text="If diuretics cannot be interrupted, close medical supervision should be provided with the first dose of ACEON    Tablets, for at least two hours and until blood pressure has stabilized for another hour. ">
+        <entity charOffset="3-11" id="DDI-DrugBank.d781.s2.e0" text="diuretics" type="group" />
+        <entity charOffset="104-108" id="DDI-DrugBank.d781.s2.e1" text="ACEON" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d781.s2.e0" e2="DDI-DrugBank.d781.s2.e1" id="DDI-DrugBank.d781.s2.p0" type="advise" />
+    </sentence>
+    </document>

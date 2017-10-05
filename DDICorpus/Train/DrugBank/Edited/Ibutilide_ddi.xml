@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d68">
+    <sentence id="DDI-DrugBank.d68.s1" text="Digoxin: Supraventricular arrhythmias may mask the cardiotoxicity associated with excessive digoxin levels.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d68.s1.e0" text="Digoxin" type="drug" />
+        <entity charOffset="92-98" id="DDI-DrugBank.d68.s1.e1" text="digoxin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d68.s1.e0" e2="DDI-DrugBank.d68.s1.e1" id="DDI-DrugBank.d68.s1.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d68.s3" text="Coadministration of digoxin did not have effects on either the safety or efficacy of ibutilide in the clinical trials.">
+        <entity charOffset="20-26" id="DDI-DrugBank.d68.s3.e0" text="digoxin" type="drug" />
+        <entity charOffset="85-93" id="DDI-DrugBank.d68.s3.e1" text="ibutilide" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d68.s3.e0" e2="DDI-DrugBank.d68.s3.e1" id="DDI-DrugBank.d68.s3.p0" />
+    </sentence>
+    </document>

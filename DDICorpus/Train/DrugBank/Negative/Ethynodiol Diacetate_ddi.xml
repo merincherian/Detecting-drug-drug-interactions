@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d485">
+    <sentence id="DDI-DrugBank.d485.s44" text="Grapefruit juice increases ethinyl estradiol concentrations and would be expected to increase progesterone serum levels as well;">
+        <entity charOffset="27-43" id="DDI-DrugBank.d485.s44.e0" text="ethinyl estradiol" type="drug" />
+        <entity charOffset="94-105" id="DDI-DrugBank.d485.s44.e1" text="progesterone" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d485.s44.e0" e2="DDI-DrugBank.d485.s44.e1" id="DDI-DrugBank.d485.s44.p0" />
+    </sentence>
+    </document>

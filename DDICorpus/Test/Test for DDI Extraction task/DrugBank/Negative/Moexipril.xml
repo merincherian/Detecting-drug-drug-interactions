@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d640">
+    <sentence id="DDI-DrugBank.d640.s0" text="Diuretics: Excessive reductions in blood pressure may occur in patients on diuretic therapy when ACE inhibitors are started. ">
+        <entity charOffset="0-8" id="DDI-DrugBank.d640.s0.e0" text="Diuretics" type="group" />
+        <entity charOffset="97-110" id="DDI-DrugBank.d640.s0.e1" text="ACE inhibitors" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d640.s0.e0" e2="DDI-DrugBank.d640.s0.e1" id="DDI-DrugBank.d640.s0.p0" />
+    </sentence>
+    </document>

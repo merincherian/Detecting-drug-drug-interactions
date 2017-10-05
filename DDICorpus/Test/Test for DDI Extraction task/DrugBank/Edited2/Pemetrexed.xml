@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d641">
+    <sentence id="DDI-DrugBank.d641.s2" text="Concomitant administration of substances that are also tubularly secreted (e.g., probenecid) could potentially result in delayed clearance of ALIMTA. ">
+        <entity charOffset="81-90" id="DDI-DrugBank.d641.s2.e0" text="probenecid" type="drug" />
+        <entity charOffset="142-147" id="DDI-DrugBank.d641.s2.e1" text="ALIMTA" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d641.s2.e0" e2="DDI-DrugBank.d641.s2.e1" id="DDI-DrugBank.d641.s2.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d641.s4" text="Patients with mild to moderate renal insufficiency should avoid taking NSAIDs with short elimination half-lives for a period of 2 days before, the day of, and 2 days following administration of ALIMTA. ">
+        <entity charOffset="71-76" id="DDI-DrugBank.d641.s4.e0" text="NSAIDs" type="group" />
+        <entity charOffset="194-199" id="DDI-DrugBank.d641.s4.e1" text="ALIMTA" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d641.s4.e0" e2="DDI-DrugBank.d641.s4.e1" id="DDI-DrugBank.d641.s4.p0" type="advise" />
+    </sentence>
+    </document>

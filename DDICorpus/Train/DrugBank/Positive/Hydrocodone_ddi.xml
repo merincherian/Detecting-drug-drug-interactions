@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d396">
+    <sentence id="DDI-DrugBank.d396.s3" text="The concurrent use of anticholinergics with hydrocodone may produce paralytic ileus.">
+        <entity charOffset="22-37" id="DDI-DrugBank.d396.s3.e0" text="anticholinergics" type="group" />
+        <entity charOffset="44-54" id="DDI-DrugBank.d396.s3.e1" text="hydrocodone" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d396.s3.e0" e2="DDI-DrugBank.d396.s3.e1" id="DDI-DrugBank.d396.s3.p0" type="effect" />
+    </sentence>
+</document>

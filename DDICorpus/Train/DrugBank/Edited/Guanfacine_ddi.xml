@@ -1,0 +1,22 @@
+<document id="DDI-DrugBank.d507">
+    <sentence id="DDI-DrugBank.d507.s0" text="The potential for increased sedation when guanfacine is given with other CNS-depressant drug should be appreciated.">
+        <entity charOffset="42-51" id="DDI-DrugBank.d507.s0.e0" text="guanfacine" type="drug" />
+        <entity charOffset="73-91" id="DDI-DrugBank.d507.s0.e1" text="CNS-depressant drug" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d507.s0.e0" e2="DDI-DrugBank.d507.s0.e1" id="DDI-DrugBank.d507.s0.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d507.s4" text="TCAs decrease the hypotensive effect of guanfacine.">
+        <entity charOffset="0-3" id="DDI-DrugBank.d507.s4.e0" text="TCAs" type="group" />
+        <entity charOffset="40-49" id="DDI-DrugBank.d507.s4.e1" text="guanfacine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d507.s4.e0" e2="DDI-DrugBank.d507.s4.e1" id="DDI-DrugBank.d507.s4.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d507.s7" text="The gradual withdrawal of guafacine or a cardioselective beta-blocker could be substituted.">
+        <entity charOffset="26-34" id="DDI-DrugBank.d507.s7.e0" text="guafacine" type="drug" />
+        <entity charOffset="41-68" id="DDI-DrugBank.d507.s7.e1" text="cardioselective beta-blocker" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d507.s7.e0" e2="DDI-DrugBank.d507.s7.e1" id="DDI-DrugBank.d507.s7.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d507.s10" text="In several well-controlled studies, guanfacine was administered together with diuretics with no drug interactions reported.">
+        <entity charOffset="36-45" id="DDI-DrugBank.d507.s10.e0" text="guanfacine" type="drug" />
+        <entity charOffset="78-86" id="DDI-DrugBank.d507.s10.e1" text="diuretics" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d507.s10.e0" e2="DDI-DrugBank.d507.s10.e1" id="DDI-DrugBank.d507.s10.p0" />
+    </sentence>
+    </document>

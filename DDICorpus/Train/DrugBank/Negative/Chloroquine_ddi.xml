@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d429">
+    <sentence id="DDI-DrugBank.d429.s7" text="Therefore, close monitoring of serum cyclosporin level is recommended and, if necessary, chloroquine should be discontinued.">
+        <entity charOffset="37-47" id="DDI-DrugBank.d429.s7.e0" text="cyclosporin" type="drug" />
+        <entity charOffset="89-99" id="DDI-DrugBank.d429.s7.e1" text="chloroquine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d429.s7.e0" e2="DDI-DrugBank.d429.s7.e1" id="DDI-DrugBank.d429.s7.p0" />
+    </sentence>
+</document>

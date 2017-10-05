@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d700">
+    <sentence id="DDI-DrugBank.d700.s16" text="Interference of MPAG hydrolysis may lead to less MPA available for absorption.">
+        <entity charOffset="16-19" id="DDI-DrugBank.d700.s16.e0" text="MPAG" type="drug_n" />
+        <entity charOffset="49-51" id="DDI-DrugBank.d700.s16.e1" text="MPA" type="drug_n" />
+        <pair ddi="false" e1="DDI-DrugBank.d700.s16.e0" e2="DDI-DrugBank.d700.s16.e1" id="DDI-DrugBank.d700.s16.p0" />
+    </sentence>
+</document>

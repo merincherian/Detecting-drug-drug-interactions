@@ -1,0 +1,38 @@
+<document id="DDI-MedLine.d135">
+    <sentence id="DDI-MedLine.d135.s0" text="Combinations of clozapine and phencyclidine: effects on drug discrimination and behavioral inhibition in rats.&#10;">
+        <entity charOffset="16-24" id="DDI-MedLine.d135.s0.e0" text="clozapine" type="drug" />
+        <entity charOffset="30-42" id="DDI-MedLine.d135.s0.e1" text="phencyclidine" type="drug_n" />
+        <pair ddi="false" e1="DDI-MedLine.d135.s0.e0" e2="DDI-MedLine.d135.s0.e1" id="DDI-MedLine.d135.s0.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d135.s1" text="Phencyclidine (PCP) produces psychotomimetic effects in humans that resemble schizophrenia symptoms. ">
+        <entity charOffset="0-12" id="DDI-MedLine.d135.s1.e0" text="Phencyclidine" type="drug_n" />
+        <entity charOffset="15-17" id="DDI-MedLine.d135.s1.e1" text="PCP" type="drug_n" />
+        <pair ddi="false" e1="DDI-MedLine.d135.s1.e0" e2="DDI-MedLine.d135.s1.e1" id="DDI-MedLine.d135.s1.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d135.s2" text="In an effort to screen compounds for antipsychotic activity, preclinical researchers have investigated whether these compounds block PCP-induced behaviors in animals. ">
+        <entity charOffset="133-135" id="DDI-MedLine.d135.s2.e0" text="PCP" type="drug_n" />
+    </sentence>
+    <sentence id="DDI-MedLine.d135.s4" text="PCP produced distinctive effects in each task: it substituted for the training dose in PCP discrimination and it increased the number of responses with short (&lt;3 s) interresponse times as well as increasing overall response rates in the DRL schedule. ">
+        <entity charOffset="0-2" id="DDI-MedLine.d135.s4.e0" text="PCP" type="drug_n" />
+        <entity charOffset="87-89" id="DDI-MedLine.d135.s4.e1" text="PCP" type="drug_n" />
+        <pair ddi="false" e1="DDI-MedLine.d135.s4.e0" e2="DDI-MedLine.d135.s4.e1" id="DDI-MedLine.d135.s4.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d135.s5" text="Acute dosing with clozapine failed to alter the behavioral effects of PCP in either procedure even when tested up to doses that produced pharmacological effects alone. ">
+        <entity charOffset="18-26" id="DDI-MedLine.d135.s5.e0" text="clozapine" type="drug" />
+        <entity charOffset="70-72" id="DDI-MedLine.d135.s5.e1" text="PCP" type="drug_n" />
+        <pair ddi="false" e1="DDI-MedLine.d135.s5.e0" e2="DDI-MedLine.d135.s5.e1" id="DDI-MedLine.d135.s5.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d135.s6" text="These results suggest that acute dosing with clozapine would not affect behaviors most closely associated with PCP intoxication. ">
+        <entity charOffset="45-53" id="DDI-MedLine.d135.s6.e0" text="clozapine" type="drug" />
+        <entity charOffset="111-113" id="DDI-MedLine.d135.s6.e1" text="PCP" type="drug_n" />
+        <pair ddi="false" e1="DDI-MedLine.d135.s6.e0" e2="DDI-MedLine.d135.s6.e1" id="DDI-MedLine.d135.s6.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d135.s7" text="Further, they bring into question the utility of using PCP combination procedures in animals to screen for antipsychotic potential. ">
+        <entity charOffset="55-57" id="DDI-MedLine.d135.s7.e0" text="PCP" type="drug_n" />
+    </sentence>
+    <sentence id="DDI-MedLine.d135.s8" text="Since chronic dosing is required for therapeutic efficacy of antipsychotics, future studies should focus on investigation of chronic dosing effects of these drugs in combination with PCP.">
+        <entity charOffset="61-74" id="DDI-MedLine.d135.s8.e0" text="antipsychotics" type="group" />
+        <entity charOffset="183-185" id="DDI-MedLine.d135.s8.e1" text="PCP" type="drug_n" />
+        <pair ddi="false" e1="DDI-MedLine.d135.s8.e0" e2="DDI-MedLine.d135.s8.e1" id="DDI-MedLine.d135.s8.p0" />
+    </sentence>
+</document>

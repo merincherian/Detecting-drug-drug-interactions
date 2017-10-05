@@ -1,0 +1,10 @@
+<document id="DDI-DrugBank.d784">
+    <sentence id="DDI-DrugBank.d784.s0" text="The concomitant use of oxybutynin with other anticholinergic drugs or with other agents which produce dry mouth, constipation, somnolence (drowsiness), and/or other anticholinergic-like effects may increase the frequency and/or severity of such effects. ">
+        <entity charOffset="23-32" id="DDI-DrugBank.d784.s0.e0" text="oxybutynin" type="drug" />
+        <entity charOffset="45-65" id="DDI-DrugBank.d784.s0.e1" text="anticholinergic drugs" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d784.s0.e0" e2="DDI-DrugBank.d784.s0.e1" id="DDI-DrugBank.d784.s0.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d784.s1" text="Anticholinergic agents may potentially alter the absorption of some concomitantly administered drugs due to anticholinergic effects on gastrointestinal motility. ">
+        <entity charOffset="0-21" id="DDI-DrugBank.d784.s1.e0" text="Anticholinergic agents" type="group" />
+    </sentence>
+    </document>

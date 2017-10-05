@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d89">
+    <sentence id="DDI-DrugBank.d89.s6" text="Interconversion between caffeine and theophylline has been reported in preterm neonates.">
+        <entity charOffset="24-31" id="DDI-DrugBank.d89.s6.e0" text="caffeine" type="drug" />
+        <entity charOffset="37-48" id="DDI-DrugBank.d89.s6.e1" text="theophylline" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d89.s6.e0" e2="DDI-DrugBank.d89.s6.e1" id="DDI-DrugBank.d89.s6.p0" />
+    </sentence>
+    </document>

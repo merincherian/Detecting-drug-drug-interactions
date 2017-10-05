@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d141">
+    <sentence id="DDI-DrugBank.d141.s8" text="Cerivastatin plasma concentrations were also not affected by co-administration of digoxin.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d141.s8.e0" text="Cerivastatin" type="drug" />
+        <entity charOffset="82-88" id="DDI-DrugBank.d141.s8.e1" text="digoxin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d141.s8.e0" e2="DDI-DrugBank.d141.s8.e1" id="DDI-DrugBank.d141.s8.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d141.s10" text="The AUC and Cmax of both the (R) and (S) isomers of warfarin were unaffected by concurrent dosing of 0.3 mg cerivastatin sodium.">
+        <entity charOffset="52-59" id="DDI-DrugBank.d141.s10.e0" text="warfarin" type="drug" />
+        <entity charOffset="108-126" id="DDI-DrugBank.d141.s10.e1" text="cerivastatin sodium" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d141.s10.e0" e2="DDI-DrugBank.d141.s10.e1" id="DDI-DrugBank.d141.s10.p0" />
+    </sentence>
+    </document>

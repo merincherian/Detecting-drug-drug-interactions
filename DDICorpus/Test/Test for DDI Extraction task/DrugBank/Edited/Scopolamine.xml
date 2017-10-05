@@ -1,0 +1,8 @@
+<document id="DDI-DrugBank.d771">
+    <sentence id="DDI-DrugBank.d771.s0" text="The absorption of oral medications may be decreased during the concurrent use of scopolamine because of decreased gastric motility and delayed gastric emptying. ">
+        <entity charOffset="81-91" id="DDI-DrugBank.d771.s0.e0" text="scopolamine" type="drug" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d771.s4" text="Laboratory Test Interactions Scopolamine will interfere with the gastric secretion test.">
+        <entity charOffset="29-39" id="DDI-DrugBank.d771.s4.e0" text="Scopolamine" type="drug" />
+    </sentence>
+</document>

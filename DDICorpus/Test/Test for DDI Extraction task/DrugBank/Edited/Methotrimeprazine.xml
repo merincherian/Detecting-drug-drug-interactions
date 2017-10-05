@@ -1,0 +1,19 @@
+<document id="DDI-DrugBank.d756">
+    <sentence id="DDI-DrugBank.d756.s1" text="Combination with tramadol (Ultram) is associated with increased risk of seizures. ">
+        <entity charOffset="17-24" id="DDI-DrugBank.d756.s1.e0" text="tramadol" type="drug" />
+        <entity charOffset="27-32" id="DDI-DrugBank.d756.s1.e1" text="Ultram" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d756.s1.e0" e2="DDI-DrugBank.d756.s1.e1" id="DDI-DrugBank.d756.s1.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d756.s5" text="Reduce both the dose of levomepromazine and the dose of the other drug. ">
+        <entity charOffset="24-38" id="DDI-DrugBank.d756.s5.e0" text="levomepromazine" type="drug" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d756.s9" text="Coffee and black tea should be avoided because they decrease the absorption of levomepromazine considerably. ">
+        <entity charOffset="79-93" id="DDI-DrugBank.d756.s9.e0" text="levomepromazine" type="drug" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d756.s10" text="The same is true for antacids; ">
+        <entity charOffset="21-28" id="DDI-DrugBank.d756.s10.e0" text="antacids" type="group" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d756.s11" text="these should be given 1 to 2 hours before or after oral administration of leveomepromazine.">
+        <entity charOffset="74-89" id="DDI-DrugBank.d756.s11.e0" text="leveomepromazine" type="drug" />
+    </sentence>
+</document>

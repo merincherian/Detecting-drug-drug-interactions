@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d110">
+    <sentence id="DDI-DrugBank.d110.s3" text="Concurrent administration of vasopressor drugs (for the treatment of hypotension related to obstetric blocks) and ergot-type oxytocic drugs may cause severe, persistent hypertension or cerebrovascular accidents.">
+        <entity charOffset="29-45" id="DDI-DrugBank.d110.s3.e0" text="vasopressor drugs" type="group" />
+        <entity charOffset="114-138" id="DDI-DrugBank.d110.s3.e1" text="ergot-type oxytocic drugs" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d110.s3.e0" e2="DDI-DrugBank.d110.s3.e1" id="DDI-DrugBank.d110.s3.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d110.s5" text="Therefore, chloroprocaine should not be used in any condition in which a sulfonamide drug is being employed.">
+        <entity charOffset="11-24" id="DDI-DrugBank.d110.s5.e0" text="chloroprocaine" type="drug" />
+        <entity charOffset="73-88" id="DDI-DrugBank.d110.s5.e1" text="sulfonamide drug" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d110.s5.e0" e2="DDI-DrugBank.d110.s5.e1" id="DDI-DrugBank.d110.s5.p0" type="advise" />
+    </sentence>
+</document>

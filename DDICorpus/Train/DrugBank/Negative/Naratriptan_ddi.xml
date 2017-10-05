@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d478">
+    <sentence id="DDI-DrugBank.d478.s2" text="The administration of naratriptan with other 5-HT1 agonists has not been evaluated in migraine patients.">
+        <entity charOffset="22-32" id="DDI-DrugBank.d478.s2.e0" text="naratriptan" type="drug" />
+        <entity charOffset="45-58" id="DDI-DrugBank.d478.s2.e1" text="5-HT1 agonists" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d478.s2.e0" e2="DDI-DrugBank.d478.s2.e1" id="DDI-DrugBank.d478.s2.p0" />
+    </sentence>
+    </document>

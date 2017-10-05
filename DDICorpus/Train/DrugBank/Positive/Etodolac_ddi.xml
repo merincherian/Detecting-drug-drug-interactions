@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d219">
+    <sentence id="DDI-DrugBank.d219.s1" text="This interaction should be given consideration in patients taking NSAIDs concomitantly with ACE-inhibitors.">
+        <entity charOffset="66-71" id="DDI-DrugBank.d219.s1.e0" text="NSAIDs" type="group" />
+        <entity charOffset="92-105" id="DDI-DrugBank.d219.s1.e1" text="ACE-inhibitors" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d219.s1.e0" e2="DDI-DrugBank.d219.s1.e1" id="DDI-DrugBank.d219.s1.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d219.s20" text="Although in vivo studies have not been done to see if etodolac clearance is changed by coadministration of phenylbutazone, it is not recommended that they be coadministered.">
+        <entity charOffset="54-61" id="DDI-DrugBank.d219.s20.e0" text="etodolac" type="drug" />
+        <entity charOffset="107-120" id="DDI-DrugBank.d219.s20.e1" text="phenylbutazone" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d219.s20.e0" e2="DDI-DrugBank.d219.s20.e1" id="DDI-DrugBank.d219.s20.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d219.s26" text="However, caution should be exercised because there have been a few spontaneous reports of prolonged prothrombin times, with or without bleeding, in etodolac-treated patients receiving concomitant warfarin therapy.">
+        <entity charOffset="148-155" id="DDI-DrugBank.d219.s26.e0" text="etodolac" type="drug" />
+        <entity charOffset="196-203" id="DDI-DrugBank.d219.s26.e1" text="warfarin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d219.s26.e0" e2="DDI-DrugBank.d219.s26.e1" id="DDI-DrugBank.d219.s26.p0" type="effect" />
+    </sentence>
+    </document>

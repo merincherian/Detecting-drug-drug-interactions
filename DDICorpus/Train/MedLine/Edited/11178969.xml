@@ -1,0 +1,18 @@
+<document id="DDI-MedLine.d129">
+    <sentence id="DDI-MedLine.d129.s0" text="Green tea polyphenols as potent enhancers of glucocorticoid-induced mouse mammary tumor virus gene expression.&#10;">
+        <entity charOffset="0-20" id="DDI-MedLine.d129.s0.e0" text="Green tea polyphenols" type="drug" />
+        <entity charOffset="32-40" id="DDI-MedLine.d129.s0.e1" text="enhancers" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d129.s0.e0" e2="DDI-MedLine.d129.s0.e1" id="DDI-MedLine.d129.s0.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d129.s1" text="The effect of natural and synthetic galloyl esters on glucocorticoid-induced gene expression was evaluated by using rat fibroblast 3Y1 cells stably transfected with a luciferase reporter gene under the transcriptional regulation of the mouse mammary tumor virus promoter. ">
+        <entity charOffset="262-269" id="DDI-MedLine.d129.s1.e0" text="promoter" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d129.s3" text="n-dodecyl gallate showed the most potent inhibition (66% inhibition at 10 microM), which was far more potent than that of crude tannic acid. ">
+        <entity charOffset="0-16" id="DDI-MedLine.d129.s3.e0" text="n-dodecyl gallate" type="drug" />
+        <entity charOffset="128-138" id="DDI-MedLine.d129.s3.e1" text="tannic acid" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d129.s3.e0" e2="DDI-MedLine.d129.s3.e1" id="DDI-MedLine.d129.s3.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d129.s5" text="On the other hand, surprisingly, green tea gallocatechins, (-)-epigallocatechin-3-O-gallate and theasinensin A, potently enhanced the promoter activity (182 and 247% activity at 1 microM, respectively). ">
+        <entity charOffset="33-56" id="DDI-MedLine.d129.s5.e0" text="green tea gallocatechins" type="drug" />
+    </sentence>
+    </document>

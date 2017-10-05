@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d180">
+    <sentence id="DDI-DrugBank.d180.s0" text="Digitalis toxicity may be aggravated by the initial release of norepinephrine caused by Bretylium Tosylate Injection.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d180.s0.e0" text="Digitalis" type="group" />
+        <entity charOffset="88-105" id="DDI-DrugBank.d180.s0.e1" text="Bretylium Tosylate" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d180.s0.e0" e2="DDI-DrugBank.d180.s0.e1" id="DDI-DrugBank.d180.s0.p0" type="effect" />
+    </sentence>
+    </document>

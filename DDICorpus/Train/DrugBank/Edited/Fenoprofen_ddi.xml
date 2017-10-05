@@ -1,0 +1,22 @@
+<document id="DDI-DrugBank.d154">
+    <sentence id="DDI-DrugBank.d154.s3" text="Chronic administration of phenobarbital, a known enzyme inducer, may be associated with a decrease in the plasma half-life of fenoprofen.">
+        <entity charOffset="26-38" id="DDI-DrugBank.d154.s3.e0" text="phenobarbital" type="drug" />
+        <entity charOffset="126-135" id="DDI-DrugBank.d154.s3.e1" text="fenoprofen" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d154.s3.e0" e2="DDI-DrugBank.d154.s3.e1" id="DDI-DrugBank.d154.s3.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d154.s4" text="When phenobarbital is added to or withdrawn from treatment, dosage adjustment of Nalfon may be required.">
+        <entity charOffset="5-17" id="DDI-DrugBank.d154.s4.e0" text="phenobarbital" type="drug" />
+        <entity charOffset="81-86" id="DDI-DrugBank.d154.s4.e1" text="Nalfon" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d154.s4.e0" e2="DDI-DrugBank.d154.s4.e1" id="DDI-DrugBank.d154.s4.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d154.s8" text="In patients receiving coumarin-type anticoagulants, the addition of Nalfon to therapy could prolong the prothrombin time.">
+        <entity charOffset="22-49" id="DDI-DrugBank.d154.s8.e0" text="coumarin-type anticoagulants" type="group" />
+        <entity charOffset="68-73" id="DDI-DrugBank.d154.s8.e1" text="Nalfon" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d154.s8.e0" e2="DDI-DrugBank.d154.s8.e1" id="DDI-DrugBank.d154.s8.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d154.s10" text="Patients treated with Nalfon may be resistant to the effects of loop diuretics.">
+        <entity charOffset="22-27" id="DDI-DrugBank.d154.s10.e0" text="Nalfon" type="brand" />
+        <entity charOffset="64-77" id="DDI-DrugBank.d154.s10.e1" text="loop diuretics" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d154.s10.e0" e2="DDI-DrugBank.d154.s10.e1" id="DDI-DrugBank.d154.s10.p0" type="effect" />
+    </sentence>
+    </document>

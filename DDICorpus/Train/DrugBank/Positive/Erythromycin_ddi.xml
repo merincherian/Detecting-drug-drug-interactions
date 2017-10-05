@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d397">
+    <sentence id="DDI-DrugBank.d397.s3" text="There have been reports of increased anticoagulant effects when erythromycin and oral anticoagulants were used concomitantly.">
+        <entity charOffset="64-75" id="DDI-DrugBank.d397.s3.e0" text="erythromycin" type="drug" />
+        <entity charOffset="86-99" id="DDI-DrugBank.d397.s3.e1" text="anticoagulants" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d397.s3.e0" e2="DDI-DrugBank.d397.s3.e1" id="DDI-DrugBank.d397.s3.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d397.s12" text="In addition, deaths have been reported rarely with concomitant administration of terfenadine and erythromycin.">
+        <entity charOffset="81-91" id="DDI-DrugBank.d397.s12.e0" text="terfenadine" type="drug" />
+        <entity charOffset="97-108" id="DDI-DrugBank.d397.s12.e1" text="erythromycin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d397.s12.e0" e2="DDI-DrugBank.d397.s12.e1" id="DDI-DrugBank.d397.s12.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d397.s15" text="Patients receiving concomitant lovastatin and erythromycin should be carefully monitored;">
+        <entity charOffset="31-40" id="DDI-DrugBank.d397.s15.e0" text="lovastatin" type="drug" />
+        <entity charOffset="46-57" id="DDI-DrugBank.d397.s15.e1" text="erythromycin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d397.s15.e0" e2="DDI-DrugBank.d397.s15.e1" id="DDI-DrugBank.d397.s15.p0" type="advise" />
+    </sentence>
+    </document>

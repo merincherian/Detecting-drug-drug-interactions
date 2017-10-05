@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d148">
+    <sentence id="DDI-DrugBank.d148.s4" text="However, the concomitant use of Argatroban and warfarin (5-7.5 mg initial oral dose followed by 2.5-6 mg/day orally for 6-10 days) results in prolongation of the prothrombin time (PT) and International Normalized Ratio (INR).">
+        <entity charOffset="32-41" id="DDI-DrugBank.d148.s4.e0" text="Argatroban" type="drug" />
+        <entity charOffset="47-54" id="DDI-DrugBank.d148.s4.e1" text="warfarin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d148.s4.e0" e2="DDI-DrugBank.d148.s4.e1" id="DDI-DrugBank.d148.s4.p0" type="effect" />
+    </sentence>
+    </document>

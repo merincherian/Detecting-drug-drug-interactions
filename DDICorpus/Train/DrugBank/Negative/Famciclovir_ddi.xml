@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d112">
+    <sentence id="DDI-DrugBank.d112.s1" text="The conversion of 6-deoxy penciclovir to penciclovir is catalyzed by aldehyde oxidase.">
+        <entity charOffset="18-36" id="DDI-DrugBank.d112.s1.e0" text="6-deoxy penciclovir" type="drug_n" />
+        <entity charOffset="41-51" id="DDI-DrugBank.d112.s1.e1" text="penciclovir" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d112.s1.e0" e2="DDI-DrugBank.d112.s1.e1" id="DDI-DrugBank.d112.s1.p0" />
+    </sentence>
+    </document>

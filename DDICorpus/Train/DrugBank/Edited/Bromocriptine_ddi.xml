@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d272">
+    <sentence id="DDI-DrugBank.d272.s3" text="Concomitant use of bromocriptine mesylate with other ergot alkaloids is not recommended.">
+        <entity charOffset="19-40" id="DDI-DrugBank.d272.s3.e0" text="bromocriptine mesylate" type="drug" />
+        <entity charOffset="53-67" id="DDI-DrugBank.d272.s3.e1" text="ergot alkaloids" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d272.s3.e0" e2="DDI-DrugBank.d272.s3.e1" id="DDI-DrugBank.d272.s3.p0" type="advise" />
+    </sentence>
+</document>

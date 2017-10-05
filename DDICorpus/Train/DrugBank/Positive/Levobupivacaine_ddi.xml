@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d320">
+    <sentence id="DDI-DrugBank.d320.s0" text="Chirocaine   should be used with caution in patients receiving other local anesthetics or agents structurally related to amide-type local anesthetics since the toxic effects of these drugs could be additive.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d320.s0.e0" text="Chirocaine" type="brand" />
+        <entity charOffset="75-85" id="DDI-DrugBank.d320.s0.e1" text="anesthetics" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d320.s0.e0" e2="DDI-DrugBank.d320.s0.e1" id="DDI-DrugBank.d320.s0.p0" type="advise" />
+    </sentence>
+    </document>

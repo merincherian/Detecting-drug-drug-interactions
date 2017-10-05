@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d709">
+    <sentence id="DDI-DrugBank.d709.s5" text="Although such a risk is not verified for roxithromycin, combination of roxithromycin with such drugs is not recommended.">
+        <entity charOffset="41-53" id="DDI-DrugBank.d709.s5.e0" text="roxithromycin" type="drug" />
+        <entity charOffset="71-83" id="DDI-DrugBank.d709.s5.e1" text="roxithromycin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d709.s5.e0" e2="DDI-DrugBank.d709.s5.e1" id="DDI-DrugBank.d709.s5.p0" />
+    </sentence>
+</document>

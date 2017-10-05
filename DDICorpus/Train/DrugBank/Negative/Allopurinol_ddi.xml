@@ -1,0 +1,22 @@
+<document id="DDI-DrugBank.d413">
+    <sentence id="DDI-DrugBank.d413.s5" text="Subsequent adjustment of doses of mercaptopurine or azathioprine should be made on the basis of therapeutic response and the appearance of toxic effects.">
+        <entity charOffset="34-47" id="DDI-DrugBank.d413.s5.e0" text="mercaptopurine" type="drug" />
+        <entity charOffset="52-63" id="DDI-DrugBank.d413.s5.e1" text="azathioprine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d413.s5.e0" e2="DDI-DrugBank.d413.s5.e1" id="DDI-DrugBank.d413.s5.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d413.s7" text="The clinical basis of this drug interaction has not been established but should be noted when allopurinol is given to patients already on dicumarol therapy.">
+        <entity charOffset="94-104" id="DDI-DrugBank.d413.s7.e0" text="allopurinol" type="drug" />
+        <entity charOffset="138-146" id="DDI-DrugBank.d413.s7.e1" text="dicumarol" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d413.s7.e0" e2="DDI-DrugBank.d413.s7.e1" id="DDI-DrugBank.d413.s7.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d413.s11" text="Although clinical evidence to date has not demonstrated renal precipitation of oxypurines in patients either on allopurinol alone or in combination with uricosuric agents, the possibility should be kept in mind.">
+        <entity charOffset="112-122" id="DDI-DrugBank.d413.s11.e0" text="allopurinol" type="drug" />
+        <entity charOffset="153-169" id="DDI-DrugBank.d413.s11.e1" text="uricosuric agents" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d413.s11.e0" e2="DDI-DrugBank.d413.s11.e1" id="DDI-DrugBank.d413.s11.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d413.s23" text="Monitoring of cyclosporine levels and possible adjustment of cyclosporine dosage should be considered when these drugs are co-administered.">
+        <entity charOffset="14-25" id="DDI-DrugBank.d413.s23.e0" text="cyclosporine" type="drug" />
+        <entity charOffset="61-72" id="DDI-DrugBank.d413.s23.e1" text="cyclosporine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d413.s23.e0" e2="DDI-DrugBank.d413.s23.e1" id="DDI-DrugBank.d413.s23.p0" />
+    </sentence>
+    </document>

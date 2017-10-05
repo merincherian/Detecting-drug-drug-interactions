@@ -1,0 +1,32 @@
+<document id="DDI-DrugBank.d238">
+    <sentence id="DDI-DrugBank.d238.s2" text="Anafranil should not be used with MAO inhibitors.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d238.s2.e0" text="Anafranil" type="brand" />
+        <entity charOffset="34-47" id="DDI-DrugBank.d238.s2.e1" text="MAO inhibitors" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d238.s2.e0" e2="DDI-DrugBank.d238.s2.e1" id="DDI-DrugBank.d238.s2.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d238.s5" text="The plasma concentration of CMI has been reported to be increased by the concomitant administration of haloperidol;">
+        <entity charOffset="28-30" id="DDI-DrugBank.d238.s5.e0" text="CMI" type="drug" />
+        <entity charOffset="103-113" id="DDI-DrugBank.d238.s5.e1" text="haloperidol" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d238.s5.e0" e2="DDI-DrugBank.d238.s5.e1" id="DDI-DrugBank.d238.s5.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d238.s7" text="Administration of CMI has been reported to increase the plasma levels of phenobarbital, if given concomitantly.">
+        <entity charOffset="18-20" id="DDI-DrugBank.d238.s7.e0" text="CMI" type="drug" />
+        <entity charOffset="73-85" id="DDI-DrugBank.d238.s7.e1" text="phenobarbital" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d238.s7.e0" e2="DDI-DrugBank.d238.s7.e1" id="DDI-DrugBank.d238.s7.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d238.s17" text="Fluvoxamine has also been shown to inhibit P450 1A2, an isoform also involved in TCAmetabolism.">
+        <entity charOffset="0-10" id="DDI-DrugBank.d238.s17.e0" text="Fluvoxamine" type="drug" />
+        <entity charOffset="81-83" id="DDI-DrugBank.d238.s17.e1" text="TCA" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d238.s17.e0" e2="DDI-DrugBank.d238.s17.e1" id="DDI-DrugBank.d238.s17.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d238.s19" text="Nevertheless, caution is indicated in the co-administration of TCAs with any of the SSRIs and also in switching from one class to the other.">
+        <entity charOffset="63-66" id="DDI-DrugBank.d238.s19.e0" text="TCAs" type="group" />
+        <entity charOffset="84-88" id="DDI-DrugBank.d238.s19.e1" text="SSRIs" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d238.s19.e0" e2="DDI-DrugBank.d238.s19.e1" id="DDI-DrugBank.d238.s19.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d238.s20" text="Of particular importance, sufficient time must elapse before initiating TCAtreatment in a patient being withdrawn from fluoxetine, given the long half-life of the parent and active metabolite (at least 5 weeks may be necessary).">
+        <entity charOffset="72-74" id="DDI-DrugBank.d238.s20.e0" text="TCA" type="group" />
+        <entity charOffset="119-128" id="DDI-DrugBank.d238.s20.e1" text="fluoxetine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d238.s20.e0" e2="DDI-DrugBank.d238.s20.e1" id="DDI-DrugBank.d238.s20.p0" type="advise" />
+    </sentence>
+    </document>

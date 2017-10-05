@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d151">
+    <sentence id="DDI-DrugBank.d151.s1" text="Preliminary animal and human studies have shown that small quantities of systemically administered leucovorin enter the CSF primarily as 5-methyltetrahydro-folate and, in humans, remain 1 to 3 orders of magnitude lower than the usual methotrexate concentrations following intrathecal administration.">
+        <entity charOffset="99-108" id="DDI-DrugBank.d151.s1.e0" text="leucovorin" type="drug" />
+        <entity charOffset="234-245" id="DDI-DrugBank.d151.s1.e1" text="methotrexate" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d151.s1.e0" e2="DDI-DrugBank.d151.s1.e1" id="DDI-DrugBank.d151.s1.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d151.s2" text="However, high doses of leucovorin may reduce the efficacy of intrathecally administered methotrexate.">
+        <entity charOffset="23-32" id="DDI-DrugBank.d151.s2.e0" text="leucovorin" type="drug" />
+        <entity charOffset="88-99" id="DDI-DrugBank.d151.s2.e1" text="methotrexate" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d151.s2.e0" e2="DDI-DrugBank.d151.s2.e1" id="DDI-DrugBank.d151.s2.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d151.s3" text="Leucovorin may enhance the toxicity of 5-fluorouracil.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d151.s3.e0" text="Leucovorin" type="drug" />
+        <entity charOffset="39-52" id="DDI-DrugBank.d151.s3.e1" text="5-fluorouracil" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d151.s3.e0" e2="DDI-DrugBank.d151.s3.e1" id="DDI-DrugBank.d151.s3.p0" type="effect" />
+    </sentence>
+</document>

@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d131">
+    <sentence id="DDI-DrugBank.d131.s3" text="Drugs That Inhibit Alprazolam Metabolism Via Cytochrome P450 3A: The initial step in alprazolam metabolism is hydroxylation catalyzed by cytochrome P450 3A (CYP 3A).">
+        <entity charOffset="19-28" id="DDI-DrugBank.d131.s3.e0" text="Alprazolam" type="drug" />
+        <entity charOffset="85-94" id="DDI-DrugBank.d131.s3.e1" text="alprazolam" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d131.s3.e0" e2="DDI-DrugBank.d131.s3.e1" id="DDI-DrugBank.d131.s3.p0" />
+    </sentence>
+    </document>

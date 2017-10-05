@@ -1,0 +1,62 @@
+<document id="DDI-DrugBank.d97">
+    <sentence id="DDI-DrugBank.d97.s3" text="Drugs that induce CYP3A4 activity would be expected to increase the clearance of indinavir, resulting in lowered plasma concentrations of indinavir.">
+        <entity charOffset="81-89" id="DDI-DrugBank.d97.s3.e0" text="indinavir" type="drug" />
+        <entity charOffset="138-146" id="DDI-DrugBank.d97.s3.e1" text="indinavir" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d97.s3.e0" e2="DDI-DrugBank.d97.s3.e1" id="DDI-DrugBank.d97.s3.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d97.s8" text="Antiarrhythmics: amiodarone">
+        <entity charOffset="0-14" id="DDI-DrugBank.d97.s8.e0" text="Antiarrhythmics" type="group" />
+        <entity charOffset="17-26" id="DDI-DrugBank.d97.s8.e1" text="amiodarone" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d97.s8.e0" e2="DDI-DrugBank.d97.s8.e1" id="DDI-DrugBank.d97.s8.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d97.s16" text="Neuroleptic: pimozide">
+        <entity charOffset="0-10" id="DDI-DrugBank.d97.s16.e0" text="Neuroleptic" type="group" />
+        <entity charOffset="13-20" id="DDI-DrugBank.d97.s16.e1" text="pimozide" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d97.s16.e0" e2="DDI-DrugBank.d97.s16.e1" id="DDI-DrugBank.d97.s16.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d97.s19" text="May lead to loss of virologic response and possible resistance to CRIXIVAN or to the class of protease inhibitors.">
+        <entity charOffset="66-73" id="DDI-DrugBank.d97.s19.e0" text="CRIXIVAN" type="brand" />
+        <entity charOffset="94-112" id="DDI-DrugBank.d97.s19.e1" text="protease inhibitors" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d97.s19.e0" e2="DDI-DrugBank.d97.s19.e1" id="DDI-DrugBank.d97.s19.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d97.s20" text="Antimycobacterial: rifampin">
+        <entity charOffset="0-16" id="DDI-DrugBank.d97.s20.e0" text="Antimycobacterial" type="group" />
+        <entity charOffset="19-26" id="DDI-DrugBank.d97.s20.e1" text="rifampin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d97.s20.e0" e2="DDI-DrugBank.d97.s20.e1" id="DDI-DrugBank.d97.s20.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d97.s24" text="Protease inhibitor: atazanavir">
+        <entity charOffset="0-17" id="DDI-DrugBank.d97.s24.e0" text="Protease inhibitor" type="group" />
+        <entity charOffset="20-29" id="DDI-DrugBank.d97.s24.e1" text="atazanavir" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d97.s24.e0" e2="DDI-DrugBank.d97.s24.e1" id="DDI-DrugBank.d97.s24.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d97.s25" text="Both CRIXIVAN and atazanavir are associated with indirect (unconjugated) hyperbilirubinemia.">
+        <entity charOffset="5-12" id="DDI-DrugBank.d97.s25.e0" text="CRIXIVAN" type="brand" />
+        <entity charOffset="18-27" id="DDI-DrugBank.d97.s25.e1" text="atazanavir" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d97.s25.e0" e2="DDI-DrugBank.d97.s25.e1" id="DDI-DrugBank.d97.s25.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d97.s40" text="The optimal dose of indinavir, when given in combination with efavirenz, is not known.">
+        <entity charOffset="20-28" id="DDI-DrugBank.d97.s40.e0" text="indinavir" type="drug" />
+        <entity charOffset="62-70" id="DDI-DrugBank.d97.s40.e1" text="efavirenz" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d97.s40.e0" e2="DDI-DrugBank.d97.s40.e1" id="DDI-DrugBank.d97.s40.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d97.s50" text="indinavir concentration   ritonavir concentration">
+        <entity charOffset="0-8" id="DDI-DrugBank.d97.s50.e0" text="indinavir" type="drug" />
+        <entity charOffset="26-34" id="DDI-DrugBank.d97.s50.e1" text="ritonavir" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d97.s50.e0" e2="DDI-DrugBank.d97.s50.e1" id="DDI-DrugBank.d97.s50.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d97.s68" text="clarithromycin concentration   indinavir concentration">
+        <entity charOffset="0-13" id="DDI-DrugBank.d97.s68.e0" text="clarithromycin" type="drug" />
+        <entity charOffset="31-39" id="DDI-DrugBank.d97.s68.e1" text="indinavir" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d97.s68.e0" e2="DDI-DrugBank.d97.s68.e1" id="DDI-DrugBank.d97.s68.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d97.s70" text="HMG-CoA Reductase Inhibitor: atorvastatin">
+        <entity charOffset="0-26" id="DDI-DrugBank.d97.s70.e0" text="HMG-CoA Reductase Inhibitor" type="group" />
+        <entity charOffset="29-40" id="DDI-DrugBank.d97.s70.e1" text="atorvastatin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d97.s70.e0" e2="DDI-DrugBank.d97.s70.e1" id="DDI-DrugBank.d97.s70.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d97.s83" text="indinavir concentration   rifabutin concentration">
+        <entity charOffset="0-8" id="DDI-DrugBank.d97.s83.e0" text="indinavir" type="drug" />
+        <entity charOffset="26-34" id="DDI-DrugBank.d97.s83.e1" text="rifabutin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d97.s83.e0" e2="DDI-DrugBank.d97.s83.e1" id="DDI-DrugBank.d97.s83.p0" />
+    </sentence>
+    </document>

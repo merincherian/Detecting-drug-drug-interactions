@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d329">
+    <sentence id="DDI-DrugBank.d329.s1" text="Based on total ertapenem concentrations, probenecid increased the AUC by 25% and reduced the plasma and renal clearances by 20% and 35%, respectively.">
+        <entity charOffset="15-23" id="DDI-DrugBank.d329.s1.e0" text="ertapenem" type="drug" />
+        <entity charOffset="41-50" id="DDI-DrugBank.d329.s1.e1" text="probenecid" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d329.s1.e0" e2="DDI-DrugBank.d329.s1.e1" id="DDI-DrugBank.d329.s1.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d329.s3" text="Because of the small effect on half-life, the coadministration with probenecid to extend the half-life of ertapenem is not recommended.">
+        <entity charOffset="68-77" id="DDI-DrugBank.d329.s3.e0" text="probenecid" type="drug" />
+        <entity charOffset="106-114" id="DDI-DrugBank.d329.s3.e1" text="ertapenem" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d329.s3.e0" e2="DDI-DrugBank.d329.s3.e1" id="DDI-DrugBank.d329.s3.p0" type="advise" />
+    </sentence>
+    </document>

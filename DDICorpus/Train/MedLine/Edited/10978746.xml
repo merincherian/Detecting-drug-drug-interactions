@@ -1,0 +1,21 @@
+<document id="DDI-MedLine.d69">
+    <sentence id="DDI-MedLine.d69.s2" text="It was observed that contortrostatin had a dramatic effect on the tyrosine phosphorylation status of several proteins in T24 human bladder cancer cells, including robust induction of phosphorylation of proteins in the range of 120-140 kDa. ">
+        <entity charOffset="21-35" id="DDI-MedLine.d69.s2.e0" text="contortrostatin" type="drug_n" />
+    </sentence>
+    <sentence id="DDI-MedLine.d69.s3" text="Echistatin alone had no effect on tyrosine phosphorylation in T24 cells, but dose-dependently inhibits the effects of contortrostatin when both are added simultaneously. ">
+        <entity charOffset="0-9" id="DDI-MedLine.d69.s3.e0" text="Echistatin" type="drug_n" />
+        <entity charOffset="118-132" id="DDI-MedLine.d69.s3.e1" text="contortrostatin" type="drug_n" />
+        <pair ddi="true" e1="DDI-MedLine.d69.s3.e0" e2="DDI-MedLine.d69.s3.e1" id="DDI-MedLine.d69.s3.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-MedLine.d69.s4" text="Among the proteins that undergo tyrosine phosphorylation in response to contortrostatin treatment is CAS, a 130 kDa adapter protein involved in integrin signaling. ">
+        <entity charOffset="72-86" id="DDI-MedLine.d69.s4.e0" text="contortrostatin" type="drug_n" />
+    </sentence>
+    <sentence id="DDI-MedLine.d69.s5" text="Flavoridin alone was found to have no effect on CAS, but can completely block contortrostatin-induced phosphorylation of this protein in MDA-MB-435 cells. ">
+        <entity charOffset="0-9" id="DDI-MedLine.d69.s5.e0" text="Flavoridin" type="drug_n" />
+        <entity charOffset="78-92" id="DDI-MedLine.d69.s5.e1" text="contortrostatin" type="drug_n" />
+        <pair ddi="true" e1="DDI-MedLine.d69.s5.e0" e2="DDI-MedLine.d69.s5.e1" id="DDI-MedLine.d69.s5.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-MedLine.d69.s6" text="These observations strongly suggest that the homodimeric structure of contortrostatin functionally distinguishes it from other monomeric members of the disintegrin family.">
+        <entity charOffset="70-84" id="DDI-MedLine.d69.s6.e0" text="contortrostatin" type="drug_n" />
+    </sentence>
+</document>

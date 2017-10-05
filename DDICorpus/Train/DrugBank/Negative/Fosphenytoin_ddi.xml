@@ -1,0 +1,22 @@
+<document id="DDI-DrugBank.d40">
+    <sentence id="DDI-DrugBank.d40.s0" text="No drugs are known to interfere with the conversion of fosphenytoin to phenytoin.">
+        <entity charOffset="55-66" id="DDI-DrugBank.d40.s0.e0" text="fosphenytoin" type="drug" />
+        <entity charOffset="71-79" id="DDI-DrugBank.d40.s0.e1" text="phenytoin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d40.s0.e0" e2="DDI-DrugBank.d40.s0.e1" id="DDI-DrugBank.d40.s0.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d40.s1" text="Conversion could be affected by alterations in the level of phosphatase activity, but given the abundance and wide distribution of phosphatases in the body it is unlikely that drugs would affect this activity enough to affect conversion of fosphenytoin to phenytoin.">
+        <entity charOffset="240-251" id="DDI-DrugBank.d40.s1.e0" text="fosphenytoin" type="drug" />
+        <entity charOffset="256-264" id="DDI-DrugBank.d40.s1.e1" text="phenytoin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d40.s1.e0" e2="DDI-DrugBank.d40.s1.e1" id="DDI-DrugBank.d40.s1.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d40.s5" text="The most significant drug interactions following administration of Cerebyx are expected to occur with drugs that interact with phenytoin.">
+        <entity charOffset="67-73" id="DDI-DrugBank.d40.s5.e0" text="Cerebyx" type="brand" />
+        <entity charOffset="127-135" id="DDI-DrugBank.d40.s5.e1" text="phenytoin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d40.s5.e0" e2="DDI-DrugBank.d40.s5.e1" id="DDI-DrugBank.d40.s5.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d40.s24" text="Care should be taken when using immunoanalytical methods to measure plasma phenytoin concentrations following Cerebyx administration.">
+        <entity charOffset="75-83" id="DDI-DrugBank.d40.s24.e0" text="phenytoin" type="drug" />
+        <entity charOffset="110-116" id="DDI-DrugBank.d40.s24.e1" text="Cerebyx" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d40.s24.e0" e2="DDI-DrugBank.d40.s24.e1" id="DDI-DrugBank.d40.s24.p0" />
+    </sentence>
+</document>

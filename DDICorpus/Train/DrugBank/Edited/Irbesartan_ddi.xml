@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d27">
+    <sentence id="DDI-DrugBank.d27.s2" text="However, in clinical studies the consequences of concomitant irbesartan on the pharmacodynamics of warfarin were negligible.">
+        <entity charOffset="61-70" id="DDI-DrugBank.d27.s2.e0" text="irbesartan" type="drug" />
+        <entity charOffset="99-106" id="DDI-DrugBank.d27.s2.e1" text="warfarin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d27.s2.e0" e2="DDI-DrugBank.d27.s2.e1" id="DDI-DrugBank.d27.s2.p0" />
+    </sentence>
+    </document>

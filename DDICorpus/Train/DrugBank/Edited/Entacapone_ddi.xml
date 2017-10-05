@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d455">
+    <sentence id="DDI-DrugBank.d455.s9" text="As most entacapone excretion is via the bile, caution should be exercised when drugs known to interfere with biliary excretion, glucuronidation, and intestinal beta-glucuronidase are given concurrently with entacapone.">
+        <entity charOffset="8-17" id="DDI-DrugBank.d455.s9.e0" text="entacapone" type="drug" />
+        <entity charOffset="207-216" id="DDI-DrugBank.d455.s9.e1" text="entacapone" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d455.s9.e0" e2="DDI-DrugBank.d455.s9.e1" id="DDI-DrugBank.d455.s9.p0" />
+    </sentence>
+    </document>

@@ -1,0 +1,18 @@
+<document id="DDI-MedLine.d0">
+    <sentence id="DDI-MedLine.d0.s0" text="The effects of concomitant phenytoin administration on the steady-state pharmacokinetics of quetiapine.&#10;">
+        <entity charOffset="27-35" id="DDI-MedLine.d0.s0.e0" text="phenytoin" type="drug" />
+        <entity charOffset="92-101" id="DDI-MedLine.d0.s0.e1" text="quetiapine" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d0.s0.e0" e2="DDI-MedLine.d0.s0.e1" id="DDI-MedLine.d0.s0.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d0.s3" text="Therefore, concurrent administration of drugs that induce or inhibit this enzyme may affect quetiapine pharmacokinetics. ">
+        <entity charOffset="92-101" id="DDI-MedLine.d0.s3.e0" text="quetiapine" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d0.s4" text="This study demonstrated that the potent cytochrome P450 enzyme-inducer phenytoin did indeed have a marked effect on the metabolism of quetiapine, resulting in a 5-fold increase in clearance when administered concomitantly to patients with DSM-IV-diagnosed schizophrenia, schizoaffective disorder, or bipolar disorder. ">
+        <entity charOffset="71-79" id="DDI-MedLine.d0.s4.e0" text="phenytoin" type="drug" />
+        <entity charOffset="134-143" id="DDI-MedLine.d0.s4.e1" text="quetiapine" type="drug" />
+        <pair ddi="true" e1="DDI-MedLine.d0.s4.e0" e2="DDI-MedLine.d0.s4.e1" id="DDI-MedLine.d0.s4.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-MedLine.d0.s5" text="These results indicate that dosage adjustment of quetiapine may be necessary when the two drugs are given concurrently and that caution may be required when administering other drugs that inhibit or induce cytochromes, particularly P450 3A4.">
+        <entity charOffset="49-58" id="DDI-MedLine.d0.s5.e0" text="quetiapine" type="drug" />
+    </sentence>
+</document>

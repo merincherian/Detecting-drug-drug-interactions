@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d276">
+    <sentence id="DDI-DrugBank.d276.s3" text="The resulting increase in nitrofurantoin serum levels may increase toxicity, and the decreased urinary levels could lessen its efficacy as a urinary tract antibacterial.">
+        <entity charOffset="26-39" id="DDI-DrugBank.d276.s3.e0" text="nitrofurantoin" type="drug" />
+        <entity charOffset="155-167" id="DDI-DrugBank.d276.s3.e1" text="antibacterial" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d276.s3.e0" e2="DDI-DrugBank.d276.s3.e1" id="DDI-DrugBank.d276.s3.p0" />
+    </sentence>
+    </document>

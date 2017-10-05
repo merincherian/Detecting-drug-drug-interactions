@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d225">
+    <sentence id="DDI-DrugBank.d225.s12" text="All subjects received glipizide alone and following treatment with 100 mg of fluconazole as a single daily oral dose for seven days.">
+        <entity charOffset="22-30" id="DDI-DrugBank.d225.s12.e0" text="glipizide" type="drug" />
+        <entity charOffset="77-87" id="DDI-DrugBank.d225.s12.e1" text="fluconazole" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d225.s12.e0" e2="DDI-DrugBank.d225.s12.e1" id="DDI-DrugBank.d225.s12.p0" />
+    </sentence>
+    </document>

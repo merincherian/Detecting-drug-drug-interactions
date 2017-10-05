@@ -1,0 +1,16 @@
+<document id="DDI-MedLine.d76">
+    <sentence id="DDI-MedLine.d76.s0" text="Thiolated carboxymethylcellulose: in vitro evaluation of its permeation enhancing effect on peptide drugs.&#10;">
+        <entity charOffset="0-31" id="DDI-MedLine.d76.s0.e0" text="Thiolated carboxymethylcellulose" type="drug_n" />
+    </sentence>
+    <sentence id="DDI-MedLine.d76.s2" text="Cysteine was covalently linked to carbodiimide activated NaCMC. ">
+        <entity charOffset="0-7" id="DDI-MedLine.d76.s2.e0" text="Cysteine" type="drug" />
+        <entity charOffset="57-61" id="DDI-MedLine.d76.s2.e1" text="NaCMC" type="drug_n" />
+        <pair ddi="false" e1="DDI-MedLine.d76.s2.e0" e2="DDI-MedLine.d76.s2.e1" id="DDI-MedLine.d76.s2.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d76.s3" text="Iodometric titration of the polymer conjugates was used to determine the extent of immobilised cysteine. ">
+        <entity charOffset="95-102" id="DDI-MedLine.d76.s3.e0" text="cysteine" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d76.s6" text="Cysteine conjugation at 3.6, 5.3 and 7.3% (m/m) resulted in R-values of 1.4, 1.7 and 1.8, respectively. ">
+        <entity charOffset="0-7" id="DDI-MedLine.d76.s6.e0" text="Cysteine" type="drug" />
+    </sentence>
+    </document>

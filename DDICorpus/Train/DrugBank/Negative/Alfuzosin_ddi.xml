@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d273">
+    <sentence id="DDI-DrugBank.d273.s0" text="Drug-Drug Interactions: The pharmacokinetic and pharmacodynamic interactions between UROXATRAL and other alpha-blockers have not been determined.">
+        <entity charOffset="85-93" id="DDI-DrugBank.d273.s0.e0" text="UROXATRAL" type="brand" />
+        <entity charOffset="105-118" id="DDI-DrugBank.d273.s0.e1" text="alpha-blockers" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d273.s0.e0" e2="DDI-DrugBank.d273.s0.e1" id="DDI-DrugBank.d273.s0.p0" />
+    </sentence>
+    </document>

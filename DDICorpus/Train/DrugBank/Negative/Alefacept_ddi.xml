@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d491">
+    <sentence id="DDI-DrugBank.d491.s1" text="The duration of the period following treatment with AMEVIVE  before one should consider starting other immunosuppressive therapy has not been evaluated.">
+        <entity charOffset="52-58" id="DDI-DrugBank.d491.s1.e0" text="AMEVIVE" type="brand" />
+        <entity charOffset="103-119" id="DDI-DrugBank.d491.s1.e1" text="immunosuppressive" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d491.s1.e0" e2="DDI-DrugBank.d491.s1.e1" id="DDI-DrugBank.d491.s1.p0" />
+    </sentence>
+    </document>

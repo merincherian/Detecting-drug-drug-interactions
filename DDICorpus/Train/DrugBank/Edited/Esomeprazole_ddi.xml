@@ -1,0 +1,22 @@
+<document id="DDI-DrugBank.d29">
+    <sentence id="DDI-DrugBank.d29.s4" text="Post-marketing reports of changes in prothrombin measures have been received among patients on concomitant warfarin and esomeprazole therapy.">
+        <entity charOffset="107-114" id="DDI-DrugBank.d29.s4.e0" text="warfarin" type="drug" />
+        <entity charOffset="120-131" id="DDI-DrugBank.d29.s4.e1" text="esomeprazole" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d29.s4.e0" e2="DDI-DrugBank.d29.s4.e1" id="DDI-DrugBank.d29.s4.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d29.s6" text="Patients treated with proton pump inhibitors and warfarin concomitantly may need to be monitored for increases in INR and prothrombin time.">
+        <entity charOffset="22-43" id="DDI-DrugBank.d29.s6.e0" text="proton pump inhibitors" type="group" />
+        <entity charOffset="49-56" id="DDI-DrugBank.d29.s6.e1" text="warfarin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d29.s6.e0" e2="DDI-DrugBank.d29.s6.e1" id="DDI-DrugBank.d29.s6.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d29.s7" text="Esomeprazole may potentially interfere with CYP2C19, the major esomeprazole metabolizing enzyme.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d29.s7.e0" text="Esomeprazole" type="drug" />
+        <entity charOffset="63-74" id="DDI-DrugBank.d29.s7.e1" text="esomeprazole" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d29.s7.e0" e2="DDI-DrugBank.d29.s7.e1" id="DDI-DrugBank.d29.s7.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d29.s14" text="Concomitant administration of clarithromycin with pimozide is contraindicated.">
+        <entity charOffset="30-43" id="DDI-DrugBank.d29.s14.e0" text="clarithromycin" type="drug" />
+        <entity charOffset="50-57" id="DDI-DrugBank.d29.s14.e1" text="pimozide" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d29.s14.e0" e2="DDI-DrugBank.d29.s14.e1" id="DDI-DrugBank.d29.s14.p0" type="advise" />
+    </sentence>
+</document>

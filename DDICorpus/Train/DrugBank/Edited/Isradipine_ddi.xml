@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d81">
+    <sentence id="DDI-DrugBank.d81.s8" text="If isradipine therapy is initiated in a patient currently receiving cimetidine careful monitoring for adverse reactions is advised and downward dose adjustment may be required.">
+        <entity charOffset="3-12" id="DDI-DrugBank.d81.s8.e0" text="isradipine" type="drug" />
+        <entity charOffset="68-77" id="DDI-DrugBank.d81.s8.e1" text="cimetidine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d81.s8.e0" e2="DDI-DrugBank.d81.s8.e1" id="DDI-DrugBank.d81.s8.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d81.s12" text="Neither racemic warfarin nor isradipine binding to plasma proteins in vitro was altered by the addition of the other drug.">
+        <entity charOffset="16-23" id="DDI-DrugBank.d81.s12.e0" text="warfarin" type="drug" />
+        <entity charOffset="29-38" id="DDI-DrugBank.d81.s12.e1" text="isradipine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d81.s12.e0" e2="DDI-DrugBank.d81.s12.e1" id="DDI-DrugBank.d81.s12.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d81.s15" text="Even though such interactions have not been seen in clinical studies with DynaCirc  (isradipine), an increased volume of circulating fluids might be required if such an interaction were to occur.">
+        <entity charOffset="74-81" id="DDI-DrugBank.d81.s15.e0" text="DynaCirc" type="brand" />
+        <entity charOffset="85-94" id="DDI-DrugBank.d81.s15.e1" text="isradipine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d81.s15.e0" e2="DDI-DrugBank.d81.s15.e1" id="DDI-DrugBank.d81.s15.p0" />
+    </sentence>
+</document>

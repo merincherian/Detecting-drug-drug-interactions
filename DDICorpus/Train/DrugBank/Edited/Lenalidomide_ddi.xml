@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d169">
+    <sentence id="DDI-DrugBank.d169.s2" text="Co-administration of single 25-mg dose warfarin had no effect on the pharmacokinetics of total lenalidomide.">
+        <entity charOffset="39-46" id="DDI-DrugBank.d169.s2.e0" text="warfarin" type="drug" />
+        <entity charOffset="95-106" id="DDI-DrugBank.d169.s2.e1" text="lenalidomide" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d169.s2.e0" e2="DDI-DrugBank.d169.s2.e1" id="DDI-DrugBank.d169.s2.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d169.s3" text="Expected changes in laboratory assessments of PT and INR were observed after warfarin administration, but these changes were not affected by concomitant lenalidomide administration.">
+        <entity charOffset="77-84" id="DDI-DrugBank.d169.s3.e0" text="warfarin" type="drug" />
+        <entity charOffset="153-164" id="DDI-DrugBank.d169.s3.e1" text="lenalidomide" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d169.s3.e0" e2="DDI-DrugBank.d169.s3.e1" id="DDI-DrugBank.d169.s3.p0" />
+    </sentence>
+</document>

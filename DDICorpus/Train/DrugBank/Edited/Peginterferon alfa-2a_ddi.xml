@@ -1,0 +1,62 @@
+<document id="DDI-DrugBank.d196">
+    <sentence id="DDI-DrugBank.d196.s0" text="Treatment with PEGASYS once weekly for 4 weeks in healthy subjects was associated with an inhibition of P450 1A2 and a 25% increase in theophylline AUC.">
+        <entity charOffset="15-21" id="DDI-DrugBank.d196.s0.e0" text="PEGASYS" type="brand" />
+        <entity charOffset="135-146" id="DDI-DrugBank.d196.s0.e1" text="theophylline" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d196.s0.e0" e2="DDI-DrugBank.d196.s0.e1" id="DDI-DrugBank.d196.s0.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d196.s10" text="Use With Ribavirin Ribavirin is genotoxic and mutagenic.">
+        <entity charOffset="9-17" id="DDI-DrugBank.d196.s10.e0" text="Ribavirin" type="drug" />
+        <entity charOffset="19-27" id="DDI-DrugBank.d196.s10.e1" text="Ribavirin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d196.s10.e0" e2="DDI-DrugBank.d196.s10.e1" id="DDI-DrugBank.d196.s10.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d196.s29" text="Pregnancy: Category X: Use With Ribavirin (see CONTRAINDICATIONS) Significant teratogenic and/or embryocidal effects have been demonstrated in all animal species exposed to ribavirin.">
+        <entity charOffset="32-40" id="DDI-DrugBank.d196.s29.e0" text="Ribavirin" type="drug" />
+        <entity charOffset="173-181" id="DDI-DrugBank.d196.s29.e1" text="ribavirin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d196.s29.e0" e2="DDI-DrugBank.d196.s29.e1" id="DDI-DrugBank.d196.s29.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d196.s32" text="Nursing Mothers It is not known whether peginterferon or ribavirin or its components are excreted in human milk.">
+        <entity charOffset="40-52" id="DDI-DrugBank.d196.s32.e0" text="peginterferon" type="drug" />
+        <entity charOffset="57-65" id="DDI-DrugBank.d196.s32.e1" text="ribavirin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d196.s32.e0" e2="DDI-DrugBank.d196.s32.e1" id="DDI-DrugBank.d196.s32.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d196.s33" text="The effect of orally ingested peginterferon or ribavirin from breast milk on the nursing infant has not been evaluated.">
+        <entity charOffset="30-42" id="DDI-DrugBank.d196.s33.e0" text="peginterferon" type="drug" />
+        <entity charOffset="47-55" id="DDI-DrugBank.d196.s33.e1" text="ribavirin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d196.s33.e0" e2="DDI-DrugBank.d196.s33.e1" id="DDI-DrugBank.d196.s33.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d196.s34" text="Because of the potential for adverse reactions from the drugs in nursing infants, a decision must be made whether to discontinue nursing or discontinue PEGASYS and COPEGUS treatment.">
+        <entity charOffset="152-158" id="DDI-DrugBank.d196.s34.e0" text="PEGASYS" type="brand" />
+        <entity charOffset="164-170" id="DDI-DrugBank.d196.s34.e1" text="COPEGUS" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d196.s34.e0" e2="DDI-DrugBank.d196.s34.e1" id="DDI-DrugBank.d196.s34.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d196.s35" text="Pediatric Use The safety and effectiveness of PEGASYS, alone or in combination with COPEGUS in patients below the age of 18 years have not been established.">
+        <entity charOffset="46-52" id="DDI-DrugBank.d196.s35.e0" text="PEGASYS" type="brand" />
+        <entity charOffset="84-90" id="DDI-DrugBank.d196.s35.e1" text="COPEGUS" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d196.s35.e0" e2="DDI-DrugBank.d196.s35.e1" id="DDI-DrugBank.d196.s35.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d196.s36" text="PEGASYS contains benzyl alcohol.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d196.s36.e0" text="PEGASYS" type="brand" />
+        <entity charOffset="17-30" id="DDI-DrugBank.d196.s36.e1" text="benzyl alcohol" type="drug_n" />
+        <pair ddi="false" e1="DDI-DrugBank.d196.s36.e0" e2="DDI-DrugBank.d196.s36.e1" id="DDI-DrugBank.d196.s36.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d196.s39" text="Clinical studies of PEGASYS alone or in combination with COPEGUS did not include sufficient numbers of subjects aged 65 or over to determine whether they respond differently from younger subjects.">
+        <entity charOffset="20-26" id="DDI-DrugBank.d196.s39.e0" text="PEGASYS" type="brand" />
+        <entity charOffset="57-63" id="DDI-DrugBank.d196.s39.e1" text="COPEGUS" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d196.s39.e0" e2="DDI-DrugBank.d196.s39.e1" id="DDI-DrugBank.d196.s39.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d196.s40" text="Adverse reactions related to alpha interferons, such as CNS, cardiac, and systemic (eg, flu-like) effects may be more severe in the elderly and caution should be exercised in the use of PEGASYS in this population.">
+        <entity charOffset="29-44" id="DDI-DrugBank.d196.s40.e0" text="alpha interferon" type="drug" />
+        <entity charOffset="186-192" id="DDI-DrugBank.d196.s40.e1" text="PEGASYS" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d196.s40.e0" e2="DDI-DrugBank.d196.s40.e1" id="DDI-DrugBank.d196.s40.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d196.s41" text="PEGASYS and COPEGUS are excreted by the kidney, and the risk of toxic reactions to this therapy may be greater in patients with impaired renal function.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d196.s41.e0" text="PEGASYS" type="brand" />
+        <entity charOffset="12-18" id="DDI-DrugBank.d196.s41.e1" text="COPEGUS" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d196.s41.e0" e2="DDI-DrugBank.d196.s41.e1" id="DDI-DrugBank.d196.s41.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d196.s43" text="PEGASYS should be used with caution in patients with creatinine clearance  50 mL/min and COPEGUS should not be administered to patients with creatinine clearance  50 mL/min">
+        <entity charOffset="0-6" id="DDI-DrugBank.d196.s43.e0" text="PEGASYS" type="brand" />
+        <entity charOffset="89-95" id="DDI-DrugBank.d196.s43.e1" text="COPEGUS" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d196.s43.e0" e2="DDI-DrugBank.d196.s43.e1" id="DDI-DrugBank.d196.s43.p0" />
+    </sentence>
+    </document>

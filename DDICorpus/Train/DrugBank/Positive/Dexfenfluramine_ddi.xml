@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d423">
+    <sentence id="DDI-DrugBank.d423.s2" text="At least 14 days should elapse between discontinuation of a MAO inhibitor and initiation of treatment with dexfenfluramine.">
+        <entity charOffset="60-72" id="DDI-DrugBank.d423.s2.e0" text="MAO inhibitor" type="group" />
+        <entity charOffset="107-121" id="DDI-DrugBank.d423.s2.e1" text="dexfenfluramine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d423.s2.e0" e2="DDI-DrugBank.d423.s2.e1" id="DDI-DrugBank.d423.s2.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d423.s3" text="At least 3 weeks should elapse between discontinuation of dexfenfluramine and initiation of treatment with a MAO inhibitor.">
+        <entity charOffset="58-72" id="DDI-DrugBank.d423.s3.e0" text="dexfenfluramine" type="drug" />
+        <entity charOffset="109-121" id="DDI-DrugBank.d423.s3.e1" text="MAO inhibitor" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d423.s3.e0" e2="DDI-DrugBank.d423.s3.e1" id="DDI-DrugBank.d423.s3.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d423.s6" text="Dexfenfluramine should not be administered with other serotoninergic agents.">
+        <entity charOffset="0-14" id="DDI-DrugBank.d423.s6.e0" text="Dexfenfluramine" type="drug" />
+        <entity charOffset="54-74" id="DDI-DrugBank.d423.s6.e1" text="serotoninergic agents" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d423.s6.e0" e2="DDI-DrugBank.d423.s6.e1" id="DDI-DrugBank.d423.s6.p0" type="advise" />
+    </sentence>
+    </document>

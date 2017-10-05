@@ -1,0 +1,27 @@
+<document id="DDI-DrugBank.d380">
+    <sentence id="DDI-DrugBank.d380.s0" text="Buprenorphine is metabolized to norbuprenorphine by cytochrome CYP 3A4.">
+        <entity charOffset="0-12" id="DDI-DrugBank.d380.s0.e0" text="Buprenorphine" type="drug" />
+        <entity charOffset="32-47" id="DDI-DrugBank.d380.s0.e1" text="norbuprenorphine" type="drug_n" />
+        <pair ddi="false" e1="DDI-DrugBank.d380.s0.e0" e2="DDI-DrugBank.d380.s0.e1" id="DDI-DrugBank.d380.s0.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d380.s1" text="Because CYP 3A4 inhibitors may increase plasma concentrations of buprenorphine, patients already on CYP 3A4 inhibitors such as azole antifungals (e.g.">
+        <entity charOffset="65-77" id="DDI-DrugBank.d380.s1.e0" text="buprenorphine" type="drug" />
+        <entity charOffset="127-143" id="DDI-DrugBank.d380.s1.e1" text="azole antifungals" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d380.s1.e0" e2="DDI-DrugBank.d380.s1.e1" id="DDI-DrugBank.d380.s1.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d380.s3" text="Based on anecdotal reports, there may be an interaction between buprenorphine and benzodiazepines.">
+        <entity charOffset="64-76" id="DDI-DrugBank.d380.s3.e0" text="buprenorphine" type="drug" />
+        <entity charOffset="82-96" id="DDI-DrugBank.d380.s3.e1" text="benzodiazepines" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d380.s3.e0" e2="DDI-DrugBank.d380.s3.e1" id="DDI-DrugBank.d380.s3.p0" type="int" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d380.s4" text="There have been a number of reports in the post-marketing experience of coma and death associated with the concomitant intravenous misuse of buprenorphine and benzodiazepines by addicts.">
+        <entity charOffset="141-153" id="DDI-DrugBank.d380.s4.e0" text="buprenorphine" type="drug" />
+        <entity charOffset="159-173" id="DDI-DrugBank.d380.s4.e1" text="benzodiazepines" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d380.s4.e0" e2="DDI-DrugBank.d380.s4.e1" id="DDI-DrugBank.d380.s4.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d380.s5" text="In many of these cases, buprenorphine was misused by self-injection of crushed SUBUTEX tablets.">
+        <entity charOffset="24-36" id="DDI-DrugBank.d380.s5.e0" text="buprenorphine" type="drug" />
+        <entity charOffset="79-85" id="DDI-DrugBank.d380.s5.e1" text="SUBUTEX" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d380.s5.e0" e2="DDI-DrugBank.d380.s5.e1" id="DDI-DrugBank.d380.s5.p0" />
+    </sentence>
+    </document>

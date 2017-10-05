@@ -1,0 +1,40 @@
+<document id="DDI-MedLine.d85">
+    <sentence id="DDI-MedLine.d85.s0" text="Misonidazole protects mouse tumour and normal tissues from the toxicity of oral CCNU.&#10;">
+        <entity charOffset="0-11" id="DDI-MedLine.d85.s0.e0" text="Misonidazole" type="drug_n" />
+        <entity charOffset="80-83" id="DDI-MedLine.d85.s0.e1" text="CCNU" type="drug" />
+        <pair ddi="true" e1="DDI-MedLine.d85.s0.e0" e2="DDI-MedLine.d85.s0.e1" id="DDI-MedLine.d85.s0.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-MedLine.d85.s3" text="AUC for total nitrosoureas were about 1.4-1.5 fold greater for the oral compared to the i.p. ">
+        <entity charOffset="14-25" id="DDI-MedLine.d85.s3.e0" text="nitrosoureas" type="group" />
+    </sentence>
+    <sentence id="DDI-MedLine.d85.s6" text="In contrast, acute toxicity tests showed that oral CCNU was 1.45 times less toxic to normal tissue, although the dose-limiting organ may be different for the two routes. ">
+        <entity charOffset="51-54" id="DDI-MedLine.d85.s6.e0" text="CCNU" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d85.s7" text="Misonidazole reduced the antitumour activity of oral CCNU by dose modifying factors (DMF) of 0.58-0.71. ">
+        <entity charOffset="0-11" id="DDI-MedLine.d85.s7.e0" text="Misonidazole" type="drug_n" />
+        <entity charOffset="53-56" id="DDI-MedLine.d85.s7.e1" text="CCNU" type="drug" />
+        <pair ddi="true" e1="DDI-MedLine.d85.s7.e0" e2="DDI-MedLine.d85.s7.e1" id="DDI-MedLine.d85.s7.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-MedLine.d85.s9" text="Misonidazole has a complex effect on oral CCNU pharmacokinetics. ">
+        <entity charOffset="0-11" id="DDI-MedLine.d85.s9.e0" text="Misonidazole" type="drug_n" />
+        <entity charOffset="42-45" id="DDI-MedLine.d85.s9.e1" text="CCNU" type="drug" />
+        <pair ddi="true" e1="DDI-MedLine.d85.s9.e0" e2="DDI-MedLine.d85.s9.e1" id="DDI-MedLine.d85.s9.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-MedLine.d85.s10" text="The plasma and tumour total nitrosourea peak concentrations were reduced by 1.5 and 1.7 fold respectively. ">
+        <entity charOffset="28-38" id="DDI-MedLine.d85.s10.e0" text="nitrosourea" type="group" />
+    </sentence>
+    <sentence id="DDI-MedLine.d85.s11" text="Misonidazole also reduced the &quot;early&quot;">
+        <entity charOffset="0-11" id="DDI-MedLine.d85.s11.e0" text="Misonidazole" type="drug_n" />
+    </sentence>
+    <sentence id="DDI-MedLine.d85.s12" text="nitrosourea AUC, with the extent of the reduction depending on the minimum effective concentration (MEC) chosen. ">
+        <entity charOffset="0-10" id="DDI-MedLine.d85.s12.e0" text="nitrosourea" type="group" />
+    </sentence>
+    <sentence id="DDI-MedLine.d85.s13" text="For example, the plasma nitrosourea AUC was reduced by factors of 1.05 and 9.6 for MEC values of 1 and 2 micrograms ml-1 respectively. ">
+        <entity charOffset="24-34" id="DDI-MedLine.d85.s13.e0" text="nitrosourea" type="group" />
+    </sentence>
+    <sentence id="DDI-MedLine.d85.s14" text="We propose these pharmacokinetic changes to be the underlying mechanism for the reduction of oral CCNU cytotoxicity by misonidazole. ">
+        <entity charOffset="98-101" id="DDI-MedLine.d85.s14.e0" text="CCNU" type="drug" />
+        <entity charOffset="119-130" id="DDI-MedLine.d85.s14.e1" text="misonidazole" type="drug_n" />
+        <pair ddi="true" e1="DDI-MedLine.d85.s14.e0" e2="DDI-MedLine.d85.s14.e1" id="DDI-MedLine.d85.s14.p0" type="mechanism" />
+    </sentence>
+    </document>

@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d670">
+    <sentence id="DDI-DrugBank.d670.s0" text="Potential for INVEGA    to Affect Other Drugs Paliperidone is not expected to cause clinically important pharmacokinetic interactions with drugs that are metabolized by cytochrome P450 isozymes. ">
+        <entity charOffset="14-19" id="DDI-DrugBank.d670.s0.e0" text="INVEGA" type="brand" />
+        <entity charOffset="46-57" id="DDI-DrugBank.d670.s0.e1" text="Paliperidone" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d670.s0.e0" e2="DDI-DrugBank.d670.s0.e1" id="DDI-DrugBank.d670.s0.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d670.s9" text="Potential for Other Drugs to Affect INVEGA    Paliperidone is not a substrate of CYP1A2, CYP2A6, CYP2C9, and CYP2C19, so that an interaction with inhibitors or inducers of these isozymes is unlikely. ">
+        <entity charOffset="36-41" id="DDI-DrugBank.d670.s9.e0" text="INVEGA" type="brand" />
+        <entity charOffset="46-57" id="DDI-DrugBank.d670.s9.e1" text="Paliperidone" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d670.s9.e0" e2="DDI-DrugBank.d670.s9.e1" id="DDI-DrugBank.d670.s9.p0" />
+    </sentence>
+    </document>

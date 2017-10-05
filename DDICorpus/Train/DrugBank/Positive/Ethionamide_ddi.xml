@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d166">
+    <sentence id="DDI-DrugBank.d166.s0" text="Trecator has been found to temporarily raise serum concentrations of isoniazid.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d166.s0.e0" text="Trecator" type="brand" />
+        <entity charOffset="69-77" id="DDI-DrugBank.d166.s0.e1" text="isoniazid" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d166.s0.e0" e2="DDI-DrugBank.d166.s0.e1" id="DDI-DrugBank.d166.s0.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d166.s1" text="Trecator may potentiate the adverse effects of other antituberculous drugs administered concomitantly.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d166.s1.e0" text="Trecator" type="brand" />
+        <entity charOffset="53-73" id="DDI-DrugBank.d166.s1.e1" text="antituberculous drugs" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d166.s1.e0" e2="DDI-DrugBank.d166.s1.e1" id="DDI-DrugBank.d166.s1.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d166.s2" text="In particular, convulsions have been reported when ethionamide is administered with cycloserine and special care should be taken when the treatment regimen includes both of these drugs.">
+        <entity charOffset="51-61" id="DDI-DrugBank.d166.s2.e0" text="ethionamide" type="drug" />
+        <entity charOffset="84-94" id="DDI-DrugBank.d166.s2.e1" text="cycloserine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d166.s2.e0" e2="DDI-DrugBank.d166.s2.e1" id="DDI-DrugBank.d166.s2.p0" type="effect" />
+    </sentence>
+    </document>

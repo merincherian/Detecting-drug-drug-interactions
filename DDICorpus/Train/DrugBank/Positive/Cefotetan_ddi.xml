@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d483">
+    <sentence id="DDI-DrugBank.d483.s1" text="If CEFOTAN and an aminoglycoside are used concomitantly, renal function should be carefully monitored, because nephrotoxicity may be potentiated.">
+        <entity charOffset="3-9" id="DDI-DrugBank.d483.s1.e0" text="CEFOTAN" type="brand" />
+        <entity charOffset="18-31" id="DDI-DrugBank.d483.s1.e1" text="aminoglycoside" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d483.s1.e0" e2="DDI-DrugBank.d483.s1.e1" id="DDI-DrugBank.d483.s1.p0" type="effect" />
+    </sentence>
+    </document>

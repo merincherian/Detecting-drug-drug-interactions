@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d357">
+    <sentence id="DDI-DrugBank.d357.s4" text="Patients with major psychotic disorders, treated with neuroleptics, should be treated with dopamine agonists only if the potential benefits outweigh the risks.">
+        <entity charOffset="54-65" id="DDI-DrugBank.d357.s4.e0" text="neuroleptics" type="group" />
+        <entity charOffset="91-107" id="DDI-DrugBank.d357.s4.e1" text="dopamine agonists" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d357.s4.e0" e2="DDI-DrugBank.d357.s4.e1" id="DDI-DrugBank.d357.s4.p0" type="advise" />
+    </sentence>
+    </document>

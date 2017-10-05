@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d650">
+    <sentence id="DDI-DrugBank.d650.s2" text="Because pergolide mesylate is approximately 90% bound to plasma proteins, caution should be exercised if pergolide mesylate is coadministered with other drugs known to affect protein binding.">
+        <entity charOffset="8-25" id="DDI-DrugBank.d650.s2.e0" text="pergolide mesylate" type="drug" />
+        <entity charOffset="105-122" id="DDI-DrugBank.d650.s2.e1" text="pergolide mesylate" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d650.s2.e0" e2="DDI-DrugBank.d650.s2.e1" id="DDI-DrugBank.d650.s2.p0" />
+    </sentence>
+</document>

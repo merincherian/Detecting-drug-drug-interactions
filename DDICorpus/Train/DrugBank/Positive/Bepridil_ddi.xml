@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d137">
+    <sentence id="DDI-DrugBank.d137.s11" text="Cardiac glycosides could exaggerate the depression of AV nodal conduction observed with bepridil hydrochloride.">
+        <entity charOffset="0-17" id="DDI-DrugBank.d137.s11.e0" text="Cardiac glycosides" type="group" />
+        <entity charOffset="88-109" id="DDI-DrugBank.d137.s11.e1" text="bepridil hydrochloride" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d137.s11.e0" e2="DDI-DrugBank.d137.s11.e1" id="DDI-DrugBank.d137.s11.p0" type="effect" />
+    </sentence>
+</document>

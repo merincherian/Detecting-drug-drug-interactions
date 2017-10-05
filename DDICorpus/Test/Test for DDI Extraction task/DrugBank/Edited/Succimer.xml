@@ -1,0 +1,18 @@
+<document id="DDI-DrugBank.d732">
+    <sentence id="DDI-DrugBank.d732.s0" text="CHEMET is not known to interact with other drugs including iron supplements; ">
+        <entity charOffset="0-5" id="DDI-DrugBank.d732.s0.e0" text="CHEMET" type="brand" />
+        <entity charOffset="59-62" id="DDI-DrugBank.d732.s0.e1" text="iron" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d732.s0.e0" e2="DDI-DrugBank.d732.s0.e1" id="DDI-DrugBank.d732.s0.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d732.s2" text="Concomitant administration of CHEMET with other chelation therapy, such as CaNa 2 EDTA is not recommended. ">
+        <entity charOffset="30-35" id="DDI-DrugBank.d732.s2.e0" text="CHEMET" type="brand" />
+        <entity charOffset="75-85" id="DDI-DrugBank.d732.s2.e1" text="CaNa 2 EDTA" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d732.s2.e0" e2="DDI-DrugBank.d732.s2.e1" id="DDI-DrugBank.d732.s2.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d732.s3" text="Drug/Laboratory Tests Interaction: Succimer may interfere with serum and urinary laboratory tests. ">
+        <entity charOffset="35-42" id="DDI-DrugBank.d732.s3.e0" text="Succimer" type="drug" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d732.s4" text="In vitro studies have shown succimer to cause false positive results for ketones in urine using nitroprusside reagents such as Ketostix    and falsely decreased measurements of serum uric acid and CPK.">
+        <entity charOffset="28-35" id="DDI-DrugBank.d732.s4.e0" text="succimer" type="drug" />
+    </sentence>
+</document>

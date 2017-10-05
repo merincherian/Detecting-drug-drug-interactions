@@ -1,0 +1,45 @@
+<document id="DDI-MedLine.d140">
+    <sentence id="DDI-MedLine.d140.s0" text="Longitudinal assessment of everolimus in de novo renal transplant recipients over the first post-transplant year: pharmacokinetics, exposure-response relationships, and influence on cyclosporine.&#10;">
+        <entity charOffset="27-36" id="DDI-MedLine.d140.s0.e0" text="everolimus" type="drug" />
+        <entity charOffset="182-193" id="DDI-MedLine.d140.s0.e1" text="cyclosporine" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d140.s0.e0" e2="DDI-MedLine.d140.s0.e1" id="DDI-MedLine.d140.s0.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d140.s3" text="Blood sampling for the pharmacokinetics of everolimus and cyclosporine was performed on day 1, on weeks 1, 2, 3, and 4, and on months 2, 3, 6, 9, and 12. ">
+        <entity charOffset="43-52" id="DDI-MedLine.d140.s3.e0" text="everolimus" type="drug" />
+        <entity charOffset="58-69" id="DDI-MedLine.d140.s3.e1" text="cyclosporine" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d140.s3.e0" e2="DDI-MedLine.d140.s3.e1" id="DDI-MedLine.d140.s3.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d140.s4" text="Everolimus dose-proportionality and stability over time were assessed in the context of linear regression and ANOVA models. ">
+        <entity charOffset="0-9" id="DDI-MedLine.d140.s4.e0" text="Everolimus" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d140.s5" text="Everolimus exposure-response relationships between area under the blood concentration-time curve (AUC) and changes in platelets, leukocytes, and lipids were explored with the median-effect model. ">
+        <entity charOffset="0-9" id="DDI-MedLine.d140.s5.e0" text="Everolimus" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d140.s6" text="Potential differences in cyclosporine dosing and pharmacokinetics at different levels of everolimus exposure were assessed in the context of ANOVA. ">
+        <entity charOffset="25-36" id="DDI-MedLine.d140.s6.e0" text="cyclosporine" type="drug" />
+        <entity charOffset="89-98" id="DDI-MedLine.d140.s6.e1" text="everolimus" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d140.s6.e0" e2="DDI-MedLine.d140.s6.e1" id="DDI-MedLine.d140.s6.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d140.s7" text="RESULTS: Everolimus steady state was reached on or before day 7, with a median 3-fold accumulation of drug exposure compared with that after the first postoperative dose. ">
+        <entity charOffset="9-18" id="DDI-MedLine.d140.s7.e0" text="Everolimus" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d140.s9" text="There was evidence for longitudinal stability in AUC of everolimus during the course of the study. ">
+        <entity charOffset="56-65" id="DDI-MedLine.d140.s9.e0" text="everolimus" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d140.s12" text="There was an increasing incidence of transient thrombocytopenia (or =100 x 10(9)/L) with increasing everolimus AUC (P = .03). ">
+        <entity charOffset="100-109" id="DDI-MedLine.d140.s12.e0" text="everolimus" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d140.s13" text="Cyclosporine doses, trough concentrations, and AUC exhibited similar temporal patterns during the course of the study regardless of the co-administered everolimus dose level (P = .13, .82, and .76, respectively). ">
+        <entity charOffset="0-11" id="DDI-MedLine.d140.s13.e0" text="Cyclosporine" type="drug" />
+        <entity charOffset="152-161" id="DDI-MedLine.d140.s13.e1" text="everolimus" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d140.s13.e0" e2="DDI-MedLine.d140.s13.e1" id="DDI-MedLine.d140.s13.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d140.s14" text="CONCLUSIONS: Everolimus exhibited dose-proportional, stable exposure during the first post-transplant year. ">
+        <entity charOffset="13-22" id="DDI-MedLine.d140.s14.e0" text="Everolimus" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d140.s15" text="For a 4-fold range of everolimus doses there were no differential effects on cyclosporine dosing or pharmacokinetics.">
+        <entity charOffset="22-31" id="DDI-MedLine.d140.s15.e0" text="everolimus" type="drug" />
+        <entity charOffset="77-88" id="DDI-MedLine.d140.s15.e1" text="cyclosporine" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d140.s15.e0" e2="DDI-MedLine.d140.s15.e1" id="DDI-MedLine.d140.s15.p0" />
+    </sentence>
+</document>

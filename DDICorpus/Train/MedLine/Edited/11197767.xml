@@ -1,0 +1,14 @@
+<document id="DDI-MedLine.d141">
+    <sentence id="DDI-MedLine.d141.s0" text="Toxicity of cadmium and zinc to encystment and in vitro excystment of Parorchis acanthus (Digenea: Philophthalmidae).&#10;">
+        <entity charOffset="24-27" id="DDI-MedLine.d141.s0.e0" text="zinc" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d141.s1" text="The toxicity of cadmium, zinc and cadmium/zinc mixtures at concentrations ranging from 1000 to 50000 microg/l were investigated against cercariae and metacercariae of Parorchis acanthus obtained from the dog whelk Nucella lapillus. ">
+        <entity charOffset="25-28" id="DDI-MedLine.d141.s1.e0" text="zinc" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d141.s3" text="however, at lower concentrations only zinc demonstrated toxicity. ">
+        <entity charOffset="38-41" id="DDI-MedLine.d141.s3.e0" text="zinc" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d141.s4" text="Mixtures of cadmium and zinc had a synergistic effect compared with single metal toxicity but only at 50000 microg/l. ">
+        <entity charOffset="24-27" id="DDI-MedLine.d141.s4.e0" text="zinc" type="drug" />
+    </sentence>
+    </document>

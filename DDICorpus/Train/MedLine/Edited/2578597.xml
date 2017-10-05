@@ -1,0 +1,17 @@
+<document id="DDI-MedLine.d57">
+    <sentence id="DDI-MedLine.d57.s0" text="Analgesic effects of antihistaminics.&#10;">
+        <entity charOffset="21-35" id="DDI-MedLine.d57.s0.e0" text="antihistaminics" type="group" />
+    </sentence>
+    <sentence id="DDI-MedLine.d57.s3" text="The proposed mechanisms of analgesic action of antihistaminics are reviewed and discussed. ">
+        <entity charOffset="47-61" id="DDI-MedLine.d57.s3.e0" text="antihistaminics" type="group" />
+    </sentence>
+    <sentence id="DDI-MedLine.d57.s5" text="There is considerable evidence suggesting that histaminergic and serotoninergic central pathways are involved in nociception and that antihistaminic drugs can modulate their responses (1). ">
+        <entity charOffset="134-147" id="DDI-MedLine.d57.s5.e0" text="antihistaminic" type="group" />
+    </sentence>
+    <sentence id="DDI-MedLine.d57.s6" text="The evidence for a role for norepinephrine and dopamine and the effects of antihistaminics on them are less well established. ">
+        <entity charOffset="75-89" id="DDI-MedLine.d57.s6.e0" text="antihistaminics" type="group" />
+    </sentence>
+    <sentence id="DDI-MedLine.d57.s8" text="A greater understanding of pain mechanisms will aid in elucidating the role of antihistaminics in analgesia.">
+        <entity charOffset="79-93" id="DDI-MedLine.d57.s8.e0" text="antihistaminics" type="group" />
+    </sentence>
+</document>

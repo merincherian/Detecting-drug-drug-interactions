@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d689">
+    <sentence id="DDI-DrugBank.d689.s3" text="The pressor response of adrenergic agents may also be potentiated by tricyclic antidepressants.">
+        <entity charOffset="24-40" id="DDI-DrugBank.d689.s3.e0" text="adrenergic agents" type="group" />
+        <entity charOffset="69-93" id="DDI-DrugBank.d689.s3.e1" text="tricyclic antidepressants" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d689.s3.e0" e2="DDI-DrugBank.d689.s3.e1" id="DDI-DrugBank.d689.s3.p0" type="effect" />
+    </sentence>
+</document>

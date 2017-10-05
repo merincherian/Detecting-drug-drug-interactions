@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d54">
+    <sentence id="DDI-DrugBank.d54.s0" text="Oral Anticoagulants: Thyroid hormones appear to increase catabolism of vitamin K-dependent clotting factors.">
+        <entity charOffset="5-18" id="DDI-DrugBank.d54.s0.e0" text="Anticoagulants" type="group" />
+        <entity charOffset="21-36" id="DDI-DrugBank.d54.s0.e1" text="Thyroid hormones" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d54.s0.e0" e2="DDI-DrugBank.d54.s0.e1" id="DDI-DrugBank.d54.s0.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d54.s7" text="Patients receiving insulin or oral hypoglycemics should be closely watched during initiation of thyroid replacement therapy.">
+        <entity charOffset="19-25" id="DDI-DrugBank.d54.s7.e0" text="insulin" type="drug" />
+        <entity charOffset="35-47" id="DDI-DrugBank.d54.s7.e1" text="hypoglycemics" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d54.s7.e0" e2="DDI-DrugBank.d54.s7.e1" id="DDI-DrugBank.d54.s7.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d54.s29" text="Decreases in TBg concentrations are observed in nephrosis, acromegaly and after androgen or corticosteroid therapy.">
+        <entity charOffset="80-87" id="DDI-DrugBank.d54.s29.e0" text="androgen" type="group" />
+        <entity charOffset="92-105" id="DDI-DrugBank.d54.s29.e1" text="corticosteroid" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d54.s29.e0" e2="DDI-DrugBank.d54.s29.e1" id="DDI-DrugBank.d54.s29.p0" />
+    </sentence>
+    </document>

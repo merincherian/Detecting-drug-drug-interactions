@@ -1,0 +1,22 @@
+<document id="DDI-MedLine.d112">
+    <sentence id="DDI-MedLine.d112.s0" text="Effect of dofetillide on the pharmacokinetics of digoxin.&#10;">
+        <entity charOffset="10-20" id="DDI-MedLine.d112.s0.e0" text="dofetillide" type="drug" />
+        <entity charOffset="49-55" id="DDI-MedLine.d112.s0.e1" text="digoxin" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d112.s0.e0" e2="DDI-MedLine.d112.s0.e1" id="DDI-MedLine.d112.s0.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d112.s1" text="The effect of dofetilide on the steady-state pharmacokinetics of digoxin was evaluated in a randomized, double-blind study. ">
+        <entity charOffset="14-23" id="DDI-MedLine.d112.s1.e0" text="dofetilide" type="drug" />
+        <entity charOffset="65-71" id="DDI-MedLine.d112.s1.e1" text="digoxin" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d112.s1.e0" e2="DDI-MedLine.d112.s1.e1" id="DDI-MedLine.d112.s1.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d112.s2" text="Five days of dofetilide treatment did not significantly affect steady-state pharmacokinetic variables of digoxin compared with placebo; ">
+        <entity charOffset="13-22" id="DDI-MedLine.d112.s2.e0" text="dofetilide" type="drug" />
+        <entity charOffset="105-111" id="DDI-MedLine.d112.s2.e1" text="digoxin" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d112.s2.e0" e2="DDI-MedLine.d112.s2.e1" id="DDI-MedLine.d112.s2.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d112.s3" text="therefore, the use of dofetilide does not necessitate an adjustment in digoxin dose to maintain therapeutic digoxin levels.">
+        <entity charOffset="22-31" id="DDI-MedLine.d112.s3.e0" text="dofetilide" type="drug" />
+        <entity charOffset="71-77" id="DDI-MedLine.d112.s3.e1" text="digoxin" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d112.s3.e0" e2="DDI-MedLine.d112.s3.e1" id="DDI-MedLine.d112.s3.p0" />
+    </sentence>
+</document>

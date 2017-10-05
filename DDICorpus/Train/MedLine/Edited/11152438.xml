@@ -1,0 +1,10 @@
+<document id="DDI-MedLine.d47">
+    <sentence id="DDI-MedLine.d47.s2" text="Buforin II showed moderate activity, which increased with increasing concentration to 55.7% suppression of growth at 20 microM. ">
+        <entity charOffset="0-9" id="DDI-MedLine.d47.s2.e0" text="Buforin II" type="drug_n" />
+    </sentence>
+    <sentence id="DDI-MedLine.d47.s3" text="Moreover, its activity was enhanced when it was combined with either azithromycin or minocycline with 90% parasite reduction at the highest concentration tested. ">
+        <entity charOffset="69-80" id="DDI-MedLine.d47.s3.e0" text="azithromycin" type="drug" />
+        <entity charOffset="85-95" id="DDI-MedLine.d47.s3.e1" text="minocycline" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d47.s3.e0" e2="DDI-MedLine.d47.s3.e1" id="DDI-MedLine.d47.s3.p0" />
+    </sentence>
+    </document>

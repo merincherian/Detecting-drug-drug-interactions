@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d505">
+    <sentence id="DDI-DrugBank.d505.s0" text="No pharmacokinetic drug-drug interaction studies were conducted with PERSANTINE  (dipyridamole USP) Tablets.">
+        <entity charOffset="69-78" id="DDI-DrugBank.d505.s0.e0" text="PERSANTINE" type="brand" />
+        <entity charOffset="82-93" id="DDI-DrugBank.d505.s0.e1" text="dipyridamole" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d505.s0.e0" e2="DDI-DrugBank.d505.s0.e1" id="DDI-DrugBank.d505.s0.p0" />
+    </sentence>
+    </document>

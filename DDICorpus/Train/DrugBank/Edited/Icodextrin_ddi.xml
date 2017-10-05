@@ -1,0 +1,27 @@
+<document id="DDI-DrugBank.d501">
+    <sentence id="DDI-DrugBank.d501.s4" text="In patients using cardiac glycosides (digoxin and others), plasma levels of calcium, potassium and magnesium must be carefully monitored.">
+        <entity charOffset="18-35" id="DDI-DrugBank.d501.s4.e0" text="cardiac glycosides" type="group" />
+        <entity charOffset="38-44" id="DDI-DrugBank.d501.s4.e1" text="digoxin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d501.s4.e0" e2="DDI-DrugBank.d501.s4.e1" id="DDI-DrugBank.d501.s4.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d501.s6" text="However, appropriate monitoring of blood glucose should be performed when initiating EXTRANEAL in diabetic patients and insulin dosage should be adjusted if needed.">
+        <entity charOffset="85-93" id="DDI-DrugBank.d501.s6.e0" text="EXTRANEAL" type="brand" />
+        <entity charOffset="120-126" id="DDI-DrugBank.d501.s6.e1" text="insulin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d501.s6.e0" e2="DDI-DrugBank.d501.s6.e1" id="DDI-DrugBank.d501.s6.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d501.s7" text="Heparin: No human drug interaction studies with heparin were conducted.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d501.s7.e0" text="Heparin" type="drug" />
+        <entity charOffset="48-54" id="DDI-DrugBank.d501.s7.e1" text="heparin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d501.s7.e0" e2="DDI-DrugBank.d501.s7.e1" id="DDI-DrugBank.d501.s7.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d501.s8" text="In vitro studies demonstrated no evidence of incompatibility of heparin with EXTRANEAL.">
+        <entity charOffset="64-70" id="DDI-DrugBank.d501.s8.e0" text="heparin" type="drug" />
+        <entity charOffset="77-85" id="DDI-DrugBank.d501.s8.e1" text="EXTRANEAL" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d501.s8.e0" e2="DDI-DrugBank.d501.s8.e1" id="DDI-DrugBank.d501.s8.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d501.s9" text="Antibiotics: No human drug interaction studies with antibiotics were conducted.">
+        <entity charOffset="0-10" id="DDI-DrugBank.d501.s9.e0" text="Antibiotics" type="group" />
+        <entity charOffset="52-62" id="DDI-DrugBank.d501.s9.e1" text="antibiotics" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d501.s9.e0" e2="DDI-DrugBank.d501.s9.e1" id="DDI-DrugBank.d501.s9.p0" />
+    </sentence>
+    </document>

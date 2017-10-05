@@ -1,0 +1,18 @@
+<document id="DDI-MedLine.d78">
+    <sentence id="DDI-MedLine.d78.s0" text="The fluoroquinolones for urinary tract infections: a review.&#10;">
+        <entity charOffset="4-19" id="DDI-MedLine.d78.s0.e0" text="fluoroquinolones" type="group" />
+    </sentence>
+    <sentence id="DDI-MedLine.d78.s1" text="The fluoroquinolones are a rapidly growing class of antibiotics with a broad spectrum of activity against gram-negative and some gram-positive aerobic bacteria. ">
+        <entity charOffset="4-19" id="DDI-MedLine.d78.s1.e0" text="fluoroquinolones" type="group" />
+        <entity charOffset="52-62" id="DDI-MedLine.d78.s1.e1" text="antibiotics" type="group" />
+        <pair ddi="false" e1="DDI-MedLine.d78.s1.e0" e2="DDI-MedLine.d78.s1.e1" id="DDI-MedLine.d78.s1.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d78.s3" text="Advantages offered by this class of antibiotics include optimal pharmacokinetics, effectiveness against multidrug-resistant organisms, and oral administration even when parenteral antibiotics are generally used. ">
+        <entity charOffset="36-46" id="DDI-MedLine.d78.s3.e0" text="antibiotics" type="group" />
+        <entity charOffset="180-190" id="DDI-MedLine.d78.s3.e1" text="antibiotics" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d78.s3.e0" e2="DDI-MedLine.d78.s3.e1" id="DDI-MedLine.d78.s3.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d78.s4" text="The fluoroquinolones are also extensively used in urologic surgery.">
+        <entity charOffset="4-19" id="DDI-MedLine.d78.s4.e0" text="fluoroquinolones" type="group" />
+    </sentence>
+</document>

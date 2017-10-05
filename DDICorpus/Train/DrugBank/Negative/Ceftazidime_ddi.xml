@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d122">
+    <sentence id="DDI-DrugBank.d122.s1" text="Renal function should be carefully monitored, especially if higher dosages of the aminoglycosides are to be administered or if therapy is prolonged, because of the potential nephrotoxicity and ototoxicity of aminoglycosidic antibiotics.">
+        <entity charOffset="82-96" id="DDI-DrugBank.d122.s1.e0" text="aminoglycosides" type="group" />
+        <entity charOffset="208-234" id="DDI-DrugBank.d122.s1.e1" text="aminoglycosidic antibiotics" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d122.s1.e0" e2="DDI-DrugBank.d122.s1.e1" id="DDI-DrugBank.d122.s1.p0" />
+    </sentence>
+    </document>

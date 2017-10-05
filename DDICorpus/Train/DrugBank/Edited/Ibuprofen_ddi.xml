@@ -1,0 +1,27 @@
+<document id="DDI-DrugBank.d415">
+    <sentence id="DDI-DrugBank.d415.s3" text="Single dose bioavailability studies in normal volunteers have failed to wshow an effect of aspirin on ibuprofen blood levels.">
+        <entity charOffset="91-97" id="DDI-DrugBank.d415.s3.e0" text="aspirin" type="brand" />
+        <entity charOffset="102-110" id="DDI-DrugBank.d415.s3.e1" text="ibuprofen" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d415.s3.e0" e2="DDI-DrugBank.d415.s3.e1" id="DDI-DrugBank.d415.s3.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d415.s6" text="This may indicate that ibuprofen could enhance the toxicity of methotrexate.">
+        <entity charOffset="23-31" id="DDI-DrugBank.d415.s6.e0" text="ibuprofen" type="drug" />
+        <entity charOffset="63-74" id="DDI-DrugBank.d415.s6.e1" text="methotrexate" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d415.s6.e0" e2="DDI-DrugBank.d415.s6.e1" id="DDI-DrugBank.d415.s6.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d415.s7" text="Caution should be used if ibuprofen is administered concomitantly with methotrexate.">
+        <entity charOffset="26-34" id="DDI-DrugBank.d415.s7.e0" text="ibuprofen" type="drug" />
+        <entity charOffset="71-82" id="DDI-DrugBank.d415.s7.e1" text="methotrexate" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d415.s7.e0" e2="DDI-DrugBank.d415.s7.e1" id="DDI-DrugBank.d415.s7.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d415.s11" text="During concomitant therapy with ibuprofen, the patient should be observed closely for signs of renal failure, as well as to assure diuretic efficacy.">
+        <entity charOffset="32-40" id="DDI-DrugBank.d415.s11.e0" text="ibuprofen" type="drug" />
+        <entity charOffset="131-138" id="DDI-DrugBank.d415.s11.e1" text="diuretic" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d415.s11.e0" e2="DDI-DrugBank.d415.s11.e1" id="DDI-DrugBank.d415.s11.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d415.s13" text="The mean minimum lithium concentration increased 15% and the renal clearance of lithium was decreased by 19% during this period of concomitant drug administration.">
+        <entity charOffset="17-23" id="DDI-DrugBank.d415.s13.e0" text="lithium" type="drug" />
+        <entity charOffset="80-86" id="DDI-DrugBank.d415.s13.e1" text="lithium" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d415.s13.e0" e2="DDI-DrugBank.d415.s13.e1" id="DDI-DrugBank.d415.s13.p0" />
+    </sentence>
+    </document>

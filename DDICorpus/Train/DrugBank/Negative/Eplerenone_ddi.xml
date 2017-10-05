@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d20">
+    <sentence id="DDI-DrugBank.d20.s5" text="Rates of patients with maximum potassium levels  5.5 mEq/L were similar regardless of the use of ACEI/ARB.">
+        <entity charOffset="97-100" id="DDI-DrugBank.d20.s5.e0" text="ACEI" type="group" />
+        <entity charOffset="102-104" id="DDI-DrugBank.d20.s5.e1" text="ARB" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d20.s5.e0" e2="DDI-DrugBank.d20.s5.e1" id="DDI-DrugBank.d20.s5.p0" />
+    </sentence>
+    </document>

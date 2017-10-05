@@ -1,0 +1,18 @@
+<document id="DDI-MedLine.d133">
+    <sentence id="DDI-MedLine.d133.s3" text="RESULTS: Bombesin significantly increased the incidence of intestinal tumors and cancer metastasis to the peritoneum. ">
+        <entity charOffset="9-16" id="DDI-MedLine.d133.s3.e0" text="Bombesin" type="drug_n" />
+    </sentence>
+    <sentence id="DDI-MedLine.d133.s4" text="Although verapamil administered at either dose had little or no effect on the enhancement of intestinal carcinogenesis by bombesin or on the location, histologic type, depth of involvement, labeling index, apoptotic index or tumor vascularity of intestinal cancers, it significantly decreased the incidence of cancer metastasis. ">
+        <entity charOffset="9-17" id="DDI-MedLine.d133.s4.e0" text="verapamil" type="drug" />
+        <entity charOffset="122-129" id="DDI-MedLine.d133.s4.e1" text="bombesin" type="drug_n" />
+        <pair ddi="false" e1="DDI-MedLine.d133.s4.e0" e2="DDI-MedLine.d133.s4.e1" id="DDI-MedLine.d133.s4.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d133.s5" text="Verapamil also significantly decreased the incidence of lymphatic invasion of adenocarcinomas, which was enhanced by bombesin. ">
+        <entity charOffset="0-8" id="DDI-MedLine.d133.s5.e0" text="Verapamil" type="drug" />
+        <entity charOffset="117-124" id="DDI-MedLine.d133.s5.e1" text="bombesin" type="drug_n" />
+        <pair ddi="true" e1="DDI-MedLine.d133.s5.e0" e2="DDI-MedLine.d133.s5.e1" id="DDI-MedLine.d133.s5.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-MedLine.d133.s6" text="CONCLUSION: These findings indicate that verapamil inhibits cancer metastasis through actions that do not affect the growth of intestinal cancers.">
+        <entity charOffset="41-49" id="DDI-MedLine.d133.s6.e0" text="verapamil" type="drug" />
+    </sentence>
+</document>

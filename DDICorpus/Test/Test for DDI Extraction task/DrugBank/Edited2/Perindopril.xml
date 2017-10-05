@@ -1,0 +1,37 @@
+<document id="DDI-DrugBank.d781">
+    <sentence id="DDI-DrugBank.d781.s1" text="The possibility of hypotensive effects can be minimized by either discontinuing the diuretic or increasing the salt intake prior to initiation of treatment with perindopril. ">
+        <entity charOffset="84-91" id="DDI-DrugBank.d781.s1.e0" text="diuretic" type="group" />
+        <entity charOffset="161-171" id="DDI-DrugBank.d781.s1.e1" text="perindopril" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d781.s1.e0" e2="DDI-DrugBank.d781.s1.e1" id="DDI-DrugBank.d781.s1.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d781.s2" text="If diuretics cannot be interrupted, close medical supervision should be provided with the first dose of ACEON    Tablets, for at least two hours and until blood pressure has stabilized for another hour. ">
+        <entity charOffset="3-11" id="DDI-DrugBank.d781.s2.e0" text="diuretics" type="group" />
+        <entity charOffset="104-108" id="DDI-DrugBank.d781.s2.e1" text="ACEON" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d781.s2.e0" e2="DDI-DrugBank.d781.s2.e1" id="DDI-DrugBank.d781.s2.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d781.s3" text="The rate and extent of perindopril absorption and elimination are not affected by concomitant diuretics. ">
+        <entity charOffset="23-33" id="DDI-DrugBank.d781.s3.e0" text="perindopril" type="drug" />
+        <entity charOffset="94-102" id="DDI-DrugBank.d781.s3.e1" text="diuretics" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d781.s3.e0" e2="DDI-DrugBank.d781.s3.e1" id="DDI-DrugBank.d781.s3.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d781.s4" text="The bioavailability of perindoprilat was reduced by diuretics, however, and this was associated with a decrease in plasma ACE inhibition. ">
+        <entity charOffset="23-35" id="DDI-DrugBank.d781.s4.e0" text="perindoprilat" type="drug_n" />
+        <entity charOffset="52-60" id="DDI-DrugBank.d781.s4.e1" text="diuretics" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d781.s4.e0" e2="DDI-DrugBank.d781.s4.e1" id="DDI-DrugBank.d781.s4.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d781.s10" text="Use of a diuretic may further increase the risk of lithium toxicity. ">
+        <entity charOffset="9-16" id="DDI-DrugBank.d781.s10.e0" text="diuretic" type="group" />
+        <entity charOffset="51-57" id="DDI-DrugBank.d781.s10.e1" text="lithium" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d781.s10.e0" e2="DDI-DrugBank.d781.s10.e1" id="DDI-DrugBank.d781.s10.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d781.s15" text="Food Interaction: Oral administration of ACEON    Tablets with food does not significantly lower the rate or extent of perindopril absorption relative to the fasted state. ">
+        <entity charOffset="41-45" id="DDI-DrugBank.d781.s15.e0" text="ACEON" type="brand" />
+        <entity charOffset="119-129" id="DDI-DrugBank.d781.s15.e1" text="perindopril" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d781.s15.e0" e2="DDI-DrugBank.d781.s15.e1" id="DDI-DrugBank.d781.s15.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d781.s16" text="However, the extent of biotransformation of perindopril to the active metabolite, perindoprilat, is reduced approximately 43%, resulting in a reduction in the plasma ACE inhibition curve of approximately 20%, probably clinically insignificant. ">
+        <entity charOffset="44-54" id="DDI-DrugBank.d781.s16.e0" text="perindopril" type="drug" />
+        <entity charOffset="82-94" id="DDI-DrugBank.d781.s16.e1" text="perindoprilat" type="drug_n" />
+        <pair ddi="false" e1="DDI-DrugBank.d781.s16.e0" e2="DDI-DrugBank.d781.s16.e1" id="DDI-DrugBank.d781.s16.p0" />
+    </sentence>
+    </document>

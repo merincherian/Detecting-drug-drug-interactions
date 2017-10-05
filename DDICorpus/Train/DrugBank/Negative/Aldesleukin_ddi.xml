@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d114">
+    <sentence id="DDI-DrugBank.d114.s3" text="The safety and efficacy of PROLEUKIN in combination with any antineoplastic agents have not been established.">
+        <entity charOffset="27-35" id="DDI-DrugBank.d114.s3.e0" text="PROLEUKIN" type="brand" />
+        <entity charOffset="61-81" id="DDI-DrugBank.d114.s3.e1" text="antineoplastic agents" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d114.s3.e0" e2="DDI-DrugBank.d114.s3.e1" id="DDI-DrugBank.d114.s3.p0" />
+    </sentence>
+    </document>

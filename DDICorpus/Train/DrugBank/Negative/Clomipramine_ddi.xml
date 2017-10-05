@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d238">
+    <sentence id="DDI-DrugBank.d238.s10" text="Poor metabolizers have higher than expected lasma concentrations of tricyclic antidepressants (TCAs) when given usual doses.">
+        <entity charOffset="68-92" id="DDI-DrugBank.d238.s10.e0" text="tricyclic antidepressants" type="group" />
+        <entity charOffset="95-98" id="DDI-DrugBank.d238.s10.e1" text="TCAs" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d238.s10.e0" e2="DDI-DrugBank.d238.s10.e1" id="DDI-DrugBank.d238.s10.p0" />
+    </sentence>
+    </document>

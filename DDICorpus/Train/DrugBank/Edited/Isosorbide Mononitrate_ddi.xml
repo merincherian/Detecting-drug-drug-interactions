@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d479">
+    <sentence id="DDI-DrugBank.d479.s0" text="The vasodilating effects of isosorbide mononitrate may be additive with those of other vasodilators.">
+        <entity charOffset="28-49" id="DDI-DrugBank.d479.s0.e0" text="isosorbide mononitrate" type="drug" />
+        <entity charOffset="87-98" id="DDI-DrugBank.d479.s0.e1" text="vasodilators" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d479.s0.e0" e2="DDI-DrugBank.d479.s0.e1" id="DDI-DrugBank.d479.s0.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d479.s2" text="Marked symptomatic orthostatic hypotension has been reported when calcium channel blockers and organic nitrates were used in combination.">
+        <entity charOffset="66-89" id="DDI-DrugBank.d479.s2.e0" text="calcium channel blockers" type="group" />
+        <entity charOffset="95-110" id="DDI-DrugBank.d479.s2.e1" text="organic nitrates" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d479.s2.e0" e2="DDI-DrugBank.d479.s2.e1" id="DDI-DrugBank.d479.s2.p0" type="effect" />
+    </sentence>
+    </document>

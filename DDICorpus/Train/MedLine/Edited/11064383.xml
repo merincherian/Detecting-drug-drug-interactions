@@ -1,0 +1,23 @@
+<document id="DDI-MedLine.d18">
+    <sentence id="DDI-MedLine.d18.s2" text="Aerosol particles of budesonide were generated from an ethanol solution, dried, and collected by a cascade impactor for characterization or by a liquid impinger for dissolution experiments. ">
+        <entity charOffset="21-30" id="DDI-MedLine.d18.s2.e0" text="budesonide" type="drug" />
+        <entity charOffset="55-61" id="DDI-MedLine.d18.s2.e1" text="ethanol" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d18.s2.e0" e2="DDI-MedLine.d18.s2.e1" id="DDI-MedLine.d18.s2.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d18.s4" text="No change in phase was detected, although the aerosol particles appeared to contain residual solvent. ">
+        <entity charOffset="93-99" id="DDI-MedLine.d18.s4.e0" text="solvent" type="group" />
+    </sentence>
+    <sentence id="DDI-MedLine.d18.s6" text="Survanta increased the extent of dissolution of budesonide in proportion to the added concentration, which was also verified by equilibrium solubilization studies. ">
+        <entity charOffset="0-7" id="DDI-MedLine.d18.s6.e0" text="Survanta" type="brand" />
+        <entity charOffset="48-57" id="DDI-MedLine.d18.s6.e1" text="budesonide" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d18.s6.e0" e2="DDI-MedLine.d18.s6.e1" id="DDI-MedLine.d18.s6.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d18.s7" text="Survanta also increased rate of dissolution, in a manner similar to sodium dodecyl sulfate. ">
+        <entity charOffset="0-7" id="DDI-MedLine.d18.s7.e0" text="Survanta" type="brand" />
+        <entity charOffset="68-89" id="DDI-MedLine.d18.s7.e1" text="sodium dodecyl sulfate" type="drug_n" />
+        <pair ddi="false" e1="DDI-MedLine.d18.s7.e0" e2="DDI-MedLine.d18.s7.e1" id="DDI-MedLine.d18.s7.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d18.s9" text="These results show that lung surfactant has the potential of enhancing the rate and extent of dissolution of drugs administered to the lung.">
+        <entity charOffset="24-38" id="DDI-MedLine.d18.s9.e0" text="lung surfactant" type="group" />
+    </sentence>
+</document>

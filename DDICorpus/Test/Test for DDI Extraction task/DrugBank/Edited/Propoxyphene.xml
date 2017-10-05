@@ -1,0 +1,8 @@
+<document id="DDI-DrugBank.d690">
+    <sentence id="DDI-DrugBank.d690.s1" text="As is the case with many medicinal agents, propoxyphene may slow the metabolism of a concomitantly administered drug. ">
+        <entity charOffset="43-54" id="DDI-DrugBank.d690.s1.e0" text="propoxyphene" type="drug" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d690.s4" text="Sever neurologic signs, including coma, have occurred with concurrent use of carbamazepine.">
+        <entity charOffset="77-89" id="DDI-DrugBank.d690.s4.e0" text="carbamazepine" type="drug" />
+    </sentence>
+</document>

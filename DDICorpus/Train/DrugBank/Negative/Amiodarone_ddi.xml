@@ -1,0 +1,77 @@
+<document id="DDI-DrugBank.d143">
+    <sentence id="DDI-DrugBank.d143.s0" text="Amiodarone is metabolized to desethylamiodarone by the cytochrome P450 (CYP450) enzyme group, specifically cytochromes P450 3A4 (CYP3A4) and CYP2C8.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d143.s0.e0" text="Amiodarone" type="drug" />
+        <entity charOffset="29-46" id="DDI-DrugBank.d143.s0.e1" text="desethylamiodarone" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d143.s0.e0" e2="DDI-DrugBank.d143.s0.e1" id="DDI-DrugBank.d143.s0.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d143.s7" text="In view of the long and variable half-life of amiodarone, potential for drug interactions exists not only with concomitant medication but also with drugs administered after discontinuation of amiodarone.">
+        <entity charOffset="46-55" id="DDI-DrugBank.d143.s7.e0" text="amiodarone" type="drug" />
+        <entity charOffset="192-201" id="DDI-DrugBank.d143.s7.e1" text="amiodarone" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d143.s7.e0" e2="DDI-DrugBank.d143.s7.e1" id="DDI-DrugBank.d143.s7.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d143.s8" text="Since amiodarone is a substrate for CYP3A4 and CYP2C8, drugs/substances that inhibit these isoenzymes may decrease the metabolism and increase serum concentration of amiodarone.">
+        <entity charOffset="6-15" id="DDI-DrugBank.d143.s8.e0" text="amiodarone" type="drug" />
+        <entity charOffset="166-175" id="DDI-DrugBank.d143.s8.e1" text="amiodarone" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d143.s8.e0" e2="DDI-DrugBank.d143.s8.e1" id="DDI-DrugBank.d143.s8.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d143.s9" text="Reported examples include the following: Protease Inhibitors: Protease inhibitors are known to inhibit CYP3A4 to varying degrees.">
+        <entity charOffset="41-59" id="DDI-DrugBank.d143.s9.e0" text="Protease Inhibitors" type="group" />
+        <entity charOffset="62-80" id="DDI-DrugBank.d143.s9.e1" text="Protease inhibitors" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d143.s9.e0" e2="DDI-DrugBank.d143.s9.e1" id="DDI-DrugBank.d143.s9.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d143.s15" text="Other substances: Grapefruit juice given to healthy volunteers increased amiodarone AUC by 50% and Cmax by 84%, resulting in increased plasma levels of amiodarone.">
+        <entity charOffset="73-82" id="DDI-DrugBank.d143.s15.e0" text="amiodarone" type="drug" />
+        <entity charOffset="152-161" id="DDI-DrugBank.d143.s15.e1" text="amiodarone" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d143.s15.e0" e2="DDI-DrugBank.d143.s15.e1" id="DDI-DrugBank.d143.s15.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d143.s17" text="This information should be considered when changing from intravenous amiodarone to oral amiodarone .">
+        <entity charOffset="69-78" id="DDI-DrugBank.d143.s17.e0" text="amiodarone" type="drug" />
+        <entity charOffset="88-97" id="DDI-DrugBank.d143.s17.e1" text="amiodarone" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d143.s17.e0" e2="DDI-DrugBank.d143.s17.e1" id="DDI-DrugBank.d143.s17.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d143.s32" text="Quinidine and procainamide doses should be reduced by one-third when either is administered with amiodarone.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d143.s32.e0" text="Quinidine" type="drug" />
+        <entity charOffset="97-106" id="DDI-DrugBank.d143.s32.e1" text="amiodarone" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d143.s32.e0" e2="DDI-DrugBank.d143.s32.e1" id="DDI-DrugBank.d143.s32.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d143.s33" text="Plasma levels of flecainide have been reported to increase in the presence of oral amiodarone;">
+        <entity charOffset="17-26" id="DDI-DrugBank.d143.s33.e0" text="flecainide" type="drug" />
+        <entity charOffset="83-92" id="DDI-DrugBank.d143.s33.e1" text="amiodarone" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d143.s33.e0" e2="DDI-DrugBank.d143.s33.e1" id="DDI-DrugBank.d143.s33.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d143.s34" text="because of this, the dosage of flecainide should be adjusted when these drugs are administered concomitantly.">
+        <entity charOffset="31-40" id="DDI-DrugBank.d143.s34.e0" text="flecainide" type="drug" />
+        <entity charOffset="72-76" id="DDI-DrugBank.d143.s34.e1" text="drugs" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d143.s34.e0" e2="DDI-DrugBank.d143.s34.e1" id="DDI-DrugBank.d143.s34.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d143.s37" text="During transfer to oral amiodarone, the dose levels of previously administered agents should be reduced by 30 to 50% several days after the addition of oral amiodarone.">
+        <entity charOffset="24-33" id="DDI-DrugBank.d143.s37.e0" text="amiodarone" type="drug" />
+        <entity charOffset="157-166" id="DDI-DrugBank.d143.s37.e1" text="amiodarone" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d143.s37.e0" e2="DDI-DrugBank.d143.s37.e1" id="DDI-DrugBank.d143.s37.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d143.s38" text="The continued need for the other antiarrhythmic agent should be reviewed after the effects of amiodarone have been established, and discontinuation ordinarily should be attempted.">
+        <entity charOffset="33-46" id="DDI-DrugBank.d143.s38.e0" text="antiarrhythmic" type="drug" />
+        <entity charOffset="94-103" id="DDI-DrugBank.d143.s38.e1" text="amiodarone" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d143.s38.e0" e2="DDI-DrugBank.d143.s38.e1" id="DDI-DrugBank.d143.s38.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d143.s40" text="In amiodarone-treated patients who require additional antiarrhythmic therapy, the initial dose of such agents should be approximately half of the usual recommended dose.">
+        <entity charOffset="3-12" id="DDI-DrugBank.d143.s40.e0" text="amiodarone" type="drug" />
+        <entity charOffset="54-67" id="DDI-DrugBank.d143.s40.e1" text="antiarrhythmic" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d143.s40.e0" e2="DDI-DrugBank.d143.s40.e1" id="DDI-DrugBank.d143.s40.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d143.s53" text="Seizure, associated with increased lidocaine concentrations, has been reported with concomitant administration of intravenous amiodarone.">
+        <entity charOffset="35-43" id="DDI-DrugBank.d143.s53.e0" text="lidocaine" type="drug" />
+        <entity charOffset="126-135" id="DDI-DrugBank.d143.s53.e1" text="amiodarone" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d143.s53.e0" e2="DDI-DrugBank.d143.s53.e1" id="DDI-DrugBank.d143.s53.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d143.s55" text="Amiodarone inhibits CYP2D6.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d143.s55.e0" text="Amiodarone" type="drug" />
+        <entity charOffset="20-25" id="DDI-DrugBank.d143.s55.e1" text="CYP2D6" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d143.s55.e0" e2="DDI-DrugBank.d143.s55.e1" id="DDI-DrugBank.d143.s55.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d143.s58" text="Fluoroquinolones, macrolide antibiotics, and azoles are known to cause QTc prolongation.">
+        <entity charOffset="0-15" id="DDI-DrugBank.d143.s58.e0" text="Fluoroquinolones" type="drug" />
+        <entity charOffset="18-38" id="DDI-DrugBank.d143.s58.e1" text="macrolide antibiotics" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d143.s58.e0" e2="DDI-DrugBank.d143.s58.e1" id="DDI-DrugBank.d143.s58.p0" />
+    </sentence>
+    </document>

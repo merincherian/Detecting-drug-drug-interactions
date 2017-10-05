@@ -1,0 +1,10 @@
+<document id="DDI-DrugBank.d766">
+    <sentence id="DDI-DrugBank.d766.s0" text="Since trimetrexate is metabolized by a P450 enzyme system, drugs that induce or inhibit this drug metabolizing enzyme system may elicit important drug-drug interactions that may alter trimetrexate plasma concentrations. ">
+        <entity charOffset="6-17" id="DDI-DrugBank.d766.s0.e0" text="trimetrexate" type="drug" />
+        <entity charOffset="184-195" id="DDI-DrugBank.d766.s0.e1" text="trimetrexate" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d766.s0.e0" e2="DDI-DrugBank.d766.s0.e1" id="DDI-DrugBank.d766.s0.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d766.s4" text="Patients medicated with these drugs and trimetrexate should be carefully monitored.">
+        <entity charOffset="40-51" id="DDI-DrugBank.d766.s4.e0" text="trimetrexate" type="drug" />
+    </sentence>
+</document>

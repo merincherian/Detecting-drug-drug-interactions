@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d373">
+    <sentence id="DDI-DrugBank.d373.s14" text="If nifedipine therapy is initiated in a patient currently receiving cimetidine, cautious titration is advised.">
+        <entity charOffset="3-12" id="DDI-DrugBank.d373.s14.e0" text="nifedipine" type="drug" />
+        <entity charOffset="68-77" id="DDI-DrugBank.d373.s14.e1" text="cimetidine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d373.s14.e0" e2="DDI-DrugBank.d373.s14.e1" id="DDI-DrugBank.d373.s14.p0" type="advise" />
+    </sentence>
+</document>

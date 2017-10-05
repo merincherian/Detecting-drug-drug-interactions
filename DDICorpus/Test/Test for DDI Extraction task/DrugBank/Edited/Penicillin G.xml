@@ -1,0 +1,13 @@
+<document id="DDI-DrugBank.d665">
+    <sentence id="DDI-DrugBank.d665.s4" text="There are few clinical situations in which the concurrent use of ''static'' and ''cidal '' antibiotics are indicated. ">
+        <entity charOffset="91-101" id="DDI-DrugBank.d665.s4.e0" text="antibiotics" type="group" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d665.s5" text="However, in selected circumstances in which such therapy is appropriate, using adequate doses of antibacterial agents and beginning penicillin therapy first, should minimize the potential for interaction. ">
+        <entity charOffset="97-109" id="DDI-DrugBank.d665.s5.e0" text="antibacterial" type="group" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d665.s7" text="Displacement of penicillin from plasma protein binding sites will elevate the level of free penicillin in the serum.">
+        <entity charOffset="16-25" id="DDI-DrugBank.d665.s7.e0" text="penicillin" type="group" />
+        <entity charOffset="92-101" id="DDI-DrugBank.d665.s7.e1" text="penicillin" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d665.s7.e0" e2="DDI-DrugBank.d665.s7.e1" id="DDI-DrugBank.d665.s7.p0" />
+    </sentence>
+</document>

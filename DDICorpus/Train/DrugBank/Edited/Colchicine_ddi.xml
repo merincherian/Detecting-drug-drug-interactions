@@ -1,0 +1,22 @@
+<document id="DDI-DrugBank.d146">
+    <sentence id="DDI-DrugBank.d146.s0" text="Colchicine is inhibited by acidifying agents.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d146.s0.e0" text="Colchicine" type="drug" />
+        <entity charOffset="27-43" id="DDI-DrugBank.d146.s0.e1" text="acidifying agents" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d146.s0.e0" e2="DDI-DrugBank.d146.s0.e1" id="DDI-DrugBank.d146.s0.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d146.s1" text="The action of colchicine is potentiated by alkalinizing agents.">
+        <entity charOffset="14-23" id="DDI-DrugBank.d146.s1.e0" text="colchicine" type="drug" />
+        <entity charOffset="43-61" id="DDI-DrugBank.d146.s1.e1" text="alkalinizing agents" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d146.s1.e0" e2="DDI-DrugBank.d146.s1.e1" id="DDI-DrugBank.d146.s1.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d146.s2" text="Colchicine may increase sensitivity to the CNS depressants.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d146.s2.e0" text="Colchicine" type="drug" />
+        <entity charOffset="43-57" id="DDI-DrugBank.d146.s2.e1" text="CNS depressants" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d146.s2.e0" e2="DDI-DrugBank.d146.s2.e1" id="DDI-DrugBank.d146.s2.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d146.s3" text="Response to sympathomimetic agents may be enhanced by colchicine.">
+        <entity charOffset="12-33" id="DDI-DrugBank.d146.s3.e0" text="sympathomimetic agents" type="group" />
+        <entity charOffset="54-63" id="DDI-DrugBank.d146.s3.e1" text="colchicine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d146.s3.e0" e2="DDI-DrugBank.d146.s3.e1" id="DDI-DrugBank.d146.s3.p0" type="effect" />
+    </sentence>
+</document>

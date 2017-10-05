@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d237">
+    <sentence id="DDI-DrugBank.d237.s5" text="It is advisable to check coagulation time within the first few days after the start and discontinuation of cisapride therapy, with an appropriate adjustment of the anticoagulant dose, if necessary.">
+        <entity charOffset="107-115" id="DDI-DrugBank.d237.s5.e0" text="cisapride" type="drug" />
+        <entity charOffset="164-176" id="DDI-DrugBank.d237.s5.e1" text="anticoagulant" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d237.s5.e0" e2="DDI-DrugBank.d237.s5.e1" id="DDI-DrugBank.d237.s5.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d237.s9" text="A study in 14 normal male and female volunteers suggests that coadministration of cisapride and ketoconazole can result in prolongation of the QT interval on the ECG.">
+        <entity charOffset="82-90" id="DDI-DrugBank.d237.s9.e0" text="cisapride" type="drug" />
+        <entity charOffset="96-107" id="DDI-DrugBank.d237.s9.e1" text="ketoconazole" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d237.s9.e0" e2="DDI-DrugBank.d237.s9.e1" id="DDI-DrugBank.d237.s9.p0" type="effect" />
+    </sentence>
+    </document>

@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d60">
+    <sentence id="DDI-DrugBank.d60.s2" text="Prior administration of succinylcholine had no effect on the duration of neuromuscular block following initial or maintenance bolus doses of NIMBEX.">
+        <entity charOffset="24-38" id="DDI-DrugBank.d60.s2.e0" text="succinylcholine" type="drug" />
+        <entity charOffset="141-146" id="DDI-DrugBank.d60.s2.e1" text="NIMBEX" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d60.s2.e0" e2="DDI-DrugBank.d60.s2.e1" id="DDI-DrugBank.d60.s2.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d60.s11" text="In clinical studies propofol had no effect on the duration of action or dosing requirements for NIMBEX.">
+        <entity charOffset="20-27" id="DDI-DrugBank.d60.s11.e0" text="propofol" type="drug" />
+        <entity charOffset="96-101" id="DDI-DrugBank.d60.s11.e1" text="NIMBEX" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d60.s11.e0" e2="DDI-DrugBank.d60.s11.e1" id="DDI-DrugBank.d60.s11.p0" />
+    </sentence>
+    </document>

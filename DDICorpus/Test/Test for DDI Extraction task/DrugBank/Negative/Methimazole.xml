@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d634">
+    <sentence id="DDI-DrugBank.d634.s3" text="Digitalis glycosides: Serum digitalis levels may be increased when hyperthyroid patients on a stable digitalis glycoside regimen become euthyroid; ">
+        <entity charOffset="0-19" id="DDI-DrugBank.d634.s3.e0" text="Digitalis glycosides" type="group" />
+        <entity charOffset="101-119" id="DDI-DrugBank.d634.s3.e1" text="digitalis glycoside" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d634.s3.e0" e2="DDI-DrugBank.d634.s3.e1" id="DDI-DrugBank.d634.s3.p0" />
+    </sentence>
+    </document>

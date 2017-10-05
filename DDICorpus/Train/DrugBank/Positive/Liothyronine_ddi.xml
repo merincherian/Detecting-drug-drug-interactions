@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d54">
+    <sentence id="DDI-DrugBank.d54.s2" text="Patients stabilized on oral anticoagulants who are found to require thyroid replacement therapy should be watched very closely when thyroid is started.">
+        <entity charOffset="28-41" id="DDI-DrugBank.d54.s2.e0" text="anticoagulants" type="group" />
+        <entity charOffset="68-74" id="DDI-DrugBank.d54.s2.e1" text="thyroid" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d54.s2.e0" e2="DDI-DrugBank.d54.s2.e1" id="DDI-DrugBank.d54.s2.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d54.s10" text="Therefore, 4 to 5 hours should elapse between administration of cholestyramine and thyroid hormones.">
+        <entity charOffset="64-77" id="DDI-DrugBank.d54.s10.e0" text="cholestyramine" type="drug" />
+        <entity charOffset="83-98" id="DDI-DrugBank.d54.s10.e1" text="thyroid hormones" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d54.s10.e0" e2="DDI-DrugBank.d54.s10.e1" id="DDI-DrugBank.d54.s10.p0" type="advise" />
+    </sentence>
+    </document>

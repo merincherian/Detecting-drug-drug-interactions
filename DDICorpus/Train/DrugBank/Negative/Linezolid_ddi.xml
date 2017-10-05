@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d441">
+    <sentence id="DDI-DrugBank.d441.s3" text="Commonly used drugs such as phenylpropanolamine and pseudoephedrine have been specifically studied.">
+        <entity charOffset="28-46" id="DDI-DrugBank.d441.s3.e0" text="phenylpropanolamine" type="drug" />
+        <entity charOffset="52-66" id="DDI-DrugBank.d441.s3.e1" text="pseudoephedrine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d441.s3.e0" e2="DDI-DrugBank.d441.s3.e1" id="DDI-DrugBank.d441.s3.p0" />
+    </sentence>
+    </document>

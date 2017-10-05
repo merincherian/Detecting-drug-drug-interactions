@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d532">
+    <sentence id="DDI-DrugBank.d532.s4" text="Patients with HACA titers may have allergic or hypersensitivity reactions when treated with other diagnostic or therapeutic monoclonal antibodies.">
+        <entity charOffset="98-107;124-144" id="DDI-DrugBank.d532.s4.e0" text="diagnostic monoclonal antibodies" type="group" />
+        <entity charOffset="112-144" id="DDI-DrugBank.d532.s4.e1" text="therapeutic monoclonal antibodies" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d532.s4.e0" e2="DDI-DrugBank.d532.s4.e1" id="DDI-DrugBank.d532.s4.p0" />
+    </sentence>
+</document>

@@ -1,0 +1,32 @@
+<document id="DDI-DrugBank.d5">
+    <sentence id="DDI-DrugBank.d5.s0" text="Few systemic data have been collected on the metabolism of WELLBUTRIN following concomitant administration with other drugs or, alternatively, the effect of concomitant administration of WELLBUTRIN on the metabolism of other drugs.">
+        <entity charOffset="59-68" id="DDI-DrugBank.d5.s0.e0" text="WELLBUTRIN" type="brand" />
+        <entity charOffset="187-196" id="DDI-DrugBank.d5.s0.e1" text="WELLBUTRIN" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d5.s0.e0" e2="DDI-DrugBank.d5.s0.e1" id="DDI-DrugBank.d5.s0.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d5.s2" text="In vitro studies indicate that bupropion is primarily metabolized to hydroxybupropion by the CYP2B6 isoenzyme.">
+        <entity charOffset="31-39" id="DDI-DrugBank.d5.s2.e0" text="bupropion" type="drug" />
+        <entity charOffset="69-84" id="DDI-DrugBank.d5.s2.e1" text="hydroxybupropion" type="drug_n" />
+        <pair ddi="false" e1="DDI-DrugBank.d5.s2.e0" e2="DDI-DrugBank.d5.s2.e1" id="DDI-DrugBank.d5.s2.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d5.s4" text="The threohydrobupropion metabolite of bupropion does not appear to be produced by the cytochrome P450 isoenzymes.">
+        <entity charOffset="4-22" id="DDI-DrugBank.d5.s4.e0" text="threohydrobupropion" type="drug_n" />
+        <entity charOffset="38-46" id="DDI-DrugBank.d5.s4.e1" text="bupropion" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d5.s4.e0" e2="DDI-DrugBank.d5.s4.e1" id="DDI-DrugBank.d5.s4.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d5.s5" text="The effects of concomitant administration of cimetidine on the pharmacokinetics of bupropion and its active metabolites were studied in 24 healthy young male volunteers.">
+        <entity charOffset="45-54" id="DDI-DrugBank.d5.s5.e0" text="cimetidine" type="drug" />
+        <entity charOffset="83-91" id="DDI-DrugBank.d5.s5.e1" text="bupropion" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d5.s5.e0" e2="DDI-DrugBank.d5.s5.e1" id="DDI-DrugBank.d5.s5.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d5.s7" text="However, there were 16% and 32% increases in the AUC and Cmax, respectively, of the combined moieties of threohydrobupropion and erythrohydrobupropion.">
+        <entity charOffset="105-123" id="DDI-DrugBank.d5.s7.e0" text="threohydrobupropion" type="drug_n" />
+        <entity charOffset="129-149" id="DDI-DrugBank.d5.s7.e1" text="erythrohydrobupropion" type="drug_n" />
+        <pair ddi="false" e1="DDI-DrugBank.d5.s7.e0" e2="DDI-DrugBank.d5.s7.e1" id="DDI-DrugBank.d5.s7.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d5.s26" text="The consumption of alcohol during treatment with WELLBUTRIN should be minimized or avoided (also see  a href= bupropz_od.htm#CI CONTRAINDICATIONS)">
+        <entity charOffset="19-25" id="DDI-DrugBank.d5.s26.e0" text="alcohol" type="drug" />
+        <entity charOffset="49-58" id="DDI-DrugBank.d5.s26.e1" text="WELLBUTRIN" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d5.s26.e0" e2="DDI-DrugBank.d5.s26.e1" id="DDI-DrugBank.d5.s26.p0" type="advise" />
+    </sentence>
+    </document>

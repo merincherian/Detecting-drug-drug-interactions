@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d20">
+    <sentence id="DDI-DrugBank.d20.s11" text="The administration of other potassium-sparing antihypertensives with NSAIDs has been shown to reduce the antihypertensive effect in some patients and result in severe hyperkalemia in patients with impaired renal function.">
+        <entity charOffset="28-62" id="DDI-DrugBank.d20.s11.e0" text="potassium-sparing antihypertensives" type="group" />
+        <entity charOffset="69-74" id="DDI-DrugBank.d20.s11.e1" text="NSAIDs" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d20.s11.e0" e2="DDI-DrugBank.d20.s11.e1" id="DDI-DrugBank.d20.s11.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d20.s12" text="Therefore, when INSPRA and NSAIDs are used concomitantly, patients should be observed to determine whether the desired effect on blood pressure is obtained.">
+        <entity charOffset="16-21" id="DDI-DrugBank.d20.s12.e0" text="INSPRA" type="brand" />
+        <entity charOffset="27-32" id="DDI-DrugBank.d20.s12.e1" text="NSAIDs" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d20.s12.e0" e2="DDI-DrugBank.d20.s12.e1" id="DDI-DrugBank.d20.s12.p0" type="advise" />
+    </sentence>
+</document>

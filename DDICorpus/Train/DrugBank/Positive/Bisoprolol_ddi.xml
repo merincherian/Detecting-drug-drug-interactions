@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d476">
+    <sentence id="DDI-DrugBank.d476.s0" text="ZEBETA should not be combined with other beta-blocking agents.">
+        <entity charOffset="0-5" id="DDI-DrugBank.d476.s0.e0" text="ZEBETA" type="brand" />
+        <entity charOffset="41-60" id="DDI-DrugBank.d476.s0.e1" text="beta-blocking agents" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d476.s0.e0" e2="DDI-DrugBank.d476.s0.e1" id="DDI-DrugBank.d476.s0.p0" type="advise" />
+    </sentence>
+    </document>

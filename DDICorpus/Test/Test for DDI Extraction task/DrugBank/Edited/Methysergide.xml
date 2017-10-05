@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d696">
+    <sentence id="DDI-DrugBank.d696.s0" text="Methysergide may reverse the analgesic activity of narcotic analgesics. ">
+        <entity charOffset="0-11" id="DDI-DrugBank.d696.s0.e0" text="Methysergide" type="drug" />
+        <entity charOffset="51-69" id="DDI-DrugBank.d696.s0.e1" text="narcotic analgesics" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d696.s0.e0" e2="DDI-DrugBank.d696.s0.e1" id="DDI-DrugBank.d696.s0.p0" type="effect" />
+    </sentence>
+    </document>

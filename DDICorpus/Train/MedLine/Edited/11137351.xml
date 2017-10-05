@@ -1,0 +1,24 @@
+<document id="DDI-MedLine.d58">
+    <sentence id="DDI-MedLine.d58.s0" text="Effect of ginsenosides on voltage-dependent Ca(2+) channel subtypes in bovine chromaffin cells.&#10;">
+        <entity charOffset="10-21" id="DDI-MedLine.d58.s0.e0" text="ginsenosides" type="drug_n" />
+    </sentence>
+    <sentence id="DDI-MedLine.d58.s1" text="In previous reports we have shown that ginsenosides inhibit high threshold voltage-dependent Ca(2+) channels in neuronal cells. ">
+        <entity charOffset="39-50" id="DDI-MedLine.d58.s1.e0" text="ginsenosides" type="drug_n" />
+    </sentence>
+    <sentence id="DDI-MedLine.d58.s2" text="However, these studies did not show whether ginsenosides-induced inhibition of Ca(2+) currents discriminates among the various Ca(2+) channel subtypes, although it is known that there are at least five different Ca(2+) channel subtypes in neuronal cells. ">
+        <entity charOffset="44-55" id="DDI-MedLine.d58.s2.e0" text="ginsenosides" type="drug_n" />
+    </sentence>
+    <sentence id="DDI-MedLine.d58.s4" text="We could observe that ginsenosides inhibited high threshold voltage-dependent Ca(2+) currents in a dose-dependent manner. ">
+        <entity charOffset="22-33" id="DDI-MedLine.d58.s4.e0" text="ginsenosides" type="drug_n" />
+    </sentence>
+    <sentence id="DDI-MedLine.d58.s6" text="Nimodipine had no effect on ginsenosides response. ">
+        <entity charOffset="0-9" id="DDI-MedLine.d58.s6.e0" text="Nimodipine" type="drug" />
+        <entity charOffset="28-39" id="DDI-MedLine.d58.s6.e1" text="ginsenosides" type="drug_n" />
+        <pair ddi="false" e1="DDI-MedLine.d58.s6.e0" e2="DDI-MedLine.d58.s6.e1" id="DDI-MedLine.d58.s6.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d58.s8" text="Thus, the selective regulation of voltage-dependent Ca(2+) subtypes by ginsenosides in bovine chromaffin cell could be the cellular basis of antistress effects induced by ginseng.">
+        <entity charOffset="71-82" id="DDI-MedLine.d58.s8.e0" text="ginsenosides" type="drug_n" />
+        <entity charOffset="171-177" id="DDI-MedLine.d58.s8.e1" text="ginseng" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d58.s8.e0" e2="DDI-MedLine.d58.s8.e1" id="DDI-MedLine.d58.s8.p0" />
+    </sentence>
+</document>

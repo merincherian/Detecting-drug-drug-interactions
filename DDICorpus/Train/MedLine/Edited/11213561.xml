@@ -1,0 +1,10 @@
+<document id="DDI-MedLine.d1">
+    <sentence id="DDI-MedLine.d1.s1" text="Since the arrival of oral erection-supporting medication, patients want to know how safe sexual activity is in cardiovascular disease in general and during use of erection-supporting medication in particular. ">
+        <entity charOffset="26-55" id="DDI-MedLine.d1.s1.e0" text="erection-supporting medication" type="group" />
+        <entity charOffset="163-192" id="DDI-MedLine.d1.s1.e1" text="erection-supporting medication" type="group" />
+        <pair ddi="false" e1="DDI-MedLine.d1.s1.e0" e2="DDI-MedLine.d1.s1.e1" id="DDI-MedLine.d1.s1.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d1.s4" text="The incidence of cardiovascular morbidity and mortality is not higher among users of sildenafil. ">
+        <entity charOffset="85-94" id="DDI-MedLine.d1.s4.e0" text="sildenafil" type="drug" />
+    </sentence>
+    </document>

@@ -1,0 +1,8 @@
+<document id="DDI-DrugBank.d628">
+    <sentence id="DDI-DrugBank.d628.s2" text="These agents may increase the anesthetic or sedative effects of DIPRIVAN Injectable Emulsion and may also result in more pronounced decreases in systolic, diastolic, and mean arterial pressures and cardiac output. ">
+        <entity charOffset="64-71" id="DDI-DrugBank.d628.s2.e0" text="DIPRIVAN" type="brand" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d628.s5" text="These inhalational agents can also be expected to increase the anesthetic or sedative and cardiorespiratory effects of DIPRIVAN Injectable Emulsion. ">
+        <entity charOffset="119-126" id="DDI-DrugBank.d628.s5.e0" text="DIPRIVAN" type="brand" />
+    </sentence>
+    </document>

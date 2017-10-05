@@ -1,0 +1,10 @@
+<document id="DDI-DrugBank.d726">
+    <sentence id="DDI-DrugBank.d726.s0" text="Paricalcitol is not expected to inhibit the clearance of drugs metabolized by cytochrome P450 enzymes CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 CYP2E1 or CYP3A nor induce the clearance of drugs metabolized by CYP2B6, CYP2C9 or CYP3A. ">
+        <entity charOffset="0-11" id="DDI-DrugBank.d726.s0.e0" text="Paricalcitol" type="drug_n" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d726.s2" text="Dose adjustment of Zemplar Capsules may be required, and iPTH and serum calcium concentrations should be closely monitored if a patient initiates or discontinues therapy with a strong CYP3A4 inhibitor such as ketoconazole. ">
+        <entity charOffset="19-25" id="DDI-DrugBank.d726.s2.e0" text="Zemplar" type="brand" />
+        <entity charOffset="209-220" id="DDI-DrugBank.d726.s2.e1" text="ketoconazole" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d726.s2.e0" e2="DDI-DrugBank.d726.s2.e1" id="DDI-DrugBank.d726.s2.p0" type="advise" />
+    </sentence>
+    </document>

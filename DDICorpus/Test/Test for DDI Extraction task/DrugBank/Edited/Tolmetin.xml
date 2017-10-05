@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d608">
+    <sentence id="DDI-DrugBank.d608.s1" text="However, increased prothrombin time and bleeding have been reported in patients on concomitant TOLECTIN and warfarin therapy. ">
+        <entity charOffset="95-102" id="DDI-DrugBank.d608.s1.e0" text="TOLECTIN" type="brand" />
+        <entity charOffset="108-115" id="DDI-DrugBank.d608.s1.e1" text="warfarin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d608.s1.e0" e2="DDI-DrugBank.d608.s1.e1" id="DDI-DrugBank.d608.s1.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d608.s2" text="Therefore, caution should be exercised when administering TOLECTIN to patients on anticoagulants. ">
+        <entity charOffset="58-65" id="DDI-DrugBank.d608.s2.e0" text="TOLECTIN" type="brand" />
+        <entity charOffset="82-95" id="DDI-DrugBank.d608.s2.e1" text="anticoagulants" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d608.s2.e0" e2="DDI-DrugBank.d608.s2.e1" id="DDI-DrugBank.d608.s2.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d608.s4" text="Caution should be used if TOLECTIN is administered concomitantly with methotrexate. ">
+        <entity charOffset="26-33" id="DDI-DrugBank.d608.s4.e0" text="TOLECTIN" type="brand" />
+        <entity charOffset="70-81" id="DDI-DrugBank.d608.s4.e1" text="methotrexate" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d608.s4.e0" e2="DDI-DrugBank.d608.s4.e1" id="DDI-DrugBank.d608.s4.p0" type="advise" />
+    </sentence>
+    </document>

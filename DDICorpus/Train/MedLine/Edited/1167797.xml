@@ -1,0 +1,11 @@
+<document id="DDI-MedLine.d138">
+    <sentence id="DDI-MedLine.d138.s0" text="Interaction between oxytocin and antidiuretic hormone and its effect on the milk secretion by alveoli of the mammary gland of lactating rats.&#10;">
+        <entity charOffset="20-27" id="DDI-MedLine.d138.s0.e0" text="oxytocin" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d138.s1" text="Interaction between exogenous and endogenous oxytocin and vasopressin was found to affect the mechanism of milk ejection by the alveoli of the mammary gland in lactating rats. ">
+        <entity charOffset="45-52" id="DDI-MedLine.d138.s1.e0" text="oxytocin" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d138.s2" text="Inhibition and stimulation of the effect of oxytocin on milk ejection by vasopressin was demonstrated. ">
+        <entity charOffset="44-51" id="DDI-MedLine.d138.s2.e0" text="oxytocin" type="drug" />
+    </sentence>
+    </document>

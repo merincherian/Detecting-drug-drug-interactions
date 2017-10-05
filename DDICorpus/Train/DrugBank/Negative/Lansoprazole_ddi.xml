@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d431">
+    <sentence id="DDI-DrugBank.d431.s6" text="Lansoprazole has also been shown to have no clinically significant interaction with amoxicillin.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d431.s6.e0" text="Lansoprazole" type="drug" />
+        <entity charOffset="84-94" id="DDI-DrugBank.d431.s6.e1" text="amoxicillin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d431.s6.e0" e2="DDI-DrugBank.d431.s6.e1" id="DDI-DrugBank.d431.s6.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d431.s9" text="In clinical trials, antacids were administered concomitantly with lansoprazole delayed-release capsules;">
+        <entity charOffset="20-27" id="DDI-DrugBank.d431.s9.e0" text="antacids" type="group" />
+        <entity charOffset="66-77" id="DDI-DrugBank.d431.s9.e1" text="lansoprazole" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d431.s9.e0" e2="DDI-DrugBank.d431.s9.e1" id="DDI-DrugBank.d431.s9.p0" />
+    </sentence>
+    </document>

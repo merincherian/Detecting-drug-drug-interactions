@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d732">
+    <sentence id="DDI-DrugBank.d732.s0" text="CHEMET is not known to interact with other drugs including iron supplements; ">
+        <entity charOffset="0-5" id="DDI-DrugBank.d732.s0.e0" text="CHEMET" type="brand" />
+        <entity charOffset="59-62" id="DDI-DrugBank.d732.s0.e1" text="iron" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d732.s0.e0" e2="DDI-DrugBank.d732.s0.e1" id="DDI-DrugBank.d732.s0.p0" />
+    </sentence>
+    </document>

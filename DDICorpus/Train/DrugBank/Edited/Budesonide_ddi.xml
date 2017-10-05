@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d144">
+    <sentence id="DDI-DrugBank.d144.s0" text="Concomitant oral administration of ketoconazole (a known inhibitor of CYP3A4 activity in the liver and in the intestinal mucosa) caused an eight-fold increase of the systemic exposure to oral budesonide.">
+        <entity charOffset="35-46" id="DDI-DrugBank.d144.s0.e0" text="ketoconazole" type="drug" />
+        <entity charOffset="192-201" id="DDI-DrugBank.d144.s0.e1" text="budesonide" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d144.s0.e0" e2="DDI-DrugBank.d144.s0.e1" id="DDI-DrugBank.d144.s0.p0" type="mechanism" />
+    </sentence>
+    </document>

@@ -1,0 +1,15 @@
+<document id="DDI-DrugBank.d591">
+    <sentence id="DDI-DrugBank.d591.s1" text="Cytochrome P4501A2 is involved in the formation of 3-hydroxy ropivacaine, the major metabolite. ">
+        <entity charOffset="51-71" id="DDI-DrugBank.d591.s1.e0" text="3-hydroxy ropivacaine" type="drug_n" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d591.s2" text="In vivo, the plasma clearance of ropivacaine was reduced by 70% during coadministration of fluvoxamine (25 mg bid for 2 days), a selective and potent CYP1A2 inhibitor. ">
+        <entity charOffset="33-43" id="DDI-DrugBank.d591.s2.e0" text="ropivacaine" type="drug" />
+        <entity charOffset="91-101" id="DDI-DrugBank.d591.s2.e1" text="fluvoxamine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d591.s2.e0" e2="DDI-DrugBank.d591.s2.e1" id="DDI-DrugBank.d591.s2.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d591.s5" text="Possible interactions with drugs known to be metabolized by CYP1A2 via competitive inhibition such as theophylline and imipramine may also occur. ">
+        <entity charOffset="102-113" id="DDI-DrugBank.d591.s5.e0" text="theophylline" type="drug" />
+        <entity charOffset="119-128" id="DDI-DrugBank.d591.s5.e1" text="imipramine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d591.s5.e0" e2="DDI-DrugBank.d591.s5.e1" id="DDI-DrugBank.d591.s5.p0" />
+    </sentence>
+    </document>

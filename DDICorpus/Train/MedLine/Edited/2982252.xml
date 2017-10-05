@@ -1,0 +1,11 @@
+<document id="DDI-MedLine.d100">
+    <sentence id="DDI-MedLine.d100.s0" text="Influence of calcium-channel blockers on platelet function and arachidonic acid metabolism.&#10;">
+        <entity charOffset="13-36" id="DDI-MedLine.d100.s0.e0" text="calcium-channel blockers" type="group" />
+    </sentence>
+    <sentence id="DDI-MedLine.d100.s7" text="Some preliminary data suggest that calcium blockers also increase generation of vasodilator and platelet antiaggregant prostacyclin, which could contribute to decrease in platelet function. ">
+        <entity charOffset="35-50" id="DDI-MedLine.d100.s7.e0" text="calcium blockers" type="group" />
+    </sentence>
+    <sentence id="DDI-MedLine.d100.s8" text="These effects of calcium blockers on platelet function and arachidonic acid metabolism could contribute in part to their efficacy in patients with ischemic heart disease.">
+        <entity charOffset="17-32" id="DDI-MedLine.d100.s8.e0" text="calcium blockers" type="group" />
+    </sentence>
+</document>

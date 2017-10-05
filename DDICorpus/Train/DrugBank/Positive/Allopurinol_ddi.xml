@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d413">
+    <sentence id="DDI-DrugBank.d413.s15" text="Although a causal mechanism and a cause-and-effect relationship have not been established, current evidence suggests that renal function should be monitored in patients on thiazide diuretics and allopurinol even in the absence of renal failure, and dosage levels should be even more conservatively adjusted in those patients on such combined therapy if diminished renal function is detected..">
+        <entity charOffset="172-189" id="DDI-DrugBank.d413.s15.e0" text="thiazide diuretics" type="group" />
+        <entity charOffset="195-205" id="DDI-DrugBank.d413.s15.e1" text="allopurinol" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d413.s15.e0" e2="DDI-DrugBank.d413.s15.e1" id="DDI-DrugBank.d413.s15.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d413.s21" text="The risk of hypoglycemia secondary to this mechanism may be increased if allopurinol and chlorpropamide are given concomitantly in the presence of renal insufficiency.">
+        <entity charOffset="73-83" id="DDI-DrugBank.d413.s21.e0" text="allopurinol" type="drug" />
+        <entity charOffset="89-102" id="DDI-DrugBank.d413.s21.e1" text="chlorpropamide" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d413.s21.e0" e2="DDI-DrugBank.d413.s21.e1" id="DDI-DrugBank.d413.s21.p0" type="effect" />
+    </sentence>
+    </document>

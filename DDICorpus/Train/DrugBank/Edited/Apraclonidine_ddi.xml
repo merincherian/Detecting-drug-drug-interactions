@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d224">
+    <sentence id="DDI-DrugBank.d224.s0" text="Apraclonidine should not be used in patients receiving MAO inhibitors..">
+        <entity charOffset="0-12" id="DDI-DrugBank.d224.s0.e0" text="Apraclonidine" type="drug" />
+        <entity charOffset="55-68" id="DDI-DrugBank.d224.s0.e1" text="MAO inhibitors" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d224.s0.e0" e2="DDI-DrugBank.d224.s0.e1" id="DDI-DrugBank.d224.s0.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d224.s2" text="Tricyclic antidepressants have been reported to blunt the hypotensive effect of systemic clonidine.">
+        <entity charOffset="0-24" id="DDI-DrugBank.d224.s2.e0" text="Tricyclic antidepressants" type="group" />
+        <entity charOffset="89-97" id="DDI-DrugBank.d224.s2.e1" text="clonidine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d224.s2.e0" e2="DDI-DrugBank.d224.s2.e1" id="DDI-DrugBank.d224.s2.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d224.s6" text="An additive hypotensive effect has been reported with the combination of systemic clonidine and neuroleptic therapy.">
+        <entity charOffset="82-90" id="DDI-DrugBank.d224.s6.e0" text="clonidine" type="drug" />
+        <entity charOffset="96-106" id="DDI-DrugBank.d224.s6.e1" text="neuroleptic" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d224.s6.e0" e2="DDI-DrugBank.d224.s6.e1" id="DDI-DrugBank.d224.s6.p0" type="effect" />
+    </sentence>
+    </document>

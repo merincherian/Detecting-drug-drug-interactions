@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d107">
+    <sentence id="DDI-DrugBank.d107.s11" text="Enalapril IV has been used concomitantly with digitalis without evidence of clinically significant adverse reactions.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d107.s11.e0" text="Enalapril" type="drug" />
+        <entity charOffset="46-54" id="DDI-DrugBank.d107.s11.e1" text="digitalis" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d107.s11.e0" e2="DDI-DrugBank.d107.s11.e1" id="DDI-DrugBank.d107.s11.p0" />
+    </sentence>
+    </document>

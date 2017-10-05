@@ -1,0 +1,22 @@
+<document id="DDI-MedLine.d30">
+    <sentence id="DDI-MedLine.d30.s0" text="Stereoselective behavioral effects of N-allylnormetazocine in pigeons and squirrel monkeys.&#10;">
+        <entity charOffset="38-57" id="DDI-MedLine.d30.s0.e0" text="N-allylnormetazocine" type="drug_n" />
+    </sentence>
+    <sentence id="DDI-MedLine.d30.s2" text="Intermediate doses of (+)-NANM or PCP produced transient increases in FI responding in monkeys and sustained increases in FI responding in pigeons; ">
+        <entity charOffset="22-29" id="DDI-MedLine.d30.s2.e0" text="(+)-NANM" type="drug_n" />
+        <entity charOffset="34-36" id="DDI-MedLine.d30.s2.e1" text="PCP" type="drug_n" />
+        <pair ddi="false" e1="DDI-MedLine.d30.s2.e0" e2="DDI-MedLine.d30.s2.e1" id="DDI-MedLine.d30.s2.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d30.s4" text="In contrast to its enantiomer, (-)-NANM failed to increase FI responding significantly in either species; ">
+        <entity charOffset="31-38" id="DDI-MedLine.d30.s4.e0" text="(-)-NANM" type="drug_n" />
+    </sentence>
+    <sentence id="DDI-MedLine.d30.s5" text="at high doses, (-)-NANM decreased FI and FR responding. ">
+        <entity charOffset="15-22" id="DDI-MedLine.d30.s5.e0" text="(-)-NANM" type="drug_n" />
+    </sentence>
+    <sentence id="DDI-MedLine.d30.s12" text="The results demonstrate a high degree of stereoselectivity in the behavioral effects of NANM. ">
+        <entity charOffset="88-91" id="DDI-MedLine.d30.s12.e0" text="NANM" type="drug_n" />
+    </sentence>
+    <sentence id="DDI-MedLine.d30.s14" text="The dextrorotatory isomer, on the other hand, had effects similar to those of PCP in both species.">
+        <entity charOffset="78-80" id="DDI-MedLine.d30.s14.e0" text="PCP" type="drug_n" />
+    </sentence>
+</document>

@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d195">
+    <sentence id="DDI-DrugBank.d195.s7" text="Based on clinical and pharmacokinetic results from the ATAC trial, tamoxifen should not be administered with anastrozole (see CLINICAL PHARMACOLOGY   Drug Interactions and CLINICAL PHARMACOLOGY - Clinical Studies - Adjuvant Treatment of Breast Cancer in Postmenopausal Women subsections).">
+        <entity charOffset="67-75" id="DDI-DrugBank.d195.s7.e0" text="tamoxifen" type="drug" />
+        <entity charOffset="109-119" id="DDI-DrugBank.d195.s7.e1" text="anastrozole" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d195.s7.e0" e2="DDI-DrugBank.d195.s7.e1" id="DDI-DrugBank.d195.s7.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d195.s9" text="Estrogen-containing therapies should not be used with ARIMIDEX as they may diminish its pharmacologic action.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d195.s9.e0" text="Estrogen" type="group" />
+        <entity charOffset="54-61" id="DDI-DrugBank.d195.s9.e1" text="ARIMIDEX" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d195.s9.e0" e2="DDI-DrugBank.d195.s9.e1" id="DDI-DrugBank.d195.s9.p0" type="advise" />
+    </sentence>
+    </document>

@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d392">
+    <sentence id="DDI-DrugBank.d392.s1" text="Animal toxicology studies showed increased DEET toxicity when DEET was included as proof of the formulation.">
+        <entity charOffset="43-46" id="DDI-DrugBank.d392.s1.e0" text="DEET" type="drug" />
+        <entity charOffset="62-65" id="DDI-DrugBank.d392.s1.e1" text="DEET" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d392.s1.e0" e2="DDI-DrugBank.d392.s1.e1" id="DDI-DrugBank.d392.s1.p0" />
+    </sentence>
+    </document>

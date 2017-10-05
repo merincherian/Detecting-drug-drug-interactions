@@ -1,0 +1,8 @@
+<document id="DDI-DrugBank.d735">
+    <sentence id="DDI-DrugBank.d735.s1" text="In these studies, no interaction that altered the pharmacokinetics of micafungin was observed. ">
+        <entity charOffset="70-79" id="DDI-DrugBank.d735.s1.e0" text="micafungin" type="drug" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d735.s6" text="Micafungin is not an inhibitor of P-glycoprotein and, therefore, would not be expected to alter P-glycoprotein-mediated drug transport activity.    ">
+        <entity charOffset="0-9" id="DDI-DrugBank.d735.s6.e0" text="Micafungin" type="drug" />
+    </sentence>
+</document>

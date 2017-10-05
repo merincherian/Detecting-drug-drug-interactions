@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d256">
+    <sentence id="DDI-DrugBank.d256.s0" text="Clindamycin has been shown to have neuromuscular blocking properties that may enhance the action of other neuromuscular blocking agents.">
+        <entity charOffset="0-10" id="DDI-DrugBank.d256.s0.e0" text="Clindamycin" type="drug" />
+        <entity charOffset="106-134" id="DDI-DrugBank.d256.s0.e1" text="neuromuscular blocking agents" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d256.s0.e0" e2="DDI-DrugBank.d256.s0.e1" id="DDI-DrugBank.d256.s0.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d256.s2" text="Antagonism has been demonstrated between clindamycin and erythromycin in vitro.">
+        <entity charOffset="41-51" id="DDI-DrugBank.d256.s2.e0" text="clindamycin" type="drug" />
+        <entity charOffset="57-68" id="DDI-DrugBank.d256.s2.e1" text="erythromycin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d256.s2.e0" e2="DDI-DrugBank.d256.s2.e1" id="DDI-DrugBank.d256.s2.p0" type="effect" />
+    </sentence>
+    </document>

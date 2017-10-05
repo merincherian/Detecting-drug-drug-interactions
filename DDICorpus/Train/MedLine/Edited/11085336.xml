@@ -1,0 +1,41 @@
+<document id="DDI-MedLine.d110">
+    <sentence id="DDI-MedLine.d110.s1" text="18-MC, a novel iboga alkaloid congener, is being developed as a potential treatment for multiple forms of drug abuse. ">
+        <entity charOffset="0-4" id="DDI-MedLine.d110.s1.e0" text="18-MC" type="drug_n" />
+    </sentence>
+    <sentence id="DDI-MedLine.d110.s3" text="unlike ibogaine, 18-MC does not affect responding for a nondrug reinforcer (water). ">
+        <entity charOffset="7-14" id="DDI-MedLine.d110.s3.e0" text="ibogaine" type="drug_n" />
+        <entity charOffset="17-21" id="DDI-MedLine.d110.s3.e1" text="18-MC" type="drug_n" />
+        <pair ddi="false" e1="DDI-MedLine.d110.s3.e0" e2="DDI-MedLine.d110.s3.e1" id="DDI-MedLine.d110.s3.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d110.s7" text="only ibogaine enhances cocaine-induced increases in accumbal dopamine. ">
+        <entity charOffset="5-12" id="DDI-MedLine.d110.s7.e0" text="ibogaine" type="drug_n" />
+        <entity charOffset="23-29" id="DDI-MedLine.d110.s7.e1" text="cocaine" type="drug" />
+        <pair ddi="true" e1="DDI-MedLine.d110.s7.e0" e2="DDI-MedLine.d110.s7.e1" id="DDI-MedLine.d110.s7.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-MedLine.d110.s8" text="Both ibogaine and 18-MC enhance the locomotor and/or stereotypic effects of stimulants. ">
+        <entity charOffset="5-12" id="DDI-MedLine.d110.s8.e0" text="ibogaine" type="drug_n" />
+        <entity charOffset="18-22" id="DDI-MedLine.d110.s8.e1" text="18-MC" type="drug_n" />
+        <pair ddi="false" e1="DDI-MedLine.d110.s8.e0" e2="DDI-MedLine.d110.s8.e1" id="DDI-MedLine.d110.s8.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d110.s10" text="both compounds attenuate morphine-induced locomotion in morphine-experienced rats. ">
+        <entity charOffset="25-32" id="DDI-MedLine.d110.s10.e0" text="morphine" type="drug" />
+        <entity charOffset="56-63" id="DDI-MedLine.d110.s10.e1" text="morphine" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d110.s10.e0" e2="DDI-MedLine.d110.s10.e1" id="DDI-MedLine.d110.s10.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d110.s11" text="Ibogaine produces whole body tremors and, at high doses (&gt; or = 100 mg/kg), cerebellar damage; ">
+        <entity charOffset="0-7" id="DDI-MedLine.d110.s11.e0" text="Ibogaine" type="drug_n" />
+    </sentence>
+    <sentence id="DDI-MedLine.d110.s12" text="18-MC does not produce these effects. ">
+        <entity charOffset="0-4" id="DDI-MedLine.d110.s12.e0" text="18-MC" type="drug_n" />
+    </sentence>
+    <sentence id="DDI-MedLine.d110.s13" text="Ibogaine, but not 18-MC, decreases heart rate at high doses. ">
+        <entity charOffset="0-7" id="DDI-MedLine.d110.s13.e0" text="Ibogaine" type="drug_n" />
+        <entity charOffset="18-22" id="DDI-MedLine.d110.s13.e1" text="18-MC" type="drug_n" />
+        <pair ddi="false" e1="DDI-MedLine.d110.s13.e0" e2="DDI-MedLine.d110.s13.e1" id="DDI-MedLine.d110.s13.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d110.s16" text="The data suggest that 18-MC has a narrower spectrum of actions and will have a substantially greater therapeutic index than ibogaine.">
+        <entity charOffset="22-26" id="DDI-MedLine.d110.s16.e0" text="18-MC" type="drug_n" />
+        <entity charOffset="124-131" id="DDI-MedLine.d110.s16.e1" text="ibogaine" type="drug_n" />
+        <pair ddi="false" e1="DDI-MedLine.d110.s16.e0" e2="DDI-MedLine.d110.s16.e1" id="DDI-MedLine.d110.s16.p0" />
+    </sentence>
+</document>

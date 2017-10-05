@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d559">
+    <sentence id="DDI-DrugBank.d559.s0" text="The CNS effects of butalbital may be enhanced by monoamine oxidase (MAO) inhibitors.">
+        <entity charOffset="19-28" id="DDI-DrugBank.d559.s0.e0" text="butalbital" type="drug" />
+        <entity charOffset="49-82" id="DDI-DrugBank.d559.s0.e1" text="monoamine oxidase (MAO) inhibitors" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d559.s0.e0" e2="DDI-DrugBank.d559.s0.e1" id="DDI-DrugBank.d559.s0.p0" type="effect" />
+    </sentence>
+    </document>

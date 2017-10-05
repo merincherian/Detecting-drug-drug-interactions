@@ -1,0 +1,22 @@
+<document id="DDI-DrugBank.d533">
+    <sentence id="DDI-DrugBank.d533.s0" text="Effects of Other Drugs on Aliskiren Based on in-vitro studies, aliskiren is metabolized by CYP 3A4.">
+        <entity charOffset="26-34" id="DDI-DrugBank.d533.s0.e0" text="Aliskiren" type="drug" />
+        <entity charOffset="63-71" id="DDI-DrugBank.d533.s0.e1" text="aliskiren" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d533.s0.e0" e2="DDI-DrugBank.d533.s0.e1" id="DDI-DrugBank.d533.s0.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d533.s2" text="Co-administration of irbesartan reduced aliskiren Cmax up to 50% after multiple dosing.">
+        <entity charOffset="21-30" id="DDI-DrugBank.d533.s2.e0" text="irbesartan" type="drug" />
+        <entity charOffset="40-48" id="DDI-DrugBank.d533.s2.e1" text="aliskiren" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d533.s2.e0" e2="DDI-DrugBank.d533.s2.e1" id="DDI-DrugBank.d533.s2.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d533.s3" text="Co-administration of atorvastatin resulted in about a 50% increase in aliskiren Cmax and AUC after multiple dosing.">
+        <entity charOffset="21-32" id="DDI-DrugBank.d533.s3.e0" text="atorvastatin" type="drug" />
+        <entity charOffset="70-78" id="DDI-DrugBank.d533.s3.e1" text="aliskiren" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d533.s3.e0" e2="DDI-DrugBank.d533.s3.e1" id="DDI-DrugBank.d533.s3.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d533.s6" text="Effects of Aliskiren on Other Drugs Aliskiren does not inhibit the CYP450 isoenzymes (CYP1A2, 2C8, 2C9, 2C19, 2D6, 2E1, and CYP 3A) or induce CYP 3A4.">
+        <entity charOffset="11-19" id="DDI-DrugBank.d533.s6.e0" text="Aliskiren" type="drug" />
+        <entity charOffset="36-44" id="DDI-DrugBank.d533.s6.e1" text="Aliskiren" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d533.s6.e0" e2="DDI-DrugBank.d533.s6.e1" id="DDI-DrugBank.d533.s6.p0" />
+    </sentence>
+    </document>

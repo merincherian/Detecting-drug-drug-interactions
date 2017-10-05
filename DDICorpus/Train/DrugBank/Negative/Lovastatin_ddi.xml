@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d567">
+    <sentence id="DDI-DrugBank.d567.s19" text="Lovastatin therapy has not been associated with bleeding or with changes in prothrombin time in patients not taking anticoagulants.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d567.s19.e0" text="Lovastatin" type="drug" />
+        <entity charOffset="116-129" id="DDI-DrugBank.d567.s19.e1" text="anticoagulants" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d567.s19.e0" e2="DDI-DrugBank.d567.s19.e1" id="DDI-DrugBank.d567.s19.p0" />
+    </sentence>
+    </document>

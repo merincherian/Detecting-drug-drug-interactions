@@ -1,0 +1,5 @@
+<document id="DDI-DrugBank.d780">
+    <sentence id="DDI-DrugBank.d780.s1" text="Antimyasthenics Concurrent use of procaine hydrochloride and antimyasthenics may result in loss of control of symptoms of myasthenia gravis due to antagonism of the effects of antimyasthenics on skeletal muscle. ">
+        <entity charOffset="34-55" id="DDI-DrugBank.d780.s1.e0" text="procaine hydrochloride" type="drug" />
+    </sentence>
+    </document>

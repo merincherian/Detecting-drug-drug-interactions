@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d493">
+    <sentence id="DDI-DrugBank.d493.s1" text="The data do not suggest the need for dose adjustment of either HUMIRA or MTX.">
+        <entity charOffset="63-68" id="DDI-DrugBank.d493.s1.e0" text="HUMIRA" type="brand" />
+        <entity charOffset="73-75" id="DDI-DrugBank.d493.s1.e1" text="MTX" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d493.s1.e0" e2="DDI-DrugBank.d493.s1.e1" id="DDI-DrugBank.d493.s1.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d493.s3" text="The safety and efficacy of anakinra used in combination with HUMIRA has not been studied.">
+        <entity charOffset="27-34" id="DDI-DrugBank.d493.s3.e0" text="anakinra" type="drug" />
+        <entity charOffset="61-66" id="DDI-DrugBank.d493.s3.e1" text="HUMIRA" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d493.s3.e0" e2="DDI-DrugBank.d493.s3.e1" id="DDI-DrugBank.d493.s3.p0" />
+    </sentence>
+    </document>

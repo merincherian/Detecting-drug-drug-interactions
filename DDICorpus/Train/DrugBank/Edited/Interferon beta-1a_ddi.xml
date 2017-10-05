@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d433">
+    <sentence id="DDI-DrugBank.d433.s2" text="Also, the potential for hepatic injury should be considered when Rebif  is used in combination with other products associated with hepatic injury, or when new agents are added to the regimen of patients already on Rebif .">
+        <entity charOffset="65-69" id="DDI-DrugBank.d433.s2.e0" text="Rebif" type="brand" />
+        <entity charOffset="214-218" id="DDI-DrugBank.d433.s2.e1" text="Rebif" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d433.s2.e0" e2="DDI-DrugBank.d433.s2.e1" id="DDI-DrugBank.d433.s2.p0" />
+    </sentence>
+</document>

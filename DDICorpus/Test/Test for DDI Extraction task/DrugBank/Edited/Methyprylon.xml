@@ -1,0 +1,5 @@
+<document id="DDI-DrugBank.d600">
+    <sentence id="DDI-DrugBank.d600.s0" text="Methyprylon may interact with other addictive medications, in that it may increase the likelyhood of addiction and abuse. ">
+        <entity charOffset="0-10" id="DDI-DrugBank.d600.s0.e0" text="Methyprylon" type="drug" />
+    </sentence>
+    </document>

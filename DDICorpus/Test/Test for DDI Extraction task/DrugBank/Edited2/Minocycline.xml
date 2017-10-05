@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d711">
+    <sentence id="DDI-DrugBank.d711.s3" text="The concurrent use of tetracycline and methoxyflurane has been reported to result in fatal renal toxicity. ">
+        <entity charOffset="22-33" id="DDI-DrugBank.d711.s3.e0" text="tetracycline" type="group" />
+        <entity charOffset="39-52" id="DDI-DrugBank.d711.s3.e1" text="methoxyflurane" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d711.s3.e0" e2="DDI-DrugBank.d711.s3.e1" id="DDI-DrugBank.d711.s3.p0" type="effect" />
+    </sentence>
+    </document>

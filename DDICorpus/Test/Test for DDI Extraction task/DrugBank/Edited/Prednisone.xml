@@ -1,0 +1,25 @@
+<document id="DDI-DrugBank.d653">
+    <sentence id="DDI-DrugBank.d653.s3" text="Therefore, the dose of corticosteroid should be titrated to avoid steroid toxicity. ">
+        <entity charOffset="23-36" id="DDI-DrugBank.d653.s3.e0" text="corticosteroid" type="group" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d653.s4" text="Corticosteroids may increase the clearance of chronic high dose aspirin. ">
+        <entity charOffset="0-14" id="DDI-DrugBank.d653.s4.e0" text="Corticosteroids" type="group" />
+        <entity charOffset="64-70" id="DDI-DrugBank.d653.s4.e1" text="aspirin" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d653.s4.e0" e2="DDI-DrugBank.d653.s4.e1" id="DDI-DrugBank.d653.s4.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d653.s6" text="Aspirin should be used cautiously in conjunction with corticosteroids in patients suffering from hypoprothrombinemia. ">
+        <entity charOffset="0-6" id="DDI-DrugBank.d653.s6.e0" text="Aspirin" type="brand" />
+        <entity charOffset="54-68" id="DDI-DrugBank.d653.s6.e1" text="corticosteroids" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d653.s6.e0" e2="DDI-DrugBank.d653.s6.e1" id="DDI-DrugBank.d653.s6.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d653.s7" text="The effect of corticosteroids on oral anticoagulants is variable. ">
+        <entity charOffset="14-28" id="DDI-DrugBank.d653.s7.e0" text="corticosteroids" type="group" />
+        <entity charOffset="38-51" id="DDI-DrugBank.d653.s7.e1" text="anticoagulants" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d653.s7.e0" e2="DDI-DrugBank.d653.s7.e1" id="DDI-DrugBank.d653.s7.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d653.s8" text="There are reports of enhanced as well as diminished effects of anticoagulants when given concurrently with corticosteroids. ">
+        <entity charOffset="63-76" id="DDI-DrugBank.d653.s8.e0" text="anticoagulants" type="group" />
+        <entity charOffset="107-121" id="DDI-DrugBank.d653.s8.e1" text="corticosteroids" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d653.s8.e0" e2="DDI-DrugBank.d653.s8.e1" id="DDI-DrugBank.d653.s8.p0" type="effect" />
+    </sentence>
+    </document>

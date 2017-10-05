@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d756">
+    <sentence id="DDI-DrugBank.d756.s1" text="Combination with tramadol (Ultram) is associated with increased risk of seizures. ">
+        <entity charOffset="17-24" id="DDI-DrugBank.d756.s1.e0" text="tramadol" type="drug" />
+        <entity charOffset="27-32" id="DDI-DrugBank.d756.s1.e1" text="Ultram" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d756.s1.e0" e2="DDI-DrugBank.d756.s1.e1" id="DDI-DrugBank.d756.s1.p0" />
+    </sentence>
+    </document>

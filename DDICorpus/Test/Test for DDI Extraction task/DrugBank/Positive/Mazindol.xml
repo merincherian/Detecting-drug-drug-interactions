@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d716">
+    <sentence id="DDI-DrugBank.d716.s1" text="Changes in insulin and other diabetes drug therapies may be necessary during treatment with mazindol.">
+        <entity charOffset="11-17" id="DDI-DrugBank.d716.s1.e0" text="insulin" type="drug" />
+        <entity charOffset="92-99" id="DDI-DrugBank.d716.s1.e1" text="mazindol" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d716.s1.e0" e2="DDI-DrugBank.d716.s1.e1" id="DDI-DrugBank.d716.s1.p0" type="advise" />
+    </sentence>
+    </document>

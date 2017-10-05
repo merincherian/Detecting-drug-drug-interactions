@@ -1,0 +1,13 @@
+<document id="DDI-DrugBank.d638">
+    <sentence id="DDI-DrugBank.d638.s0" text="Ritalin may decrease the hypotensive effect of guanethidine. ">
+        <entity charOffset="0-6" id="DDI-DrugBank.d638.s0.e0" text="Ritalin" type="brand" />
+        <entity charOffset="47-58" id="DDI-DrugBank.d638.s0.e1" text="guanethidine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d638.s0.e0" e2="DDI-DrugBank.d638.s0.e1" id="DDI-DrugBank.d638.s0.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d638.s3" text="Downward dosage adjustments of these drugs may be required when given concomitantly with Ritalin. ">
+        <entity charOffset="89-95" id="DDI-DrugBank.d638.s3.e0" text="Ritalin" type="brand" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d638.s4" text="Serious adverse events have been reported in concomitant use with clonidine, although no causality for the combination has been established. ">
+        <entity charOffset="66-74" id="DDI-DrugBank.d638.s4.e0" text="clonidine" type="drug" />
+    </sentence>
+    </document>

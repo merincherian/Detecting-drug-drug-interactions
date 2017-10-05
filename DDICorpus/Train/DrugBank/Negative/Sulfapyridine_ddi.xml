@@ -1,0 +1,117 @@
+<document id="DDI-DrugBank.d179">
+    <sentence id="DDI-DrugBank.d179.s2" text="- Amiodarone (e.g., Cordarone) or">
+        <entity charOffset="2-11" id="DDI-DrugBank.d179.s2.e0" text="Amiodarone" type="drug" />
+        <entity charOffset="20-28" id="DDI-DrugBank.d179.s2.e1" text="Cordarone" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d179.s2.e0" e2="DDI-DrugBank.d179.s2.e1" id="DDI-DrugBank.d179.s2.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d179.s6" text="- Carbamazepine (e.g., Tegretol) or">
+        <entity charOffset="2-14" id="DDI-DrugBank.d179.s6.e0" text="Carbamazepine" type="drug" />
+        <entity charOffset="23-30" id="DDI-DrugBank.d179.s6.e1" text="Tegretol" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d179.s6.e0" e2="DDI-DrugBank.d179.s6.e1" id="DDI-DrugBank.d179.s6.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d179.s7" text="- Carmustine (e.g., BiCNU) or">
+        <entity charOffset="2-11" id="DDI-DrugBank.d179.s7.e0" text="Carmustine" type="drug" />
+        <entity charOffset="20-24" id="DDI-DrugBank.d179.s7.e1" text="BiCNU" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d179.s7.e0" e2="DDI-DrugBank.d179.s7.e1" id="DDI-DrugBank.d179.s7.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d179.s8" text="- Chloroquine (e.g., Aralen) or">
+        <entity charOffset="2-12" id="DDI-DrugBank.d179.s8.e0" text="Chloroquine" type="drug" />
+        <entity charOffset="21-26" id="DDI-DrugBank.d179.s8.e1" text="Aralen" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d179.s8.e0" e2="DDI-DrugBank.d179.s8.e1" id="DDI-DrugBank.d179.s8.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d179.s9" text="- Dantrolene (e.g., Dantrium) or">
+        <entity charOffset="2-11" id="DDI-DrugBank.d179.s9.e0" text="Dantrolene" type="drug" />
+        <entity charOffset="20-27" id="DDI-DrugBank.d179.s9.e1" text="Dantrium" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d179.s9.e0" e2="DDI-DrugBank.d179.s9.e1" id="DDI-DrugBank.d179.s9.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d179.s10" text="- Daunorubicin (e.g., Cerubidine) or">
+        <entity charOffset="2-13" id="DDI-DrugBank.d179.s10.e0" text="Daunorubicin" type="drug" />
+        <entity charOffset="22-31" id="DDI-DrugBank.d179.s10.e1" text="Cerubidine" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d179.s10.e0" e2="DDI-DrugBank.d179.s10.e1" id="DDI-DrugBank.d179.s10.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d179.s11" text="- Disulfiram (e.g., Antabuse) or">
+        <entity charOffset="2-11" id="DDI-DrugBank.d179.s11.e0" text="Disulfiram" type="drug" />
+        <entity charOffset="20-27" id="DDI-DrugBank.d179.s11.e1" text="Antabuse" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d179.s11.e0" e2="DDI-DrugBank.d179.s11.e1" id="DDI-DrugBank.d179.s11.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d179.s12" text="- Divalproex (e.g., Depakote) or">
+        <entity charOffset="2-11" id="DDI-DrugBank.d179.s12.e0" text="Divalproex" type="drug" />
+        <entity charOffset="20-27" id="DDI-DrugBank.d179.s12.e1" text="Depakote" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d179.s12.e0" e2="DDI-DrugBank.d179.s12.e1" id="DDI-DrugBank.d179.s12.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d179.s14" text="- Etretinate (e.g., Tegison) or">
+        <entity charOffset="2-11" id="DDI-DrugBank.d179.s14.e0" text="Etretinate" type="drug" />
+        <entity charOffset="20-26" id="DDI-DrugBank.d179.s14.e1" text="Tegison" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d179.s14.e0" e2="DDI-DrugBank.d179.s14.e1" id="DDI-DrugBank.d179.s14.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d179.s16" text="- Hydroxychloroquine (e.g., Plaquenil) or">
+        <entity charOffset="2-19" id="DDI-DrugBank.d179.s16.e0" text="Hydroxychloroquine" type="drug" />
+        <entity charOffset="28-36" id="DDI-DrugBank.d179.s16.e1" text="Plaquenil" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d179.s16.e0" e2="DDI-DrugBank.d179.s16.e1" id="DDI-DrugBank.d179.s16.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d179.s17" text="- Mercaptopurine (e.g., Purinethol) or">
+        <entity charOffset="2-15" id="DDI-DrugBank.d179.s17.e0" text="Mercaptopurine" type="drug" />
+        <entity charOffset="24-33" id="DDI-DrugBank.d179.s17.e1" text="Purinethol" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d179.s17.e0" e2="DDI-DrugBank.d179.s17.e1" id="DDI-DrugBank.d179.s17.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d179.s18" text="- Naltrexone (e.g., Trexan) (with long-term, high-dose use) or">
+        <entity charOffset="2-11" id="DDI-DrugBank.d179.s18.e0" text="Naltrexone" type="drug" />
+        <entity charOffset="20-25" id="DDI-DrugBank.d179.s18.e1" text="Trexan" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d179.s18.e0" e2="DDI-DrugBank.d179.s18.e1" id="DDI-DrugBank.d179.s18.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d179.s19" text="- Oral contraceptives (birth control pills) containing estrogen or">
+        <entity charOffset="7-20" id="DDI-DrugBank.d179.s19.e0" text="contraceptives" type="group" />
+        <entity charOffset="55-62" id="DDI-DrugBank.d179.s19.e1" text="estrogen" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d179.s19.e0" e2="DDI-DrugBank.d179.s19.e1" id="DDI-DrugBank.d179.s19.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d179.s22" text="- Plicamycin (e.g., Mithracin) or">
+        <entity charOffset="2-11" id="DDI-DrugBank.d179.s22.e0" text="Plicamycin" type="drug" />
+        <entity charOffset="20-28" id="DDI-DrugBank.d179.s22.e1" text="Mithracin" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d179.s22.e0" e2="DDI-DrugBank.d179.s22.e1" id="DDI-DrugBank.d179.s22.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d179.s24" text="- Acetohydroxamic acid (e.g., Lithostat) or">
+        <entity charOffset="2-21" id="DDI-DrugBank.d179.s24.e0" text="Acetohydroxamic acid" type="drug" />
+        <entity charOffset="30-38" id="DDI-DrugBank.d179.s24.e1" text="Lithostat" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d179.s24.e0" e2="DDI-DrugBank.d179.s24.e1" id="DDI-DrugBank.d179.s24.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d179.s26" text="- Furazolidone (e.g., Furoxone) or">
+        <entity charOffset="2-13" id="DDI-DrugBank.d179.s26.e0" text="Furazolidone" type="drug" />
+        <entity charOffset="22-29" id="DDI-DrugBank.d179.s26.e1" text="Furoxone" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d179.s26.e0" e2="DDI-DrugBank.d179.s26.e1" id="DDI-DrugBank.d179.s26.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d179.s27" text="- Nitrofurantoin (e.g., Furadantin) or">
+        <entity charOffset="2-15" id="DDI-DrugBank.d179.s27.e0" text="Nitrofurantoin" type="drug" />
+        <entity charOffset="24-33" id="DDI-DrugBank.d179.s27.e1" text="Furadantin" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d179.s27.e0" e2="DDI-DrugBank.d179.s27.e1" id="DDI-DrugBank.d179.s27.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d179.s29" text="- Procainamide (e.g., Pronestyl) or">
+        <entity charOffset="2-13" id="DDI-DrugBank.d179.s29.e0" text="Procainamide" type="drug" />
+        <entity charOffset="22-30" id="DDI-DrugBank.d179.s29.e1" text="Pronestyl" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d179.s29.e0" e2="DDI-DrugBank.d179.s29.e1" id="DDI-DrugBank.d179.s29.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d179.s30" text="- Quinidine (e.g., Quinidex) or">
+        <entity charOffset="2-10" id="DDI-DrugBank.d179.s30.e0" text="Quinidine" type="drug" />
+        <entity charOffset="19-26" id="DDI-DrugBank.d179.s30.e1" text="Quinidex" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d179.s30.e0" e2="DDI-DrugBank.d179.s30.e1" id="DDI-DrugBank.d179.s30.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d179.s31" text="- Quinine (e.g., Quinamm) or">
+        <entity charOffset="2-8" id="DDI-DrugBank.d179.s31.e0" text="Quinine" type="drug" />
+        <entity charOffset="17-23" id="DDI-DrugBank.d179.s31.e1" text="Quinamm" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d179.s31.e0" e2="DDI-DrugBank.d179.s31.e1" id="DDI-DrugBank.d179.s31.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d179.s32" text="- Sulfoxone (e.g., Diasone) or">
+        <entity charOffset="2-10" id="DDI-DrugBank.d179.s32.e0" text="Sulfoxone" type="drug" />
+        <entity charOffset="19-25" id="DDI-DrugBank.d179.s32.e1" text="Diasone" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d179.s32.e0" e2="DDI-DrugBank.d179.s32.e1" id="DDI-DrugBank.d179.s32.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d179.s34" text="- Anticoagulants (blood thinners) or">
+        <entity charOffset="2-15" id="DDI-DrugBank.d179.s34.e0" text="Anticoagulants" type="group" />
+        <entity charOffset="18-30" id="DDI-DrugBank.d179.s34.e1" text="blood thinner" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d179.s34.e0" e2="DDI-DrugBank.d179.s34.e1" id="DDI-DrugBank.d179.s34.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d179.s35" text="- Ethotoin (e.g., Peganone) or">
+        <entity charOffset="2-9" id="DDI-DrugBank.d179.s35.e0" text="Ethotoin" type="drug" />
+        <entity charOffset="18-25" id="DDI-DrugBank.d179.s35.e1" text="Peganone" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d179.s35.e0" e2="DDI-DrugBank.d179.s35.e1" id="DDI-DrugBank.d179.s35.p0" />
+    </sentence>
+    </document>

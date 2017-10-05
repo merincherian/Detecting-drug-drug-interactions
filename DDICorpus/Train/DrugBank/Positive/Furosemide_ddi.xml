@@ -1,0 +1,42 @@
+<document id="DDI-DrugBank.d231">
+    <sentence id="DDI-DrugBank.d231.s0" text="Furosemide may increase the ototoxic potential of aminoglycoside antibiotics, especially in the presence of impaired renal function.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d231.s0.e0" text="Furosemide" type="drug" />
+        <entity charOffset="50-75" id="DDI-DrugBank.d231.s0.e1" text="aminoglycoside antibiotics" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d231.s0.e0" e2="DDI-DrugBank.d231.s0.e1" id="DDI-DrugBank.d231.s0.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d231.s2" text="Furosemide should not be used concomitantly with ethacrynic acid because of the possibility of ototoxicity.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d231.s2.e0" text="Furosemide" type="drug" />
+        <entity charOffset="49-63" id="DDI-DrugBank.d231.s2.e1" text="ethacrynic acid" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d231.s2.e0" e2="DDI-DrugBank.d231.s2.e1" id="DDI-DrugBank.d231.s2.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d231.s6" text="Furosemide may add to or potentiate the therapeutic effect of other antihypertensive drugs.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d231.s6.e0" text="Furosemide" type="drug" />
+        <entity charOffset="68-89" id="DDI-DrugBank.d231.s6.e1" text="antihypertensive drugs" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d231.s6.e0" e2="DDI-DrugBank.d231.s6.e1" id="DDI-DrugBank.d231.s6.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d231.s8" text="Furosemide may decrease arterial responsiveness to norepinephrine.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d231.s8.e0" text="Furosemide" type="drug" />
+        <entity charOffset="51-64" id="DDI-DrugBank.d231.s8.e1" text="norepinephrine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d231.s8.e0" e2="DDI-DrugBank.d231.s8.e1" id="DDI-DrugBank.d231.s8.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d231.s12" text="The intake of furosemide and sucralfate should be separated by at least two hours.">
+        <entity charOffset="14-23" id="DDI-DrugBank.d231.s12.e0" text="furosemide" type="drug" />
+        <entity charOffset="29-38" id="DDI-DrugBank.d231.s12.e1" text="sucralfate" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d231.s12.e0" e2="DDI-DrugBank.d231.s12.e1" id="DDI-DrugBank.d231.s12.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d231.s13" text="Tablets, Injection, and Oral Solution One study in six subjects demonstrated that the combination of furosemide and acetylsalicylic acid temporarily reduced creatinine clearance in patients with chronic renal insufficiency.">
+        <entity charOffset="101-110" id="DDI-DrugBank.d231.s13.e0" text="furosemide" type="drug" />
+        <entity charOffset="116-135" id="DDI-DrugBank.d231.s13.e1" text="acetylsalicylic acid" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d231.s13.e0" e2="DDI-DrugBank.d231.s13.e1" id="DDI-DrugBank.d231.s13.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d231.s14" text="There are case reports of patients who developed increased BUN, serum creatinine and serum potassium levels, and weight gain when furosemide was used in conjunction with NSAIDs.">
+        <entity charOffset="130-139" id="DDI-DrugBank.d231.s14.e0" text="furosemide" type="drug" />
+        <entity charOffset="170-175" id="DDI-DrugBank.d231.s14.e1" text="NSAIDs" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d231.s14.e0" e2="DDI-DrugBank.d231.s14.e1" id="DDI-DrugBank.d231.s14.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d231.s15" text="Literature reports indicate that coadministration of indomethacin may reduce the natriuretic and antihypertensive effects of furosemide in some patients by inhibiting prostaglandin synthesis.">
+        <entity charOffset="53-64" id="DDI-DrugBank.d231.s15.e0" text="indomethacin" type="drug" />
+        <entity charOffset="125-134" id="DDI-DrugBank.d231.s15.e1" text="furosemide" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d231.s15.e0" e2="DDI-DrugBank.d231.s15.e1" id="DDI-DrugBank.d231.s15.p0" type="effect" />
+    </sentence>
+    </document>

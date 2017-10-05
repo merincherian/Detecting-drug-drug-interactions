@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d72">
+    <sentence id="DDI-DrugBank.d72.s0" text="Itraconazole decreases busulfan clearance by up to 25%, and may produce AUCs   1500  M min in some patients.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d72.s0.e0" text="Itraconazole" type="drug" />
+        <entity charOffset="23-30" id="DDI-DrugBank.d72.s0.e1" text="busulfan" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d72.s0.e0" e2="DDI-DrugBank.d72.s0.e1" id="DDI-DrugBank.d72.s0.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d72.s2" text="Phenytoin increases the clearance of busulfan by 15% or more, possibly due to the induction of glutathione-S-transferase.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d72.s2.e0" text="Phenytoin" type="drug" />
+        <entity charOffset="37-44" id="DDI-DrugBank.d72.s2.e1" text="busulfan" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d72.s2.e0" e2="DDI-DrugBank.d72.s2.e1" id="DDI-DrugBank.d72.s2.p0" type="mechanism" />
+    </sentence>
+    </document>

@@ -1,0 +1,42 @@
+<document id="DDI-DrugBank.d565">
+    <sentence id="DDI-DrugBank.d565.s9" text="In vitro, propranolol appears to be displaced from its binding sites by diltiazem.">
+        <entity charOffset="10-20" id="DDI-DrugBank.d565.s9.e0" text="propranolol" type="drug" />
+        <entity charOffset="72-80" id="DDI-DrugBank.d565.s9.e1" text="diltiazem" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d565.s9.e0" e2="DDI-DrugBank.d565.s9.e1" id="DDI-DrugBank.d565.s9.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d565.s14" text="The effect may be mediated by cimetidines known inhibition of hepatic cytochrome P-450, the enzyme system responsible for the first-pass metabolism of diltiazem.">
+        <entity charOffset="30-39" id="DDI-DrugBank.d565.s14.e0" text="cimetidine" type="drug" />
+        <entity charOffset="151-159" id="DDI-DrugBank.d565.s14.e1" text="diltiazem" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d565.s14.e0" e2="DDI-DrugBank.d565.s14.e1" id="DDI-DrugBank.d565.s14.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d565.s15" text="Patients currently receiving diltiazem therapy should be carefully monitored for a change in pharmacological effect when initiating and discontinuing therapy with cimetidine.">
+        <entity charOffset="29-37" id="DDI-DrugBank.d565.s15.e0" text="diltiazem" type="drug" />
+        <entity charOffset="163-172" id="DDI-DrugBank.d565.s15.e1" text="cimetidine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d565.s15.e0" e2="DDI-DrugBank.d565.s15.e1" id="DDI-DrugBank.d565.s15.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d565.s22" text="The depression of cardiac contractility, conductivity, and automaticity as well as the vascular dilation associated with anesthetics may be potentiated by calcium channel blockers.">
+        <entity charOffset="121-131" id="DDI-DrugBank.d565.s22.e0" text="anesthetics" type="group" />
+        <entity charOffset="155-178" id="DDI-DrugBank.d565.s22.e1" text="calcium channel blockers" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d565.s22.e0" e2="DDI-DrugBank.d565.s22.e1" id="DDI-DrugBank.d565.s22.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d565.s23" text="When used concomitantly, anesthetics and calcium channel blockers should be titrated carefully.">
+        <entity charOffset="25-35" id="DDI-DrugBank.d565.s23.e0" text="anesthetics" type="group" />
+        <entity charOffset="41-64" id="DDI-DrugBank.d565.s23.e1" text="calcium channel blockers" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d565.s23.e0" e2="DDI-DrugBank.d565.s23.e1" id="DDI-DrugBank.d565.s23.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d565.s25" text="A pharmacokinetic interaction between diltiazem and cyclosporine has been observed during studies involving renal and cardiac transplant patients.">
+        <entity charOffset="38-46" id="DDI-DrugBank.d565.s25.e0" text="diltiazem" type="drug" />
+        <entity charOffset="52-63" id="DDI-DrugBank.d565.s25.e1" text="cyclosporine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d565.s25.e0" e2="DDI-DrugBank.d565.s25.e1" id="DDI-DrugBank.d565.s25.p0" type="int" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d565.s27" text="If these agents are to be administered concurrently, cyclosporine concentrations should be monitored, especially when diltiazem therapy is initiated, adjusted, or discontinued.">
+        <entity charOffset="53-64" id="DDI-DrugBank.d565.s27.e0" text="cyclosporine" type="drug" />
+        <entity charOffset="118-126" id="DDI-DrugBank.d565.s27.e1" text="diltiazem" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d565.s27.e0" e2="DDI-DrugBank.d565.s27.e1" id="DDI-DrugBank.d565.s27.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d565.s42" text="Coadministration of diltiazem with rifampin or any known CYP3A4 inducer should be avoided when possible, and alternative therapy considered.">
+        <entity charOffset="20-28" id="DDI-DrugBank.d565.s42.e0" text="diltiazem" type="drug" />
+        <entity charOffset="35-42" id="DDI-DrugBank.d565.s42.e1" text="rifampin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d565.s42.e0" e2="DDI-DrugBank.d565.s42.e1" id="DDI-DrugBank.d565.s42.p0" type="advise" />
+    </sentence>
+</document>

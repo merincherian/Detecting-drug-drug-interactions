@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d597">
+    <sentence id="DDI-DrugBank.d597.s1" text="This interaction should be given consideration in patients taking NSAIDs concomitantly with ACE inhibitors. ">
+        <entity charOffset="66-71" id="DDI-DrugBank.d597.s1.e0" text="NSAIDs" type="group" />
+        <entity charOffset="92-105" id="DDI-DrugBank.d597.s1.e1" text="ACE inhibitors" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d597.s1.e0" e2="DDI-DrugBank.d597.s1.e1" id="DDI-DrugBank.d597.s1.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d597.s18" text="Nevertheless, during concomitant therapy with furosemide and MOBIC, patients should be observed closely for signs of declining renal function, as well as to assure diuretic efficacy. ">
+        <entity charOffset="46-55" id="DDI-DrugBank.d597.s18.e0" text="furosemide" type="drug" />
+        <entity charOffset="61-65" id="DDI-DrugBank.d597.s18.e1" text="MOBIC" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d597.s18.e0" e2="DDI-DrugBank.d597.s18.e1" id="DDI-DrugBank.d597.s18.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d597.s22" text="Patients on lithium treatment should be closely monitored when MOBIC is introduced or withdrawn. ">
+        <entity charOffset="12-18" id="DDI-DrugBank.d597.s22.e0" text="lithium" type="drug" />
+        <entity charOffset="63-67" id="DDI-DrugBank.d597.s22.e1" text="MOBIC" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d597.s22.e0" e2="DDI-DrugBank.d597.s22.e1" id="DDI-DrugBank.d597.s22.p0" type="advise" />
+    </sentence>
+    </document>

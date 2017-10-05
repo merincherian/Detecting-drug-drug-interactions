@@ -1,0 +1,22 @@
+<document id="DDI-DrugBank.d234">
+    <sentence id="DDI-DrugBank.d234.s0" text="Interaction with central nervous system depressants other than benzodiazepines has not been specifically studied;">
+        <entity charOffset="17-50" id="DDI-DrugBank.d234.s0.e0" text="central nervous system depressants" type="group" />
+        <entity charOffset="63-77" id="DDI-DrugBank.d234.s0.e1" text="benzodiazepines" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d234.s0.e0" e2="DDI-DrugBank.d234.s0.e1" id="DDI-DrugBank.d234.s0.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d234.s7" text="The pharmacokinetics of benzodiazepines are unaltered in the presence of flumazenil and vice versa.">
+        <entity charOffset="24-38" id="DDI-DrugBank.d234.s7.e0" text="benzodiazepines" type="group" />
+        <entity charOffset="73-82" id="DDI-DrugBank.d234.s7.e1" text="flumazenil" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d234.s7.e0" e2="DDI-DrugBank.d234.s7.e1" id="DDI-DrugBank.d234.s7.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d234.s8" text="There is no pharmacokinetic interaction between ethanol and flumazenil.">
+        <entity charOffset="48-54" id="DDI-DrugBank.d234.s8.e0" text="ethanol" type="drug" />
+        <entity charOffset="60-69" id="DDI-DrugBank.d234.s8.e1" text="flumazenil" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d234.s8.e0" e2="DDI-DrugBank.d234.s8.e1" id="DDI-DrugBank.d234.s8.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d234.s9" text="Use in Ambulatory Patients The effects of ROMAZICON may wear off before a long-acting benzodiazepine is completely cleared from the body.">
+        <entity charOffset="42-50" id="DDI-DrugBank.d234.s9.e0" text="ROMAZICON" type="brand" />
+        <entity charOffset="74-99" id="DDI-DrugBank.d234.s9.e1" text="long-acting benzodiazepine" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d234.s9.e0" e2="DDI-DrugBank.d234.s9.e1" id="DDI-DrugBank.d234.s9.p0" />
+    </sentence>
+    </document>

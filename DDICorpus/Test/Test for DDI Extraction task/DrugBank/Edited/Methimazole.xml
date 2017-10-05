@@ -1,0 +1,19 @@
+<document id="DDI-DrugBank.d634">
+    <sentence id="DDI-DrugBank.d634.s1" text="-adrenergic blocking agents: Hyperthyroidism may cause an increased clearance of beta ratio. ">
+        <entity charOffset="1-26" id="DDI-DrugBank.d634.s1.e0" text="adrenergic blocking agents" type="group" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d634.s2" text="A dose reduction of beta-adrenergic blockers may be needed when a hyperthyroid patient becomes euthyroid. ">
+        <entity charOffset="20-43" id="DDI-DrugBank.d634.s2.e0" text="beta-adrenergic blockers" type="group" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d634.s3" text="Digitalis glycosides: Serum digitalis levels may be increased when hyperthyroid patients on a stable digitalis glycoside regimen become euthyroid; ">
+        <entity charOffset="0-19" id="DDI-DrugBank.d634.s3.e0" text="Digitalis glycosides" type="group" />
+        <entity charOffset="101-119" id="DDI-DrugBank.d634.s3.e1" text="digitalis glycoside" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d634.s3.e0" e2="DDI-DrugBank.d634.s3.e1" id="DDI-DrugBank.d634.s3.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d634.s4" text="reduced dosage of digitalis glycosides may be required. ">
+        <entity charOffset="18-37" id="DDI-DrugBank.d634.s4.e0" text="digitalis glycosides" type="group" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d634.s6" text="a reduced dose of theophylline may be needed.    ">
+        <entity charOffset="18-29" id="DDI-DrugBank.d634.s6.e0" text="theophylline" type="drug" />
+    </sentence>
+</document>

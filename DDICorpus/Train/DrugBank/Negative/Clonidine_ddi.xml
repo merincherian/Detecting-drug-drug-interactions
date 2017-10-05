@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d495">
+    <sentence id="DDI-DrugBank.d495.s5" text="The effects of tricyclic antidepressants on clonidines analgesic actions are not known.">
+        <entity charOffset="15-39" id="DDI-DrugBank.d495.s5.e0" text="tricyclic antidepressants" type="group" />
+        <entity charOffset="44-52" id="DDI-DrugBank.d495.s5.e1" text="clonidine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d495.s5.e0" e2="DDI-DrugBank.d495.s5.e1" id="DDI-DrugBank.d495.s5.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d495.s9" text="Symptoms resolved when clonidine was withdrawn and recurred when the patient was rechallenged with clonidine.">
+        <entity charOffset="23-31" id="DDI-DrugBank.d495.s9.e0" text="clonidine" type="drug" />
+        <entity charOffset="99-107" id="DDI-DrugBank.d495.s9.e1" text="clonidine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d495.s9.e0" e2="DDI-DrugBank.d495.s9.e1" id="DDI-DrugBank.d495.s9.p0" />
+    </sentence>
+    </document>

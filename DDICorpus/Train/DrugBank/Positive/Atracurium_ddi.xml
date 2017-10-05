@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d469">
+    <sentence id="DDI-DrugBank.d469.s0" text="Drugs which may enhance the neuromuscular blocking action of TRACRIUM include: enflurane;">
+        <entity charOffset="61-68" id="DDI-DrugBank.d469.s0.e0" text="TRACRIUM" type="brand" />
+        <entity charOffset="79-87" id="DDI-DrugBank.d469.s0.e1" text="enflurane" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d469.s0.e0" e2="DDI-DrugBank.d469.s0.e1" id="DDI-DrugBank.d469.s0.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d469.s9" text="The prior administration of succinylcholine does not enhance the duration, but quickens the onset and may increase the depth, of neuromuscular block induced by TRACRIUM.">
+        <entity charOffset="28-42" id="DDI-DrugBank.d469.s9.e0" text="succinylcholine" type="drug" />
+        <entity charOffset="160-167" id="DDI-DrugBank.d469.s9.e1" text="TRACRIUM" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d469.s9.e0" e2="DDI-DrugBank.d469.s9.e1" id="DDI-DrugBank.d469.s9.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d469.s10" text="TRACRIUM should not be administered until a patient has recovered from succinylcholine-induced neuromuscular block.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d469.s10.e0" text="TRACRIUM" type="brand" />
+        <entity charOffset="71-85" id="DDI-DrugBank.d469.s10.e1" text="succinylcholine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d469.s10.e0" e2="DDI-DrugBank.d469.s10.e1" id="DDI-DrugBank.d469.s10.p0" type="advise" />
+    </sentence>
+</document>

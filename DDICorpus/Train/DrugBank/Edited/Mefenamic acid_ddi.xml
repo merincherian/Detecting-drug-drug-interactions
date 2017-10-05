@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d400">
+    <sentence id="DDI-DrugBank.d400.s3" text="Caution should be used when NSAIDs are administered concomitantly with methotrexate.">
+        <entity charOffset="28-33" id="DDI-DrugBank.d400.s3.e0" text="NSAIDs" type="group" />
+        <entity charOffset="71-82" id="DDI-DrugBank.d400.s3.e1" text="methotrexate" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d400.s3.e0" e2="DDI-DrugBank.d400.s3.e1" id="DDI-DrugBank.d400.s3.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d400.s5" text="This interaction should be given consideration in patients taking NSAIDs concomitantly with ACE inhibitors.">
+        <entity charOffset="66-71" id="DDI-DrugBank.d400.s5.e0" text="NSAIDs" type="group" />
+        <entity charOffset="92-105" id="DDI-DrugBank.d400.s5.e1" text="ACE inhibitors" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d400.s5.e0" e2="DDI-DrugBank.d400.s5.e1" id="DDI-DrugBank.d400.s5.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d400.s8" text="During concomitant therapy of Ponstel with furosemide, the patient should be observed closely for signs of renal failure, as well as to assure diuretic efficacy.">
+        <entity charOffset="30-36" id="DDI-DrugBank.d400.s8.e0" text="Ponstel" type="brand" />
+        <entity charOffset="43-52" id="DDI-DrugBank.d400.s8.e1" text="furosemide" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d400.s8.e0" e2="DDI-DrugBank.d400.s8.e1" id="DDI-DrugBank.d400.s8.p0" type="advise" />
+    </sentence>
+    </document>

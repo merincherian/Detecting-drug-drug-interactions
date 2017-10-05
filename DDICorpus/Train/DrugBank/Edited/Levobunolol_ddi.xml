@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d252">
+    <sentence id="DDI-DrugBank.d252.s1" text="Close observation of the patient is recommended when a beta-blocker is administered to patients receiving catecholamine-depleting drugs such as reserpine, because of possible additive effects and the production of hypotension and/or marked bradycardia, which may produce vertigo, syncope or postural hypotension.">
+        <entity charOffset="55-66" id="DDI-DrugBank.d252.s1.e0" text="beta-blocker" type="group" />
+        <entity charOffset="144-152" id="DDI-DrugBank.d252.s1.e1" text="reserpine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d252.s1.e0" e2="DDI-DrugBank.d252.s1.e1" id="DDI-DrugBank.d252.s1.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d252.s2" text="Patients receiving beta-adrenergic blocking agents along with either oral or intravenous calcium antagonists should be monitored for possible atrioventricular conduction disturbances, left ventricular failure and hypotension.">
+        <entity charOffset="19-49" id="DDI-DrugBank.d252.s2.e0" text="beta-adrenergic blocking agents" type="group" />
+        <entity charOffset="89-107" id="DDI-DrugBank.d252.s2.e1" text="calcium antagonists" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d252.s2.e0" e2="DDI-DrugBank.d252.s2.e1" id="DDI-DrugBank.d252.s2.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d252.s5" text="Phenothiazine-related compounds and beta-adrenergic blocking agents may have additive hypotensite effects due to the inhibition of each other s metabolism.">
+        <entity charOffset="0-30" id="DDI-DrugBank.d252.s5.e0" text="Phenothiazine-related compounds" type="group" />
+        <entity charOffset="36-66" id="DDI-DrugBank.d252.s5.e1" text="beta-adrenergic blocking agents" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d252.s5.e0" e2="DDI-DrugBank.d252.s5.e1" id="DDI-DrugBank.d252.s5.p0" type="mechanism" />
+    </sentence>
+</document>

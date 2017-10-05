@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d317">
+    <sentence id="DDI-DrugBank.d317.s4" text="decreased levels of anti-factor Xa and antithrombin III, decreased antithrombin III activity;">
+        <entity charOffset="39-54" id="DDI-DrugBank.d317.s4.e0" text="antithrombin III" type="drug" />
+        <entity charOffset="67-82" id="DDI-DrugBank.d317.s4.e1" text="antithrombin III" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d317.s4.e0" e2="DDI-DrugBank.d317.s4.e1" id="DDI-DrugBank.d317.s4.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d317.s5" text="increased levels of fibrinogen and fibrinogen activity;">
+        <entity charOffset="20-29" id="DDI-DrugBank.d317.s5.e0" text="fibrinogen" type="drug" />
+        <entity charOffset="35-44" id="DDI-DrugBank.d317.s5.e1" text="fibrinogen" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d317.s5.e0" e2="DDI-DrugBank.d317.s5.e1" id="DDI-DrugBank.d317.s5.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d317.s13" text="Other binding proteins may be elevated in serum, (i.e., corticosteroid binding globulin (CBG), sex hormone binding globulin (SHBG)) leading to increased total circulating corticosteroids and sex steroids, respectively.">
+        <entity charOffset="171-185" id="DDI-DrugBank.d317.s13.e0" text="corticosteroids" type="group" />
+        <entity charOffset="191-202" id="DDI-DrugBank.d317.s13.e1" text="sex steroids" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d317.s13.e0" e2="DDI-DrugBank.d317.s13.e1" id="DDI-DrugBank.d317.s13.p0" />
+    </sentence>
+    </document>

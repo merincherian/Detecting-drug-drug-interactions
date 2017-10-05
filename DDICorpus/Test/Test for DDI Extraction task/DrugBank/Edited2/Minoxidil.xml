@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d573">
+    <sentence id="DDI-DrugBank.d573.s1" text="If at all possible guanethidine should be discontinued well before minoxidil is begun. ">
+        <entity charOffset="19-30" id="DDI-DrugBank.d573.s1.e0" text="guanethidine" type="drug" />
+        <entity charOffset="67-75" id="DDI-DrugBank.d573.s1.e1" text="minoxidil" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d573.s1.e0" e2="DDI-DrugBank.d573.s1.e1" id="DDI-DrugBank.d573.s1.p0" type="advise" />
+    </sentence>
+    </document>

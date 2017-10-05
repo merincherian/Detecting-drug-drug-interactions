@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d359">
+    <sentence id="DDI-DrugBank.d359.s5" text="Although there is no documentation of such, a similar interaction between ethotoin and the coumarin anticoagulants may occur.">
+        <entity charOffset="74-81" id="DDI-DrugBank.d359.s5.e0" text="ethotoin" type="drug" />
+        <entity charOffset="91-113" id="DDI-DrugBank.d359.s5.e1" text="coumarin anticoagulants" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d359.s5.e0" e2="DDI-DrugBank.d359.s5.e1" id="DDI-DrugBank.d359.s5.p0" />
+    </sentence>
+    </document>

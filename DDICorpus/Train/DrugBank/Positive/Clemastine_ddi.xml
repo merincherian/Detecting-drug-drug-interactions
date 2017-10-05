@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d309">
+    <sentence id="DDI-DrugBank.d309.s1" text="Patients receiving antihistamines should be advised against the concurrent use of other CNS depressant drugs.">
+        <entity charOffset="19-32" id="DDI-DrugBank.d309.s1.e0" text="antihistamines" type="group" />
+        <entity charOffset="88-107" id="DDI-DrugBank.d309.s1.e1" text="CNS depressant drugs" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d309.s1.e0" e2="DDI-DrugBank.d309.s1.e1" id="DDI-DrugBank.d309.s1.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d309.s2" text="Monoamine oxidase (MAO) inhibitors prolong and intensify the anticholinergic effects of antihistamines.">
+        <entity charOffset="0-33" id="DDI-DrugBank.d309.s2.e0" text="Monoamine oxidase (MAO) inhibitors" type="group" />
+        <entity charOffset="88-101" id="DDI-DrugBank.d309.s2.e1" text="antihistamines" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d309.s2.e0" e2="DDI-DrugBank.d309.s2.e1" id="DDI-DrugBank.d309.s2.p0" type="effect" />
+    </sentence>
+</document>

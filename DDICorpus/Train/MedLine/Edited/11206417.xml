@@ -1,0 +1,29 @@
+<document id="DDI-MedLine.d137">
+    <sentence id="DDI-MedLine.d137.s0" text="Glucose and insulin exert additive ocular and renal vasodilator effects on healthy humans.&#10;">
+        <entity charOffset="0-6" id="DDI-MedLine.d137.s0.e0" text="Glucose" type="drug" />
+        <entity charOffset="12-18" id="DDI-MedLine.d137.s0.e1" text="insulin" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d137.s0.e0" e2="DDI-MedLine.d137.s0.e1" id="DDI-MedLine.d137.s0.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d137.s1" text="AIMS/HYPOTHESIS: There is evidence that insulin and glucose cause renal and ocular vasodilation. ">
+        <entity charOffset="40-46" id="DDI-MedLine.d137.s1.e0" text="insulin" type="drug" />
+        <entity charOffset="52-58" id="DDI-MedLine.d137.s1.e1" text="glucose" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d137.s1.e0" e2="DDI-MedLine.d137.s1.e1" id="DDI-MedLine.d137.s1.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d137.s2" text="There is, however, currently no data on the effect of combined hyperglycaemia and hyperinsulinaemia on the renal and ocular blood flow seen in diabetic patients on insulin therapy. ">
+        <entity charOffset="87-93" id="DDI-MedLine.d137.s2.e0" text="insulin" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d137.s4" text="In study one, hyperglycaemic clamps (5.6 mmol/l, 11.1 mmol/ 1, 16.7 mmol/l) were carried out during placebo or insulin (dose 1: 1 mU/kg/min; dose 2: 2 mU/kg/min) infusion. ">
+        <entity charOffset="111-117" id="DDI-MedLine.d137.s4.e0" text="insulin" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d137.s5" text="The second study was identical but endogenous insulin secretion was blocked with somatostatin. ">
+        <entity charOffset="81-92" id="DDI-MedLine.d137.s5.e0" text="somatostatin" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d137.s7" text="RESULTS: Insulin increased renal plasma flow and fundus pulsation amplitude but not the glomerular filtration rate. ">
+        <entity charOffset="9-15" id="DDI-MedLine.d137.s7.e0" text="Insulin" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d137.s10" text="CONCLUSIONS/INTERPRETATION: Glucose and insulin can exert additive vasodilator properties on renal and ocular circulation. ">
+        <entity charOffset="28-34" id="DDI-MedLine.d137.s10.e0" text="Glucose" type="drug" />
+        <entity charOffset="40-46" id="DDI-MedLine.d137.s10.e1" text="insulin" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d137.s10.e0" e2="DDI-MedLine.d137.s10.e1" id="DDI-MedLine.d137.s10.p0" />
+    </sentence>
+    </document>

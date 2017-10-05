@@ -1,0 +1,22 @@
+<document id="DDI-DrugBank.d325">
+    <sentence id="DDI-DrugBank.d325.s2" text="Concurrent administration of low-dose dopamine HCl and diuretic agents may produce an additive or potentiating effect on urine flow.">
+        <entity charOffset="38-49" id="DDI-DrugBank.d325.s2.e0" text="dopamine HCl" type="drug" />
+        <entity charOffset="55-69" id="DDI-DrugBank.d325.s2.e1" text="diuretic agents" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d325.s2.e0" e2="DDI-DrugBank.d325.s2.e1" id="DDI-DrugBank.d325.s2.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d325.s5" text="The peripheral vasoconstriction caused by high doses of dopamine HCl is antagonized by alpha-adrenergic blocking agents.">
+        <entity charOffset="56-67" id="DDI-DrugBank.d325.s5.e0" text="dopamine HCl" type="drug" />
+        <entity charOffset="87-118" id="DDI-DrugBank.d325.s5.e1" text="alpha-adrenergic blocking agents" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d325.s5.e0" e2="DDI-DrugBank.d325.s5.e1" id="DDI-DrugBank.d325.s5.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d325.s11" text="It has been reported that results of studies in animals indicate that dopamine-induced ventricular arrhythmias during anesthesia can be reversed by propranolol.">
+        <entity charOffset="70-77" id="DDI-DrugBank.d325.s11.e0" text="dopamine" type="drug" />
+        <entity charOffset="148-158" id="DDI-DrugBank.d325.s11.e1" text="propranolol" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d325.s11.e0" e2="DDI-DrugBank.d325.s11.e1" id="DDI-DrugBank.d325.s11.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d325.s13" text="Administration of phenytoin to patients receiving dopamine HCl has been reported to lead to hypotension and bradycardia.">
+        <entity charOffset="18-26" id="DDI-DrugBank.d325.s13.e0" text="phenytoin" type="drug" />
+        <entity charOffset="50-61" id="DDI-DrugBank.d325.s13.e1" text="dopamine HCl" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d325.s13.e0" e2="DDI-DrugBank.d325.s13.e1" id="DDI-DrugBank.d325.s13.p0" type="effect" />
+    </sentence>
+    </document>

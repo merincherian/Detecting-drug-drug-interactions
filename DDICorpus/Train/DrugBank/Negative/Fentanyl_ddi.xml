@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d170">
+    <sentence id="DDI-DrugBank.d170.s0" text="Agents Affecting Cytochrome P450 3A4 Isoenzyme System Fentanyl is metabolized mainly via the human cytochrome P450 3A4 isoenzyme system (CYP3A4), therefore potential interactions may occur when DURAGESIC  is given concurrently with agents that affect CYP3A4 activity.">
+        <entity charOffset="54-61" id="DDI-DrugBank.d170.s0.e0" text="Fentanyl" type="drug" />
+        <entity charOffset="194-202" id="DDI-DrugBank.d170.s0.e1" text="DURAGESIC" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d170.s0.e0" e2="DDI-DrugBank.d170.s0.e1" id="DDI-DrugBank.d170.s0.p0" />
+    </sentence>
+    </document>

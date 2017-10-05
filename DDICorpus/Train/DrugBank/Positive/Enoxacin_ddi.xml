@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d395">
+    <sentence id="DDI-DrugBank.d395.s1" text="Thus, concomitant administration of enoxacin and bismuth subsalicylate should be avoided.">
+        <entity charOffset="36-43" id="DDI-DrugBank.d395.s1.e0" text="enoxacin" type="drug" />
+        <entity charOffset="49-69" id="DDI-DrugBank.d395.s1.e1" text="bismuth subsalicylate" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d395.s1.e0" e2="DDI-DrugBank.d395.s1.e1" id="DDI-DrugBank.d395.s1.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d395.s18" text="The oral bioavailability of enoxacin is reduced by 60% with coadministration of ranitidine.">
+        <entity charOffset="28-35" id="DDI-DrugBank.d395.s18.e0" text="enoxacin" type="drug" />
+        <entity charOffset="80-89" id="DDI-DrugBank.d395.s18.e1" text="ranitidine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d395.s18.e0" e2="DDI-DrugBank.d395.s18.e1" id="DDI-DrugBank.d395.s18.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d395.s25" text="Nevertheless, the prothrombin time or other suitable coagulation test should be monitored when warfarin or its derivatives and enoxacin are given concomitantly.">
+        <entity charOffset="95-102" id="DDI-DrugBank.d395.s25.e0" text="warfarin" type="drug" />
+        <entity charOffset="127-134" id="DDI-DrugBank.d395.s25.e1" text="enoxacin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d395.s25.e0" e2="DDI-DrugBank.d395.s25.e1" id="DDI-DrugBank.d395.s25.p0" type="advise" />
+    </sentence>
+</document>

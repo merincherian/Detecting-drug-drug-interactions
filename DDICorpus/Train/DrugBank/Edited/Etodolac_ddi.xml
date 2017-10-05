@@ -1,0 +1,32 @@
+<document id="DDI-DrugBank.d219">
+    <sentence id="DDI-DrugBank.d219.s1" text="This interaction should be given consideration in patients taking NSAIDs concomitantly with ACE-inhibitors.">
+        <entity charOffset="66-71" id="DDI-DrugBank.d219.s1.e0" text="NSAIDs" type="group" />
+        <entity charOffset="92-105" id="DDI-DrugBank.d219.s1.e1" text="ACE-inhibitors" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d219.s1.e0" e2="DDI-DrugBank.d219.s1.e1" id="DDI-DrugBank.d219.s1.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d219.s9" text="Patients receiving these drugs who are given Lodine, or any other NSAID, and particularly those patients with altered renal function, should be observed for the development of the specific toxicities of these drugs.">
+        <entity charOffset="45-50" id="DDI-DrugBank.d219.s9.e0" text="Lodine" type="brand" />
+        <entity charOffset="66-70" id="DDI-DrugBank.d219.s9.e1" text="NSAID" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d219.s9.e0" e2="DDI-DrugBank.d219.s9.e1" id="DDI-DrugBank.d219.s9.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d219.s20" text="Although in vivo studies have not been done to see if etodolac clearance is changed by coadministration of phenylbutazone, it is not recommended that they be coadministered.">
+        <entity charOffset="54-61" id="DDI-DrugBank.d219.s20.e0" text="etodolac" type="drug" />
+        <entity charOffset="107-120" id="DDI-DrugBank.d219.s20.e1" text="phenylbutazone" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d219.s20.e0" e2="DDI-DrugBank.d219.s20.e1" id="DDI-DrugBank.d219.s20.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d219.s25" text="Thus, concomitant therapy with warfarin and Lodine should not require dosage adjustment of either drug.">
+        <entity charOffset="31-38" id="DDI-DrugBank.d219.s25.e0" text="warfarin" type="drug" />
+        <entity charOffset="44-49" id="DDI-DrugBank.d219.s25.e1" text="Lodine" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d219.s25.e0" e2="DDI-DrugBank.d219.s25.e1" id="DDI-DrugBank.d219.s25.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d219.s26" text="However, caution should be exercised because there have been a few spontaneous reports of prolonged prothrombin times, with or without bleeding, in etodolac-treated patients receiving concomitant warfarin therapy.">
+        <entity charOffset="148-155" id="DDI-DrugBank.d219.s26.e0" text="etodolac" type="drug" />
+        <entity charOffset="196-203" id="DDI-DrugBank.d219.s26.e1" text="warfarin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d219.s26.e0" e2="DDI-DrugBank.d219.s26.e1" id="DDI-DrugBank.d219.s26.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d219.s27" text="Drug/Laboratory Test Interactions The urine of patients who take Lodine can give a false-positive reaction for urinary bilirubin (urobilin) due to the presence of phenolic metabolites of etodolac.">
+        <entity charOffset="65-70" id="DDI-DrugBank.d219.s27.e0" text="Lodine" type="brand" />
+        <entity charOffset="187-194" id="DDI-DrugBank.d219.s27.e1" text="etodolac" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d219.s27.e0" e2="DDI-DrugBank.d219.s27.e1" id="DDI-DrugBank.d219.s27.p0" />
+    </sentence>
+    </document>

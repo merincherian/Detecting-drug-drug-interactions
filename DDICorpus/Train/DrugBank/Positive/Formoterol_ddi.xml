@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d103">
+    <sentence id="DDI-DrugBank.d103.s2" text="Concomitant administration of other sympathomimetic agents may potentiate the undesirable effects of FORADIL.">
+        <entity charOffset="36-57" id="DDI-DrugBank.d103.s2.e0" text="sympathomimetic agents" type="group" />
+        <entity charOffset="101-107" id="DDI-DrugBank.d103.s2.e1" text="FORADIL" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d103.s2.e0" e2="DDI-DrugBank.d103.s2.e1" id="DDI-DrugBank.d103.s2.p0" type="effect" />
+    </sentence>
+    </document>

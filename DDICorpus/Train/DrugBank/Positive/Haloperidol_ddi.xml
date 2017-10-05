@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d186">
+    <sentence id="DDI-DrugBank.d186.s0" text="An encephalopathic syndrome (characterized by weakness, lethargy, fever, tremulousness and confusion, extrapyramidal symptoms, leukocytosis, elevated serum enzymes, BUN, and FBS) followed by irreversible brain damage has occurred in a few patients treated with lithium plus HALDOL.">
+        <entity charOffset="261-267" id="DDI-DrugBank.d186.s0.e0" text="lithium" type="drug" />
+        <entity charOffset="274-279" id="DDI-DrugBank.d186.s0.e1" text="HALDOL" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d186.s0.e0" e2="DDI-DrugBank.d186.s0.e1" id="DDI-DrugBank.d186.s0.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d186.s6" text="Thus, careful monitoring of clinical status is warranted when rifampin is administered or discontinued in haloperidol-treated patients.">
+        <entity charOffset="62-69" id="DDI-DrugBank.d186.s6.e0" text="rifampin" type="drug" />
+        <entity charOffset="106-116" id="DDI-DrugBank.d186.s6.e1" text="haloperidol" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d186.s6.e0" e2="DDI-DrugBank.d186.s6.e1" id="DDI-DrugBank.d186.s6.p0" type="advise" />
+    </sentence>
+</document>

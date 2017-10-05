@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d294">
+    <sentence id="DDI-DrugBank.d294.s0" text="Drug/LaboratoryTest Interactions Dactinomycin may interfere with bioassay procedures for the determination of antibacterial drug levels.">
+        <entity charOffset="33-44" id="DDI-DrugBank.d294.s0.e0" text="Dactinomycin" type="drug" />
+        <entity charOffset="110-127" id="DDI-DrugBank.d294.s0.e1" text="antibacterial drug" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d294.s0.e0" e2="DDI-DrugBank.d294.s0.e1" id="DDI-DrugBank.d294.s0.p0" />
+    </sentence>
+</document>

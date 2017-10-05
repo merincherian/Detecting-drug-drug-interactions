@@ -1,0 +1,27 @@
+<document id="DDI-MedLine.d116">
+    <sentence id="DDI-MedLine.d116.s0" text="Rifampin and warfarin: a drug interaction.&#10;">
+        <entity charOffset="0-7" id="DDI-MedLine.d116.s0.e0" text="Rifampin" type="drug" />
+        <entity charOffset="13-20" id="DDI-MedLine.d116.s0.e1" text="warfarin" type="drug" />
+        <pair ddi="true" e1="DDI-MedLine.d116.s0.e0" e2="DDI-MedLine.d116.s0.e1" id="DDI-MedLine.d116.s0.p0" type="int" />
+    </sentence>
+    <sentence id="DDI-MedLine.d116.s1" text="The drug interaction between warfarin and rifampin is not well known. ">
+        <entity charOffset="29-36" id="DDI-MedLine.d116.s1.e0" text="warfarin" type="drug" />
+        <entity charOffset="42-49" id="DDI-MedLine.d116.s1.e1" text="rifampin" type="drug" />
+        <pair ddi="true" e1="DDI-MedLine.d116.s1.e0" e2="DDI-MedLine.d116.s1.e1" id="DDI-MedLine.d116.s1.p0" type="int" />
+    </sentence>
+    <sentence id="DDI-MedLine.d116.s2" text="Rifampin has been reported to increase the warfarin requirements in human subjects ingesting these agents simultaneously. ">
+        <entity charOffset="0-7" id="DDI-MedLine.d116.s2.e0" text="Rifampin" type="drug" />
+        <entity charOffset="43-50" id="DDI-MedLine.d116.s2.e1" text="warfarin" type="drug" />
+        <pair ddi="true" e1="DDI-MedLine.d116.s2.e0" e2="DDI-MedLine.d116.s2.e1" id="DDI-MedLine.d116.s2.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-MedLine.d116.s4" text="Withdrawal of rifampin decreased the warfarin requirement by 50%. ">
+        <entity charOffset="14-21" id="DDI-MedLine.d116.s4.e0" text="rifampin" type="drug" />
+        <entity charOffset="37-44" id="DDI-MedLine.d116.s4.e1" text="warfarin" type="drug" />
+        <pair ddi="true" e1="DDI-MedLine.d116.s4.e0" e2="DDI-MedLine.d116.s4.e1" id="DDI-MedLine.d116.s4.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-MedLine.d116.s5" text="This effect may be mediated by the ability of rifampin to induce microsomal enzymes and, thus, the catabolism of warfarin. ">
+        <entity charOffset="46-53" id="DDI-MedLine.d116.s5.e0" text="rifampin" type="drug" />
+        <entity charOffset="113-120" id="DDI-MedLine.d116.s5.e1" text="warfarin" type="drug" />
+        <pair ddi="true" e1="DDI-MedLine.d116.s5.e0" e2="DDI-MedLine.d116.s5.e1" id="DDI-MedLine.d116.s5.p0" type="mechanism" />
+    </sentence>
+    </document>

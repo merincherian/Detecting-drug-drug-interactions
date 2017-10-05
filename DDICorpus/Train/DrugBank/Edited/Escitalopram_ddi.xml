@@ -1,0 +1,32 @@
+<document id="DDI-DrugBank.d568">
+    <sentence id="DDI-DrugBank.d568.s2" text="Monoamine Oxidase Inhibitors (MAOIs)">
+        <entity charOffset="0-27" id="DDI-DrugBank.d568.s2.e0" text="Monoamine Oxidase Inhibitors" type="group" />
+        <entity charOffset="30-34" id="DDI-DrugBank.d568.s2.e1" text="MAOIs" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d568.s2.e0" e2="DDI-DrugBank.d568.s2.e1" id="DDI-DrugBank.d568.s2.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d568.s11" text="Nevertheless, plasma lithium levels should be monitored with appropriate adjustment to the lithium dose in accordance with standard clinical practice.">
+        <entity charOffset="21-27" id="DDI-DrugBank.d568.s11.e0" text="lithium" type="drug" />
+        <entity charOffset="91-97" id="DDI-DrugBank.d568.s11.e1" text="lithium" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d568.s11.e0" e2="DDI-DrugBank.d568.s11.e1" id="DDI-DrugBank.d568.s11.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d568.s14" text="Racemic citalopram did not alter the mean AUC or Cmax of pimozide.">
+        <entity charOffset="8-17" id="DDI-DrugBank.d568.s14.e0" text="citalopram" type="drug" />
+        <entity charOffset="57-64" id="DDI-DrugBank.d568.s14.e1" text="pimozide" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d568.s14.e0" e2="DDI-DrugBank.d568.s14.e1" id="DDI-DrugBank.d568.s14.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d568.s19" text="The effect of theophylline on the pharmacokinetics of citalopram was not evaluated.">
+        <entity charOffset="14-25" id="DDI-DrugBank.d568.s19.e0" text="theophylline" type="drug" />
+        <entity charOffset="54-63" id="DDI-DrugBank.d568.s19.e1" text="citalopram" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d568.s19.e0" e2="DDI-DrugBank.d568.s19.e1" id="DDI-DrugBank.d568.s19.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d568.s29" text="Because escitalopram is metabolized by multiple enzyme systems, inhibition of a single enzyme may not appreciably decrease escitalopram clearance.">
+        <entity charOffset="8-19" id="DDI-DrugBank.d568.s29.e0" text="escitalopram" type="drug" />
+        <entity charOffset="123-134" id="DDI-DrugBank.d568.s29.e1" text="escitalopram" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d568.s29.e0" e2="DDI-DrugBank.d568.s29.e1" id="DDI-DrugBank.d568.s29.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d568.s37" text="Coadministration of LEXAPRO and metoprolol had no clinically significant effects on blood pressure or heart rate.">
+        <entity charOffset="20-26" id="DDI-DrugBank.d568.s37.e0" text="LEXAPRO" type="brand" />
+        <entity charOffset="32-41" id="DDI-DrugBank.d568.s37.e1" text="metoprolol" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d568.s37.e0" e2="DDI-DrugBank.d568.s37.e1" id="DDI-DrugBank.d568.s37.p0" />
+    </sentence>
+    </document>

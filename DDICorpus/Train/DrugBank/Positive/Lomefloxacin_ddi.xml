@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d516">
+    <sentence id="DDI-DrugBank.d516.s4" text="Sucralfate administered 2 hours before lomefloxacin resulted in a slower absorption (mean C max decreased by 30% and mean T max increased by 1 hour) and a lesser extent of absorption (mean AUC decreased by approximately 25%).">
+        <entity charOffset="0-9" id="DDI-DrugBank.d516.s4.e0" text="Sucralfate" type="drug" />
+        <entity charOffset="39-50" id="DDI-DrugBank.d516.s4.e1" text="lomefloxacin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d516.s4.e0" e2="DDI-DrugBank.d516.s4.e1" id="DDI-DrugBank.d516.s4.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d516.s6" text="Separating the doses of antacid and lomefloxacin minimizes this decrease in bioavailability;">
+        <entity charOffset="24-30" id="DDI-DrugBank.d516.s6.e0" text="antacid" type="group" />
+        <entity charOffset="36-47" id="DDI-DrugBank.d516.s6.e1" text="lomefloxacin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d516.s6.e0" e2="DDI-DrugBank.d516.s6.e1" id="DDI-DrugBank.d516.s6.p0" type="mechanism" />
+    </sentence>
+    </document>

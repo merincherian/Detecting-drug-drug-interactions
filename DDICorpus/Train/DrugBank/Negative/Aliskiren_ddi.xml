@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d533">
+    <sentence id="DDI-DrugBank.d533.s0" text="Effects of Other Drugs on Aliskiren Based on in-vitro studies, aliskiren is metabolized by CYP 3A4.">
+        <entity charOffset="26-34" id="DDI-DrugBank.d533.s0.e0" text="Aliskiren" type="drug" />
+        <entity charOffset="63-71" id="DDI-DrugBank.d533.s0.e1" text="aliskiren" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d533.s0.e0" e2="DDI-DrugBank.d533.s0.e1" id="DDI-DrugBank.d533.s0.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d533.s6" text="Effects of Aliskiren on Other Drugs Aliskiren does not inhibit the CYP450 isoenzymes (CYP1A2, 2C8, 2C9, 2C19, 2D6, 2E1, and CYP 3A) or induce CYP 3A4.">
+        <entity charOffset="11-19" id="DDI-DrugBank.d533.s6.e0" text="Aliskiren" type="drug" />
+        <entity charOffset="36-44" id="DDI-DrugBank.d533.s6.e1" text="Aliskiren" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d533.s6.e0" e2="DDI-DrugBank.d533.s6.e1" id="DDI-DrugBank.d533.s6.p0" />
+    </sentence>
+    </document>

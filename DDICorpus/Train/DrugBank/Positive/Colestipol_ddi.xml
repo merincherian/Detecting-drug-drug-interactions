@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d345">
+    <sentence id="DDI-DrugBank.d345.s9" text="Therefore, patients on propranolol should be observed when COLESTID Tablets are either added or deleted from a therapeutic regimen.">
+        <entity charOffset="23-33" id="DDI-DrugBank.d345.s9.e0" text="propranolol" type="drug" />
+        <entity charOffset="59-66" id="DDI-DrugBank.d345.s9.e1" text="COLESTID" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d345.s9.e0" e2="DDI-DrugBank.d345.s9.e1" id="DDI-DrugBank.d345.s9.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d345.s10" text="Studies in humans show that the absorption of chlorothiazide as reflected in urinary excretion is markedly decreased even when administered one hour before colestipol hydrochloride.">
+        <entity charOffset="46-59" id="DDI-DrugBank.d345.s10.e0" text="chlorothiazide" type="drug" />
+        <entity charOffset="156-179" id="DDI-DrugBank.d345.s10.e1" text="colestipol hydrochloride" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d345.s10.e0" e2="DDI-DrugBank.d345.s10.e1" id="DDI-DrugBank.d345.s10.p0" type="mechanism" />
+    </sentence>
+    </document>

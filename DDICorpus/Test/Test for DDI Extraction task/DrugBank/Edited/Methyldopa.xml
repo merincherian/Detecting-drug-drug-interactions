@@ -1,0 +1,39 @@
+<document id="DDI-DrugBank.d779">
+    <sentence id="DDI-DrugBank.d779.s0" text="When methyldopa is used with other antihypertensive drugs, potentiation of antihypertensive effect may occur. ">
+        <entity charOffset="5-14" id="DDI-DrugBank.d779.s0.e0" text="methyldopa" type="drug" />
+        <entity charOffset="35-56" id="DDI-DrugBank.d779.s0.e1" text="antihypertensive drugs" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d779.s0.e0" e2="DDI-DrugBank.d779.s0.e1" id="DDI-DrugBank.d779.s0.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d779.s2" text="Patients may require reduced doses of anesthetics when on methyldopa. ">
+        <entity charOffset="38-48" id="DDI-DrugBank.d779.s2.e0" text="anesthetics" type="group" />
+        <entity charOffset="58-67" id="DDI-DrugBank.d779.s2.e1" text="methyldopa" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d779.s2.e0" e2="DDI-DrugBank.d779.s2.e1" id="DDI-DrugBank.d779.s2.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d779.s3" text="If hypotension does occur during anesthesia, it usually can be controlled by vasopressors. ">
+        <entity charOffset="77-88" id="DDI-DrugBank.d779.s3.e0" text="vasopressors" type="group" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d779.s4" text="The adrenergic receptors remain sensitive during treatment with methyldopa. ">
+        <entity charOffset="64-73" id="DDI-DrugBank.d779.s4.e0" text="methyldopa" type="drug" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d779.s6" text="Read the circular for lithium preparations. ">
+        <entity charOffset="22-28" id="DDI-DrugBank.d779.s6.e0" text="lithium" type="drug" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d779.s8" text="This may adversely affect blood pressure control in patients treated with methyldopa. ">
+        <entity charOffset="74-83" id="DDI-DrugBank.d779.s8.e0" text="methyldopa" type="drug" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d779.s10" text="Monoamine oxidase (MAO) inhibitors: See CONTRAINDICATIONS. ">
+        <entity charOffset="0-33" id="DDI-DrugBank.d779.s10.e0" text="Monoamine oxidase (MAO) inhibitors" type="group" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d779.s11" text="Drug/Laboratory Test Interactions Methyldopa may interfere with measurement of: urinary uric acid by the phosphotungstate method, serum creatinine by the alkaline picrate method, and SGOT by colorimetric methods. ">
+        <entity charOffset="34-43" id="DDI-DrugBank.d779.s11.e0" text="Methyldopa" type="drug" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d779.s13" text="Since methyldopa causes fluorescence in urine samples at the same wave lengths as catecholamines, falsely high levels of urinary catecholamines may be reported. ">
+        <entity charOffset="6-15" id="DDI-DrugBank.d779.s13.e0" text="methyldopa" type="drug" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d779.s17" text="Methyldopa is not recommended for the treatment of patients with pheochromocytoma. ">
+        <entity charOffset="0-9" id="DDI-DrugBank.d779.s17.e0" text="Methyldopa" type="drug" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d779.s18" text="Rarely, when urine is exposed to air after voiding, it may darken because of breakdown of methyldopa or its metabolites.    ">
+        <entity charOffset="90-99" id="DDI-DrugBank.d779.s18.e0" text="methyldopa" type="drug" />
+    </sentence>
+</document>

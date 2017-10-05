@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d543">
+    <sentence id="DDI-DrugBank.d543.s2" text="Anticholinergics antagonize the effects of antiglaucoma agents.">
+        <entity charOffset="0-15" id="DDI-DrugBank.d543.s2.e0" text="Anticholinergics" type="group" />
+        <entity charOffset="43-61" id="DDI-DrugBank.d543.s2.e1" text="antiglaucoma agents" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d543.s2.e0" e2="DDI-DrugBank.d543.s2.e1" id="DDI-DrugBank.d543.s2.p0" />
+    </sentence>
+    </document>

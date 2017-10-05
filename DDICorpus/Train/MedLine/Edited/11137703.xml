@@ -1,0 +1,34 @@
+<document id="DDI-MedLine.d114">
+    <sentence id="DDI-MedLine.d114.s0" text="Inhibitory effects of ruthenium red on inositol 1,4, 5-trisphosphate-induced responses in rat megakaryocytes.&#10;">
+        <entity charOffset="22-34" id="DDI-MedLine.d114.s0.e0" text="ruthenium red" type="drug_n" />
+    </sentence>
+    <sentence id="DDI-MedLine.d114.s2" text="Internal application of InsP(3) (100 microM) increased intracellular Ca(2+) concentration ([Ca(2+)](i)) and activated the Ca(2+)-dependent K(+) current. ">
+        <entity charOffset="24-30" id="DDI-MedLine.d114.s2.e0" text="InsP(3)" type="drug_n" />
+    </sentence>
+    <sentence id="DDI-MedLine.d114.s3" text="Administering InsP(3) together with RR (100-500 microM) inhibited InsP(3)-induced responses (both Ca(2+) and current responses) in a dose-dependent fashion. ">
+        <entity charOffset="14-20" id="DDI-MedLine.d114.s3.e0" text="InsP(3)" type="drug_n" />
+        <entity charOffset="36-37" id="DDI-MedLine.d114.s3.e1" text="RR" type="drug_n" />
+        <pair ddi="true" e1="DDI-MedLine.d114.s3.e0" e2="DDI-MedLine.d114.s3.e1" id="DDI-MedLine.d114.s3.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-MedLine.d114.s4" text="Pretreatment of megakaryocytes with extracellular RR (50 microM) also inhibited InsP(3)-induced responses. ">
+        <entity charOffset="50-51" id="DDI-MedLine.d114.s4.e0" text="RR" type="drug_n" />
+        <entity charOffset="80-86" id="DDI-MedLine.d114.s4.e1" text="InsP(3)" type="drug_n" />
+        <pair ddi="true" e1="DDI-MedLine.d114.s4.e0" e2="DDI-MedLine.d114.s4.e1" id="DDI-MedLine.d114.s4.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-MedLine.d114.s5" text="Intracellular and extracellular application of RR reduced ADP-induced increases in [Ca(2+)](i). ">
+        <entity charOffset="47-48" id="DDI-MedLine.d114.s5.e0" text="RR" type="drug_n" />
+    </sentence>
+    <sentence id="DDI-MedLine.d114.s6" text="In contrast, in isolated single pancreatic acinar cells, RR had no effect on InsP(3)-induced responses. ">
+        <entity charOffset="57-58" id="DDI-MedLine.d114.s6.e0" text="RR" type="drug_n" />
+        <entity charOffset="77-83" id="DDI-MedLine.d114.s6.e1" text="InsP(3)" type="drug_n" />
+        <pair ddi="false" e1="DDI-MedLine.d114.s6.e0" e2="DDI-MedLine.d114.s6.e1" id="DDI-MedLine.d114.s6.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d114.s7" text="Taken together, these results suggest that the site of the inhibitory action of RR is at the InsP(3) receptor, or its closely associated proteins. ">
+        <entity charOffset="80-81" id="DDI-MedLine.d114.s7.e0" text="RR" type="drug_n" />
+    </sentence>
+    <sentence id="DDI-MedLine.d114.s8" text="In addition, we have shown that RR is a useful pharmacological tool with which to examine the InsP(3)-mediated responses of megakaryocytes.">
+        <entity charOffset="32-33" id="DDI-MedLine.d114.s8.e0" text="RR" type="drug_n" />
+        <entity charOffset="94-100" id="DDI-MedLine.d114.s8.e1" text="InsP(3)" type="drug_n" />
+        <pair ddi="false" e1="DDI-MedLine.d114.s8.e0" e2="DDI-MedLine.d114.s8.e1" id="DDI-MedLine.d114.s8.p0" />
+    </sentence>
+</document>

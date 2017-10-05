@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d588">
+    <sentence id="DDI-DrugBank.d588.s6" text="Corticosteroids or ACTH: May increase the risk of hypokalemia and increase salt and water retention. ">
+        <entity charOffset="0-14" id="DDI-DrugBank.d588.s6.e0" text="Corticosteroids" type="group" />
+        <entity charOffset="19-22" id="DDI-DrugBank.d588.s6.e1" text="ACTH" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d588.s6.e0" e2="DDI-DrugBank.d588.s6.e1" id="DDI-DrugBank.d588.s6.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d588.s7" text="Lithium: Serum lithium levels may increase. ">
+        <entity charOffset="0-6" id="DDI-DrugBank.d588.s7.e0" text="Lithium" type="drug" />
+        <entity charOffset="15-21" id="DDI-DrugBank.d588.s7.e1" text="lithium" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d588.s7.e0" e2="DDI-DrugBank.d588.s7.e1" id="DDI-DrugBank.d588.s7.p0" />
+    </sentence>
+    </document>

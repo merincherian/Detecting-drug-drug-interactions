@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d519">
+    <sentence id="DDI-DrugBank.d519.s3" text="Laboratory Tests Response to Plenaxis should be monitored by measuring serum total testosterone concentrations just prior to administration on Day 29 and every 8 weeks thereafter.">
+        <entity charOffset="29-36" id="DDI-DrugBank.d519.s3.e0" text="Plenaxis" type="brand" />
+        <entity charOffset="83-94" id="DDI-DrugBank.d519.s3.e1" text="testosterone" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d519.s3.e0" e2="DDI-DrugBank.d519.s3.e1" id="DDI-DrugBank.d519.s3.p0" />
+    </sentence>
+    </document>

@@ -1,0 +1,22 @@
+<document id="DDI-DrugBank.d223">
+    <sentence id="DDI-DrugBank.d223.s10" text="Nevertheless, caution is indicated in the co-administration of TCAs with any of the SSRIs and also in switching from one class to the other.">
+        <entity charOffset="63-66" id="DDI-DrugBank.d223.s10.e0" text="TCAs" type="group" />
+        <entity charOffset="84-88" id="DDI-DrugBank.d223.s10.e1" text="SSRIs" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d223.s10.e0" e2="DDI-DrugBank.d223.s10.e1" id="DDI-DrugBank.d223.s10.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d223.s20" text="Therefore, MAO inhibitors should be discontinued at least two weeks prior to the cautious initiation of therapy with SINEQUAN.">
+        <entity charOffset="11-24" id="DDI-DrugBank.d223.s20.e0" text="MAO inhibitors" type="group" />
+        <entity charOffset="117-124" id="DDI-DrugBank.d223.s20.e1" text="SINEQUAN" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d223.s20.e0" e2="DDI-DrugBank.d223.s20.e1" id="DDI-DrugBank.d223.s20.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d223.s23" text="Serious anticholinergic symptoms (i.e., severe dry mouth, urinary retention and blurred vision) have been associated with elevations in the serum levels of tricyclic antidepressant when cimetidine therapy is initiated.">
+        <entity charOffset="156-179" id="DDI-DrugBank.d223.s23.e0" text="tricyclic antidepressant" type="group" />
+        <entity charOffset="186-195" id="DDI-DrugBank.d223.s23.e1" text="cimetidine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d223.s23.e0" e2="DDI-DrugBank.d223.s23.e1" id="DDI-DrugBank.d223.s23.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d223.s24" text="Additionally, higher than expected tricyclic antidepressant levels have been observed when they are begun in patients already taking cimetidine.">
+        <entity charOffset="35-58" id="DDI-DrugBank.d223.s24.e0" text="tricyclic antidepressant" type="group" />
+        <entity charOffset="133-142" id="DDI-DrugBank.d223.s24.e1" text="cimetidine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d223.s24.e0" e2="DDI-DrugBank.d223.s24.e1" id="DDI-DrugBank.d223.s24.p0" type="mechanism" />
+    </sentence>
+    </document>

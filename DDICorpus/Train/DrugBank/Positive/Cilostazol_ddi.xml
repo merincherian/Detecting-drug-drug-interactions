@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d358">
+    <sentence id="DDI-DrugBank.d358.s2" text="Population pharmacokinetic studies showed higher concentrations of cilostazol among patients concurrently treated with diltiazem, an inhibitor of C.P.A..">
+        <entity charOffset="67-76" id="DDI-DrugBank.d358.s2.e0" text="cilostazol" type="drug" />
+        <entity charOffset="119-127" id="DDI-DrugBank.d358.s2.e1" text="diltiazem" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d358.s2.e0" e2="DDI-DrugBank.d358.s2.e1" id="DDI-DrugBank.d358.s2.p0" type="mechanism" />
+    </sentence>
+    </document>

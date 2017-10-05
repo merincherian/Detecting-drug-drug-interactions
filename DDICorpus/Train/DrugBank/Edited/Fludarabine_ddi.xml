@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d444">
+    <sentence id="DDI-DrugBank.d444.s0" text="The use of FLUDARA FOR INJECTION in combination with pentostatin is not recommended due to the risk of severe pulmonary toxicity.">
+        <entity charOffset="11-17" id="DDI-DrugBank.d444.s0.e0" text="FLUDARA" type="brand" />
+        <entity charOffset="53-63" id="DDI-DrugBank.d444.s0.e1" text="pentostatin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d444.s0.e0" e2="DDI-DrugBank.d444.s0.e1" id="DDI-DrugBank.d444.s0.p0" type="advise" />
+    </sentence>
+</document>

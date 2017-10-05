@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d143">
+    <sentence id="DDI-DrugBank.d143.s24" text="On administration of oral amiodarone, the need for digitalis therapy should be reviewed and the dose reduced by approximately 50% or discontinued.">
+        <entity charOffset="26-35" id="DDI-DrugBank.d143.s24.e0" text="amiodarone" type="drug" />
+        <entity charOffset="51-59" id="DDI-DrugBank.d143.s24.e1" text="digitalis" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d143.s24.e0" e2="DDI-DrugBank.d143.s24.e1" id="DDI-DrugBank.d143.s24.p0" type="advise" />
+    </sentence>
+    </document>

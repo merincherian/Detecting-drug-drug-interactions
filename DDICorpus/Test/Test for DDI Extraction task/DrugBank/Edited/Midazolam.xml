@@ -1,0 +1,22 @@
+<document id="DDI-DrugBank.d752">
+    <sentence id="DDI-DrugBank.d752.s2" text="These drug interactions may result in increased and prolonged sedation due to a decrease in plasma clearance of midazolam. ">
+        <entity charOffset="112-120" id="DDI-DrugBank.d752.s2.e0" text="midazolam" type="drug" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d752.s4" text="Caution is advised when VERSED Syrup is used concomitantly with these drugs. ">
+        <entity charOffset="24-35" id="DDI-DrugBank.d752.s4.e0" text="VERSED Syrup" type="brand" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d752.s7" text="Although clinical studies have not been performed, phenobarbital is expected to have the same effect. ">
+        <entity charOffset="51-63" id="DDI-DrugBank.d752.s7.e0" text="phenobarbital" type="drug" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d752.s8" text="Caution is advised when administering VERSED Syrup to patients receiving these medications and if necessary dose adjustments should be considered. ">
+        <entity charOffset="38-49" id="DDI-DrugBank.d752.s8.e0" text="VERSED Syrup" type="brand" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d752.s9" text="The difficulty in achieving adequate sedation may have been the result of decreased absorption of the sedatives due to both the gastrointestinal effects and stimulant effects of methylphenidate. ">
+        <entity charOffset="102-110" id="DDI-DrugBank.d752.s9.e0" text="sedatives" type="group" />
+        <entity charOffset="178-192" id="DDI-DrugBank.d752.s9.e1" text="methylphenidate" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d752.s9.e0" e2="DDI-DrugBank.d752.s9.e1" id="DDI-DrugBank.d752.s9.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d752.s11" text="Consequently, the dose of VERSED Syrup should be adjusted according to the type and amount of concomitant medications administered and the desired clinical response. ">
+        <entity charOffset="26-37" id="DDI-DrugBank.d752.s11.e0" text="VERSED Syrup" type="brand" />
+    </sentence>
+    </document>

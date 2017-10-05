@@ -1,0 +1,18 @@
+<document id="DDI-DrugBank.d713">
+    <sentence id="DDI-DrugBank.d713.s0" text="The concomitant use of Sanctura with other anticholinergic agents that produce dry mouth, constipation, and other anticholinergic pharmacological effects may increase the frequency and/or severity of such effects. ">
+        <entity charOffset="23-30" id="DDI-DrugBank.d713.s0.e0" text="Sanctura" type="brand" />
+        <entity charOffset="43-64" id="DDI-DrugBank.d713.s0.e1" text="anticholinergic agents" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d713.s0.e0" e2="DDI-DrugBank.d713.s0.e1" id="DDI-DrugBank.d713.s0.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d713.s1" text="Anticholinergic agents may potentially alter the absorption of some concomitantly administered drugs due to anticholinergic effects on gastrointestinal motility. ">
+        <entity charOffset="0-21" id="DDI-DrugBank.d713.s1.e0" text="Anticholinergic agents" type="group" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d713.s3" text="Coadministration of Sanctura with drugs that are eliminated by active renal tubular secretion may increase the serum concentration of Sanctura and/or the coadministered drug due to competition for this elimination pathway. ">
+        <entity charOffset="20-27" id="DDI-DrugBank.d713.s3.e0" text="Sanctura" type="brand" />
+        <entity charOffset="134-141" id="DDI-DrugBank.d713.s3.e1" text="Sanctura" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d713.s3.e0" e2="DDI-DrugBank.d713.s3.e1" id="DDI-DrugBank.d713.s3.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d713.s5" text="Drug-Laboratory-Test Interactions Interactions between Sanctura and laboratory tests have not been studied.">
+        <entity charOffset="55-62" id="DDI-DrugBank.d713.s5.e0" text="Sanctura" type="brand" />
+    </sentence>
+</document>

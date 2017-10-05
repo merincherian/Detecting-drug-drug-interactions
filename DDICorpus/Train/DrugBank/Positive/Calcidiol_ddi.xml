@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d98">
+    <sentence id="DDI-DrugBank.d98.s5" text="Some reports have shown that the concomitant administration of thiazides with vitamin D causes hypercalcemia.">
+        <entity charOffset="63-71" id="DDI-DrugBank.d98.s5.e0" text="thiazides" type="group" />
+        <entity charOffset="78-86" id="DDI-DrugBank.d98.s5.e1" text="vitamin D" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d98.s5.e0" e2="DDI-DrugBank.d98.s5.e1" id="DDI-DrugBank.d98.s5.p0" type="effect" />
+    </sentence>
+    </document>

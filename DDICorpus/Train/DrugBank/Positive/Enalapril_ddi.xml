@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d107">
+    <sentence id="DDI-DrugBank.d107.s8" text="However, reports suggest that NSAIDs may diminish the antihypertensive effect of ACE inhibitors.">
+        <entity charOffset="30-35" id="DDI-DrugBank.d107.s8.e0" text="NSAIDs" type="group" />
+        <entity charOffset="81-94" id="DDI-DrugBank.d107.s8.e1" text="ACE inhibitors" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d107.s8.e0" e2="DDI-DrugBank.d107.s8.e1" id="DDI-DrugBank.d107.s8.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d107.s9" text="This interaction should be given consideration in patients taking NSAIDs concomitantly with ACE inhibitors.">
+        <entity charOffset="66-71" id="DDI-DrugBank.d107.s9.e0" text="NSAIDs" type="group" />
+        <entity charOffset="92-105" id="DDI-DrugBank.d107.s9.e1" text="ACE inhibitors" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d107.s9.e0" e2="DDI-DrugBank.d107.s9.e1" id="DDI-DrugBank.d107.s9.p0" type="advise" />
+    </sentence>
+    </document>

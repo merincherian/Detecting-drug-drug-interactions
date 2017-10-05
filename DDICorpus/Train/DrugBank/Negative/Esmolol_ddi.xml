@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d422">
+    <sentence id="DDI-DrugBank.d422.s1" text="Patients treated concurrently with BREVIBLOC (esmolol HCl) and a catecholamine depletor should therefore be closely observed for evidence of hypotension or marked bradycardia, which may result in vertigo, syncope, or postural hypotension.">
+        <entity charOffset="35-43" id="DDI-DrugBank.d422.s1.e0" text="BREVIBLOC" type="brand" />
+        <entity charOffset="46-56" id="DDI-DrugBank.d422.s1.e1" text="esmolol HCl" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d422.s1.e0" e2="DDI-DrugBank.d422.s1.e1" id="DDI-DrugBank.d422.s1.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d422.s5" text="Digoxin did not affect BREVIBLOC pharmacokinetics.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d422.s5.e0" text="Digoxin" type="drug" />
+        <entity charOffset="23-31" id="DDI-DrugBank.d422.s5.e1" text="BREVIBLOC" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d422.s5.e0" e2="DDI-DrugBank.d422.s5.e1" id="DDI-DrugBank.d422.s5.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d422.s8" text="The effect of BREVIBLOC on the duration of succinylcholine-induced neuromuscular blockade was studied in patients undergoing surgery.">
+        <entity charOffset="14-22" id="DDI-DrugBank.d422.s8.e0" text="BREVIBLOC" type="drug" />
+        <entity charOffset="43-57" id="DDI-DrugBank.d422.s8.e1" text="succinylcholine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d422.s8.e0" e2="DDI-DrugBank.d422.s8.e1" id="DDI-DrugBank.d422.s8.p0" />
+    </sentence>
+    </document>

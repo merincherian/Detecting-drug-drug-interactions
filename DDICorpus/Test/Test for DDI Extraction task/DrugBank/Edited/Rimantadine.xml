@@ -1,0 +1,34 @@
+<document id="DDI-DrugBank.d710">
+    <sentence id="DDI-DrugBank.d710.s2" text="Acetaminophen: Rimantadine HCl, 100 mg, was given twice daily for 13 days to 12 healthy volunteers. ">
+        <entity charOffset="0-12" id="DDI-DrugBank.d710.s2.e0" text="Acetaminophen" type="drug" />
+        <entity charOffset="15-29" id="DDI-DrugBank.d710.s2.e1" text="Rimantadine HCl" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d710.s2.e0" e2="DDI-DrugBank.d710.s2.e1" id="DDI-DrugBank.d710.s2.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d710.s3" text="On day 11, acetaminophen (650 mg four times daily) was started and continued for 8 days. ">
+        <entity charOffset="11-23" id="DDI-DrugBank.d710.s3.e0" text="acetaminophen" type="drug" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d710.s4" text="The pharmacokinetics of rimantadine were assessed on days 11 and 13. ">
+        <entity charOffset="24-34" id="DDI-DrugBank.d710.s4.e0" text="rimantadine" type="drug" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d710.s5" text="Coadministration with acetaminophen reduced the peak concentration and AUC values for rimantadine by approximately 11%. ">
+        <entity charOffset="22-34" id="DDI-DrugBank.d710.s5.e0" text="acetaminophen" type="drug" />
+        <entity charOffset="86-96" id="DDI-DrugBank.d710.s5.e1" text="rimantadine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d710.s5.e0" e2="DDI-DrugBank.d710.s5.e1" id="DDI-DrugBank.d710.s5.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d710.s6" text="Aspirin: Rimantadine HCl, 100 mg, was given twice daily fro 13 days to 12 healthy volunteers. ">
+        <entity charOffset="0-6" id="DDI-DrugBank.d710.s6.e0" text="Aspirin" type="brand" />
+        <entity charOffset="9-23" id="DDI-DrugBank.d710.s6.e1" text="Rimantadine HCl" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d710.s6.e0" e2="DDI-DrugBank.d710.s6.e1" id="DDI-DrugBank.d710.s6.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d710.s7" text="On day 11, aspirin (650 mg, four times daily) was started and continued for 8 days. ">
+        <entity charOffset="11-17" id="DDI-DrugBank.d710.s7.e0" text="aspirin" type="brand" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d710.s8" text="The pharmacokinetics of rimantadine were assessed on days 11 and 13. ">
+        <entity charOffset="24-34" id="DDI-DrugBank.d710.s8.e0" text="rimantadine" type="drug" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d710.s9" text="Peak plasma concentrations and AUC of rimantadine were reduced approximately 10% in the presence of aspirin.">
+        <entity charOffset="38-48" id="DDI-DrugBank.d710.s9.e0" text="rimantadine" type="drug" />
+        <entity charOffset="100-106" id="DDI-DrugBank.d710.s9.e1" text="aspirin" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d710.s9.e0" e2="DDI-DrugBank.d710.s9.e1" id="DDI-DrugBank.d710.s9.p0" type="mechanism" />
+    </sentence>
+</document>

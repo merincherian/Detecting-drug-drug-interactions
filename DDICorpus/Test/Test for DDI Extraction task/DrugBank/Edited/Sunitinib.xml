@@ -1,0 +1,14 @@
+<document id="DDI-DrugBank.d639">
+    <sentence id="DDI-DrugBank.d639.s1" text="Grapefruit may also increase plasma concentrations of SUTENT. ">
+        <entity charOffset="54-59" id="DDI-DrugBank.d639.s1.e0" text="SUTENT" type="brand" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d639.s4" text="Johns Wort may decrease SUTENT plasma concentrations unpredictably. ">
+        <entity charOffset="24-29" id="DDI-DrugBank.d639.s4.e0" text="SUTENT" type="brand" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d639.s5" text="Patients receiving SUTENT should not take St. ">
+        <entity charOffset="19-24" id="DDI-DrugBank.d639.s5.e0" text="SUTENT" type="brand" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d639.s7" text="SUTENT dose modification is recommended in patients using concomitant CYP3A4 inhibitors or inducers.">
+        <entity charOffset="0-5" id="DDI-DrugBank.d639.s7.e0" text="SUTENT" type="brand" />
+    </sentence>
+</document>

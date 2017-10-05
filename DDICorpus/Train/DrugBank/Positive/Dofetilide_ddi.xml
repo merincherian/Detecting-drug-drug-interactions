@@ -1,0 +1,27 @@
+<document id="DDI-DrugBank.d558">
+    <sentence id="DDI-DrugBank.d558.s3" text="Cimetidine at doses of 100 mg BID (OTC dose) resulted in a 13% increase in dofetilide plasma levels (500 mcg single dose).">
+        <entity charOffset="0-9" id="DDI-DrugBank.d558.s3.e0" text="Cimetidine" type="drug" />
+        <entity charOffset="75-84" id="DDI-DrugBank.d558.s3.e1" text="dofetilide" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d558.s3.e0" e2="DDI-DrugBank.d558.s3.e1" id="DDI-DrugBank.d558.s3.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d558.s8" text="In an analysis of the supraventricular arrhythmia and DIAMOND patient populations, the concomitant administration of verapamil with dofetilide was associated with a higher occurrence of torsade de pointes.">
+        <entity charOffset="117-125" id="DDI-DrugBank.d558.s8.e0" text="verapamil" type="drug" />
+        <entity charOffset="132-141" id="DDI-DrugBank.d558.s8.e1" text="dofetilide" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d558.s8.e0" e2="DDI-DrugBank.d558.s8.e1" id="DDI-DrugBank.d558.s8.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d558.s14" text="In patients receiving HCTZ alone, dofetilide AUC increased by 27% and Cmax by 21%.">
+        <entity charOffset="22-25" id="DDI-DrugBank.d558.s14.e0" text="HCTZ" type="drug" />
+        <entity charOffset="34-43" id="DDI-DrugBank.d558.s14.e1" text="dofetilide" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d558.s14.e0" e2="DDI-DrugBank.d558.s14.e1" id="DDI-DrugBank.d558.s14.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d558.s28" text="In patients, the concomitant administration of digoxin with dofetilide was associated with a higher occurrence of torsade de pointes.">
+        <entity charOffset="47-53" id="DDI-DrugBank.d558.s28.e0" text="digoxin" type="drug" />
+        <entity charOffset="60-69" id="DDI-DrugBank.d558.s28.e1" text="dofetilide" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d558.s28.e0" e2="DDI-DrugBank.d558.s28.e1" id="DDI-DrugBank.d558.s28.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d558.s37" text="The mean clearances of dofetilide were 16% and 15% lower in patients on thiazide diuretics and inhibitors of tubular organic cation transport, respectively.">
+        <entity charOffset="23-32" id="DDI-DrugBank.d558.s37.e0" text="dofetilide" type="drug" />
+        <entity charOffset="72-89" id="DDI-DrugBank.d558.s37.e1" text="thiazide diuretics" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d558.s37.e0" e2="DDI-DrugBank.d558.s37.e1" id="DDI-DrugBank.d558.s37.p0" type="mechanism" />
+    </sentence>
+</document>

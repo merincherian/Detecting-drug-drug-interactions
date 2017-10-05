@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d104">
+    <sentence id="DDI-DrugBank.d104.s1" text="Other CNS depressant drugs should be used with caution in patients taking fenfluramine, since the effects may be additive.">
+        <entity charOffset="6-25" id="DDI-DrugBank.d104.s1.e0" text="CNS depressant drugs" type="group" />
+        <entity charOffset="74-85" id="DDI-DrugBank.d104.s1.e1" text="fenfluramine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d104.s1.e0" e2="DDI-DrugBank.d104.s1.e1" id="DDI-DrugBank.d104.s1.p0" type="advise" />
+    </sentence>
+</document>

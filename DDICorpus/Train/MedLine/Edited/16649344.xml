@@ -1,0 +1,7 @@
+<document id="DDI-MedLine.d118">
+    <sentence id="DDI-MedLine.d118.s0" text="Sirolimus: mammalian target of rapamycin inhibitor to prevent kidney rejection.&#10;">
+        <entity charOffset="0-8" id="DDI-MedLine.d118.s0.e0" text="Sirolimus" type="drug" />
+        <entity charOffset="31-39" id="DDI-MedLine.d118.s0.e1" text="rapamycin" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d118.s0.e0" e2="DDI-MedLine.d118.s0.e1" id="DDI-MedLine.d118.s0.p0" />
+    </sentence>
+    </document>

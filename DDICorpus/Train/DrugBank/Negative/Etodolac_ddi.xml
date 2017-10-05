@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d219">
+    <sentence id="DDI-DrugBank.d219.s9" text="Patients receiving these drugs who are given Lodine, or any other NSAID, and particularly those patients with altered renal function, should be observed for the development of the specific toxicities of these drugs.">
+        <entity charOffset="45-50" id="DDI-DrugBank.d219.s9.e0" text="Lodine" type="brand" />
+        <entity charOffset="66-70" id="DDI-DrugBank.d219.s9.e1" text="NSAID" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d219.s9.e0" e2="DDI-DrugBank.d219.s9.e1" id="DDI-DrugBank.d219.s9.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d219.s25" text="Thus, concomitant therapy with warfarin and Lodine should not require dosage adjustment of either drug.">
+        <entity charOffset="31-38" id="DDI-DrugBank.d219.s25.e0" text="warfarin" type="drug" />
+        <entity charOffset="44-49" id="DDI-DrugBank.d219.s25.e1" text="Lodine" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d219.s25.e0" e2="DDI-DrugBank.d219.s25.e1" id="DDI-DrugBank.d219.s25.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d219.s27" text="Drug/Laboratory Test Interactions The urine of patients who take Lodine can give a false-positive reaction for urinary bilirubin (urobilin) due to the presence of phenolic metabolites of etodolac.">
+        <entity charOffset="65-70" id="DDI-DrugBank.d219.s27.e0" text="Lodine" type="brand" />
+        <entity charOffset="187-194" id="DDI-DrugBank.d219.s27.e1" text="etodolac" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d219.s27.e0" e2="DDI-DrugBank.d219.s27.e1" id="DDI-DrugBank.d219.s27.p0" />
+    </sentence>
+    </document>

@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d704">
+    <sentence id="DDI-DrugBank.d704.s0" text="Drug-Drug Interactions: The pharmacokinetic and pharmacodynamic interactions between FLOMAX capsules and other alpha-adrenergic blocking agents have not been determined. ">
+        <entity charOffset="85-90" id="DDI-DrugBank.d704.s0.e0" text="FLOMAX" type="brand" />
+        <entity charOffset="111-142" id="DDI-DrugBank.d704.s0.e1" text="alpha-adrenergic blocking agents" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d704.s0.e0" e2="DDI-DrugBank.d704.s0.e1" id="DDI-DrugBank.d704.s0.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d704.s2" text="The pharmacokinetic interaction between cimetidine and FLOMAX capsules was investigated. ">
+        <entity charOffset="40-49" id="DDI-DrugBank.d704.s2.e0" text="cimetidine" type="drug" />
+        <entity charOffset="55-60" id="DDI-DrugBank.d704.s2.e1" text="FLOMAX" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d704.s2.e0" e2="DDI-DrugBank.d704.s2.e1" id="DDI-DrugBank.d704.s2.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d704.s5" text="Results from limited in vitro and in vivo drug-drug interaction studies between tamsulosin HCI and warfarin are inconclusive. ">
+        <entity charOffset="80-93" id="DDI-DrugBank.d704.s5.e0" text="tamsulosin HCI" type="drug" />
+        <entity charOffset="99-106" id="DDI-DrugBank.d704.s5.e1" text="warfarin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d704.s5.e0" e2="DDI-DrugBank.d704.s5.e1" id="DDI-DrugBank.d704.s5.p0" />
+    </sentence>
+    </document>

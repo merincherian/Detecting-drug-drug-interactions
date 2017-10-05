@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d30">
+    <sentence id="DDI-DrugBank.d30.s1" text="Rifampin, an inducer of drug metabolism, decreased the concentrations of losartan and its active metabolite.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d30.s1.e0" text="Rifampin" type="drug" />
+        <entity charOffset="73-80" id="DDI-DrugBank.d30.s1.e1" text="losartan" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d30.s1.e0" e2="DDI-DrugBank.d30.s1.e1" id="DDI-DrugBank.d30.s1.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d30.s4" text="Fluconazole, an inhibitor of P450 2C9, decreased active metabolite concentration and increased losartan concentration.">
+        <entity charOffset="0-10" id="DDI-DrugBank.d30.s4.e0" text="Fluconazole" type="drug" />
+        <entity charOffset="95-102" id="DDI-DrugBank.d30.s4.e1" text="losartan" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d30.s4.e0" e2="DDI-DrugBank.d30.s4.e1" id="DDI-DrugBank.d30.s4.p0" type="mechanism" />
+    </sentence>
+    </document>

@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d372">
+    <sentence id="DDI-DrugBank.d372.s1" text="therefore, if glucocorticoid replacement is needed, hydrocortisone should be prescribed.">
+        <entity charOffset="14-27" id="DDI-DrugBank.d372.s1.e0" text="glucocorticoid" type="group" />
+        <entity charOffset="52-65" id="DDI-DrugBank.d372.s1.e1" text="hydrocortisone" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d372.s1.e0" e2="DDI-DrugBank.d372.s1.e1" id="DDI-DrugBank.d372.s1.p0" />
+    </sentence>
+    </document>

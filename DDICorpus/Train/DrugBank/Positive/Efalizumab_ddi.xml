@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d44">
+    <sentence id="DDI-DrugBank.d44.s1" text="RAPTIVA should not be used with other immunosuppressive drugs.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d44.s1.e0" text="RAPTIVA" type="brand" />
+        <entity charOffset="38-60" id="DDI-DrugBank.d44.s1.e1" text="immunosuppressive drugs" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d44.s1.e0" e2="DDI-DrugBank.d44.s1.e1" id="DDI-DrugBank.d44.s1.p0" type="advise" />
+    </sentence>
+    </document>

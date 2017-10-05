@@ -1,0 +1,16 @@
+<document id="DDI-MedLine.d13">
+    <sentence id="DDI-MedLine.d13.s0" text="Death in amphetamine users: causes and rates.&#10;">
+        <entity charOffset="9-19" id="DDI-MedLine.d13.s0.e0" text="amphetamine" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d13.s1" text="The world medical literature contains 43 reports of deaths associated with amphetamines in a 35-year period. ">
+        <entity charOffset="75-86" id="DDI-MedLine.d13.s1.e0" text="amphetamines" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d13.s4" text="In contrast, in Ontario alone, in 1972 and 1973 there were 26 deaths in amphetamine users, of which 16 were due to accident suicide or homicide. ">
+        <entity charOffset="72-82" id="DDI-MedLine.d13.s4.e0" text="amphetamine" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d13.s7" text="On the basis of the estimated number of regular users of intravenous amphetamine in Ontario, the mortality rate in such users is at least four times as high as in the general population of the same age, and is comparable to that in alcoholics and heroin addicts. ">
+        <entity charOffset="69-79" id="DDI-MedLine.d13.s7.e0" text="amphetamine" type="drug" />
+        <entity charOffset="247-252" id="DDI-MedLine.d13.s7.e1" text="heroin" type="drug_n" />
+        <pair ddi="false" e1="DDI-MedLine.d13.s7.e0" e2="DDI-MedLine.d13.s7.e1" id="DDI-MedLine.d13.s7.p0" />
+    </sentence>
+    </document>

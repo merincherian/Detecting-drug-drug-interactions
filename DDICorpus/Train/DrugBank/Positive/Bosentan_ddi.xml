@@ -1,0 +1,37 @@
+<document id="DDI-DrugBank.d289">
+    <sentence id="DDI-DrugBank.d289.s8" text="Therefore, hormonal contraceptives, including oral, injectable, transdermal, and implantable forms, may not be reliable when TRACLEER is co-administered.">
+        <entity charOffset="11-33" id="DDI-DrugBank.d289.s8.e0" text="hormonal contraceptives" type="group" />
+        <entity charOffset="125-132" id="DDI-DrugBank.d289.s8.e1" text="TRACLEER" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d289.s8.e0" e2="DDI-DrugBank.d289.s8.e1" id="DDI-DrugBank.d289.s8.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d289.s11" text="Steady-state bosentan plasma concentrations were 3- to 4-fold higher than in the absence of cyclosporine A.">
+        <entity charOffset="13-20" id="DDI-DrugBank.d289.s11.e0" text="bosentan" type="drug" />
+        <entity charOffset="92-105" id="DDI-DrugBank.d289.s11.e1" text="cyclosporine A" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d289.s11.e0" e2="DDI-DrugBank.d289.s11.e1" id="DDI-DrugBank.d289.s11.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d289.s12" text="The concomitant administration of bosentan and cyclosporine A is contraindicated.">
+        <entity charOffset="34-41" id="DDI-DrugBank.d289.s12.e0" text="bosentan" type="drug" />
+        <entity charOffset="47-60" id="DDI-DrugBank.d289.s12.e1" text="cyclosporine A" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d289.s12.e0" e2="DDI-DrugBank.d289.s12.e1" id="DDI-DrugBank.d289.s12.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d289.s13" text="Co-administration of bosentan decreased the plasma concentrations of cyclosporine A (a CYP3A4 substrate) by approximately 50%.">
+        <entity charOffset="21-28" id="DDI-DrugBank.d289.s13.e0" text="bosentan" type="drug" />
+        <entity charOffset="69-82" id="DDI-DrugBank.d289.s13.e1" text="cyclosporine A" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d289.s13.e0" e2="DDI-DrugBank.d289.s13.e1" id="DDI-DrugBank.d289.s13.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d289.s16" text="Caution should be exercised if tacrolimus and bosentan are used together.">
+        <entity charOffset="31-40" id="DDI-DrugBank.d289.s16.e0" text="tacrolimus" type="drug" />
+        <entity charOffset="46-53" id="DDI-DrugBank.d289.s16.e1" text="bosentan" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d289.s16.e0" e2="DDI-DrugBank.d289.s16.e1" id="DDI-DrugBank.d289.s16.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d289.s19" text="Co-administration of bosentan decreased the plasma concentrations of glyburide by approximately 40%.">
+        <entity charOffset="21-28" id="DDI-DrugBank.d289.s19.e0" text="bosentan" type="drug" />
+        <entity charOffset="69-77" id="DDI-DrugBank.d289.s19.e1" text="glyburide" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d289.s19.e0" e2="DDI-DrugBank.d289.s19.e1" id="DDI-DrugBank.d289.s19.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d289.s21" text="Bosentan is also expected to reduce plasma concentrations of other oral hypoglycemic agents that are predominantly metabolized by CYP2C9 or CYP3A4.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d289.s21.e0" text="Bosentan" type="drug" />
+        <entity charOffset="72-90" id="DDI-DrugBank.d289.s21.e1" text="hypoglycemic agents" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d289.s21.e0" e2="DDI-DrugBank.d289.s21.e1" id="DDI-DrugBank.d289.s21.p0" type="mechanism" />
+    </sentence>
+    </document>

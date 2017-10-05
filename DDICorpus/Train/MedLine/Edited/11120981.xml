@@ -1,0 +1,12 @@
+<document id="DDI-MedLine.d79">
+    <sentence id="DDI-MedLine.d79.s3" text="Median gastric pH was significantly higher when indinavir was taken after didanosine administration; ">
+        <entity charOffset="48-56" id="DDI-MedLine.d79.s3.e0" text="indinavir" type="drug" />
+        <entity charOffset="74-83" id="DDI-MedLine.d79.s3.e1" text="didanosine" type="drug" />
+        <pair ddi="true" e1="DDI-MedLine.d79.s3.e0" e2="DDI-MedLine.d79.s3.e1" id="DDI-MedLine.d79.s3.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-MedLine.d79.s5" text="Indinavir may be taken with a light meal 1 h following the administration of 400 mg of didanosine.">
+        <entity charOffset="0-8" id="DDI-MedLine.d79.s5.e0" text="Indinavir" type="drug" />
+        <entity charOffset="87-96" id="DDI-MedLine.d79.s5.e1" text="didanosine" type="drug" />
+        <pair ddi="true" e1="DDI-MedLine.d79.s5.e0" e2="DDI-MedLine.d79.s5.e1" id="DDI-MedLine.d79.s5.p0" type="advise" />
+    </sentence>
+</document>

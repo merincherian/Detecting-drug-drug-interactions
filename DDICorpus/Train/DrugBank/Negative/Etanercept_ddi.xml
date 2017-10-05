@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d341">
+    <sentence id="DDI-DrugBank.d341.s1" text="However, it was observed that the pharmacokinetics of ENBREL  was unaltered by concomitant methotrexate in rheumatoid arthritis patients.">
+        <entity charOffset="54-59" id="DDI-DrugBank.d341.s1.e0" text="ENBREL" type="brand" />
+        <entity charOffset="91-102" id="DDI-DrugBank.d341.s1.e1" text="methotrexate" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d341.s1.e0" e2="DDI-DrugBank.d341.s1.e1" id="DDI-DrugBank.d341.s1.p0" />
+    </sentence>
+    </document>

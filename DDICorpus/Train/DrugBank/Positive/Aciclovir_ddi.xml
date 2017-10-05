@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d200">
+    <sentence id="DDI-DrugBank.d200.s0" text="Co-administration of probenecid with acyclovir has been shown to increase the mean half-life and the area under the concentration-time curve.">
+        <entity charOffset="21-30" id="DDI-DrugBank.d200.s0.e0" text="probenecid" type="drug" />
+        <entity charOffset="37-45" id="DDI-DrugBank.d200.s0.e1" text="acyclovir" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d200.s0.e0" e2="DDI-DrugBank.d200.s0.e1" id="DDI-DrugBank.d200.s0.p0" type="mechanism" />
+    </sentence>
+    </document>

@@ -1,0 +1,47 @@
+<document id="DDI-DrugBank.d776">
+    <sentence id="DDI-DrugBank.d776.s3" text="one fatality has been reported from hypoglycemia in association with combined DIFLUCAN and glyburide use. ">
+        <entity charOffset="78-85" id="DDI-DrugBank.d776.s3.e0" text="DIFLUCAN" type="brand" />
+        <entity charOffset="91-99" id="DDI-DrugBank.d776.s3.e1" text="glyburide" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d776.s3.e0" e2="DDI-DrugBank.d776.s3.e1" id="DDI-DrugBank.d776.s3.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d776.s8" text="Careful monitoring of prothrombin time in patients receiving DIFLUCAN and coumarin-type anticoagulants is recommended. ">
+        <entity charOffset="61-68" id="DDI-DrugBank.d776.s8.e0" text="DIFLUCAN" type="brand" />
+        <entity charOffset="74-101" id="DDI-DrugBank.d776.s8.e1" text="coumarin-type anticoagulants" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d776.s8.e0" e2="DDI-DrugBank.d776.s8.e1" id="DDI-DrugBank.d776.s8.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d776.s17" text="Depending on clinical circumstances, consideration should be given to increasing the dose of DIFLUCAN when it is administered with rifampin. ">
+        <entity charOffset="93-100" id="DDI-DrugBank.d776.s17.e0" text="DIFLUCAN" type="brand" />
+        <entity charOffset="131-138" id="DDI-DrugBank.d776.s17.e1" text="rifampin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d776.s17.e0" e2="DDI-DrugBank.d776.s17.e1" id="DDI-DrugBank.d776.s17.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d776.s23" text="The combined use of fluconazole at doses of 400 mg or greater with terfenadine is contraindicated. ">
+        <entity charOffset="20-30" id="DDI-DrugBank.d776.s23.e0" text="fluconazole" type="drug" />
+        <entity charOffset="67-77" id="DDI-DrugBank.d776.s23.e1" text="terfenadine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d776.s23.e0" e2="DDI-DrugBank.d776.s23.e1" id="DDI-DrugBank.d776.s23.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d776.s24" text="The coadministration of fluconazole at doses lower than 400 mg/day with terfenadine should be carefully monitored. ">
+        <entity charOffset="24-34" id="DDI-DrugBank.d776.s24.e0" text="fluconazole" type="drug" />
+        <entity charOffset="72-82" id="DDI-DrugBank.d776.s24.e1" text="terfenadine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d776.s24.e0" e2="DDI-DrugBank.d776.s24.e1" id="DDI-DrugBank.d776.s24.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d776.s27" text="The combined use of fluconazole with cisapride is contraindicated. ">
+        <entity charOffset="20-30" id="DDI-DrugBank.d776.s27.e0" text="fluconazole" type="drug" />
+        <entity charOffset="37-45" id="DDI-DrugBank.d776.s27.e1" text="cisapride" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d776.s27.e0" e2="DDI-DrugBank.d776.s27.e1" id="DDI-DrugBank.d776.s27.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d776.s32" text="Patients receiving rifabutin and fluconazole concomitantly should be carefully monitored. ">
+        <entity charOffset="19-27" id="DDI-DrugBank.d776.s32.e0" text="rifabutin" type="drug" />
+        <entity charOffset="33-43" id="DDI-DrugBank.d776.s32.e1" text="fluconazole" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d776.s32.e0" e2="DDI-DrugBank.d776.s32.e1" id="DDI-DrugBank.d776.s32.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d776.s34" text="Patients receiving tacrolimus and fluconazole concomitantly should be carefully monitored. ">
+        <entity charOffset="19-28" id="DDI-DrugBank.d776.s34.e0" text="tacrolimus" type="drug" />
+        <entity charOffset="34-44" id="DDI-DrugBank.d776.s34.e1" text="fluconazole" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d776.s34.e0" e2="DDI-DrugBank.d776.s34.e1" id="DDI-DrugBank.d776.s34.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d776.s39" text="however, in some patients there were decreases up to 47% and 33% of ethinyl estradiol and levonorgestrel levels. ">
+        <entity charOffset="68-84" id="DDI-DrugBank.d776.s39.e0" text="ethinyl estradiol" type="drug" />
+        <entity charOffset="90-103" id="DDI-DrugBank.d776.s39.e1" text="levonorgestrel" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d776.s39.e0" e2="DDI-DrugBank.d776.s39.e1" id="DDI-DrugBank.d776.s39.p0" />
+    </sentence>
+    </document>

@@ -1,0 +1,26 @@
+<document id="DDI-DrugBank.d602">
+    <sentence id="DDI-DrugBank.d602.s0" text="Caution is recommended when administering NEXAVAR with compounds that are metabolized/eliminated predominantly by the UGT1A1 pathway (e.g. irinotecan). ">
+        <entity charOffset="42-48" id="DDI-DrugBank.d602.s0.e0" text="NEXAVAR" type="brand" />
+        <entity charOffset="139-148" id="DDI-DrugBank.d602.s0.e1" text="irinotecan" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d602.s0.e0" e2="DDI-DrugBank.d602.s0.e1" id="DDI-DrugBank.d602.s0.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d602.s1" text="Concomitant treatment with NEXAVAR resulted in a 21% increase in the AUC of doxorubicin. ">
+        <entity charOffset="27-33" id="DDI-DrugBank.d602.s1.e0" text="NEXAVAR" type="brand" />
+        <entity charOffset="76-86" id="DDI-DrugBank.d602.s1.e1" text="doxorubicin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d602.s1.e0" e2="DDI-DrugBank.d602.s1.e1" id="DDI-DrugBank.d602.s1.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d602.s2" text="Caution is recommended when administering doxorubicin with NEXAVAR. ">
+        <entity charOffset="42-52" id="DDI-DrugBank.d602.s2.e0" text="doxorubicin" type="drug" />
+        <entity charOffset="59-65" id="DDI-DrugBank.d602.s2.e1" text="NEXAVAR" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d602.s2.e0" e2="DDI-DrugBank.d602.s2.e1" id="DDI-DrugBank.d602.s2.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d602.s3" text="Sorafenib inhibits CYP2B6 and CYP2C8 in vitro with Ki values of 6 and 1-2 ?M, respectively. ">
+        <entity charOffset="0-8" id="DDI-DrugBank.d602.s3.e0" text="Sorafenib" type="drug" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d602.s4" text="Systemic exposure to substrates of CYP2B6 and CYP2C8 is expected to increase when co-administered with NEXAVAR. ">
+        <entity charOffset="103-109" id="DDI-DrugBank.d602.s4.e0" text="NEXAVAR" type="brand" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d602.s5" text="Caution is recommended when administering substrates of CYP2B6 and CYP2C8 with NEXAVAR.">
+        <entity charOffset="79-85" id="DDI-DrugBank.d602.s5.e0" text="NEXAVAR" type="brand" />
+    </sentence>
+</document>

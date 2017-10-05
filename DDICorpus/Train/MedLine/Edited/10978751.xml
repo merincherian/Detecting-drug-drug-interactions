@@ -1,0 +1,40 @@
+<document id="DDI-MedLine.d48">
+    <sentence id="DDI-MedLine.d48.s0" text="Modification of surface histidine residues abolishes the cytotoxic activity of Clostridium difficile toxin A.&#10;">
+        <entity charOffset="79-107" id="DDI-MedLine.d48.s0.e0" text="Clostridium difficile toxin A" type="drug_n" />
+    </sentence>
+    <sentence id="DDI-MedLine.d48.s1" text="Clostridium difficile toxin A displays both cytotoxic and enterotoxic activities. ">
+        <entity charOffset="0-28" id="DDI-MedLine.d48.s1.e0" text="Clostridium difficile toxin A" type="drug_n" />
+    </sentence>
+    <sentence id="DDI-MedLine.d48.s2" text="It has recently been demonstrated that toxin A exerts its cytotoxic effect by the glucosylation of the small GTP-binding proteins of the Rho family. ">
+        <entity charOffset="39-45" id="DDI-MedLine.d48.s2.e0" text="toxin A" type="drug_n" />
+    </sentence>
+    <sentence id="DDI-MedLine.d48.s3" text="Diethyl pyrocarbonate, at pH 7.0, was used to chemically modify exposed histidine residues on toxin A. ">
+        <entity charOffset="0-20" id="DDI-MedLine.d48.s3.e0" text="Diethyl pyrocarbonate" type="drug_n" />
+        <entity charOffset="94-100" id="DDI-MedLine.d48.s3.e1" text="toxin A" type="drug_n" />
+        <pair ddi="false" e1="DDI-MedLine.d48.s3.e0" e2="DDI-MedLine.d48.s3.e1" id="DDI-MedLine.d48.s3.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d48.s4" text="Modification of toxin A with diethyl pyrocarbonate abolished both its cytotoxic activity and the ability of the toxin to bind Zn-Sepharose gel. ">
+        <entity charOffset="16-22" id="DDI-MedLine.d48.s4.e0" text="toxin A" type="drug_n" />
+        <entity charOffset="29-49" id="DDI-MedLine.d48.s4.e1" text="diethyl pyrocarbonate" type="drug_n" />
+        <pair ddi="false" e1="DDI-MedLine.d48.s4.e0" e2="DDI-MedLine.d48.s4.e1" id="DDI-MedLine.d48.s4.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d48.s5" text="Treatment of toxin A with [(14)C]-diethyl pyrocarbonate revealed concentration dependent labelling of histidine residues on the toxin molecules. ">
+        <entity charOffset="13-19" id="DDI-MedLine.d48.s5.e0" text="toxin A" type="drug_n" />
+        <entity charOffset="34-54" id="DDI-MedLine.d48.s5.e1" text="diethyl pyrocarbonate" type="drug_n" />
+        <pair ddi="false" e1="DDI-MedLine.d48.s5.e0" e2="DDI-MedLine.d48.s5.e1" id="DDI-MedLine.d48.s5.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d48.s6" text="The effects of diethyl pyrocarbonate could be reversed by hydroxylamine treatment. ">
+        <entity charOffset="15-35" id="DDI-MedLine.d48.s6.e0" text="diethyl pyrocarbonate" type="drug_n" />
+        <entity charOffset="58-70" id="DDI-MedLine.d48.s6.e1" text="hydroxylamine" type="drug_n" />
+        <pair ddi="false" e1="DDI-MedLine.d48.s6.e0" e2="DDI-MedLine.d48.s6.e1" id="DDI-MedLine.d48.s6.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d48.s7" text="These data suggest the modified histidine residues on toxin A are critical to its cytotoxic activity. ">
+        <entity charOffset="54-60" id="DDI-MedLine.d48.s7.e0" text="toxin A" type="drug_n" />
+    </sentence>
+    <sentence id="DDI-MedLine.d48.s8" text="Histidine modification had no effect on the glucosyl transferase enzyme activity of toxin A. ">
+        <entity charOffset="84-90" id="DDI-MedLine.d48.s8.e0" text="toxin A" type="drug_n" />
+    </sentence>
+    <sentence id="DDI-MedLine.d48.s10" text="The data suggest that the histidine residues may be crucial to the receptor-binding activity of toxin A. ">
+        <entity charOffset="96-102" id="DDI-MedLine.d48.s10.e0" text="toxin A" type="drug_n" />
+    </sentence>
+    </document>

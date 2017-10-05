@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d468">
+    <sentence id="DDI-DrugBank.d468.s9" text="Plasma concentrations of cyclosporine should therefore be closely monitored, and its dosage reduced accordingly, in patients treated with nicardipine.">
+        <entity charOffset="25-36" id="DDI-DrugBank.d468.s9.e0" text="cyclosporine" type="drug" />
+        <entity charOffset="138-148" id="DDI-DrugBank.d468.s9.e1" text="nicardipine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d468.s9.e0" e2="DDI-DrugBank.d468.s9.e1" id="DDI-DrugBank.d468.s9.p0" type="advise" />
+    </sentence>
+    </document>

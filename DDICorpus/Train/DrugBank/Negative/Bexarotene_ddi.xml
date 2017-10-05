@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d467">
+    <sentence id="DDI-DrugBank.d467.s5" text="Under similar conditions, bexarotene concentrations were not affected by concomitant atorvastatin administration.">
+        <entity charOffset="26-35" id="DDI-DrugBank.d467.s5.e0" text="bexarotene" type="drug" />
+        <entity charOffset="85-96" id="DDI-DrugBank.d467.s5.e1" text="atorvastatin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d467.s5.e0" e2="DDI-DrugBank.d467.s5.e1" id="DDI-DrugBank.d467.s5.p0" />
+    </sentence>
+    </document>

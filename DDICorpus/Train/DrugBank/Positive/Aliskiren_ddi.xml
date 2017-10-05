@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d533">
+    <sentence id="DDI-DrugBank.d533.s2" text="Co-administration of irbesartan reduced aliskiren Cmax up to 50% after multiple dosing.">
+        <entity charOffset="21-30" id="DDI-DrugBank.d533.s2.e0" text="irbesartan" type="drug" />
+        <entity charOffset="40-48" id="DDI-DrugBank.d533.s2.e1" text="aliskiren" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d533.s2.e0" e2="DDI-DrugBank.d533.s2.e1" id="DDI-DrugBank.d533.s2.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d533.s3" text="Co-administration of atorvastatin resulted in about a 50% increase in aliskiren Cmax and AUC after multiple dosing.">
+        <entity charOffset="21-32" id="DDI-DrugBank.d533.s3.e0" text="atorvastatin" type="drug" />
+        <entity charOffset="70-78" id="DDI-DrugBank.d533.s3.e1" text="aliskiren" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d533.s3.e0" e2="DDI-DrugBank.d533.s3.e1" id="DDI-DrugBank.d533.s3.p0" type="mechanism" />
+    </sentence>
+    </document>

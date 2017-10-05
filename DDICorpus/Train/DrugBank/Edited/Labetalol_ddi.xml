@@ -1,0 +1,32 @@
+<document id="DDI-DrugBank.d412">
+    <sentence id="DDI-DrugBank.d412.s4" text="Cimetidine has been shown to increase the bioavailability of labetalol HCl.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d412.s4.e0" text="Cimetidine" type="drug" />
+        <entity charOffset="61-73" id="DDI-DrugBank.d412.s4.e1" text="labetalol HCl" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d412.s4.e0" e2="DDI-DrugBank.d412.s4.e1" id="DDI-DrugBank.d412.s4.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d412.s6" text="Synergism has been shown between halothane anesthesia and intravenously administered labetalol HCl.">
+        <entity charOffset="33-41" id="DDI-DrugBank.d412.s6.e0" text="halothane" type="drug" />
+        <entity charOffset="85-97" id="DDI-DrugBank.d412.s6.e1" text="labetalol HCl" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d412.s6.e0" e2="DDI-DrugBank.d412.s6.e1" id="DDI-DrugBank.d412.s6.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d412.s9" text="Labetalol HCl blunts the reflex tachycardia produced by nitroglycerin without preventing its hypotensive effect.">
+        <entity charOffset="0-12" id="DDI-DrugBank.d412.s9.e0" text="Labetalol HCl" type="drug" />
+        <entity charOffset="56-68" id="DDI-DrugBank.d412.s9.e1" text="nitroglycerin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d412.s9.e0" e2="DDI-DrugBank.d412.s9.e1" id="DDI-DrugBank.d412.s9.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d412.s10" text="If labetalol HCl is used with nitroglycerin in patients with angina pectoris, additional antihypertensive effects may occur.">
+        <entity charOffset="3-15" id="DDI-DrugBank.d412.s10.e0" text="labetalol HCl" type="drug" />
+        <entity charOffset="30-42" id="DDI-DrugBank.d412.s10.e1" text="nitroglycerin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d412.s10.e0" e2="DDI-DrugBank.d412.s10.e1" id="DDI-DrugBank.d412.s10.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d412.s16" text="Labetalol HCl has also been reported to produce a false positive test for amphetamine when screening urine for the presence of drugs using the commercially available assay methods Toxi-Lab A  (thin-layer chromatographic assay) and Emit-d.a.u.  (radioenzymatic assay).">
+        <entity charOffset="0-12" id="DDI-DrugBank.d412.s16.e0" text="Labetalol HCl" type="drug" />
+        <entity charOffset="74-84" id="DDI-DrugBank.d412.s16.e1" text="amphetamine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d412.s16.e0" e2="DDI-DrugBank.d412.s16.e1" id="DDI-DrugBank.d412.s16.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d412.s17" text="When patients being treated with labetalol have a positive urine test for amphetamine using these techniques confirmation should be made by using more specific methods such as a gas chromatographic-mass spectrometer technique.">
+        <entity charOffset="33-41" id="DDI-DrugBank.d412.s17.e0" text="labetalol" type="drug" />
+        <entity charOffset="74-84" id="DDI-DrugBank.d412.s17.e1" text="amphetamine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d412.s17.e0" e2="DDI-DrugBank.d412.s17.e1" id="DDI-DrugBank.d412.s17.p0" />
+    </sentence>
+</document>

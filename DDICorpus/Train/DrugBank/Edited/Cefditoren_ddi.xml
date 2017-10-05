@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d550">
+    <sentence id="DDI-DrugBank.d550.s1" text="Although the clinical significance is not known, it is not recommended that cefditoren pivoxil be taken concomitantly with antacids.">
+        <entity charOffset="76-93" id="DDI-DrugBank.d550.s1.e0" text="cefditoren pivoxil" type="drug" />
+        <entity charOffset="123-130" id="DDI-DrugBank.d550.s1.e1" text="antacids" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d550.s1.e0" e2="DDI-DrugBank.d550.s1.e1" id="DDI-DrugBank.d550.s1.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d550.s3" text="Although the clinical significance is not known, it is not recommended that cefditoren pivoxil be taken concomitantly with H2 receptor antagonists.">
+        <entity charOffset="76-93" id="DDI-DrugBank.d550.s3.e0" text="cefditoren pivoxil" type="drug" />
+        <entity charOffset="123-145" id="DDI-DrugBank.d550.s3.e1" text="H2 receptor antagonists" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d550.s3.e0" e2="DDI-DrugBank.d550.s3.e1" id="DDI-DrugBank.d550.s3.p0" />
+    </sentence>
+    </document>

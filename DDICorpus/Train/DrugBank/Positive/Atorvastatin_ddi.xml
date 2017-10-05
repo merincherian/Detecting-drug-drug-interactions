@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d140">
+    <sentence id="DDI-DrugBank.d140.s5" text="However, LDL-C reduction was greater when atorvastatin and colestipol were coadministered than when either drug was given alone.">
+        <entity charOffset="42-53" id="DDI-DrugBank.d140.s5.e0" text="atorvastatin" type="drug" />
+        <entity charOffset="59-68" id="DDI-DrugBank.d140.s5.e1" text="colestipol" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d140.s5.e0" e2="DDI-DrugBank.d140.s5.e1" id="DDI-DrugBank.d140.s5.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d140.s11" text="These increases should be considered when selecting an oral contraceptive for a woman taking atorvastatin.">
+        <entity charOffset="60-72" id="DDI-DrugBank.d140.s11.e0" text="contraceptive" type="group" />
+        <entity charOffset="93-104" id="DDI-DrugBank.d140.s11.e1" text="atorvastatin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d140.s11.e0" e2="DDI-DrugBank.d140.s11.e1" id="DDI-DrugBank.d140.s11.p0" type="advise" />
+    </sentence>
+    </document>

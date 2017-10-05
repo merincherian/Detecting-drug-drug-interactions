@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d132">
+    <sentence id="DDI-DrugBank.d132.s10" text="This effect is small with occasional doses of antacids, but may be clinically significant when antacids are used on a continuous schedule.">
+        <entity charOffset="46-53" id="DDI-DrugBank.d132.s10.e0" text="antacids" type="group" />
+        <entity charOffset="95-102" id="DDI-DrugBank.d132.s10.e1" text="antacids" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d132.s10.e0" e2="DDI-DrugBank.d132.s10.e1" id="DDI-DrugBank.d132.s10.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d132.s12" text="Acetaminophen had no effect on plasma levels of diflunisal.">
+        <entity charOffset="0-12" id="DDI-DrugBank.d132.s12.e0" text="Acetaminophen" type="drug" />
+        <entity charOffset="48-57" id="DDI-DrugBank.d132.s12.e1" text="diflunisal" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d132.s12.e0" e2="DDI-DrugBank.d132.s12.e1" id="DDI-DrugBank.d132.s12.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d132.s28" text="Naproxen had no effect on plasma levels of diflunisal.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d132.s28.e0" text="Naproxen" type="drug" />
+        <entity charOffset="43-52" id="DDI-DrugBank.d132.s28.e1" text="diflunisal" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d132.s28.e0" e2="DDI-DrugBank.d132.s28.e1" id="DDI-DrugBank.d132.s28.p0" />
+    </sentence>
+    </document>

@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d23">
+    <sentence id="DDI-DrugBank.d23.s0" text="HEMABATE may augment the activity of other oxytocic agents.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d23.s0.e0" text="HEMABATE" type="brand" />
+        <entity charOffset="43-57" id="DDI-DrugBank.d23.s0.e1" text="oxytocic agents" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d23.s0.e0" e2="DDI-DrugBank.d23.s0.e1" id="DDI-DrugBank.d23.s0.p0" type="effect" />
+    </sentence>
+    </document>

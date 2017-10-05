@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d3">
+    <sentence id="DDI-DrugBank.d3.s10" text="Therefore, concomitant use of TORADOL and probenecid is contraindicated.">
+        <entity charOffset="30-36" id="DDI-DrugBank.d3.s10.e0" text="TORADOL" type="brand" />
+        <entity charOffset="42-51" id="DDI-DrugBank.d3.s10.e1" text="probenecid" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d3.s10.e0" e2="DDI-DrugBank.d3.s10.e1" id="DDI-DrugBank.d3.s10.p0" type="advise" />
+    </sentence>
+    </document>

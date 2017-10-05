@@ -1,0 +1,18 @@
+<document id="DDI-MedLine.d104">
+    <sentence id="DDI-MedLine.d104.s2" text="injection of phencyclidine (PCP) were observed by measuring locomotor activity and stereotyped behavior. ">
+        <entity charOffset="13-25" id="DDI-MedLine.d104.s2.e0" text="phencyclidine" type="drug_n" />
+        <entity charOffset="28-30" id="DDI-MedLine.d104.s2.e1" text="PCP" type="drug_n" />
+        <pair ddi="false" e1="DDI-MedLine.d104.s2.e0" e2="DDI-MedLine.d104.s2.e1" id="DDI-MedLine.d104.s2.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d104.s4" text="The effects of DCG-IV were very strong and completely depressed the PCP-induced hyperlocomotion. ">
+        <entity charOffset="15-20" id="DDI-MedLine.d104.s4.e0" text="DCG-IV" type="drug_n" />
+        <entity charOffset="68-70" id="DDI-MedLine.d104.s4.e1" text="PCP" type="drug_n" />
+        <pair ddi="true" e1="DDI-MedLine.d104.s4.e0" e2="DDI-MedLine.d104.s4.e1" id="DDI-MedLine.d104.s4.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-MedLine.d104.s5" text="The effects of L-CCG-1 were not so strong. ">
+        <entity charOffset="15-21" id="DDI-MedLine.d104.s5.e0" text="L-CCG-1" type="drug_n" />
+    </sentence>
+    <sentence id="DDI-MedLine.d104.s6" text="Repeated injection of PCP for 20 days into mice induced lower locomotor activity than that in acutely injected mice. ">
+        <entity charOffset="22-24" id="DDI-MedLine.d104.s6.e0" text="PCP" type="drug_n" />
+    </sentence>
+    </document>

@@ -1,0 +1,32 @@
+<document id="DDI-DrugBank.d404">
+    <sentence id="DDI-DrugBank.d404.s3" text="Since blood level of calcitriol/ergocalcitriol will be reduced, higher doses of Rocaltrol may be necessary if these drugs are administered simultaneously.">
+        <entity charOffset="21-30" id="DDI-DrugBank.d404.s3.e0" text="calcitriol" type="drug" />
+        <entity charOffset="80-88" id="DDI-DrugBank.d404.s3.e1" text="Rocaltrol" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d404.s3.e0" e2="DDI-DrugBank.d404.s3.e1" id="DDI-DrugBank.d404.s3.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d404.s4" text="Thiazides: Thiazides are known to induce hypercalcemia by the reduction of calcium excretion in urine.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d404.s4.e0" text="Thiazides" type="group" />
+        <entity charOffset="11-19" id="DDI-DrugBank.d404.s4.e1" text="Thiazides" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d404.s4.e0" e2="DDI-DrugBank.d404.s4.e1" id="DDI-DrugBank.d404.s4.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d404.s5" text="Some reports have shown that the concomitant administration of thiazides with vitamin D causes hypercalcemia.">
+        <entity charOffset="63-71" id="DDI-DrugBank.d404.s5.e0" text="thiazides" type="group" />
+        <entity charOffset="78-86" id="DDI-DrugBank.d404.s5.e1" text="vitamin D" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d404.s5.e0" e2="DDI-DrugBank.d404.s5.e1" id="DDI-DrugBank.d404.s5.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d404.s10" text="However, in vivo drug interaction studies of ketoconazole with vitamin D have not been investigated.">
+        <entity charOffset="45-56" id="DDI-DrugBank.d404.s10.e0" text="ketoconazole" type="drug" />
+        <entity charOffset="63-71" id="DDI-DrugBank.d404.s10.e1" text="vitamin D" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d404.s10.e0" e2="DDI-DrugBank.d404.s10.e1" id="DDI-DrugBank.d404.s10.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d404.s13" text="Vitamin D: The coadministration of any of the vitamin D analogues should be avoided as this could create possible additive effects and hypercalcemia.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d404.s13.e0" text="Vitamin D" type="group" />
+        <entity charOffset="46-54" id="DDI-DrugBank.d404.s13.e1" text="vitamin D" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d404.s13.e0" e2="DDI-DrugBank.d404.s13.e1" id="DDI-DrugBank.d404.s13.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d404.s14" text="Calcium Supplements: Uncontrolled intake of additional calcium-containing preparations should be avoided.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d404.s14.e0" text="Calcium" type="drug" />
+        <entity charOffset="55-61" id="DDI-DrugBank.d404.s14.e1" text="calcium" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d404.s14.e0" e2="DDI-DrugBank.d404.s14.e1" id="DDI-DrugBank.d404.s14.p0" />
+    </sentence>
+    </document>

@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d69">
+    <sentence id="DDI-DrugBank.d69.s0" text="Use of Cerubidine in a patient who has previously received doxorubicin increases the risk of cardiotoxicity.">
+        <entity charOffset="7-16" id="DDI-DrugBank.d69.s0.e0" text="Cerubidine" type="brand" />
+        <entity charOffset="59-69" id="DDI-DrugBank.d69.s0.e1" text="doxorubicin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d69.s0.e0" e2="DDI-DrugBank.d69.s0.e1" id="DDI-DrugBank.d69.s0.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d69.s2" text="Cyclophosphamide used concurrently with Cerubidine may also result in increased cardiotoxicity.">
+        <entity charOffset="0-15" id="DDI-DrugBank.d69.s2.e0" text="Cyclophosphamide" type="drug" />
+        <entity charOffset="40-49" id="DDI-DrugBank.d69.s2.e1" text="Cerubidine" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d69.s2.e0" e2="DDI-DrugBank.d69.s2.e1" id="DDI-DrugBank.d69.s2.p0" type="effect" />
+    </sentence>
+    </document>

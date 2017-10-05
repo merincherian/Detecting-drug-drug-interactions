@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d41">
+    <sentence id="DDI-DrugBank.d41.s12" text="Tolbutamide: In in vitro studies, M1 was shown to cause increases ranging from 13 - 50% in the free fraction of tolbutamide at concentrations in the clinical range.">
+        <entity charOffset="0-10" id="DDI-DrugBank.d41.s12.e0" text="Tolbutamide" type="drug" />
+        <entity charOffset="112-122" id="DDI-DrugBank.d41.s12.e1" text="tolbutamide" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d41.s12.e0" e2="DDI-DrugBank.d41.s12.e1" id="DDI-DrugBank.d41.s12.p0" />
+    </sentence>
+    </document>

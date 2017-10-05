@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d489">
+    <sentence id="DDI-DrugBank.d489.s2" text="Catecholamine-depleting drugs (e.g., reserpine) may have an additive effect when given with beta-blocking agents.">
+        <entity charOffset="37-45" id="DDI-DrugBank.d489.s2.e0" text="reserpine" type="drug" />
+        <entity charOffset="92-104" id="DDI-DrugBank.d489.s2.e1" text="beta-blocking" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d489.s2.e0" e2="DDI-DrugBank.d489.s2.e1" id="DDI-DrugBank.d489.s2.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d489.s5" text="Literature reports suggest that oral calcium antagonists may be used in combination with beta-adrenergic blocking agents when heart function is normal, but should be avoided in patients with impaired cardiac function.">
+        <entity charOffset="37-55" id="DDI-DrugBank.d489.s5.e0" text="calcium antagonists" type="group" />
+        <entity charOffset="89-119" id="DDI-DrugBank.d489.s5.e1" text="beta-adrenergic blocking agents" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d489.s5.e0" e2="DDI-DrugBank.d489.s5.e1" id="DDI-DrugBank.d489.s5.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d489.s6" text="Hypotension, AV conduction disturbances, and left ventricular failure have been reported in some patients receiving beta-adrenergic blocking agents when an oral calcium antagonist was added to the treatment regimen.">
+        <entity charOffset="116-146" id="DDI-DrugBank.d489.s6.e0" text="beta-adrenergic blocking agents" type="group" />
+        <entity charOffset="161-178" id="DDI-DrugBank.d489.s6.e1" text="calcium antagonist" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d489.s6.e0" e2="DDI-DrugBank.d489.s6.e1" id="DDI-DrugBank.d489.s6.p0" type="effect" />
+    </sentence>
+    </document>

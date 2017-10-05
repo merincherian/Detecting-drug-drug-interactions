@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d358">
+    <sentence id="DDI-DrugBank.d358.s2" text="Population pharmacokinetic studies showed higher concentrations of cilostazol among patients concurrently treated with diltiazem, an inhibitor of C.P.A..">
+        <entity charOffset="67-76" id="DDI-DrugBank.d358.s2.e0" text="cilostazol" type="drug" />
+        <entity charOffset="119-127" id="DDI-DrugBank.d358.s2.e1" text="diltiazem" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d358.s2.e0" e2="DDI-DrugBank.d358.s2.e1" id="DDI-DrugBank.d358.s2.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d358.s3" text="Pletal does not, however, appear to cause increased blood levels of drugs metabolized by CYP3A4, as it had no effect on lovastatin, a drug with metabolism very sensitive to C.P.A. inhibition.">
+        <entity charOffset="0-5" id="DDI-DrugBank.d358.s3.e0" text="Pletal" type="brand" />
+        <entity charOffset="120-129" id="DDI-DrugBank.d358.s3.e1" text="lovastatin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d358.s3.e0" e2="DDI-DrugBank.d358.s3.e1" id="DDI-DrugBank.d358.s3.p0" />
+    </sentence>
+</document>

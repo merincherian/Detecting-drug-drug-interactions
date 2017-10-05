@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d523">
+    <sentence id="DDI-DrugBank.d523.s1" text="Interactions attributed to the combined use of baclofen injection and epidural morphine include hypotension and dyspnea.">
+        <entity charOffset="47-54" id="DDI-DrugBank.d523.s1.e0" text="baclofen" type="drug" />
+        <entity charOffset="79-86" id="DDI-DrugBank.d523.s1.e1" text="morphine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d523.s1.e0" e2="DDI-DrugBank.d523.s1.e1" id="DDI-DrugBank.d523.s1.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d523.s2" text="SIDE EFFECTS (KEMSTRO) The most common adverse reaction during treatment with baclofen is transient drowsiness (10-63%).">
+        <entity charOffset="14-20" id="DDI-DrugBank.d523.s2.e0" text="KEMSTRO" type="brand" />
+        <entity charOffset="78-85" id="DDI-DrugBank.d523.s2.e1" text="baclofen" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d523.s2.e0" e2="DDI-DrugBank.d523.s2.e1" id="DDI-DrugBank.d523.s2.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d523.s16" text="The adverse experience profile seen with KEMSTROTM was similar to that seen with baclofen tablets.">
+        <entity charOffset="41-49" id="DDI-DrugBank.d523.s16.e0" text="KEMSTROTM" type="brand" />
+        <entity charOffset="81-88" id="DDI-DrugBank.d523.s16.e1" text="baclofen" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d523.s16.e0" e2="DDI-DrugBank.d523.s16.e1" id="DDI-DrugBank.d523.s16.p0" />
+    </sentence>
+</document>

@@ -1,0 +1,22 @@
+<document id="DDI-DrugBank.d99">
+    <sentence id="DDI-DrugBank.d99.s10" text="Nevertheless, caution is indicated in the coadministration of TCAs with any of the SSRIs and also in switching from one class to the other.">
+        <entity charOffset="62-65" id="DDI-DrugBank.d99.s10.e0" text="TCAs" type="group" />
+        <entity charOffset="83-87" id="DDI-DrugBank.d99.s10.e1" text="SSRIs" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d99.s10.e0" e2="DDI-DrugBank.d99.s10.e1" id="DDI-DrugBank.d99.s10.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d99.s20" text="Paralytic ileus may occur in patients taking tricyclic antidepressants in combination with anticholinergic-type drugs.">
+        <entity charOffset="45-69" id="DDI-DrugBank.d99.s20.e0" text="tricyclic antidepressants" type="drug" />
+        <entity charOffset="91-105" id="DDI-DrugBank.d99.s20.e1" text="anticholinergic" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d99.s20.e0" e2="DDI-DrugBank.d99.s20.e1" id="DDI-DrugBank.d99.s20.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d99.s22" text="Clinically significant effects have been reported with the tricyclic antidepressants when used concomitantly with cimetidine.">
+        <entity charOffset="59-83" id="DDI-DrugBank.d99.s22.e0" text="tricyclic antidepressants" type="drug" />
+        <entity charOffset="114-123" id="DDI-DrugBank.d99.s22.e1" text="cimetidine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d99.s22.e0" e2="DDI-DrugBank.d99.s22.e1" id="DDI-DrugBank.d99.s22.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d99.s26" text="Transient delirium has been reported in patients who were treated with one gram of ethchlorvynol and 75 - 150 mg of amitriptyline HCl.">
+        <entity charOffset="83-95" id="DDI-DrugBank.d99.s26.e0" text="ethchlorvynol" type="drug" />
+        <entity charOffset="116-132" id="DDI-DrugBank.d99.s26.e1" text="amitriptyline HCl" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d99.s26.e0" e2="DDI-DrugBank.d99.s26.e1" id="DDI-DrugBank.d99.s26.p0" type="effect" />
+    </sentence>
+</document>

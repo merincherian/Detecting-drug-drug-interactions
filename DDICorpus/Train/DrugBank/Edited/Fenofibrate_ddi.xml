@@ -1,0 +1,32 @@
+<document id="DDI-DrugBank.d283">
+    <sentence id="DDI-DrugBank.d283.s6" text="The benefits and risks of using TRICOR with immunosuppressants and other potentially nephrotoxic agents should be carefully considered, and the lowest effective dose employed">
+        <entity charOffset="32-37" id="DDI-DrugBank.d283.s6.e0" text="TRICOR" type="brand" />
+        <entity charOffset="44-61" id="DDI-DrugBank.d283.s6.e1" text="immunosuppressants" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d283.s6.e0" e2="DDI-DrugBank.d283.s6.e1" id="DDI-DrugBank.d283.s6.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d283.s8" text="Drug-drug interactions In vitro studies using human liver microsomes indicate that fenofibrate and fenofibric acid are not inhibitors of cytochrome (CYP) P450 isoforms CYP3A4, CYP2D6, CYP2E1, or CYP1A2.">
+        <entity charOffset="83-93" id="DDI-DrugBank.d283.s8.e0" text="fenofibrate" type="drug" />
+        <entity charOffset="99-113" id="DDI-DrugBank.d283.s8.e1" text="fenofibric acid" type="drug_n" />
+        <pair ddi="false" e1="DDI-DrugBank.d283.s8.e0" e2="DDI-DrugBank.d283.s8.e1" id="DDI-DrugBank.d283.s8.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d283.s12" text="Therefore, fenofibrate should be taken at least 1 hour before or 4-6 hours after a bile acid binding resin to avoid impeding its absorption .">
+        <entity charOffset="11-21" id="DDI-DrugBank.d283.s12.e0" text="fenofibrate" type="drug" />
+        <entity charOffset="83-105" id="DDI-DrugBank.d283.s12.e1" text="bile acid binding resin" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d283.s12.e0" e2="DDI-DrugBank.d283.s12.e1" id="DDI-DrugBank.d283.s12.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d283.s14" text="A single dose of pravastatin had no clinically important effect on the pharmacokinetics of fenofibric acid.">
+        <entity charOffset="17-27" id="DDI-DrugBank.d283.s14.e0" text="pravastatin" type="drug" />
+        <entity charOffset="91-105" id="DDI-DrugBank.d283.s14.e1" text="fenofibric acid" type="drug_n" />
+        <pair ddi="false" e1="DDI-DrugBank.d283.s14.e0" e2="DDI-DrugBank.d283.s14.e1" id="DDI-DrugBank.d283.s14.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d283.s16" text="The atorvastatin Cmax values were not significantly affected by fenofibrate.">
+        <entity charOffset="4-15" id="DDI-DrugBank.d283.s16.e0" text="atorvastatin" type="drug" />
+        <entity charOffset="64-74" id="DDI-DrugBank.d283.s16.e1" text="fenofibrate" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d283.s16.e0" e2="DDI-DrugBank.d283.s16.e1" id="DDI-DrugBank.d283.s16.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d283.s17" text="The pharmacokinetics of fenofibric acid were not significantly affected by atorvastatin">
+        <entity charOffset="24-38" id="DDI-DrugBank.d283.s17.e0" text="fenofibric acid" type="drug_n" />
+        <entity charOffset="75-86" id="DDI-DrugBank.d283.s17.e1" text="atorvastatin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d283.s17.e0" e2="DDI-DrugBank.d283.s17.e1" id="DDI-DrugBank.d283.s17.p0" />
+    </sentence>
+    </document>

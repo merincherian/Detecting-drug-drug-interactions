@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d28">
+    <sentence id="DDI-DrugBank.d28.s1" text="Results from existing clinical trials suggest no significant interactions between COPAXONE  and other therapies commonly used in MS patients, including the concurrent use of corticosteroids for up to 28 days.">
+        <entity charOffset="82-89" id="DDI-DrugBank.d28.s1.e0" text="COPAXONE" type="brand" />
+        <entity charOffset="174-188" id="DDI-DrugBank.d28.s1.e1" text="corticosteroids" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d28.s1.e0" e2="DDI-DrugBank.d28.s1.e1" id="DDI-DrugBank.d28.s1.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d28.s2" text="COPAXONE  has not been formally evaluated in combination with Interferon beta.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d28.s2.e0" text="COPAXONE" type="brand" />
+        <entity charOffset="62-76" id="DDI-DrugBank.d28.s2.e1" text="Interferon beta" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d28.s2.e0" e2="DDI-DrugBank.d28.s2.e1" id="DDI-DrugBank.d28.s2.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d28.s3" text="However, 10 patients who switched from therapy with Interferon beta to COPAXONE  did not report any serious and unexpected adverse reactions thought to be related to treatment.">
+        <entity charOffset="52-66" id="DDI-DrugBank.d28.s3.e0" text="Interferon beta" type="drug" />
+        <entity charOffset="71-78" id="DDI-DrugBank.d28.s3.e1" text="COPAXONE" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d28.s3.e0" e2="DDI-DrugBank.d28.s3.e1" id="DDI-DrugBank.d28.s3.p0" />
+    </sentence>
+</document>

@@ -1,0 +1,27 @@
+<document id="DDI-DrugBank.d124">
+    <sentence id="DDI-DrugBank.d124.s1" text="Several drug interaction studies have been completed with both INVIRASE and FORTOVASE.">
+        <entity charOffset="63-70" id="DDI-DrugBank.d124.s1.e0" text="INVIRASE" type="brand" />
+        <entity charOffset="76-84" id="DDI-DrugBank.d124.s1.e1" text="FORTOVASE" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d124.s1.e0" e2="DDI-DrugBank.d124.s1.e1" id="DDI-DrugBank.d124.s1.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d124.s2" text="Observations from drug interaction studies with FORTOVASE may not be predictive for INVIRASE.">
+        <entity charOffset="48-56" id="DDI-DrugBank.d124.s2.e0" text="FORTOVASE" type="brand" />
+        <entity charOffset="84-91" id="DDI-DrugBank.d124.s2.e1" text="INVIRASE" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d124.s2.e0" e2="DDI-DrugBank.d124.s2.e1" id="DDI-DrugBank.d124.s2.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d124.s3" text="Because ritonavir is coadministered, prescribers should also refer to the prescribing information for ritonavir regarding drug interactions associated with this agent.">
+        <entity charOffset="8-16" id="DDI-DrugBank.d124.s3.e0" text="ritonavir" type="drug" />
+        <entity charOffset="102-110" id="DDI-DrugBank.d124.s3.e1" text="ritonavir" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d124.s3.e0" e2="DDI-DrugBank.d124.s3.e1" id="DDI-DrugBank.d124.s3.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d124.s9" text="Additional drugs that are not recommended for coadministration with INVIRASE and ritonavir are included below.">
+        <entity charOffset="68-75" id="DDI-DrugBank.d124.s9.e0" text="INVIRASE" type="brand" />
+        <entity charOffset="81-89" id="DDI-DrugBank.d124.s9.e1" text="ritonavir" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d124.s9.e0" e2="DDI-DrugBank.d124.s9.e1" id="DDI-DrugBank.d124.s9.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d124.s12" text="Drugs That Should Not Be Coadministered With INVIRASE/Ritonavir">
+        <entity charOffset="45-52" id="DDI-DrugBank.d124.s12.e0" text="INVIRASE" type="brand" />
+        <entity charOffset="54-62" id="DDI-DrugBank.d124.s12.e1" text="Ritonavir" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d124.s12.e0" e2="DDI-DrugBank.d124.s12.e1" id="DDI-DrugBank.d124.s12.p0" />
+    </sentence>
+    </document>

@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d116">
+    <sentence id="DDI-DrugBank.d116.s0" text="Careful observation is required when amantadine is administered concurrently with central nervous system stimulants.">
+        <entity charOffset="37-46" id="DDI-DrugBank.d116.s0.e0" text="amantadine" type="drug" />
+        <entity charOffset="82-114" id="DDI-DrugBank.d116.s0.e1" text="central nervous system stimulants" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d116.s0.e0" e2="DDI-DrugBank.d116.s0.e1" id="DDI-DrugBank.d116.s0.p0" type="advise" />
+    </sentence>
+    </document>

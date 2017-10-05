@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d79">
+    <sentence id="DDI-DrugBank.d79.s1" text="Oral contraceptives may be less effective while you are taking lymecycline.">
+        <entity charOffset="5-18" id="DDI-DrugBank.d79.s1.e0" text="contraceptives" type="group" />
+        <entity charOffset="63-73" id="DDI-DrugBank.d79.s1.e1" text="lymecycline" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d79.s1.e0" e2="DDI-DrugBank.d79.s1.e1" id="DDI-DrugBank.d79.s1.p0" type="effect" />
+    </sentence>
+</document>

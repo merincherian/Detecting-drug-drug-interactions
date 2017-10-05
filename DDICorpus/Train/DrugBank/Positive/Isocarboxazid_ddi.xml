@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d108">
+    <sentence id="DDI-DrugBank.d108.s1" text="In a single study, rats given high intraperitoneal doses of an MAO inhibitor plus disulfiram experienced severe toxicity, including convulsions and death.">
+        <entity charOffset="63-75" id="DDI-DrugBank.d108.s1.e0" text="MAO inhibitor" type="group" />
+        <entity charOffset="82-91" id="DDI-DrugBank.d108.s1.e1" text="disulfiram" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d108.s1.e0" e2="DDI-DrugBank.d108.s1.e1" id="DDI-DrugBank.d108.s1.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d108.s2" text="Concomitant use of Isocarboxazid and other psychotropic agents is generally not recommended because of possible potentiating effects.">
+        <entity charOffset="19-31" id="DDI-DrugBank.d108.s2.e0" text="Isocarboxazid" type="drug" />
+        <entity charOffset="43-61" id="DDI-DrugBank.d108.s2.e1" text="psychotropic agents" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d108.s2.e0" e2="DDI-DrugBank.d108.s2.e1" id="DDI-DrugBank.d108.s2.p0" type="advise" />
+    </sentence>
+    </document>

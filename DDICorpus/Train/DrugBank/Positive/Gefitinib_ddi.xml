@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d207">
+    <sentence id="DDI-DrugBank.d207.s2" text="International Normalized Ratio (INR) elevations and/or bleeding events have been reported in some patients taking warfarin while on IRESSA therapy.">
+        <entity charOffset="114-121" id="DDI-DrugBank.d207.s2.e0" text="warfarin" type="drug" />
+        <entity charOffset="132-137" id="DDI-DrugBank.d207.s2.e1" text="IRESSA" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d207.s2.e0" e2="DDI-DrugBank.d207.s2.e1" id="DDI-DrugBank.d207.s2.p0" type="effect" />
+    </sentence>
+    </document>

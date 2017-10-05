@@ -1,0 +1,27 @@
+<document id="DDI-DrugBank.d172">
+    <sentence id="DDI-DrugBank.d172.s10" text="This interaction should be given consideration in patients taking CELEBREX concomitantly with ACE-inhibitors.">
+        <entity charOffset="66-73" id="DDI-DrugBank.d172.s10.e0" text="CELEBREX" type="brand" />
+        <entity charOffset="94-107" id="DDI-DrugBank.d172.s10.e1" text="ACE-inhibitors" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d172.s10.e0" e2="DDI-DrugBank.d172.s10.e1" id="DDI-DrugBank.d172.s10.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d172.s17" text="This increase is due to the inhibition of celecoxib metabolism via P450 2C9 by fluconazole (see CLINICAL PHARMACOLOGY - Pharmacokinetics: Metabolism).">
+        <entity charOffset="42-50" id="DDI-DrugBank.d172.s17.e0" text="celecoxib" type="drug" />
+        <entity charOffset="79-89" id="DDI-DrugBank.d172.s17.e1" text="fluconazole" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d172.s17.e0" e2="DDI-DrugBank.d172.s17.e1" id="DDI-DrugBank.d172.s17.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d172.s18" text="CELEBREX should be introduced at the lowest recommended dose in patients receiving fluconazole.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d172.s18.e0" text="CELEBREX" type="brand" />
+        <entity charOffset="83-93" id="DDI-DrugBank.d172.s18.e1" text="fluconazole" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d172.s18.e0" e2="DDI-DrugBank.d172.s18.e1" id="DDI-DrugBank.d172.s18.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d172.s20" text="Patients on lithium treatment should be closely monitored when CELEBREX is introduced or withdrawn.">
+        <entity charOffset="12-18" id="DDI-DrugBank.d172.s20.e0" text="lithium" type="drug" />
+        <entity charOffset="63-70" id="DDI-DrugBank.d172.s20.e1" text="CELEBREX" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d172.s20.e0" e2="DDI-DrugBank.d172.s20.e1" id="DDI-DrugBank.d172.s20.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d172.s24" text="However, caution should be used when administering CELEBREX with warfarin since these patients are at increased risk of bleeding complications.">
+        <entity charOffset="51-58" id="DDI-DrugBank.d172.s24.e0" text="CELEBREX" type="brand" />
+        <entity charOffset="65-72" id="DDI-DrugBank.d172.s24.e1" text="warfarin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d172.s24.e0" e2="DDI-DrugBank.d172.s24.e1" id="DDI-DrugBank.d172.s24.p0" type="advise" />
+    </sentence>
+</document>

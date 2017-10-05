@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d481">
+    <sentence id="DDI-DrugBank.d481.s0" text="Milk, milk products, and calcium-rich foods or drugs may impair the absorption of EMCYT.">
+        <entity charOffset="25-31" id="DDI-DrugBank.d481.s0.e0" text="calcium" type="drug" />
+        <entity charOffset="82-86" id="DDI-DrugBank.d481.s0.e1" text="EMCYT" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d481.s0.e0" e2="DDI-DrugBank.d481.s0.e1" id="DDI-DrugBank.d481.s0.p0" type="mechanism" />
+    </sentence>
+</document>

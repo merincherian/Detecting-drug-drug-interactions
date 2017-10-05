@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d636">
+    <sentence id="DDI-DrugBank.d636.s0" text="Some anticonvulsants may interact with Mephenytoin. ">
+        <entity charOffset="5-19" id="DDI-DrugBank.d636.s0.e0" text="anticonvulsants" type="group" />
+        <entity charOffset="39-49" id="DDI-DrugBank.d636.s0.e1" text="Mephenytoin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d636.s0.e0" e2="DDI-DrugBank.d636.s0.e1" id="DDI-DrugBank.d636.s0.p0" type="int" />
+    </sentence>
+    </document>

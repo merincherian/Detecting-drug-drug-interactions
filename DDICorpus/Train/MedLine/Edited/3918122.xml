@@ -1,0 +1,22 @@
+<document id="DDI-MedLine.d45">
+    <sentence id="DDI-MedLine.d45.s0" text="Selective survival in pentazocine and tripelennamine of Pseudomonas aeruginosa serotype O11 from drug addicts.&#10;">
+        <entity charOffset="22-32" id="DDI-MedLine.d45.s0.e0" text="pentazocine" type="drug" />
+        <entity charOffset="38-51" id="DDI-MedLine.d45.s0.e1" text="tripelennamine" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d45.s0.e0" e2="DDI-MedLine.d45.s0.e1" id="DDI-MedLine.d45.s0.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d45.s1" text="The growth of Pseudomonas aeruginosa, particularly serotype O11, in pentazocine and tripelennamine ">
+        <entity charOffset="68-78" id="DDI-MedLine.d45.s1.e0" text="pentazocine" type="drug" />
+        <entity charOffset="84-97" id="DDI-MedLine.d45.s1.e1" text="tripelennamine" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d45.s1.e0" e2="DDI-MedLine.d45.s1.e1" id="DDI-MedLine.d45.s1.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d45.s6" text="Dose-response curves (derived from the results of using the tablets as well as pure powders) showed that tripelennamine was responsible for the inhibitory activity, which was partially antagonized by pentazocine. ">
+        <entity charOffset="105-118" id="DDI-MedLine.d45.s6.e0" text="tripelennamine" type="drug" />
+        <entity charOffset="200-210" id="DDI-MedLine.d45.s6.e1" text="pentazocine" type="drug" />
+        <pair ddi="true" e1="DDI-MedLine.d45.s6.e0" e2="DDI-MedLine.d45.s6.e1" id="DDI-MedLine.d45.s6.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-MedLine.d45.s9" text="aureus, to survive in pentazocine and tripelennamine may explain in part a shift from S. ">
+        <entity charOffset="22-32" id="DDI-MedLine.d45.s9.e0" text="pentazocine" type="drug" />
+        <entity charOffset="38-51" id="DDI-MedLine.d45.s9.e1" text="tripelennamine" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d45.s9.e0" e2="DDI-MedLine.d45.s9.e1" id="DDI-MedLine.d45.s9.p0" />
+    </sentence>
+    </document>

@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d131">
+    <sentence id="DDI-DrugBank.d131.s6" text="Coadministration of propoxyphene decreased the maximum plasma concentration of alprazolam by 6%, decreased clearance by 38%, and increased half-life by 58%.">
+        <entity charOffset="20-31" id="DDI-DrugBank.d131.s6.e0" text="propoxyphene" type="drug" />
+        <entity charOffset="79-88" id="DDI-DrugBank.d131.s6.e1" text="alprazolam" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d131.s6.e0" e2="DDI-DrugBank.d131.s6.e1" id="DDI-DrugBank.d131.s6.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d131.s7" text="Coadministration of oral contraceptives increased the maximum plasma concentration of alprazolam by 18%, decreased clearance by 22%, and increased half-life by 29%.">
+        <entity charOffset="25-38" id="DDI-DrugBank.d131.s7.e0" text="contraceptives" type="group" />
+        <entity charOffset="86-95" id="DDI-DrugBank.d131.s7.e1" text="alprazolam" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d131.s7.e0" e2="DDI-DrugBank.d131.s7.e1" id="DDI-DrugBank.d131.s7.p0" type="mechanism" />
+    </sentence>
+    </document>

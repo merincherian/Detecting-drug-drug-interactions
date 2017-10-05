@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d654">
+    <sentence id="DDI-DrugBank.d654.s2" text="Based on in vitro P450 inhibition studies and the low systemic exposure observed following topical application of ALTABAX, retapamulin is unlikely to affect the metabolism of other P450 substrates. ">
+        <entity charOffset="114-120" id="DDI-DrugBank.d654.s2.e0" text="ALTABAX" type="brand" />
+        <entity charOffset="123-133" id="DDI-DrugBank.d654.s2.e1" text="retapamulin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d654.s2.e0" e2="DDI-DrugBank.d654.s2.e1" id="DDI-DrugBank.d654.s2.p0" />
+    </sentence>
+    </document>

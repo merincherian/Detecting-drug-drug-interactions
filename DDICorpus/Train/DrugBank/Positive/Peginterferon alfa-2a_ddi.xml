@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d196">
+    <sentence id="DDI-DrugBank.d196.s0" text="Treatment with PEGASYS once weekly for 4 weeks in healthy subjects was associated with an inhibition of P450 1A2 and a 25% increase in theophylline AUC.">
+        <entity charOffset="15-21" id="DDI-DrugBank.d196.s0.e0" text="PEGASYS" type="brand" />
+        <entity charOffset="135-146" id="DDI-DrugBank.d196.s0.e1" text="theophylline" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d196.s0.e0" e2="DDI-DrugBank.d196.s0.e1" id="DDI-DrugBank.d196.s0.p0" type="mechanism" />
+    </sentence>
+    </document>

@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d570">
+    <sentence id="DDI-DrugBank.d570.s0" text="Drug/ Laboratory Test Interactions Certain endocrine and liver function tests may be affected by estrogen-containing oral contraceptives.">
+        <entity charOffset="97-104" id="DDI-DrugBank.d570.s0.e0" text="estrogen" type="group" />
+        <entity charOffset="122-135" id="DDI-DrugBank.d570.s0.e1" text="contraceptives" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d570.s0.e0" e2="DDI-DrugBank.d570.s0.e1" id="DDI-DrugBank.d570.s0.p0" />
+    </sentence>
+    </document>

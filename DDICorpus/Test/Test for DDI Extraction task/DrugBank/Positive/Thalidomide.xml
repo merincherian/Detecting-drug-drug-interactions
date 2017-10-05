@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d604">
+    <sentence id="DDI-DrugBank.d604.s5" text="John's Wort with hormonal contraceptive agents may reduce the effectiveness of the contraception and up to one month after discontinuation of these concomitant therapies. ">
+        <entity charOffset="0-10" id="DDI-DrugBank.d604.s5.e0" text="John's Wort" type="drug_n" />
+        <entity charOffset="17-45" id="DDI-DrugBank.d604.s5.e1" text="hormonal contraceptive agents" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d604.s5.e0" e2="DDI-DrugBank.d604.s5.e1" id="DDI-DrugBank.d604.s5.p0" type="effect" />
+    </sentence>
+    </document>

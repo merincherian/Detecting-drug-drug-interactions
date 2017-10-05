@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d581">
+    <sentence id="DDI-DrugBank.d581.s2" text="patients receiving lithium and Neulasta should have more frequent monitoring of neutrophil counts.">
+        <entity charOffset="19-25" id="DDI-DrugBank.d581.s2.e0" text="lithium" type="drug" />
+        <entity charOffset="31-38" id="DDI-DrugBank.d581.s2.e1" text="Neulasta" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d581.s2.e0" e2="DDI-DrugBank.d581.s2.e1" id="DDI-DrugBank.d581.s2.p0" type="advise" />
+    </sentence>
+</document>

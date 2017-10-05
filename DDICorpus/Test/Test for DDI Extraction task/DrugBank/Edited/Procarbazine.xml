@@ -1,0 +1,13 @@
+<document id="DDI-DrugBank.d676">
+    <sentence id="DDI-DrugBank.d676.s1" text="Ethyl alcohol should not be used since there may be an Antabuse (disulfiram)-like reaction. ">
+        <entity charOffset="0-12" id="DDI-DrugBank.d676.s1.e0" text="Ethyl alcohol" type="drug" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d676.s3" text="A further phenomenon of toxicity common to many hydrazine derivatives is hemolysis and the appearance of Heinz-Ehrlich inclusion bodies in erythrocytes.  ">
+        <entity charOffset="48-68" id="DDI-DrugBank.d676.s3.e0" text="hydrazine derivatives" type="group" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d676.s4" text="No cross-resistance with other chemotherapeutic agents, radiotherapy or steroids has been demonstrated.">
+        <entity charOffset="31-53" id="DDI-DrugBank.d676.s4.e0" text="chemotherapeutic agents" type="group" />
+        <entity charOffset="72-79" id="DDI-DrugBank.d676.s4.e1" text="steroids" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d676.s4.e0" e2="DDI-DrugBank.d676.s4.e1" id="DDI-DrugBank.d676.s4.p0" />
+    </sentence>
+</document>

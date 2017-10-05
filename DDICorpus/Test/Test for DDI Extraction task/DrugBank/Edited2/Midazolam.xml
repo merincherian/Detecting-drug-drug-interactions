@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d752">
+    <sentence id="DDI-DrugBank.d752.s9" text="The difficulty in achieving adequate sedation may have been the result of decreased absorption of the sedatives due to both the gastrointestinal effects and stimulant effects of methylphenidate. ">
+        <entity charOffset="102-110" id="DDI-DrugBank.d752.s9.e0" text="sedatives" type="group" />
+        <entity charOffset="178-192" id="DDI-DrugBank.d752.s9.e1" text="methylphenidate" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d752.s9.e0" e2="DDI-DrugBank.d752.s9.e1" id="DDI-DrugBank.d752.s9.p0" />
+    </sentence>
+    </document>

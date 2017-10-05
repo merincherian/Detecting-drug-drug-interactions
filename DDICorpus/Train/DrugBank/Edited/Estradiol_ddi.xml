@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d301">
+    <sentence id="DDI-DrugBank.d301.s14" text="Other binding proteins may be elevated in serum, i.e., corticosteroid binding globulin (CBG), sex hormone-binding globulin (SHBG), leading to increased total circulating corticosteroids and sex steroids, respectively.">
+        <entity charOffset="170-184" id="DDI-DrugBank.d301.s14.e0" text="corticosteroids" type="group" />
+        <entity charOffset="190-201" id="DDI-DrugBank.d301.s14.e1" text="sex steroids" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d301.s14.e0" e2="DDI-DrugBank.d301.s14.e1" id="DDI-DrugBank.d301.s14.p0" />
+    </sentence>
+    </document>

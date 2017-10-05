@@ -1,0 +1,8 @@
+<document id="DDI-DrugBank.d675">
+    <sentence id="DDI-DrugBank.d675.s1" text="Although there have been no reports of such interactions with methylergonovine alone, potent CYP 3A4 inhibitors should not be coadministered with methylergonovine. ">
+        <entity charOffset="62-77" id="DDI-DrugBank.d675.s1.e0" text="methylergonovine" type="drug" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d675.s5" text="These lists are not exhaustive, and the prescriber should consider the effects on CYP 3A4 of other agents being considered for concomitant use with methylergonovine. ">
+        <entity charOffset="148-163" id="DDI-DrugBank.d675.s5.e0" text="methylergonovine" type="drug" />
+    </sentence>
+    </document>

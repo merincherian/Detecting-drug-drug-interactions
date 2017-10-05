@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d258">
+    <sentence id="DDI-DrugBank.d258.s3" text="No effects on plasma concentrations of cimetidine or ketoconazole were observed.">
+        <entity charOffset="39-48" id="DDI-DrugBank.d258.s3.e0" text="cimetidine" type="drug" />
+        <entity charOffset="53-64" id="DDI-DrugBank.d258.s3.e1" text="ketoconazole" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d258.s3.e0" e2="DDI-DrugBank.d258.s3.e1" id="DDI-DrugBank.d258.s3.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d258.s8" text="Loratadine Descarboethoxyloratadine">
+        <entity charOffset="0-9" id="DDI-DrugBank.d258.s8.e0" text="Loratadine" type="drug" />
+        <entity charOffset="11-34" id="DDI-DrugBank.d258.s8.e1" text="Descarboethoxyloratadine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d258.s8.e0" e2="DDI-DrugBank.d258.s8.e1" id="DDI-DrugBank.d258.s8.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d258.s12" text="There does not appear to be an increase in adverse events in subjects who received oral contraceptives and loratadine.">
+        <entity charOffset="88-101" id="DDI-DrugBank.d258.s12.e0" text="contraceptives" type="group" />
+        <entity charOffset="107-116" id="DDI-DrugBank.d258.s12.e1" text="loratadine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d258.s12.e0" e2="DDI-DrugBank.d258.s12.e1" id="DDI-DrugBank.d258.s12.p0" />
+    </sentence>
+</document>

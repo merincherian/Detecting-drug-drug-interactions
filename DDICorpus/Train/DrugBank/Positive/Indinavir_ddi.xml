@@ -1,0 +1,52 @@
+<document id="DDI-DrugBank.d97">
+    <sentence id="DDI-DrugBank.d97.s26" text="Combinations of these drugs have not been studied and coadministration of CRIXIVAN and atazanavir is not recommended.">
+        <entity charOffset="74-81" id="DDI-DrugBank.d97.s26.e0" text="CRIXIVAN" type="brand" />
+        <entity charOffset="87-96" id="DDI-DrugBank.d97.s26.e1" text="atazanavir" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d97.s26.e0" e2="DDI-DrugBank.d97.s26.e1" id="DDI-DrugBank.d97.s26.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d97.s35" text="Dose reduction of CRIXIVAN to 600 mg every 8 hours should be considered when taking delavirdine 400 mg three times a day.">
+        <entity charOffset="18-25" id="DDI-DrugBank.d97.s35.e0" text="CRIXIVAN" type="brand" />
+        <entity charOffset="84-94" id="DDI-DrugBank.d97.s35.e1" text="delavirdine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d97.s35.e0" e2="DDI-DrugBank.d97.s35.e1" id="DDI-DrugBank.d97.s35.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d97.s37" text="Indinavir and didanosine formulations containing buffer should be administered at least one hour apart on an empty stomach.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d97.s37.e0" text="Indinavir" type="drug" />
+        <entity charOffset="14-23" id="DDI-DrugBank.d97.s37.e1" text="didanosine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d97.s37.e0" e2="DDI-DrugBank.d97.s37.e1" id="DDI-DrugBank.d97.s37.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d97.s47" text="Indinavir concentrations may be decreased in the presence of nevirapine.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d97.s47.e0" text="Indinavir" type="drug" />
+        <entity charOffset="61-70" id="DDI-DrugBank.d97.s47.e1" text="nevirapine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d97.s47.e0" e2="DDI-DrugBank.d97.s47.e1" id="DDI-DrugBank.d97.s47.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d97.s59" text="Caution is warranted and therapeutic concentration monitoring is recommended for antiarrhythmics when coadministered with CRIXIVAN.">
+        <entity charOffset="81-95" id="DDI-DrugBank.d97.s59.e0" text="antiarrhythmics" type="group" />
+        <entity charOffset="122-129" id="DDI-DrugBank.d97.s59.e1" text="CRIXIVAN" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d97.s59.e0" e2="DDI-DrugBank.d97.s59.e1" id="DDI-DrugBank.d97.s59.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d97.s63" text="CRIXIVAN may not be effective due to decreased indinavir concentrations in patients taking these agents concomitantly.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d97.s63.e0" text="CRIXIVAN" type="brand" />
+        <entity charOffset="47-55" id="DDI-DrugBank.d97.s63.e1" text="indinavir" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d97.s63.e0" e2="DDI-DrugBank.d97.s63.e1" id="DDI-DrugBank.d97.s63.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d97.s78" text="Dose reduction of CRIXIVAN to 600 mg every 8 hours is recommended when administering itraconazole concurrently.">
+        <entity charOffset="18-25" id="DDI-DrugBank.d97.s78.e0" text="CRIXIVAN" type="brand" />
+        <entity charOffset="85-96" id="DDI-DrugBank.d97.s78.e1" text="itraconazole" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d97.s78.e0" e2="DDI-DrugBank.d97.s78.e1" id="DDI-DrugBank.d97.s78.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d97.s87" text="Sildenafil dose should not exceed a maximum of 25 mg in a 48- hour period in patients receiving concomitant indinavir therapy.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d97.s87.e0" text="Sildenafil" type="drug" />
+        <entity charOffset="108-116" id="DDI-DrugBank.d97.s87.e1" text="indinavir" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d97.s87.e0" e2="DDI-DrugBank.d97.s87.e1" id="DDI-DrugBank.d97.s87.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d97.s90" text="Tadalafil dose should not exceed a maximum of 10 mg in a 72- hour period in patients receiving concomitant indinavir therapy.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d97.s90.e0" text="Tadalafil" type="drug" />
+        <entity charOffset="107-115" id="DDI-DrugBank.d97.s90.e1" text="indinavir" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d97.s90.e0" e2="DDI-DrugBank.d97.s90.e1" id="DDI-DrugBank.d97.s90.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d97.s93" text="Vardenafil dose should not exceed a maximum of 2.5 mg in a 24-hour period in patients receiving concomitant indinavir therapy.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d97.s93.e0" text="Vardenafil" type="drug" />
+        <entity charOffset="108-116" id="DDI-DrugBank.d97.s93.e1" text="indinavir" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d97.s93.e0" e2="DDI-DrugBank.d97.s93.e1" id="DDI-DrugBank.d97.s93.p0" type="advise" />
+    </sentence>
+    </document>

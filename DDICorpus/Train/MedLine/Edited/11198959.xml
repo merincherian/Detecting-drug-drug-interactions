@@ -1,0 +1,8 @@
+<document id="DDI-MedLine.d35">
+    <sentence id="DDI-MedLine.d35.s2" text="Genetic variation in metabolism may result in high concentrations of drugs and an increased risk of adverse effects in slow metabolizers, which is important when using for example antidepressants or chemotherapy. ">
+        <entity charOffset="180-194" id="DDI-MedLine.d35.s2.e0" text="antidepressants" type="group" />
+    </sentence>
+    <sentence id="DDI-MedLine.d35.s4" text="asthma drugs and antipsychotics. ">
+        <entity charOffset="17-30" id="DDI-MedLine.d35.s4.e0" text="antipsychotics" type="group" />
+    </sentence>
+    </document>

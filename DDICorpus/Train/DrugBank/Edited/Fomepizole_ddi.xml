@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d228">
+    <sentence id="DDI-DrugBank.d228.s0" text="Oral doses of Antizol (10-20 mg/kg), via alcohol dehydrogenase inhibition, significantly reduced the rate of elimination of ethanol (by approximately 40%) given to healthy volunteers in moderate doses.">
+        <entity charOffset="14-20" id="DDI-DrugBank.d228.s0.e0" text="Antizol" type="brand" />
+        <entity charOffset="124-130" id="DDI-DrugBank.d228.s0.e1" text="ethanol" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d228.s0.e0" e2="DDI-DrugBank.d228.s0.e1" id="DDI-DrugBank.d228.s0.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d228.s1" text="Similarly, ethanol decreased the rate of elimination of Antizol (by approximately 50%) by the same mechanism.">
+        <entity charOffset="11-17" id="DDI-DrugBank.d228.s1.e0" text="ethanol" type="drug" />
+        <entity charOffset="56-62" id="DDI-DrugBank.d228.s1.e1" text="Antizol" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d228.s1.e0" e2="DDI-DrugBank.d228.s1.e1" id="DDI-DrugBank.d228.s1.p0" type="mechanism" />
+    </sentence>
+    </document>

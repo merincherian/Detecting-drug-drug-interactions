@@ -1,0 +1,27 @@
+<document id="DDI-DrugBank.d548">
+    <sentence id="DDI-DrugBank.d548.s0" text="Potential for Other Drugs to Affect Duloxetine: Both CYP1A2 and CYP2D6 are responsible for duloxetine metabolism.">
+        <entity charOffset="36-45" id="DDI-DrugBank.d548.s0.e0" text="Duloxetine" type="drug" />
+        <entity charOffset="91-100" id="DDI-DrugBank.d548.s0.e1" text="duloxetine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d548.s0.e0" e2="DDI-DrugBank.d548.s0.e1" id="DDI-DrugBank.d548.s0.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d548.s5" text="Similar effects would be expected with other potent CYP2D6 inhibitors (e.g., fluoxetine, quinidine).">
+        <entity charOffset="77-86" id="DDI-DrugBank.d548.s5.e0" text="fluoxetine" type="drug" />
+        <entity charOffset="89-97" id="DDI-DrugBank.d548.s5.e1" text="quinidine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d548.s5.e0" e2="DDI-DrugBank.d548.s5.e1" id="DDI-DrugBank.d548.s5.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d548.s6" text="Potential for Duloxetine to Affect Other Drugs: Drugs Metabolized by CYP1A2: In vitro drug interaction studies demonstrate that duloxetine does not induce CYP1A2 activity, and it is unlikely to have a clinically significant effect on the metabolism of CYP1A2 substrates.">
+        <entity charOffset="14-23" id="DDI-DrugBank.d548.s6.e0" text="Duloxetine" type="drug" />
+        <entity charOffset="128-137" id="DDI-DrugBank.d548.s6.e1" text="duloxetine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d548.s6.e0" e2="DDI-DrugBank.d548.s6.e1" id="DDI-DrugBank.d548.s6.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d548.s14" text="In the Duloxetine clinical trials database, three Duloxetine-treated patients had liver injury as manifested by ALT and total bilirubin elevations, with evidence of obstruction.">
+        <entity charOffset="7-16" id="DDI-DrugBank.d548.s14.e0" text="Duloxetine" type="drug" />
+        <entity charOffset="50-59" id="DDI-DrugBank.d548.s14.e1" text="Duloxetine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d548.s14.e0" e2="DDI-DrugBank.d548.s14.e1" id="DDI-DrugBank.d548.s14.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d548.s22" text="It is unknown whether the concomitant administration of proton pump inhibitors affects duloxetine absorption.">
+        <entity charOffset="56-77" id="DDI-DrugBank.d548.s22.e0" text="proton pump inhibitors" type="group" />
+        <entity charOffset="87-96" id="DDI-DrugBank.d548.s22.e1" text="duloxetine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d548.s22.e0" e2="DDI-DrugBank.d548.s22.e1" id="DDI-DrugBank.d548.s22.p0" />
+    </sentence>
+</document>

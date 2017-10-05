@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d303">
+    <sentence id="DDI-DrugBank.d303.s1" text="No information is available about the interaction of cephalexin and metformin following multiple doses of either drug.">
+        <entity charOffset="53-62" id="DDI-DrugBank.d303.s1.e0" text="cephalexin" type="drug" />
+        <entity charOffset="68-76" id="DDI-DrugBank.d303.s1.e1" text="metformin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d303.s1.e0" e2="DDI-DrugBank.d303.s1.e1" id="DDI-DrugBank.d303.s1.p0" />
+    </sentence>
+    </document>

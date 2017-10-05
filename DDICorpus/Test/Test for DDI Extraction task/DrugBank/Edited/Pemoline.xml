@@ -1,0 +1,15 @@
+<document id="DDI-DrugBank.d671">
+    <sentence id="DDI-DrugBank.d671.s0" text="The interaction of CYLERT (pemoline) with other drugs has not been studied in humans. ">
+        <entity charOffset="19-24" id="DDI-DrugBank.d671.s0.e0" text="CYLERT" type="brand" />
+        <entity charOffset="27-34" id="DDI-DrugBank.d671.s0.e1" text="pemoline" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d671.s0.e0" e2="DDI-DrugBank.d671.s0.e1" id="DDI-DrugBank.d671.s0.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d671.s1" text="Patients who are receiving CYLERT concurrently with other drugs, especially drugs with CNS activity, should be monitored carefully. ">
+        <entity charOffset="27-32" id="DDI-DrugBank.d671.s1.e0" text="CYLERT" type="brand" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d671.s2" text="Decreased seizure threshold has been reported in patients receiving CYLERT concomitantly with antiepileptic medications.">
+        <entity charOffset="68-73" id="DDI-DrugBank.d671.s2.e0" text="CYLERT" type="brand" />
+        <entity charOffset="94-118" id="DDI-DrugBank.d671.s2.e1" text="antiepileptic medications" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d671.s2.e0" e2="DDI-DrugBank.d671.s2.e1" id="DDI-DrugBank.d671.s2.p0" type="effect" />
+    </sentence>
+</document>

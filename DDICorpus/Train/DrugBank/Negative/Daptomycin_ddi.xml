@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d337">
+    <sentence id="DDI-DrugBank.d337.s1" text="HMG-CoA Reductase Inhibitors: Inhibitors of HMG-CoA reductase may cause myopathy, which is manifested as muscle pain or weakness associated with elevated levels of CPK.">
+        <entity charOffset="0-27" id="DDI-DrugBank.d337.s1.e0" text="HMG-CoA Reductase Inhibitors" type="group" />
+        <entity charOffset="30-60" id="DDI-DrugBank.d337.s1.e1" text="Inhibitors of HMG-CoA reductase" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d337.s1.e0" e2="DDI-DrugBank.d337.s1.e1" id="DDI-DrugBank.d337.s1.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d337.s2" text="There were no reports of skeletal myopathy in a placebo-controlled Phase I trial in which 10 healthy subjects on stable simvastatin therapy were treated concurrently with daptomycin (4 mg/kg once every 24 hours) for 14 days.">
+        <entity charOffset="120-130" id="DDI-DrugBank.d337.s2.e0" text="simvastatin" type="drug" />
+        <entity charOffset="171-180" id="DDI-DrugBank.d337.s2.e1" text="daptomycin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d337.s2.e0" e2="DDI-DrugBank.d337.s2.e1" id="DDI-DrugBank.d337.s2.p0" />
+    </sentence>
+    </document>

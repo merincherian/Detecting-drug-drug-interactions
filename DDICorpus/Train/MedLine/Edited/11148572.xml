@@ -1,0 +1,10 @@
+<document id="DDI-MedLine.d115">
+    <sentence id="DDI-MedLine.d115.s1" text="BACKGROUND: The feasibility and efficacy of concomitant chemotherapy and highly active antiretroviral therapy (HAART) is still unknown in patients with human immunodeficiency virus (HIV)-related malignancies. ">
+        <entity charOffset="73-100" id="DDI-MedLine.d115.s1.e0" text="highly active antiretroviral" type="group" />
+    </sentence>
+    <sentence id="DDI-MedLine.d115.s14" text="However, careful attention must be directed to cross toxicity and possible pharmacokinetic interactions between antiretroviral and antineoplastic drugs. ">
+        <entity charOffset="112-125;146-150" id="DDI-MedLine.d115.s14.e0" text="antiretroviral drugs" type="group" />
+        <entity charOffset="131-150" id="DDI-MedLine.d115.s14.e1" text="antineoplastic drugs" type="group" />
+        <pair ddi="true" e1="DDI-MedLine.d115.s14.e0" e2="DDI-MedLine.d115.s14.e1" id="DDI-MedLine.d115.s14.p0" type="advise" />
+    </sentence>
+    </document>

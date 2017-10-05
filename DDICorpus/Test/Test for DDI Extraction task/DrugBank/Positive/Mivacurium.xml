@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d775">
+    <sentence id="DDI-DrugBank.d775.s1" text="Prior administration of succinylcholine can potentiate the neuromuscular blocking effects of nondepolarizing agents. ">
+        <entity charOffset="24-38" id="DDI-DrugBank.d775.s1.e0" text="succinylcholine" type="drug" />
+        <entity charOffset="93-114" id="DDI-DrugBank.d775.s1.e1" text="nondepolarizing agents" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d775.s1.e0" e2="DDI-DrugBank.d775.s1.e1" id="DDI-DrugBank.d775.s1.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d775.s2" text="Evidence of spontaneous recovery from succinylcholine should be observed before the administration of MIVACRON. ">
+        <entity charOffset="38-52" id="DDI-DrugBank.d775.s2.e0" text="succinylcholine" type="drug" />
+        <entity charOffset="102-109" id="DDI-DrugBank.d775.s2.e1" text="MIVACRON" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d775.s2.e0" e2="DDI-DrugBank.d775.s2.e1" id="DDI-DrugBank.d775.s2.p0" type="advise" />
+    </sentence>
+    </document>

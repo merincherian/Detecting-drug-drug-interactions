@@ -1,0 +1,5 @@
+<document id="DDI-DrugBank.d717">
+    <sentence id="DDI-DrugBank.d717.s2" text="In addition, Mitotane should be given with caution to patients receiving other drugs susceptible to the influence of hepatic enzyme induction.">
+        <entity charOffset="13-20" id="DDI-DrugBank.d717.s2.e0" text="Mitotane" type="drug" />
+    </sentence>
+</document>

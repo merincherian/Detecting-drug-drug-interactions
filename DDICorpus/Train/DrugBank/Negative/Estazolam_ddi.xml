@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d338">
+    <sentence id="DDI-DrugBank.d338.s10" text="The pharmacokinetics of estazolam (Cmax and AUC) were not affected during multiple-dose fluoxetine, suggesting no clinically significant pharmacokinetic interaction.">
+        <entity charOffset="24-32" id="DDI-DrugBank.d338.s10.e0" text="estazolam" type="drug" />
+        <entity charOffset="88-97" id="DDI-DrugBank.d338.s10.e1" text="fluoxetine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d338.s10.e0" e2="DDI-DrugBank.d338.s10.e1" id="DDI-DrugBank.d338.s10.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d338.s11" text="Estazolam: Interaction with Other Drugs that are Metabolized by Cytochrome P450 (CYP): At clinically relevant concentrations, in vitro studies indicate that estazolam (0.6 M) was not inhibitory towards the major cytochrome P450 isoforms CYP1A2, CYP2A6, CYP2C9, CYP2C19, CYP2D6, CYP2E1, and CYP3A.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d338.s11.e0" text="Estazolam" type="drug" />
+        <entity charOffset="157-165" id="DDI-DrugBank.d338.s11.e1" text="estazolam" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d338.s11.e0" e2="DDI-DrugBank.d338.s11.e1" id="DDI-DrugBank.d338.s11.p0" />
+    </sentence>
+    </document>

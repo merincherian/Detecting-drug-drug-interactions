@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d276">
+    <sentence id="DDI-DrugBank.d276.s1" text="The mechanism for this interaction probably is adsorption of nitrofurantoin onto the surface of magnesium trisilicate.">
+        <entity charOffset="61-74" id="DDI-DrugBank.d276.s1.e0" text="nitrofurantoin" type="drug" />
+        <entity charOffset="96-116" id="DDI-DrugBank.d276.s1.e1" text="magnesium trisilicate" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d276.s1.e0" e2="DDI-DrugBank.d276.s1.e1" id="DDI-DrugBank.d276.s1.p0" type="mechanism" />
+    </sentence>
+    </document>

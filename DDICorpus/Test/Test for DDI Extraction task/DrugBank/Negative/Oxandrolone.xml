@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d584">
+    <sentence id="DDI-DrugBank.d584.s5" text="A 5.5-fold decrease in the mean warfarin dose from 6.13 mg/day to 1.13 mg/day (approximately 80-85% reduction of warfarin dose), was necessary to maintain a target INR of 1.5. ">
+        <entity charOffset="32-39" id="DDI-DrugBank.d584.s5.e0" text="warfarin" type="drug" />
+        <entity charOffset="113-120" id="DDI-DrugBank.d584.s5.e1" text="warfarin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d584.s5.e0" e2="DDI-DrugBank.d584.s5.e1" id="DDI-DrugBank.d584.s5.p0" />
+    </sentence>
+    </document>

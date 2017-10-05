@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d45">
+    <sentence id="DDI-DrugBank.d45.s7" text="Patients with Crohn s disease who received immunosuppressants tended to experience fewer infusion reactions compared to patients on no immunosuppressants.">
+        <entity charOffset="43-60" id="DDI-DrugBank.d45.s7.e0" text="immunosuppressants" type="group" />
+        <entity charOffset="135-152" id="DDI-DrugBank.d45.s7.e1" text="immunosuppressants" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d45.s7.e0" e2="DDI-DrugBank.d45.s7.e1" id="DDI-DrugBank.d45.s7.p0" />
+    </sentence>
+    </document>

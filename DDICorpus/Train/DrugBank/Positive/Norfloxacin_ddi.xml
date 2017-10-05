@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d217">
+    <sentence id="DDI-DrugBank.d217.s0" text="Elevated plasma levels of theophylline have been reported with concomitant quinolone use.">
+        <entity charOffset="26-37" id="DDI-DrugBank.d217.s0.e0" text="theophylline" type="drug" />
+        <entity charOffset="75-83" id="DDI-DrugBank.d217.s0.e1" text="quinolone" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d217.s0.e0" e2="DDI-DrugBank.d217.s0.e1" id="DDI-DrugBank.d217.s0.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d217.s13" text="Some quinolones have also been shown to interfere with the metabolism of caffeine.">
+        <entity charOffset="5-14" id="DDI-DrugBank.d217.s13.e0" text="quinolones" type="group" />
+        <entity charOffset="73-80" id="DDI-DrugBank.d217.s13.e1" text="caffeine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d217.s13.e0" e2="DDI-DrugBank.d217.s13.e1" id="DDI-DrugBank.d217.s13.p0" type="mechanism" />
+    </sentence>
+    </document>

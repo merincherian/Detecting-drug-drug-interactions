@@ -1,0 +1,27 @@
+<document id="DDI-DrugBank.d529">
+    <sentence id="DDI-DrugBank.d529.s3" text="The physician should be cautious when administering flurbiprofen to patients taking anticoagulants.">
+        <entity charOffset="52-63" id="DDI-DrugBank.d529.s3.e0" text="flurbiprofen" type="drug" />
+        <entity charOffset="84-97" id="DDI-DrugBank.d529.s3.e1" text="anticoagulants" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d529.s3.e0" e2="DDI-DrugBank.d529.s3.e1" id="DDI-DrugBank.d529.s3.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d529.s6" text="Concurrent use of flurbiprofen and aspirin is therefore not recommended.">
+        <entity charOffset="18-29" id="DDI-DrugBank.d529.s6.e0" text="flurbiprofen" type="drug" />
+        <entity charOffset="35-41" id="DDI-DrugBank.d529.s6.e1" text="aspirin" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d529.s6.e0" e2="DDI-DrugBank.d529.s6.e1" id="DDI-DrugBank.d529.s6.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d529.s10" text="Flurbiprofen did not affect the pharmacokinetic profile of either drug, and the mechanism under lying the interference with propranolols hypotensive effect is unknown.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d529.s10.e0" text="Flurbiprofen" type="drug" />
+        <entity charOffset="124-134" id="DDI-DrugBank.d529.s10.e1" text="propranolol" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d529.s10.e0" e2="DDI-DrugBank.d529.s10.e1" id="DDI-DrugBank.d529.s10.p0" type="int" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d529.s11" text="Patients taking both flurbiprofen and a beta-blocker should be monitored to ensure that a satisfactory hypotensive effect is achieved.">
+        <entity charOffset="21-32" id="DDI-DrugBank.d529.s11.e0" text="flurbiprofen" type="drug" />
+        <entity charOffset="40-51" id="DDI-DrugBank.d529.s11.e1" text="beta-blocker" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d529.s11.e0" e2="DDI-DrugBank.d529.s11.e1" id="DDI-DrugBank.d529.s11.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d529.s19" text="Although there was a slight reduction in blood sugar concentrations during concomitant administration of flurbiprofen and hypoglycemic agents, there were no signs or symptoms of hypoglycemia.">
+        <entity charOffset="105-116" id="DDI-DrugBank.d529.s19.e0" text="flurbiprofen" type="drug" />
+        <entity charOffset="122-140" id="DDI-DrugBank.d529.s19.e1" text="hypoglycemic agents" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d529.s19.e0" e2="DDI-DrugBank.d529.s19.e1" id="DDI-DrugBank.d529.s19.p0" type="effect" />
+    </sentence>
+</document>

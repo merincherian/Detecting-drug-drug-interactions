@@ -1,0 +1,16 @@
+<document id="DDI-DrugBank.d668">
+    <sentence id="DDI-DrugBank.d668.s1" text="Furthermore, rifampin, dexamethasone, St. ">
+        <entity charOffset="13-20" id="DDI-DrugBank.d668.s1.e0" text="rifampin" type="drug" />
+        <entity charOffset="23-35" id="DDI-DrugBank.d668.s1.e1" text="dexamethasone" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d668.s1.e0" e2="DDI-DrugBank.d668.s1.e1" id="DDI-DrugBank.d668.s1.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d668.s3" text="Based on in vitro inhibition information, coadministration of mifepristone may lead to an increase in serum levels of drugs that are CYP 3A4 substrates. ">
+        <entity charOffset="62-73" id="DDI-DrugBank.d668.s3.e0" text="mifepristone" type="drug" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d668.s4" text="Due to the slow elimination of mifepristone from the body, such interaction may be observed for a prolonged period after its administration. ">
+        <entity charOffset="31-42" id="DDI-DrugBank.d668.s4.e0" text="mifepristone" type="drug" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d668.s5" text="Therefore, caution should be exercised when mifepristone is administered with drugs that are CYP 3A4 substrates and have narrow therapeutic range, including some agents used during general anesthesia.">
+        <entity charOffset="44-55" id="DDI-DrugBank.d668.s5.e0" text="mifepristone" type="drug" />
+    </sentence>
+</document>

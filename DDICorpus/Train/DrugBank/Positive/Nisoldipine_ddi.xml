@@ -1,0 +1,22 @@
+<document id="DDI-DrugBank.d106">
+    <sentence id="DDI-DrugBank.d106.s0" text="A 30 to 45% increase in AUC and Cmax of nisoldipine was observed with concomitant administration of cimetidine 400 mg twice daily.">
+        <entity charOffset="40-50" id="DDI-DrugBank.d106.s0.e0" text="nisoldipine" type="drug" />
+        <entity charOffset="100-116" id="DDI-DrugBank.d106.s0.e1" text="cimetidine 400 mg" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d106.s0.e0" e2="DDI-DrugBank.d106.s0.e1" id="DDI-DrugBank.d106.s0.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d106.s6" text="Propranolol attenuated the heart rate increase following administration of immediate release nisoldipine.">
+        <entity charOffset="0-10" id="DDI-DrugBank.d106.s6.e0" text="Propranolol" type="drug" />
+        <entity charOffset="93-103" id="DDI-DrugBank.d106.s6.e1" text="nisoldipine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d106.s6.e0" e2="DDI-DrugBank.d106.s6.e1" id="DDI-DrugBank.d106.s6.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d106.s8" text="Quinidine at 648 mg bid decreased the bioavailability (AUC) of nisoldipine by 26%, but not the peak concentration.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d106.s8.e0" text="Quinidine" type="drug" />
+        <entity charOffset="63-73" id="DDI-DrugBank.d106.s8.e1" text="nisoldipine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d106.s8.e0" e2="DDI-DrugBank.d106.s8.e1" id="DDI-DrugBank.d106.s8.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d106.s9" text="The immediate release, but not the coat-core formulation of nisoldipine increased plasma quinidine concentrations by about 20%.">
+        <entity charOffset="60-70" id="DDI-DrugBank.d106.s9.e0" text="nisoldipine" type="drug" />
+        <entity charOffset="89-97" id="DDI-DrugBank.d106.s9.e1" text="quinidine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d106.s9.e0" e2="DDI-DrugBank.d106.s9.e1" id="DDI-DrugBank.d106.s9.p0" type="mechanism" />
+    </sentence>
+    </document>

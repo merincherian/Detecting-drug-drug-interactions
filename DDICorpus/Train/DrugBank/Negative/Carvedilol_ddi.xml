@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d269">
+    <sentence id="DDI-DrugBank.d269.s8" text="In about 30% of patients, the dose of cyclosporine had to be reduced in order to maintain cyclosporine concentrations within the therapeutic range, while in the remainder no adjustment was needed.">
+        <entity charOffset="38-49" id="DDI-DrugBank.d269.s8.e0" text="cyclosporine" type="drug" />
+        <entity charOffset="90-101" id="DDI-DrugBank.d269.s8.e1" text="cyclosporine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d269.s8.e0" e2="DDI-DrugBank.d269.s8.e1" id="DDI-DrugBank.d269.s8.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d269.s19" text="Therefore, in patients taking insulin or oral hypoglycemics, regular monitoring of blood glucose is recommended.">
+        <entity charOffset="30-36" id="DDI-DrugBank.d269.s19.e0" text="insulin" type="drug" />
+        <entity charOffset="46-58" id="DDI-DrugBank.d269.s19.e1" text="hypoglycemics" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d269.s19.e0" e2="DDI-DrugBank.d269.s19.e1" id="DDI-DrugBank.d269.s19.p0" />
+    </sentence>
+</document>

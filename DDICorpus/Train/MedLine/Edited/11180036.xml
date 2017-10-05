@@ -1,0 +1,17 @@
+<document id="DDI-MedLine.d86">
+    <sentence id="DDI-MedLine.d86.s0" text="Pharmacokinetic interaction between single oral doses of diltiazem and sirolimus in healthy volunteers.&#10;">
+        <entity charOffset="57-65" id="DDI-MedLine.d86.s0.e0" text="diltiazem" type="drug" />
+        <entity charOffset="71-79" id="DDI-MedLine.d86.s0.e1" text="sirolimus" type="drug" />
+        <pair ddi="true" e1="DDI-MedLine.d86.s0.e0" e2="DDI-MedLine.d86.s0.e1" id="DDI-MedLine.d86.s0.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-MedLine.d86.s2" text="Several clinically important interactions have previously been reported for other immunosuppressive drugs that are metabolized by the same enzyme and for calcium antagonists. ">
+        <entity charOffset="82-104" id="DDI-MedLine.d86.s2.e0" text="immunosuppressive drugs" type="group" />
+        <entity charOffset="154-172" id="DDI-MedLine.d86.s2.e1" text="calcium antagonists" type="group" />
+        <pair ddi="false" e1="DDI-MedLine.d86.s2.e0" e2="DDI-MedLine.d86.s2.e1" id="DDI-MedLine.d86.s2.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d86.s3" text="METHODS: Healthy subjects who were 20 to 43 years old participated in an open, three-period, randomized, crossover study of the pharmacokinetics of a single 10-mg oral dose of sirolimus, a single oral 120-mg dose of diltiazem, and the two drugs given together. ">
+        <entity charOffset="176-184" id="DDI-MedLine.d86.s3.e0" text="sirolimus" type="drug" />
+        <entity charOffset="216-224" id="DDI-MedLine.d86.s3.e1" text="diltiazem" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d86.s3.e0" e2="DDI-MedLine.d86.s3.e1" id="DDI-MedLine.d86.s3.p0" />
+    </sentence>
+    </document>

@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d463">
+    <sentence id="DDI-DrugBank.d463.s6" text="However, there has been one report of prolonged prothrombin time when buspirone was added to the regimen of a patient treated with warfarin.">
+        <entity charOffset="70-78" id="DDI-DrugBank.d463.s6.e0" text="buspirone" type="drug" />
+        <entity charOffset="131-138" id="DDI-DrugBank.d463.s6.e1" text="warfarin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d463.s6.e0" e2="DDI-DrugBank.d463.s6.e1" id="DDI-DrugBank.d463.s6.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d463.s8" text="In vitro, buspirone may displace less firmly bound drugs like digoxin.">
+        <entity charOffset="10-18" id="DDI-DrugBank.d463.s8.e0" text="buspirone" type="drug" />
+        <entity charOffset="62-68" id="DDI-DrugBank.d463.s8.e1" text="digoxin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d463.s8.e0" e2="DDI-DrugBank.d463.s8.e1" id="DDI-DrugBank.d463.s8.p0" type="mechanism" />
+    </sentence>
+    </document>

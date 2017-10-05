@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d135">
+    <sentence id="DDI-DrugBank.d135.s0" text="Effects of Lapatinib on Drug Metabolizing Enzymes and Drug Transport Systems Lapatinib inhibits CYP3A4 and CYP2C8 in vitro at clinically relevant concentrations.">
+        <entity charOffset="11-19" id="DDI-DrugBank.d135.s0.e0" text="Lapatinib" type="drug" />
+        <entity charOffset="77-85" id="DDI-DrugBank.d135.s0.e1" text="Lapatinib" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d135.s0.e0" e2="DDI-DrugBank.d135.s0.e1" id="DDI-DrugBank.d135.s0.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d135.s5" text="Drugs that Inhibit or Induce Cytochrome P450 3A4 Enzymes Lapatinib undergoes extensive metabolism by CYP3A4, and concomitant administration of strong inhibitors or inducers of CYP3A4 alter lapatinib concentrations significantly.">
+        <entity charOffset="57-65" id="DDI-DrugBank.d135.s5.e0" text="Lapatinib" type="drug" />
+        <entity charOffset="189-197" id="DDI-DrugBank.d135.s5.e1" text="lapatinib" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d135.s5.e0" e2="DDI-DrugBank.d135.s5.e1" id="DDI-DrugBank.d135.s5.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d135.s10" text="If TYKERB is administered with drugs that inhibit Pgp, increased concentrations of lapatinib are likely, and caution should be exercised.">
+        <entity charOffset="3-8" id="DDI-DrugBank.d135.s10.e0" text="TYKERB" type="brand" />
+        <entity charOffset="83-91" id="DDI-DrugBank.d135.s10.e1" text="lapatinib" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d135.s10.e0" e2="DDI-DrugBank.d135.s10.e1" id="DDI-DrugBank.d135.s10.p0" />
+    </sentence>
+    </document>

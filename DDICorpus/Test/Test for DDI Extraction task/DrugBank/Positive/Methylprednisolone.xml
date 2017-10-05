@@ -1,0 +1,27 @@
+<document id="DDI-DrugBank.d578">
+    <sentence id="DDI-DrugBank.d578.s1" text="Mutual inhibition of metabolism occurs with concurrent use of cyclosporin and methylprednisolone; ">
+        <entity charOffset="62-72" id="DDI-DrugBank.d578.s1.e0" text="cyclosporin" type="drug" />
+        <entity charOffset="78-95" id="DDI-DrugBank.d578.s1.e1" text="methylprednisolone" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d578.s1.e0" e2="DDI-DrugBank.d578.s1.e1" id="DDI-DrugBank.d578.s1.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d578.s3" text="convulsions have been reported with concurrent use of methylprednisolone and cyclosporin. ">
+        <entity charOffset="54-71" id="DDI-DrugBank.d578.s3.e0" text="methylprednisolone" type="drug" />
+        <entity charOffset="77-87" id="DDI-DrugBank.d578.s3.e1" text="cyclosporin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d578.s3.e0" e2="DDI-DrugBank.d578.s3.e1" id="DDI-DrugBank.d578.s3.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d578.s7" text="Methylprednisolone may increase the clearance of chronic high dose aspirin. ">
+        <entity charOffset="0-17" id="DDI-DrugBank.d578.s7.e0" text="Methylprednisolone" type="drug" />
+        <entity charOffset="67-73" id="DDI-DrugBank.d578.s7.e1" text="aspirin" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d578.s7.e0" e2="DDI-DrugBank.d578.s7.e1" id="DDI-DrugBank.d578.s7.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d578.s9" text="Aspirin should be used cautiously in conjunction with corticosteroids in patients suffering from hypoprothrombinemia. ">
+        <entity charOffset="0-6" id="DDI-DrugBank.d578.s9.e0" text="Aspirin" type="brand" />
+        <entity charOffset="54-68" id="DDI-DrugBank.d578.s9.e1" text="corticosteroids" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d578.s9.e0" e2="DDI-DrugBank.d578.s9.e1" id="DDI-DrugBank.d578.s9.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d578.s11" text="There are reports of enhanced as well as diminished effects of anticoagulant when given concurrently with corticosteroids. ">
+        <entity charOffset="63-75" id="DDI-DrugBank.d578.s11.e0" text="anticoagulant" type="group" />
+        <entity charOffset="106-120" id="DDI-DrugBank.d578.s11.e1" text="corticosteroids" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d578.s11.e0" e2="DDI-DrugBank.d578.s11.e1" id="DDI-DrugBank.d578.s11.p0" type="effect" />
+    </sentence>
+    </document>

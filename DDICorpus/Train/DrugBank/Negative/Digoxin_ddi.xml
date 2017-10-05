@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d450">
+    <sentence id="DDI-DrugBank.d450.s14" text="Furthermore, caution should be exercised when combining digoxin with any drug that may cause a significant deterioration in renal function, since a decline in glomerular filtration or tubular secretion may impair the excretion of digoxin.">
+        <entity charOffset="56-62" id="DDI-DrugBank.d450.s14.e0" text="digoxin" type="drug" />
+        <entity charOffset="230-236" id="DDI-DrugBank.d450.s14.e1" text="digoxin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d450.s14.e0" e2="DDI-DrugBank.d450.s14.e1" id="DDI-DrugBank.d450.s14.p0" />
+    </sentence>
+</document>

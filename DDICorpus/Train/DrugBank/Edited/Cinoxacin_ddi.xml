@@ -1,0 +1,22 @@
+<document id="DDI-DrugBank.d562">
+    <sentence id="DDI-DrugBank.d562.s0" text="Elevated plasma levels of theophylline have been reported with concomitant use of some quinolones.">
+        <entity charOffset="26-37" id="DDI-DrugBank.d562.s0.e0" text="theophylline" type="drug" />
+        <entity charOffset="87-96" id="DDI-DrugBank.d562.s0.e1" text="quinolones" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d562.s0.e0" e2="DDI-DrugBank.d562.s0.e1" id="DDI-DrugBank.d562.s0.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d562.s2" text="Therefore, monitoring of theophylline plasma levels should be considered and dosage of theophylline adjusted as required.">
+        <entity charOffset="25-36" id="DDI-DrugBank.d562.s2.e0" text="theophylline" type="drug" />
+        <entity charOffset="87-98" id="DDI-DrugBank.d562.s2.e1" text="theophylline" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d562.s2.e0" e2="DDI-DrugBank.d562.s2.e1" id="DDI-DrugBank.d562.s2.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d562.s3" text="Quinolones have also been shown to interfere with the metabolism of caffeine.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d562.s3.e0" text="Quinolones" type="group" />
+        <entity charOffset="68-75" id="DDI-DrugBank.d562.s3.e1" text="caffeine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d562.s3.e0" e2="DDI-DrugBank.d562.s3.e1" id="DDI-DrugBank.d562.s3.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d562.s13" text="Physicians are provided this information to increase awareness of the potential for serious interactions when cinoxacin and certain nonsteroidal anti-inflammatory agents are administered concomitantly.">
+        <entity charOffset="110-118" id="DDI-DrugBank.d562.s13.e0" text="cinoxacin" type="drug" />
+        <entity charOffset="132-168" id="DDI-DrugBank.d562.s13.e1" text="nonsteroidal anti-inflammatory agents" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d562.s13.e0" e2="DDI-DrugBank.d562.s13.e1" id="DDI-DrugBank.d562.s13.p0" type="advise" />
+    </sentence>
+    </document>

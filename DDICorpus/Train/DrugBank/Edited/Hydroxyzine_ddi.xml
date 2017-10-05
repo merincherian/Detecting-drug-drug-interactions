@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d308">
+    <sentence id="DDI-DrugBank.d308.s1" text="Therefore when central nervous system depressants are administered concomitantly with hydroxyzine their dosage should be reduced.">
+        <entity charOffset="15-48" id="DDI-DrugBank.d308.s1.e0" text="central nervous system depressants" type="group" />
+        <entity charOffset="86-96" id="DDI-DrugBank.d308.s1.e1" text="hydroxyzine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d308.s1.e0" e2="DDI-DrugBank.d308.s1.e1" id="DDI-DrugBank.d308.s1.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d308.s3" text="Patients should be advised against the simultaneous use of other CNS depressant drugs, and cautioned that the effect of alcohol may be increased.">
+        <entity charOffset="65-84" id="DDI-DrugBank.d308.s3.e0" text="CNS depressant drugs" type="group" />
+        <entity charOffset="120-126" id="DDI-DrugBank.d308.s3.e1" text="alcohol" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d308.s3.e0" e2="DDI-DrugBank.d308.s3.e1" id="DDI-DrugBank.d308.s3.p0" />
+    </sentence>
+</document>

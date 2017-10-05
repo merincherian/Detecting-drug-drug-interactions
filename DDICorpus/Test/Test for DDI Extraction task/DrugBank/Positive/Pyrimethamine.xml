@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d631">
+    <sentence id="DDI-DrugBank.d631.s3" text="Mild hepatotoxicity has been reported in some patients when lorazepam and pyrimethamine were administered concomitantly.">
+        <entity charOffset="60-68" id="DDI-DrugBank.d631.s3.e0" text="lorazepam" type="drug" />
+        <entity charOffset="74-86" id="DDI-DrugBank.d631.s3.e1" text="pyrimethamine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d631.s3.e0" e2="DDI-DrugBank.d631.s3.e1" id="DDI-DrugBank.d631.s3.p0" type="effect" />
+    </sentence>
+</document>

@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d253">
+    <sentence id="DDI-DrugBank.d253.s1" text="Beta-adrenergic blocking agents should be withdrawn at least 48 hours before conducting an arbutamine-mediated stress test.">
+        <entity charOffset="0-30" id="DDI-DrugBank.d253.s1.e0" text="Beta-adrenergic blocking agents" type="group" />
+        <entity charOffset="91-100" id="DDI-DrugBank.d253.s1.e1" text="arbutamine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d253.s1.e0" e2="DDI-DrugBank.d253.s1.e1" id="DDI-DrugBank.d253.s1.p0" type="advise" />
+    </sentence>
+    </document>

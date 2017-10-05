@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d354">
+    <sentence id="DDI-DrugBank.d354.s1" text="Therefore, caution should be used when administering nitazoxanide concurrently with other highly plasma protein-bound drugs with narrow therapeutic indices, as competition for binding sites may occur (e.g., warfarin).">
+        <entity charOffset="53-64" id="DDI-DrugBank.d354.s1.e0" text="nitazoxanide" type="drug" />
+        <entity charOffset="207-214" id="DDI-DrugBank.d354.s1.e1" text="warfarin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d354.s1.e0" e2="DDI-DrugBank.d354.s1.e1" id="DDI-DrugBank.d354.s1.p0" type="mechanism" />
+    </sentence>
+    </document>

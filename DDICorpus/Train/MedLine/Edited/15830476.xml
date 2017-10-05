@@ -1,0 +1,23 @@
+<document id="DDI-MedLine.d29">
+    <sentence id="DDI-MedLine.d29.s0" text="Effect of probenecid on the apparent volume of distribution and elimination of cloxacillin.&#10;">
+        <entity charOffset="10-19" id="DDI-MedLine.d29.s0.e0" text="probenecid" type="drug" />
+        <entity charOffset="79-89" id="DDI-MedLine.d29.s0.e1" text="cloxacillin" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d29.s0.e0" e2="DDI-MedLine.d29.s0.e1" id="DDI-MedLine.d29.s0.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d29.s4" text="No significant difference was found between the mean values of the volume of distribution of cloxacillin with and without probenecid (13.0 and 12.6 liters, respectively). ">
+        <entity charOffset="93-103" id="DDI-MedLine.d29.s4.e0" text="cloxacillin" type="drug" />
+        <entity charOffset="122-131" id="DDI-MedLine.d29.s4.e1" text="probenecid" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d29.s4.e0" e2="DDI-MedLine.d29.s4.e1" id="DDI-MedLine.d29.s4.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d29.s6" text="could not be confirmed for cloxacillin in patients lacking kidney function. ">
+        <entity charOffset="27-37" id="DDI-MedLine.d29.s6.e0" text="cloxacillin" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d29.s7" text="In spite of the absence of kidney function, the value of the elimination rate constant was significantly decreased in the presence of probenecid (from 0.326 to 0.263/h). ">
+        <entity charOffset="134-143" id="DDI-MedLine.d29.s7.e0" text="probenecid" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d29.s8" text="This might be explained by a blockade by probenecid of the elimination of cloxacillin by the liver.">
+        <entity charOffset="41-50" id="DDI-MedLine.d29.s8.e0" text="probenecid" type="drug" />
+        <entity charOffset="74-84" id="DDI-MedLine.d29.s8.e1" text="cloxacillin" type="drug" />
+        <pair ddi="true" e1="DDI-MedLine.d29.s8.e0" e2="DDI-MedLine.d29.s8.e1" id="DDI-MedLine.d29.s8.p0" type="mechanism" />
+    </sentence>
+</document>

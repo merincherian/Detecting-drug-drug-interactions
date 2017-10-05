@@ -1,0 +1,21 @@
+<document id="DDI-DrugBank.d680">
+    <sentence id="DDI-DrugBank.d680.s0" text="Pantoprazole is metabolized through the cytochrome P450 system, primarily the CYP2C19 and CYP3A4 isozymes, and subsequently undergoes Phase II conjugation. ">
+        <entity charOffset="0-11" id="DDI-DrugBank.d680.s0.e0" text="Pantoprazole" type="drug" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d680.s2" text="Clinically relevant interactions of pantoprazole with other drugs with the same metabolic pathways are not expected. ">
+        <entity charOffset="36-47" id="DDI-DrugBank.d680.s2.e0" text="pantoprazole" type="drug" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d680.s3" text="Therefore, when coadministered with pantoprazole, adjustment of the dosage of pantoprazole or of such drugs may not be necessary. ">
+        <entity charOffset="36-47" id="DDI-DrugBank.d680.s3.e0" text="pantoprazole" type="drug" />
+        <entity charOffset="78-89" id="DDI-DrugBank.d680.s3.e1" text="pantoprazole" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d680.s3.e0" e2="DDI-DrugBank.d680.s3.e1" id="DDI-DrugBank.d680.s3.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d680.s4" text="There was also no interaction with concomitantly administered antacids. ">
+        <entity charOffset="62-69" id="DDI-DrugBank.d680.s4.e0" text="antacids" type="group" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d680.s7" text="Patients treated with proton pump inhibitors and warfarin concomitantly should be monitored for increases in INR and prothrombin time. ">
+        <entity charOffset="22-43" id="DDI-DrugBank.d680.s7.e0" text="proton pump inhibitors" type="group" />
+        <entity charOffset="49-56" id="DDI-DrugBank.d680.s7.e1" text="warfarin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d680.s7.e0" e2="DDI-DrugBank.d680.s7.e1" id="DDI-DrugBank.d680.s7.p0" type="advise" />
+    </sentence>
+    </document>

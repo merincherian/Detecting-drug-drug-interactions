@@ -1,0 +1,47 @@
+<document id="DDI-MedLine.d21">
+    <sentence id="DDI-MedLine.d21.s0" text="Acute effect of different antidepressants on glycemia in diabetic and non-diabetic rats.&#10;">
+        <entity charOffset="26-40" id="DDI-MedLine.d21.s0.e0" text="antidepressants" type="group" />
+    </sentence>
+    <sentence id="DDI-MedLine.d21.s2" text="Treatment with antidepressant drugs can directly interfere with blood glucose levels or may interact with hypoglycemic agents. ">
+        <entity charOffset="15-34" id="DDI-MedLine.d21.s2.e0" text="antidepressant drugs" type="group" />
+        <entity charOffset="106-124" id="DDI-MedLine.d21.s2.e1" text="hypoglycemic agents" type="group" />
+        <pair ddi="true" e1="DDI-MedLine.d21.s2.e0" e2="DDI-MedLine.d21.s2.e1" id="DDI-MedLine.d21.s2.p0" type="int" />
+    </sentence>
+    <sentence id="DDI-MedLine.d21.s3" text="The treatment of depression in diabetic patients must take into account variations of glycemic levels at different times and a comparison of the available antidepressant agents is important. ">
+        <entity charOffset="155-175" id="DDI-MedLine.d21.s3.e0" text="antidepressant agents" type="group" />
+    </sentence>
+    <sentence id="DDI-MedLine.d21.s4" text="In the present study we evaluated the interference of antidepressants with blood glucose levels of diabetic and non-diabetic rats. ">
+        <entity charOffset="54-68" id="DDI-MedLine.d21.s4.e0" text="antidepressants" type="group" />
+    </sentence>
+    <sentence id="DDI-MedLine.d21.s8" text="An oral glucose overload of 1 ml of a 50% glucose solution was given to rats and blood glucose was determined after 30, 60 and 90 min. ">
+        <entity charOffset="8-14" id="DDI-MedLine.d21.s8.e0" text="glucose" type="drug" />
+        <entity charOffset="42-48" id="DDI-MedLine.d21.s8.e1" text="glucose" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d21.s8.e0" e2="DDI-MedLine.d21.s8.e1" id="DDI-MedLine.d21.s8.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d21.s9" text="Imipramine and clonazepam did not change fasting or overload glycemia. ">
+        <entity charOffset="0-9" id="DDI-MedLine.d21.s9.e0" text="Imipramine" type="drug" />
+        <entity charOffset="15-24" id="DDI-MedLine.d21.s9.e1" text="clonazepam" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d21.s9.e0" e2="DDI-MedLine.d21.s9.e1" id="DDI-MedLine.d21.s9.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d21.s11" text="Sertraline neutralized the increase of glycemia induced by oral glucose overload. ">
+        <entity charOffset="0-9" id="DDI-MedLine.d21.s11.e0" text="Sertraline" type="drug" />
+        <entity charOffset="64-70" id="DDI-MedLine.d21.s11.e1" text="glucose" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d21.s11.e0" e2="DDI-MedLine.d21.s11.e1" id="DDI-MedLine.d21.s11.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d21.s12" text="In the second experiment, non-diabetic and streptozotocin-induced diabetic rats were fasted, and the same procedures were followed for estimation of glucose tolerance 30 min after glucose overload. ">
+        <entity charOffset="149-155" id="DDI-MedLine.d21.s12.e0" text="glucose" type="drug" />
+        <entity charOffset="180-186" id="DDI-MedLine.d21.s12.e1" text="glucose" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d21.s12.e0" e2="DDI-MedLine.d21.s12.e1" id="DDI-MedLine.d21.s12.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d21.s13" text="Again, sertraline neutralized the increase in glycemia after glucose overload both in diabetic and non-diabetic rats. ">
+        <entity charOffset="7-16" id="DDI-MedLine.d21.s13.e0" text="sertraline" type="drug" />
+        <entity charOffset="61-67" id="DDI-MedLine.d21.s13.e1" text="glucose" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d21.s13.e0" e2="DDI-MedLine.d21.s13.e1" id="DDI-MedLine.d21.s13.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d21.s14" text="These data raise the question of whether sertraline is the best choice for prolonged use for diabetic individuals, because of its antihyperglycemic effects. ">
+        <entity charOffset="41-50" id="DDI-MedLine.d21.s14.e0" text="sertraline" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d21.s15" text="Clonazepam would be useful in cases with potential risk of hypoglycemia.">
+        <entity charOffset="0-9" id="DDI-MedLine.d21.s15.e0" text="Clonazepam" type="drug" />
+    </sentence>
+</document>

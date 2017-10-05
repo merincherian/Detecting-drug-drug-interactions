@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d19">
+    <sentence id="DDI-DrugBank.d19.s1" text="DISULFIRAM SHOULD BE USED WITH CAUTION IN THOSE PATIENTS REVEIVING PHENYTOIN AND ITS CONGENERS.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d19.s1.e0" text="DISULFIRAM" type="drug" />
+        <entity charOffset="67-75" id="DDI-DrugBank.d19.s1.e1" text="PHENYTOIN" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d19.s1.e0" e2="DDI-DrugBank.d19.s1.e1" id="DDI-DrugBank.d19.s1.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d19.s7" text="Patients taking isoniazid when disulfiram is given should be observed for the appearance of unsteady gait or marked changes in mental status;">
+        <entity charOffset="16-24" id="DDI-DrugBank.d19.s7.e0" text="isoniazid" type="drug" />
+        <entity charOffset="31-40" id="DDI-DrugBank.d19.s7.e1" text="disulfiram" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d19.s7.e0" e2="DDI-DrugBank.d19.s7.e1" id="DDI-DrugBank.d19.s7.p0" type="advise" />
+    </sentence>
+    </document>

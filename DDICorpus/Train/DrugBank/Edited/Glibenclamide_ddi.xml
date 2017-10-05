@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d178">
+    <sentence id="DDI-DrugBank.d178.s9" text="A potential interaction between oral miconazole and oral hypoglycemic agents leading to severe hypoglycemia has been reported.">
+        <entity charOffset="37-46" id="DDI-DrugBank.d178.s9.e0" text="miconazole" type="drug" />
+        <entity charOffset="57-75" id="DDI-DrugBank.d178.s9.e1" text="hypoglycemic agents" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d178.s9.e0" e2="DDI-DrugBank.d178.s9.e1" id="DDI-DrugBank.d178.s9.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d178.s11" text="Metformin: In a single-dose interaction study in NIDDM subjects, decreases in glyburide AUC and Cmax were observed, but were highly variable.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d178.s11.e0" text="Metformin" type="drug" />
+        <entity charOffset="78-86" id="DDI-DrugBank.d178.s11.e1" text="glyburide" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d178.s11.e0" e2="DDI-DrugBank.d178.s11.e1" id="DDI-DrugBank.d178.s11.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d178.s13" text="Coadministration of gly-buride and metformin did not result in any changes in either metformin pharmacokinetics or pharmaco-dynamics.">
+        <entity charOffset="35-43" id="DDI-DrugBank.d178.s13.e0" text="metformin" type="drug" />
+        <entity charOffset="85-93" id="DDI-DrugBank.d178.s13.e1" text="metformin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d178.s13.e0" e2="DDI-DrugBank.d178.s13.e1" id="DDI-DrugBank.d178.s13.p0" />
+    </sentence>
+</document>

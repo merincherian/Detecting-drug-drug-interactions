@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d549">
+    <sentence id="DDI-DrugBank.d549.s2" text="Since iloprost inhibits platelet function, there is a potential for increased risk of bleeding, particularly in patients maintained on anticoagulants.">
+        <entity charOffset="6-13" id="DDI-DrugBank.d549.s2.e0" text="iloprost" type="drug" />
+        <entity charOffset="135-148" id="DDI-DrugBank.d549.s2.e1" text="anticoagulants" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d549.s2.e0" e2="DDI-DrugBank.d549.s2.e1" id="DDI-DrugBank.d549.s2.p0" type="effect" />
+    </sentence>
+    </document>

@@ -1,0 +1,52 @@
+<document id="DDI-DrugBank.d314">
+    <sentence id="DDI-DrugBank.d314.s2" text="In addition, there have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure.">
+        <entity charOffset="72-85" id="DDI-DrugBank.d314.s2.e0" text="amphotericin B" type="drug" />
+        <entity charOffset="91-104" id="DDI-DrugBank.d314.s2.e1" text="hydrocortisone" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d314.s2.e0" e2="DDI-DrugBank.d314.s2.e1" id="DDI-DrugBank.d314.s2.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s5" text="If possible, anticholinesterase agents should be withdrawn at least 24 hours before initiating corticosteroid therapy.">
+        <entity charOffset="13-37" id="DDI-DrugBank.d314.s5.e0" text="anticholinesterase agents" type="group" />
+        <entity charOffset="95-108" id="DDI-DrugBank.d314.s5.e1" text="corticosteroid" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d314.s5.e0" e2="DDI-DrugBank.d314.s5.e1" id="DDI-DrugBank.d314.s5.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s15" text="Digitalis glycosides: Patients on digitalis glycosides may be at increased risk of arrhythmias due to hypokalemia.">
+        <entity charOffset="0-19" id="DDI-DrugBank.d314.s15.e0" text="Digitalis glycosides" type="group" />
+        <entity charOffset="34-53" id="DDI-DrugBank.d314.s15.e1" text="digitalis glycosides" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d314.s15.e0" e2="DDI-DrugBank.d314.s15.e1" id="DDI-DrugBank.d314.s15.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s21" text="Co-administration with other drugs that are metabolized by CYP 3A4 (e.g., indinavir, erythromycin) may increase their clearance, resulting in decreased plasma concentration.">
+        <entity charOffset="74-82" id="DDI-DrugBank.d314.s21.e0" text="indinavir" type="drug" />
+        <entity charOffset="85-96" id="DDI-DrugBank.d314.s21.e1" text="erythromycin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d314.s21.e0" e2="DDI-DrugBank.d314.s21.e1" id="DDI-DrugBank.d314.s21.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s23" text="In addition, ketoconazole alone can inhibit adrenal corticosteroid synthesis and may cause adrenal insufficiency during corticosteroid withdrawal.">
+        <entity charOffset="13-24" id="DDI-DrugBank.d314.s23.e0" text="ketoconazole" type="drug" />
+        <entity charOffset="52-65" id="DDI-DrugBank.d314.s23.e1" text="corticosteroid" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d314.s23.e0" e2="DDI-DrugBank.d314.s23.e1" id="DDI-DrugBank.d314.s23.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s25" text="Aspirin should be used cautiously in conjunction with corticosteroids in hypoprothrombinemia.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d314.s25.e0" text="Aspirin" type="brand" />
+        <entity charOffset="54-68" id="DDI-DrugBank.d314.s25.e1" text="corticosteroids" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d314.s25.e0" e2="DDI-DrugBank.d314.s25.e1" id="DDI-DrugBank.d314.s25.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s26" text="The clearance of salicylates may be increased with concurrent use of corticosteroids.">
+        <entity charOffset="17-27" id="DDI-DrugBank.d314.s26.e0" text="salicylates" type="group" />
+        <entity charOffset="69-83" id="DDI-DrugBank.d314.s26.e1" text="corticosteroids" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d314.s26.e0" e2="DDI-DrugBank.d314.s26.e1" id="DDI-DrugBank.d314.s26.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s29" text="Thalidomide: Co-administration with thalidomide should be employed cautiously, as toxic epidermal necrolysis has been reported with concomitant use.">
+        <entity charOffset="0-10" id="DDI-DrugBank.d314.s29.e0" text="Thalidomide" type="drug" />
+        <entity charOffset="36-46" id="DDI-DrugBank.d314.s29.e1" text="thalidomide" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d314.s29.e0" e2="DDI-DrugBank.d314.s29.e1" id="DDI-DrugBank.d314.s29.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s31" text="Corticosteroids may also potentiate the replication of some organisms contained in live attenuated vaccines.">
+        <entity charOffset="0-14" id="DDI-DrugBank.d314.s31.e0" text="Corticosteroids" type="group" />
+        <entity charOffset="83-106" id="DDI-DrugBank.d314.s31.e1" text="live attenuated vaccines" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d314.s31.e0" e2="DDI-DrugBank.d314.s31.e1" id="DDI-DrugBank.d314.s31.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s32" text="Routine administration of vaccines or toxoids should be deferred until corticosteroid therapy is discontinued if possible.">
+        <entity charOffset="26-33" id="DDI-DrugBank.d314.s32.e0" text="vaccines" type="group" />
+        <entity charOffset="71-84" id="DDI-DrugBank.d314.s32.e1" text="corticosteroid" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d314.s32.e0" e2="DDI-DrugBank.d314.s32.e1" id="DDI-DrugBank.d314.s32.p0" type="advise" />
+    </sentence>
+</document>

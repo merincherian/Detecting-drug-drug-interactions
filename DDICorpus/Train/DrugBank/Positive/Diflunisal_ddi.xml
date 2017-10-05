@@ -1,0 +1,47 @@
+<document id="DDI-DrugBank.d132">
+    <sentence id="DDI-DrugBank.d132.s1" text="This may occur because diflunisal competitively displaces coumarins from protein binding sites.">
+        <entity charOffset="23-32" id="DDI-DrugBank.d132.s1.e0" text="diflunisal" type="drug" />
+        <entity charOffset="58-66" id="DDI-DrugBank.d132.s1.e1" text="coumarins" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d132.s1.e0" e2="DDI-DrugBank.d132.s1.e1" id="DDI-DrugBank.d132.s1.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d132.s2" text="Accordingly, when diflunisal is administered with oral anticoagulants, the prothrombin time should be closely monitored during and for several days after concomitant drug administration.">
+        <entity charOffset="18-27" id="DDI-DrugBank.d132.s2.e0" text="diflunisal" type="drug" />
+        <entity charOffset="55-68" id="DDI-DrugBank.d132.s2.e1" text="anticoagulants" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d132.s2.e0" e2="DDI-DrugBank.d132.s2.e1" id="DDI-DrugBank.d132.s2.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d132.s6" text="Diflunisal decreased the hyperuricemic effect of hydrochlorothiazide.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d132.s6.e0" text="Diflunisal" type="drug" />
+        <entity charOffset="49-67" id="DDI-DrugBank.d132.s6.e1" text="hydrochlorothiazide" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d132.s6.e0" e2="DDI-DrugBank.d132.s6.e1" id="DDI-DrugBank.d132.s6.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d132.s8" text="Diflunisal decreased the hyperuricemic effect of furosemide.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d132.s8.e0" text="Diflunisal" type="drug" />
+        <entity charOffset="49-58" id="DDI-DrugBank.d132.s8.e1" text="furosemide" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d132.s8.e0" e2="DDI-DrugBank.d132.s8.e1" id="DDI-DrugBank.d132.s8.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d132.s17" text="Nonsteroidal anti-inflammatory drugs have been reported to decrease the tubular secretion of methotrexate and to potentiate its toxicity.">
+        <entity charOffset="0-35" id="DDI-DrugBank.d132.s17.e0" text="Nonsteroidal anti-inflammatory drugs" type="group" />
+        <entity charOffset="93-104" id="DDI-DrugBank.d132.s17.e1" text="methotrexate" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d132.s17.e0" e2="DDI-DrugBank.d132.s17.e1" id="DDI-DrugBank.d132.s17.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d132.s19" text="NSAIDs should be used with caution in patients taking cyclosporine, and renal function should be carefully monitored.">
+        <entity charOffset="0-5" id="DDI-DrugBank.d132.s19.e0" text="NSAIDs" type="group" />
+        <entity charOffset="54-65" id="DDI-DrugBank.d132.s19.e1" text="cyclosporine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d132.s19.e0" e2="DDI-DrugBank.d132.s19.e1" id="DDI-DrugBank.d132.s19.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d132.s21" text="In some patients the combined use of indomethacin and diflunisal has been associated with fatal gastrointestinal hemorrhage.">
+        <entity charOffset="37-48" id="DDI-DrugBank.d132.s21.e0" text="indomethacin" type="drug" />
+        <entity charOffset="54-63" id="DDI-DrugBank.d132.s21.e1" text="diflunisal" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d132.s21.e0" e2="DDI-DrugBank.d132.s21.e1" id="DDI-DrugBank.d132.s21.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d132.s22" text="Therefore, indomethacin and diflunisal should not be used concomitantly.">
+        <entity charOffset="11-22" id="DDI-DrugBank.d132.s22.e0" text="indomethacin" type="drug" />
+        <entity charOffset="28-37" id="DDI-DrugBank.d132.s22.e1" text="diflunisal" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d132.s22.e0" e2="DDI-DrugBank.d132.s22.e1" id="DDI-DrugBank.d132.s22.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d132.s23" text="The concomitant use of diflunisal tablets and other NSAIDs is not recommended due to the increased possibility of gastrointestinal toxicity, with little or no increase in efficacy.">
+        <entity charOffset="23-32" id="DDI-DrugBank.d132.s23.e0" text="diflunisal" type="drug" />
+        <entity charOffset="52-57" id="DDI-DrugBank.d132.s23.e1" text="NSAIDs" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d132.s23.e0" e2="DDI-DrugBank.d132.s23.e1" id="DDI-DrugBank.d132.s23.p0" type="effect" />
+    </sentence>
+    </document>

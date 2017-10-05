@@ -1,0 +1,37 @@
+<document id="DDI-DrugBank.d572">
+    <sentence id="DDI-DrugBank.d572.s1" text="The incremental LDL-C reduction due to adding ezetimibe to cholestyramine may be reduced by this interaction. ">
+        <entity charOffset="46-54" id="DDI-DrugBank.d572.s1.e0" text="ezetimibe" type="drug" />
+        <entity charOffset="59-72" id="DDI-DrugBank.d572.s1.e1" text="cholestyramine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d572.s1.e0" e2="DDI-DrugBank.d572.s1.e1" id="DDI-DrugBank.d572.s1.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d572.s5" text="Co-administration of ZETIA with fibrates is not recommended until use in patients is studied. ">
+        <entity charOffset="21-25" id="DDI-DrugBank.d572.s5.e0" text="ZETIA" type="brand" />
+        <entity charOffset="32-39" id="DDI-DrugBank.d572.s5.e1" text="fibrates" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d572.s5.e0" e2="DDI-DrugBank.d572.s5.e1" id="DDI-DrugBank.d572.s5.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d572.s10" text="Patients who take both ezetimibe and cyclosporine should be carefully monitored. ">
+        <entity charOffset="23-31" id="DDI-DrugBank.d572.s10.e0" text="ezetimibe" type="drug" />
+        <entity charOffset="37-48" id="DDI-DrugBank.d572.s10.e1" text="cyclosporine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d572.s10.e0" e2="DDI-DrugBank.d572.s10.e1" id="DDI-DrugBank.d572.s10.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d572.s11" text="Carcinogenesis, Mutagenesis, Impairment of Fertility A 104-week dietary carcinogenicity study with ezetimibe was conducted in rats at doses up to 1500 mg/kg/day (males) and 500 mg/kg/day (females) (~20 times the human exposure at 10 mg daily based on AUC0-24hr for total ezetimibe). ">
+        <entity charOffset="99-107" id="DDI-DrugBank.d572.s11.e0" text="ezetimibe" type="drug" />
+        <entity charOffset="271-279" id="DDI-DrugBank.d572.s11.e1" text="ezetimibe" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d572.s11.e0" e2="DDI-DrugBank.d572.s11.e1" id="DDI-DrugBank.d572.s11.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d572.s12" text="A 104-week dietary carcinogenicity study with ezetimibe was also conducted in mice at doses up to 500 mg/kg/day (&gt;150 times the human exposure at 10 mg daily based on AUC0-24hr for total ezetimibe). ">
+        <entity charOffset="46-54" id="DDI-DrugBank.d572.s12.e0" text="ezetimibe" type="drug" />
+        <entity charOffset="187-195" id="DDI-DrugBank.d572.s12.e1" text="ezetimibe" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d572.s12.e0" e2="DDI-DrugBank.d572.s12.e1" id="DDI-DrugBank.d572.s12.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d572.s17" text="In oral (gavage) fertility studies of ezetimibe conducted in rats, there was no evidence of reproductive toxicity at doses up to 1000 mg/kg/day in male or female rats (~7 times the human exposure at 10 mg daily based on AUC0-24hr for total ezetimibe). ">
+        <entity charOffset="38-46" id="DDI-DrugBank.d572.s17.e0" text="ezetimibe" type="drug" />
+        <entity charOffset="240-248" id="DDI-DrugBank.d572.s17.e1" text="ezetimibe" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d572.s17.e0" e2="DDI-DrugBank.d572.s17.e1" id="DDI-DrugBank.d572.s17.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d572.s22" text="In rabbits treated with ezetimibe, an increased incidence of extra thoracic ribs was observed at 1000 mg/kg/day (150 times the human exposure at 10 mg daily based on AUC0-24hr for total ezetimibe). ">
+        <entity charOffset="24-32" id="DDI-DrugBank.d572.s22.e0" text="ezetimibe" type="drug" />
+        <entity charOffset="186-194" id="DDI-DrugBank.d572.s22.e1" text="ezetimibe" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d572.s22.e0" e2="DDI-DrugBank.d572.s22.e1" id="DDI-DrugBank.d572.s22.p0" />
+    </sentence>
+    </document>

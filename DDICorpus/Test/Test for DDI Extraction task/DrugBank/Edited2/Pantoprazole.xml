@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d680">
+    <sentence id="DDI-DrugBank.d680.s3" text="Therefore, when coadministered with pantoprazole, adjustment of the dosage of pantoprazole or of such drugs may not be necessary. ">
+        <entity charOffset="36-47" id="DDI-DrugBank.d680.s3.e0" text="pantoprazole" type="drug" />
+        <entity charOffset="78-89" id="DDI-DrugBank.d680.s3.e1" text="pantoprazole" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d680.s3.e0" e2="DDI-DrugBank.d680.s3.e1" id="DDI-DrugBank.d680.s3.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d680.s7" text="Patients treated with proton pump inhibitors and warfarin concomitantly should be monitored for increases in INR and prothrombin time. ">
+        <entity charOffset="22-43" id="DDI-DrugBank.d680.s7.e0" text="proton pump inhibitors" type="group" />
+        <entity charOffset="49-56" id="DDI-DrugBank.d680.s7.e1" text="warfarin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d680.s7.e0" e2="DDI-DrugBank.d680.s7.e1" id="DDI-DrugBank.d680.s7.p0" type="advise" />
+    </sentence>
+    </document>

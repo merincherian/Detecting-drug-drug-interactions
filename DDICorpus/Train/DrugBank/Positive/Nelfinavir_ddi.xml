@@ -1,0 +1,32 @@
+<document id="DDI-DrugBank.d340">
+    <sentence id="DDI-DrugBank.d340.s11" text="therefore, VIRACEPT should not be administered concurrently with terfenadine because of the potential for serious and/or life-threatening cardiac arrhythmias.">
+        <entity charOffset="11-18" id="DDI-DrugBank.d340.s11.e0" text="VIRACEPT" type="brand" />
+        <entity charOffset="65-75" id="DDI-DrugBank.d340.s11.e1" text="terfenadine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d340.s11.e0" e2="DDI-DrugBank.d340.s11.e1" id="DDI-DrugBank.d340.s11.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d340.s12" text="Because a similar interaction is likely, VIRACEPT should also not be administered concurrently with astemizole.">
+        <entity charOffset="41-48" id="DDI-DrugBank.d340.s12.e0" text="VIRACEPT" type="brand" />
+        <entity charOffset="100-109" id="DDI-DrugBank.d340.s12.e1" text="astemizole" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d340.s12.e0" e2="DDI-DrugBank.d340.s12.e1" id="DDI-DrugBank.d340.s12.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d340.s26" text="therefore, nelfinavir should be administered (with food) one hour after or more than two hours before didanosine.">
+        <entity charOffset="11-20" id="DDI-DrugBank.d340.s26.e0" text="nelfinavir" type="drug" />
+        <entity charOffset="102-111" id="DDI-DrugBank.d340.s26.e1" text="didanosine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d340.s26.e0" e2="DDI-DrugBank.d340.s26.e1" id="DDI-DrugBank.d340.s26.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d340.s27" text="A dose adjustment is not needed when zidovudine is administered with VIRACEPT.">
+        <entity charOffset="37-46" id="DDI-DrugBank.d340.s27.e0" text="zidovudine" type="drug" />
+        <entity charOffset="69-76" id="DDI-DrugBank.d340.s27.e1" text="VIRACEPT" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d340.s27.e0" e2="DDI-DrugBank.d340.s27.e1" id="DDI-DrugBank.d340.s27.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d340.s31" text="It is recommended that the dose of rifabutin be reduced to one-half the usual dose when administered with VIRACEPT.">
+        <entity charOffset="35-43" id="DDI-DrugBank.d340.s31.e0" text="rifabutin" type="drug" />
+        <entity charOffset="106-113" id="DDI-DrugBank.d340.s31.e1" text="VIRACEPT" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d340.s31.e0" e2="DDI-DrugBank.d340.s31.e1" id="DDI-DrugBank.d340.s31.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d340.s33" text="VIRACEPT and rifampin should not be coadministered.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d340.s33.e0" text="VIRACEPT" type="brand" />
+        <entity charOffset="13-20" id="DDI-DrugBank.d340.s33.e1" text="rifampin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d340.s33.e0" e2="DDI-DrugBank.d340.s33.e1" id="DDI-DrugBank.d340.s33.p0" type="advise" />
+    </sentence>
+    </document>

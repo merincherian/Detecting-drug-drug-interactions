@@ -1,0 +1,10 @@
+<document id="DDI-MedLine.d126">
+    <sentence id="DDI-MedLine.d126.s1" text="Considering that the involvement of reactive oxygen species (ROS) has been implicated in the toxicity of various pesticides, this study was designed to investigate the possibility of oxidative stress induction by cypermethrin, a Type II pyrethroid. ">
+        <entity charOffset="213-224" id="DDI-MedLine.d126.s1.e0" text="cypermethrin" type="drug" />
+        <entity charOffset="229-246" id="DDI-MedLine.d126.s1.e1" text="Type II pyrethroid" type="drug_n" />
+        <pair ddi="false" e1="DDI-MedLine.d126.s1.e0" e2="DDI-MedLine.d126.s1.e1" id="DDI-MedLine.d126.s1.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d126.s2" text="Either single (170 mg/kg) or repeated (75 mg/kg per day for 5 days) oral administration of cypermethrin was found to produce significant oxidative stress in cerebral and hepatic tissues of rats, as was evident by the elevation of the level of thiobarbituric acid reactive substances (TBARS) in both tissues, either 4 or 24 h after treatment. ">
+        <entity charOffset="91-102" id="DDI-MedLine.d126.s2.e0" text="cypermethrin" type="drug" />
+    </sentence>
+    </document>

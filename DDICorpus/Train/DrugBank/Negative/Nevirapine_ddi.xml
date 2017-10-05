@@ -1,0 +1,32 @@
+<document id="DDI-DrugBank.d270">
+    <sentence id="DDI-DrugBank.d270.s20" text="Alternatives to clarithromycin,such as azithromycin, should be considered.">
+        <entity charOffset="16-29" id="DDI-DrugBank.d270.s20.e0" text="clarithromycin" type="drug" />
+        <entity charOffset="39-50" id="DDI-DrugBank.d270.s20.e1" text="azithromycin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d270.s20.e0" e2="DDI-DrugBank.d270.s20.e1" id="DDI-DrugBank.d270.s20.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d270.s24" text="Ethinyl estradiol and Norethindrone">
+        <entity charOffset="0-16" id="DDI-DrugBank.d270.s24.e0" text="Ethinyl estradiol" type="drug" />
+        <entity charOffset="22-34" id="DDI-DrugBank.d270.s24.e1" text="Norethindrone" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d270.s24.e0" e2="DDI-DrugBank.d270.s24.e1" id="DDI-DrugBank.d270.s24.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d270.s25" text="Ethinyl estradiol Norethindrone">
+        <entity charOffset="0-16" id="DDI-DrugBank.d270.s25.e0" text="Ethinyl estradiol" type="drug" />
+        <entity charOffset="18-30" id="DDI-DrugBank.d270.s25.e1" text="Norethindrone" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d270.s25.e0" e2="DDI-DrugBank.d270.s25.e1" id="DDI-DrugBank.d270.s25.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d270.s37" text="Lopinavir/Ritonavir">
+        <entity charOffset="0-8" id="DDI-DrugBank.d270.s37.e0" text="Lopinavir" type="drug" />
+        <entity charOffset="10-18" id="DDI-DrugBank.d270.s37.e1" text="Ritonavir" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d270.s37.e0" e2="DDI-DrugBank.d270.s37.e1" id="DDI-DrugBank.d270.s37.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d270.s45" text="The appropriate dose for nelfinavir incombination with nevirapine, with respectto safety and efficacy, has not been established.">
+        <entity charOffset="25-34" id="DDI-DrugBank.d270.s45.e0" text="nelfinavir" type="drug" />
+        <entity charOffset="55-64" id="DDI-DrugBank.d270.s45.e1" text="nevirapine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d270.s45.e0" e2="DDI-DrugBank.d270.s45.e1" id="DDI-DrugBank.d270.s45.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d270.s54" text="Physicians needing to treatpatients co-infected with tuberculosis andusing a nevirapine containing regimen mayuse rifabutin instead.">
+        <entity charOffset="77-86" id="DDI-DrugBank.d270.s54.e0" text="nevirapine" type="drug" />
+        <entity charOffset="114-122" id="DDI-DrugBank.d270.s54.e1" text="rifabutin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d270.s54.e0" e2="DDI-DrugBank.d270.s54.e1" id="DDI-DrugBank.d270.s54.p0" />
+    </sentence>
+    </document>

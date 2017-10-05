@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d742">
+    <sentence id="DDI-DrugBank.d742.s2" text="Drugs Affecting Hepatic Metabolism The metabolism and pharmacokinetics of REMERON SolTab    (mirtazapine) Orally Disintegrating Tablets may be affected by the induction or inhibition of drug-metab-olizing enzymes. ">
+        <entity charOffset="74-87" id="DDI-DrugBank.d742.s2.e0" text="REMERON SolTab" type="brand" />
+        <entity charOffset="93-103" id="DDI-DrugBank.d742.s2.e1" text="mirtazapine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d742.s2.e0" e2="DDI-DrugBank.d742.s2.e1" id="DDI-DrugBank.d742.s2.p0" />
+    </sentence>
+    </document>

@@ -1,0 +1,22 @@
+<document id="DDI-DrugBank.d462">
+    <sentence id="DDI-DrugBank.d462.s3" text="In one controlled clinical study, the ureidopenicillins, including piperacillin, were reported to prolong the action of vecuronium.">
+        <entity charOffset="67-78" id="DDI-DrugBank.d462.s3.e0" text="piperacillin" type="drug" />
+        <entity charOffset="120-129" id="DDI-DrugBank.d462.s3.e1" text="vecuronium" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d462.s3.e0" e2="DDI-DrugBank.d462.s3.e1" id="DDI-DrugBank.d462.s3.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d462.s4" text="Due to their similar mechanism of action, it is expected that the neuromuscular blockade produced by any of the non-depolarizing muscle relaxants could be prolonged in the presence of piperacillin.">
+        <entity charOffset="112-144" id="DDI-DrugBank.d462.s4.e0" text="non-depolarizing muscle relaxants" type="group" />
+        <entity charOffset="184-195" id="DDI-DrugBank.d462.s4.e1" text="piperacillin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d462.s4.e0" e2="DDI-DrugBank.d462.s4.e1" id="DDI-DrugBank.d462.s4.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d462.s9" text="Drug/Laboratory Test Interactions As with other penicillins, the administration of PIPRACIL may result in a false-positive reaction for glucose in the urine using a copper-reduction method.">
+        <entity charOffset="48-58" id="DDI-DrugBank.d462.s9.e0" text="penicillins" type="drug" />
+        <entity charOffset="83-90" id="DDI-DrugBank.d462.s9.e1" text="PIPRACIL" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d462.s9.e0" e2="DDI-DrugBank.d462.s9.e1" id="DDI-DrugBank.d462.s9.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d462.s11" text="There have been reports of positive test results using the Bio-Rad Laboratories Platelia Aspergillus EIA test in patients receiving piperacillin/tazobactam injection who were subsequently found to be free of Aspergillus infection.">
+        <entity charOffset="132-143" id="DDI-DrugBank.d462.s11.e0" text="piperacillin" type="drug" />
+        <entity charOffset="145-154" id="DDI-DrugBank.d462.s11.e1" text="tazobactam" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d462.s11.e0" e2="DDI-DrugBank.d462.s11.e1" id="DDI-DrugBank.d462.s11.p0" />
+    </sentence>
+    </document>

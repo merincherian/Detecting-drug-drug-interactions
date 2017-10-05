@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d742">
+    <sentence id="DDI-DrugBank.d742.s8" text="However, the impairment of cognitive and motor skills produced by REMERON    were shown to be additive with those produced by alcohol. ">
+        <entity charOffset="66-72" id="DDI-DrugBank.d742.s8.e0" text="REMERON" type="brand" />
+        <entity charOffset="126-132" id="DDI-DrugBank.d742.s8.e1" text="alcohol" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d742.s8.e0" e2="DDI-DrugBank.d742.s8.e1" id="DDI-DrugBank.d742.s8.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d742.s10" text="However, the impairment of motor skills produced by REMERON has been shown to be additive with those caused by diazepam. ">
+        <entity charOffset="52-58" id="DDI-DrugBank.d742.s10.e0" text="REMERON" type="brand" />
+        <entity charOffset="111-118" id="DDI-DrugBank.d742.s10.e1" text="diazepam" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d742.s10.e0" e2="DDI-DrugBank.d742.s10.e1" id="DDI-DrugBank.d742.s10.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d742.s11" text="Accordingly, patients should be advised to avoid diazepam and other similar drugs while taking REMERON SolTab.">
+        <entity charOffset="49-56" id="DDI-DrugBank.d742.s11.e0" text="diazepam" type="drug" />
+        <entity charOffset="95-108" id="DDI-DrugBank.d742.s11.e1" text="REMERON SolTab" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d742.s11.e0" e2="DDI-DrugBank.d742.s11.e1" id="DDI-DrugBank.d742.s11.p0" type="advise" />
+    </sentence>
+</document>

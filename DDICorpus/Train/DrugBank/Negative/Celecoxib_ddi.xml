@@ -1,0 +1,12 @@
+<document id="DDI-DrugBank.d172">
+    <sentence id="DDI-DrugBank.d172.s15" text="Because of its lack of platelet effects, CELEBREX is not a substitute for aspirin for cardiovascular prophylaxis.">
+        <entity charOffset="41-48" id="DDI-DrugBank.d172.s15.e0" text="CELEBREX" type="brand" />
+        <entity charOffset="74-80" id="DDI-DrugBank.d172.s15.e1" text="aspirin" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d172.s15.e0" e2="DDI-DrugBank.d172.s15.e1" id="DDI-DrugBank.d172.s15.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d172.s23" text="In these subjects, celecoxib did not alter the anticoagulant effect of warfarin as determined by prothrombin time.">
+        <entity charOffset="19-27" id="DDI-DrugBank.d172.s23.e0" text="celecoxib" type="drug" />
+        <entity charOffset="71-78" id="DDI-DrugBank.d172.s23.e1" text="warfarin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d172.s23.e0" e2="DDI-DrugBank.d172.s23.e1" id="DDI-DrugBank.d172.s23.p0" />
+    </sentence>
+    </document>

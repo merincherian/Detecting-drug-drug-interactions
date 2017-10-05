@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d80">
+    <sentence id="DDI-DrugBank.d80.s0" text="Potential drug interactions between Mentax (butenafine HCl cream) Cream, 1%, and other drugs have not been systematically evaluated.">
+        <entity charOffset="36-41" id="DDI-DrugBank.d80.s0.e0" text="Mentax" type="brand" />
+        <entity charOffset="44-57" id="DDI-DrugBank.d80.s0.e1" text="butenafine HCl" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d80.s0.e0" e2="DDI-DrugBank.d80.s0.e1" id="DDI-DrugBank.d80.s0.p0" />
+    </sentence>
+</document>

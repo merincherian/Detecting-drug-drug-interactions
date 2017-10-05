@@ -1,0 +1,11 @@
+<document id="DDI-MedLine.d75">
+    <sentence id="DDI-MedLine.d75.s0" text="Interference of biocytin with opioid-evoked hyperpolarization and membrane properties of rat spinal substantia gelatinosa neurons.">
+        <entity charOffset="30-35" id="DDI-MedLine.d75.s0.e0" text="opioid" type="group" />
+    </sentence>
+    <sentence id="DDI-MedLine.d75.s1" text="In our laboratory, preliminary whole-cell, tight seal recordings of rat spinal substantia gelatinosa neurons including biocytin in the patch pipette yielded a significantly smaller proportion of neurons hyperpolarized by selective opioid agonists compared with recordings without biocytin. ">
+        <entity charOffset="221-245" id="DDI-MedLine.d75.s1.e0" text="selective opioid agonists" type="group" />
+    </sentence>
+    <sentence id="DDI-MedLine.d75.s2" text="Therefore, we investigated the effects of biocytin inclusion on opioid responses and other membrane properties during whole-cell, tight seal recordings of these neurons. ">
+        <entity charOffset="64-69" id="DDI-MedLine.d75.s2.e0" text="opioid" type="group" />
+    </sentence>
+    </document>

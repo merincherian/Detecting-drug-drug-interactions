@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d688">
+    <sentence id="DDI-DrugBank.d688.s2" text="Administration of a higher dose of indinavir should be considered when coadministering with megestrol acetate. ">
+        <entity charOffset="35-43" id="DDI-DrugBank.d688.s2.e0" text="indinavir" type="drug" />
+        <entity charOffset="92-108" id="DDI-DrugBank.d688.s2.e1" text="megestrol acetate" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d688.s2.e0" e2="DDI-DrugBank.d688.s2.e1" id="DDI-DrugBank.d688.s2.p0" type="advise" />
+    </sentence>
+    </document>

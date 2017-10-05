@@ -1,0 +1,22 @@
+<document id="DDI-DrugBank.d284">
+    <sentence id="DDI-DrugBank.d284.s0" text="If additional adrenergic drugs are to be administered by any route, they should be used with caution because the pharmacologically predictable sympathetic effects of BROVANA may be potentiated.">
+        <entity charOffset="14-29" id="DDI-DrugBank.d284.s0.e0" text="adrenergic drugs" type="group" />
+        <entity charOffset="166-172" id="DDI-DrugBank.d284.s0.e1" text="BROVANA" type="brand" />
+        <pair ddi="true" e1="DDI-DrugBank.d284.s0.e0" e2="DDI-DrugBank.d284.s0.e1" id="DDI-DrugBank.d284.s0.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d284.s1" text="When paroxetine, a potent inhibitor of CYP2D6, was co-administered with BROVANA at steady-state, exposure to either drug was not altered.">
+        <entity charOffset="5-14" id="DDI-DrugBank.d284.s1.e0" text="paroxetine" type="drug" />
+        <entity charOffset="72-78" id="DDI-DrugBank.d284.s1.e1" text="BROVANA" type="brand" />
+        <pair ddi="false" e1="DDI-DrugBank.d284.s1.e0" e2="DDI-DrugBank.d284.s1.e1" id="DDI-DrugBank.d284.s1.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d284.s5" text="Although the clinical significance of these effects is not known, caution is advised in the co-administration of beta-agonists with non-potassium sparing diuretics.">
+        <entity charOffset="113-125" id="DDI-DrugBank.d284.s5.e0" text="beta-agonists" type="group" />
+        <entity charOffset="132-162" id="DDI-DrugBank.d284.s5.e1" text="non-potassium sparing diuretics" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d284.s5.e0" e2="DDI-DrugBank.d284.s5.e1" id="DDI-DrugBank.d284.s5.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d284.s13" text="Beta-blockers not only block the therapeutic effects of beta-agonists, but may produce severe bronchospasm in COPD patients.">
+        <entity charOffset="0-12" id="DDI-DrugBank.d284.s13.e0" text="Beta-blockers" type="group" />
+        <entity charOffset="56-68" id="DDI-DrugBank.d284.s13.e1" text="beta-agonists" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d284.s13.e0" e2="DDI-DrugBank.d284.s13.e1" id="DDI-DrugBank.d284.s13.p0" type="effect" />
+    </sentence>
+    </document>

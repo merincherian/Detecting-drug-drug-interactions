@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d769">
+    <sentence id="DDI-DrugBank.d769.s1" text="Physicians should carefully monitor PT and INR in patients concurrently administered ZOLINZA and coumarin derivatives. ">
+        <entity charOffset="85-91" id="DDI-DrugBank.d769.s1.e0" text="ZOLINZA" type="brand" />
+        <entity charOffset="97-116" id="DDI-DrugBank.d769.s1.e1" text="coumarin derivatives" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d769.s1.e0" e2="DDI-DrugBank.d769.s1.e1" id="DDI-DrugBank.d769.s1.p0" type="advise" />
+    </sentence>
+    </document>

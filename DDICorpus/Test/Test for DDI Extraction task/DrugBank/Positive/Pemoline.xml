@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d671">
+    <sentence id="DDI-DrugBank.d671.s2" text="Decreased seizure threshold has been reported in patients receiving CYLERT concomitantly with antiepileptic medications.">
+        <entity charOffset="68-73" id="DDI-DrugBank.d671.s2.e0" text="CYLERT" type="brand" />
+        <entity charOffset="94-118" id="DDI-DrugBank.d671.s2.e1" text="antiepileptic medications" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d671.s2.e0" e2="DDI-DrugBank.d671.s2.e1" id="DDI-DrugBank.d671.s2.p0" type="effect" />
+    </sentence>
+</document>

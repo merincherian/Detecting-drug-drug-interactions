@@ -1,0 +1,22 @@
+<document id="DDI-DrugBank.d456">
+    <sentence id="DDI-DrugBank.d456.s0" text="Co-treatment with the potent CYP3A4 inhibitor ketoconazole increases erlotinib AUC by 2/3.">
+        <entity charOffset="46-57" id="DDI-DrugBank.d456.s0.e0" text="ketoconazole" type="drug" />
+        <entity charOffset="69-77" id="DDI-DrugBank.d456.s0.e1" text="erlotinib" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d456.s0.e0" e2="DDI-DrugBank.d456.s0.e1" id="DDI-DrugBank.d456.s0.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d456.s2" text="Pre-treatment with the CYP3A4 inducer rifampicin decreased erlotinib AUC by about 2/3.">
+        <entity charOffset="38-47" id="DDI-DrugBank.d456.s2.e0" text="rifampicin" type="drug" />
+        <entity charOffset="59-67" id="DDI-DrugBank.d456.s2.e1" text="erlotinib" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d456.s2.e0" e2="DDI-DrugBank.d456.s2.e1" id="DDI-DrugBank.d456.s2.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d456.s5" text="If the TARCEVA dose is adjusted upward, the dose will need to be reduced upon discontinuation of rifampicin or other inducers.">
+        <entity charOffset="7-13" id="DDI-DrugBank.d456.s5.e0" text="TARCEVA" type="brand" />
+        <entity charOffset="97-106" id="DDI-DrugBank.d456.s5.e1" text="rifampicin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d456.s5.e0" e2="DDI-DrugBank.d456.s5.e1" id="DDI-DrugBank.d456.s5.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d456.s13" text="Patients taking warfarin or other coumarin-derivative anticoagulants should be monitored regularly for changes in prothrombin time or INR">
+        <entity charOffset="16-23" id="DDI-DrugBank.d456.s13.e0" text="warfarin" type="drug" />
+        <entity charOffset="34-67" id="DDI-DrugBank.d456.s13.e1" text="coumarin-derivative anticoagulants" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d456.s13.e0" e2="DDI-DrugBank.d456.s13.e1" id="DDI-DrugBank.d456.s13.p0" />
+    </sentence>
+    </document>

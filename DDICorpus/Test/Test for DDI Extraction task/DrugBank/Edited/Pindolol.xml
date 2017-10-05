@@ -1,0 +1,24 @@
+<document id="DDI-DrugBank.d666">
+    <sentence id="DDI-DrugBank.d666.s0" text="Catecholamine-depleting drugs (e.g., reserpine) may have an additive effect when given with beta-blocking agents. ">
+        <entity charOffset="37-45" id="DDI-DrugBank.d666.s0.e0" text="reserpine" type="drug" />
+        <entity charOffset="92-111" id="DDI-DrugBank.d666.s0.e1" text="beta-blocking agents" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d666.s0.e0" e2="DDI-DrugBank.d666.s0.e1" id="DDI-DrugBank.d666.s0.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d666.s1" text="Patients receiving pindolol plus a catecholamine-depleting agent should, therefore, be closely observed for evidence of hypotension and/or marked bradycardia which may produce vertigo, syncope, or postural hypotension. ">
+        <entity charOffset="19-26" id="DDI-DrugBank.d666.s1.e0" text="pindolol" type="drug" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d666.s3" text="Pindolol has been shown to increase serum thioridazine levels when both drugs are co-administered. ">
+        <entity charOffset="0-7" id="DDI-DrugBank.d666.s3.e0" text="Pindolol" type="drug" />
+        <entity charOffset="42-53" id="DDI-DrugBank.d666.s3.e1" text="thioridazine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d666.s3.e0" e2="DDI-DrugBank.d666.s3.e1" id="DDI-DrugBank.d666.s3.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d666.s4" text="Pindolol levels may also be increased with this combination. ">
+        <entity charOffset="0-7" id="DDI-DrugBank.d666.s4.e0" text="Pindolol" type="drug" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d666.s5" text="Risk of anaphylactic reaction: While taking beta blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic. ">
+        <entity charOffset="44-56" id="DDI-DrugBank.d666.s5.e0" text="beta blockers" type="group" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d666.s6" text="Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reactions.">
+        <entity charOffset="56-66" id="DDI-DrugBank.d666.s6.e0" text="epinephrine" type="drug" />
+    </sentence>
+</document>

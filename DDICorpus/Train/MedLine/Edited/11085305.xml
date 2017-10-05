@@ -1,0 +1,19 @@
+<document id="DDI-MedLine.d62">
+    <sentence id="DDI-MedLine.d62.s0" text="Activation of an effector immediate-early gene arc by methamphetamine.&#10;">
+        <entity charOffset="54-68" id="DDI-MedLine.d62.s0.e0" text="methamphetamine" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d62.s1" text="As immediate-early genes (IEGs) are thought to play a critical role in mediating stimulus-induced neural plasticity, IEG response induced by methamphetamine (METH) has been characterized to define the changes in gene expression that may underlie its long-lasting behavioral effects. ">
+        <entity charOffset="141-155" id="DDI-MedLine.d62.s1.e0" text="methamphetamine" type="drug" />
+        <entity charOffset="158-161" id="DDI-MedLine.d62.s1.e1" text="METH" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d62.s1.e0" e2="DDI-MedLine.d62.s1.e1" id="DDI-MedLine.d62.s1.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d62.s3" text="Here, we have examined whether METH administration affects expression of an effector IEG arc (activity-regulated, cytoskeleton-associated) that encodes a protein with homology to spectrin. ">
+        <entity charOffset="31-34" id="DDI-MedLine.d62.s3.e0" text="METH" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d62.s5" text="METH induced arc mRNA in layers IV and VI of the cortex which dopamine receptor are localized to. ">
+        <entity charOffset="0-3" id="DDI-MedLine.d62.s5.e0" text="METH" type="drug" />
+    </sentence>
+    <sentence id="DDI-MedLine.d62.s6" text="These results suggest that D1 receptors are coupled to activation of arc gene, which may be involved in functional or structural alterations underlying neural plasticity triggered by METH.">
+        <entity charOffset="183-186" id="DDI-MedLine.d62.s6.e0" text="METH" type="drug" />
+    </sentence>
+</document>

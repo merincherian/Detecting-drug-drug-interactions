@@ -1,0 +1,12 @@
+<document id="DDI-MedLine.d40">
+    <sentence id="DDI-MedLine.d40.s0" text="Studies on the mechanism of action of miconazole: effect of miconazole on respiration and cell permeability of Candida albicans.&#10;">
+        <entity charOffset="38-47" id="DDI-MedLine.d40.s0.e0" text="miconazole" type="drug" />
+        <entity charOffset="60-69" id="DDI-MedLine.d40.s0.e1" text="miconazole" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d40.s0.e0" e2="DDI-MedLine.d40.s0.e1" id="DDI-MedLine.d40.s0.p0" />
+    </sentence>
+    <sentence id="DDI-MedLine.d40.s1" text="The antifungal drug, miconazole nitrate, inhibits the growth of several species of Candida. ">
+        <entity charOffset="4-18" id="DDI-MedLine.d40.s1.e0" text="antifungal drug" type="group" />
+        <entity charOffset="21-38" id="DDI-MedLine.d40.s1.e1" text="miconazole nitrate" type="drug" />
+        <pair ddi="false" e1="DDI-MedLine.d40.s1.e0" e2="DDI-MedLine.d40.s1.e1" id="DDI-MedLine.d40.s1.p0" />
+    </sentence>
+    </document>

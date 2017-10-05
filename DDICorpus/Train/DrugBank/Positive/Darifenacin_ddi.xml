@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d459">
+    <sentence id="DDI-DrugBank.d459.s2" text="The concomitant use of ENABLEX with other anticholinergic agents may increase the frequency and/or severity of dry mouth, constipation, blurred vision and other anticholinergic pharmacological effects.">
+        <entity charOffset="23-29" id="DDI-DrugBank.d459.s2.e0" text="ENABLEX" type="brand" />
+        <entity charOffset="42-63" id="DDI-DrugBank.d459.s2.e1" text="anticholinergic agents" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d459.s2.e0" e2="DDI-DrugBank.d459.s2.e1" id="DDI-DrugBank.d459.s2.p0" type="effect" />
+    </sentence>
+    </document>

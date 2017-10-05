@@ -1,0 +1,22 @@
+<document id="DDI-DrugBank.d346">
+    <sentence id="DDI-DrugBank.d346.s0" text="Studies to evaluate possible interactions between REVIA and drugs other than opiates have not been performed.">
+        <entity charOffset="50-54" id="DDI-DrugBank.d346.s0.e0" text="REVIA" type="brand" />
+        <entity charOffset="77-83" id="DDI-DrugBank.d346.s0.e1" text="opiates" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d346.s0.e0" e2="DDI-DrugBank.d346.s0.e1" id="DDI-DrugBank.d346.s0.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d346.s2" text="The safety and efficacy of concomitant use of REVIA and disulfiram is unknown, and the concomitant use of two potentially hepatotoxic medications is not ordinarily recommended unless the probable benefits outweigh the known risks.">
+        <entity charOffset="46-50" id="DDI-DrugBank.d346.s2.e0" text="REVIA" type="brand" />
+        <entity charOffset="56-65" id="DDI-DrugBank.d346.s2.e1" text="disulfiram" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d346.s2.e0" e2="DDI-DrugBank.d346.s2.e1" id="DDI-DrugBank.d346.s2.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d346.s3" text="Lethargy and somnolence have been reported following doses of REVIA and thioridazine.">
+        <entity charOffset="62-66" id="DDI-DrugBank.d346.s3.e0" text="REVIA" type="brand" />
+        <entity charOffset="72-83" id="DDI-DrugBank.d346.s3.e1" text="thioridazine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d346.s3.e0" e2="DDI-DrugBank.d346.s3.e1" id="DDI-DrugBank.d346.s3.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d346.s5" text="In an emergency situation when opioid analgesia must be administered to a patient receiving REVIA, the amount of opioid required may be greater than usual, and the resulting respiratory depression may be deeper and more prolonged.">
+        <entity charOffset="92-96" id="DDI-DrugBank.d346.s5.e0" text="REVIA" type="brand" />
+        <entity charOffset="113-118" id="DDI-DrugBank.d346.s5.e1" text="opioid" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d346.s5.e0" e2="DDI-DrugBank.d346.s5.e1" id="DDI-DrugBank.d346.s5.p0" type="effect" />
+    </sentence>
+</document>

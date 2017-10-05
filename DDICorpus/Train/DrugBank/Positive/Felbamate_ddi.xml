@@ -1,0 +1,17 @@
+<document id="DDI-DrugBank.d434">
+    <sentence id="DDI-DrugBank.d434.s14" text="Increasing the felbamate dose to 1800 mg/day in six of these subjects increased the steady-state phenytoin Cmin to 25 7 micrograms/mL.">
+        <entity charOffset="15-23" id="DDI-DrugBank.d434.s14.e0" text="felbamate" type="drug" />
+        <entity charOffset="97-105" id="DDI-DrugBank.d434.s14.e1" text="phenytoin" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d434.s14.e0" e2="DDI-DrugBank.d434.s14.e1" id="DDI-DrugBank.d434.s14.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s19" text="The carbamazepine steady-state Cmin decreased 31% to 5 1 micrograms/mL when felbamate (3000 mg/day, divided into three doses) was coadministered.">
+        <entity charOffset="4-16" id="DDI-DrugBank.d434.s19.e0" text="carbamazepine" type="drug" />
+        <entity charOffset="76-84" id="DDI-DrugBank.d434.s19.e1" text="felbamate" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d434.s19.e0" e2="DDI-DrugBank.d434.s19.e1" id="DDI-DrugBank.d434.s19.p0" type="mechanism" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s25" text="Increasing the felbamate dose to 2400 mg/day increased the steadystate valproate Cmin to 96 25 micrograms/mL.">
+        <entity charOffset="15-23" id="DDI-DrugBank.d434.s25.e0" text="felbamate" type="drug" />
+        <entity charOffset="71-79" id="DDI-DrugBank.d434.s25.e1" text="valproate" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d434.s25.e0" e2="DDI-DrugBank.d434.s25.e1" id="DDI-DrugBank.d434.s25.p0" type="mechanism" />
+    </sentence>
+    </document>

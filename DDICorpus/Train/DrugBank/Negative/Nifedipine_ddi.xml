@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d373">
+    <sentence id="DDI-DrugBank.d373.s13" text="The effect may be mediated by the known inhibition of cimetidine on hepatic cytochrome P-450, the enzyme system probably responsible for the first-pass metabolism of nifedipine.">
+        <entity charOffset="54-63" id="DDI-DrugBank.d373.s13.e0" text="cimetidine" type="drug" />
+        <entity charOffset="166-175" id="DDI-DrugBank.d373.s13.e1" text="nifedipine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d373.s13.e0" e2="DDI-DrugBank.d373.s13.e1" id="DDI-DrugBank.d373.s13.p0" />
+    </sentence>
+    </document>

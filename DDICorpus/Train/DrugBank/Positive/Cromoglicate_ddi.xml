@@ -1,0 +1,7 @@
+<document id="DDI-DrugBank.d229">
+    <sentence id="DDI-DrugBank.d229.s3" text="The addition of 540 mg/kg/day of cromolyn sodium (approximately 340 times the maximum recommended daily inhalation dose in adults on a mg/m2 basis) to 2.7 mg/kg/day of isoproterenol (approximately 7 times the maximum recommended daily inhalation dose in adults on a mg/m2 basis) appears to have increased the incidence of both resorptions and malformations.">
+        <entity charOffset="33-47" id="DDI-DrugBank.d229.s3.e0" text="cromolyn sodium" type="drug" />
+        <entity charOffset="168-180" id="DDI-DrugBank.d229.s3.e1" text="isoproterenol" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d229.s3.e0" e2="DDI-DrugBank.d229.s3.e1" id="DDI-DrugBank.d229.s3.p0" type="effect" />
+    </sentence>
+</document>

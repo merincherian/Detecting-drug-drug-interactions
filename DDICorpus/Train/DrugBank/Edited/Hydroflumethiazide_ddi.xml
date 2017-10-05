@@ -1,0 +1,27 @@
+<document id="DDI-DrugBank.d17">
+    <sentence id="DDI-DrugBank.d17.s12" text="(Concurrent use with thiazide diuretics may enhance the possibility of digitalis toxicity associated with hypokalemia.)">
+        <entity charOffset="21-38" id="DDI-DrugBank.d17.s12.e0" text="thiazide diuretics" type="group" />
+        <entity charOffset="71-79" id="DDI-DrugBank.d17.s12.e1" text="digitalis" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d17.s12.e0" e2="DDI-DrugBank.d17.s12.e1" id="DDI-DrugBank.d17.s12.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d17.s18" text="for adult-onset diabetics, dosage adjustment of hypoglycemic medications may be necessary during and after thiazide diuretic therapy;">
+        <entity charOffset="48-71" id="DDI-DrugBank.d17.s18.e0" text="hypoglycemic medications" type="group" />
+        <entity charOffset="107-123" id="DDI-DrugBank.d17.s18.e1" text="thiazide diuretic" type="group" />
+        <pair ddi="true" e1="DDI-DrugBank.d17.s18.e0" e2="DDI-DrugBank.d17.s18.e1" id="DDI-DrugBank.d17.s18.p0" type="advise" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d17.s21" text="(Concurrent use with thiazide diuretics is not recommended, as they may provoke lithium toxicity because of reduced renal clearance.)">
+        <entity charOffset="21-38" id="DDI-DrugBank.d17.s21.e0" text="thiazide diuretics" type="group" />
+        <entity charOffset="80-86" id="DDI-DrugBank.d17.s21.e1" text="lithium" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d17.s21.e0" e2="DDI-DrugBank.d17.s21.e1" id="DDI-DrugBank.d17.s21.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d17.s28" text="(Thiazides may decrease arterial responsiveness to norepinephrine.">
+        <entity charOffset="1-9" id="DDI-DrugBank.d17.s28.e0" text="Thiazides" type="group" />
+        <entity charOffset="51-64" id="DDI-DrugBank.d17.s28.e1" text="norepinephrine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d17.s28.e0" e2="DDI-DrugBank.d17.s28.e1" id="DDI-DrugBank.d17.s28.p0" type="effect" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d17.s31" text="(Thiazide drugs may increase the responsiveness to tubocurarine.)">
+        <entity charOffset="1-14" id="DDI-DrugBank.d17.s31.e0" text="Thiazide drugs" type="group" />
+        <entity charOffset="51-62" id="DDI-DrugBank.d17.s31.e1" text="tubocurarine" type="drug" />
+        <pair ddi="true" e1="DDI-DrugBank.d17.s31.e0" e2="DDI-DrugBank.d17.s31.e1" id="DDI-DrugBank.d17.s31.p0" type="effect" />
+    </sentence>
+    </document>

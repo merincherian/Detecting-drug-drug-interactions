@@ -1,0 +1,37 @@
+<document id="DDI-DrugBank.d316">
+    <sentence id="DDI-DrugBank.d316.s0" text="CYP3A4 Inhibitors Felodipine is metabolized by CYP3A4.">
+        <entity charOffset="0-5" id="DDI-DrugBank.d316.s0.e0" text="CYP3A4" type="drug" />
+        <entity charOffset="47-52" id="DDI-DrugBank.d316.s0.e1" text="CYP3A4" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d316.s0.e0" e2="DDI-DrugBank.d316.s0.e1" id="DDI-DrugBank.d316.s0.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d316.s3" text="These effects have been observed with co-administration of itraconazole (a potent CYP3A4 inhibitor).">
+        <entity charOffset="59-70" id="DDI-DrugBank.d316.s3.e0" text="itraconazole" type="drug" />
+        <entity charOffset="82-87" id="DDI-DrugBank.d316.s3.e1" text="CYP3A4" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d316.s3.e0" e2="DDI-DrugBank.d316.s3.e1" id="DDI-DrugBank.d316.s3.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d316.s4" text="Caution should be used when CYP3A4 inhibitors are co-administered with felodipine.">
+        <entity charOffset="28-33" id="DDI-DrugBank.d316.s4.e0" text="CYP3A4" type="drug" />
+        <entity charOffset="71-80" id="DDI-DrugBank.d316.s4.e1" text="felodipine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d316.s4.e0" e2="DDI-DrugBank.d316.s4.e1" id="DDI-DrugBank.d316.s4.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d316.s8" text="Grapefruit juice Co-administration of felodipine with grapefruit juice resulted in more than 2-fold increase in the AUC and Cmax, but no prolongation in the half- life of felodipine.">
+        <entity charOffset="38-47" id="DDI-DrugBank.d316.s8.e0" text="felodipine" type="drug" />
+        <entity charOffset="171-180" id="DDI-DrugBank.d316.s8.e1" text="felodipine" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d316.s8.e0" e2="DDI-DrugBank.d316.s8.e1" id="DDI-DrugBank.d316.s8.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d316.s13" text="Digoxin  When given concomitantly with PLENDIL the pharmacokinetics of digoxin in patients with heart failure were not significantly altered.">
+        <entity charOffset="39-45" id="DDI-DrugBank.d316.s13.e0" text="PLENDIL" type="drug" />
+        <entity charOffset="71-77" id="DDI-DrugBank.d316.s13.e1" text="digoxin" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d316.s13.e0" e2="DDI-DrugBank.d316.s13.e1" id="DDI-DrugBank.d316.s13.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d316.s17" text="Tacrolimus  Felodipine may increase the blood concentration of tacrolimus.">
+        <entity charOffset="12-21" id="DDI-DrugBank.d316.s17.e0" text="Felodipine" type="drug" />
+        <entity charOffset="63-72" id="DDI-DrugBank.d316.s17.e1" text="tacrolimus" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d316.s17.e0" e2="DDI-DrugBank.d316.s17.e1" id="DDI-DrugBank.d316.s17.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d316.s18" text="When given concomitantly with felodipine, the tacrolimus blood concentration should be followed and the tacrolimus dose may need to be adjusted.">
+        <entity charOffset="30-39" id="DDI-DrugBank.d316.s18.e0" text="felodipine" type="drug" />
+        <entity charOffset="46-55" id="DDI-DrugBank.d316.s18.e1" text="tacrolimus" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d316.s18.e0" e2="DDI-DrugBank.d316.s18.e1" id="DDI-DrugBank.d316.s18.p0" />
+    </sentence>
+    </document>

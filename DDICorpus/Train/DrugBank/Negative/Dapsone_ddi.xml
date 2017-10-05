@@ -1,0 +1,22 @@
+<document id="DDI-DrugBank.d185">
+    <sentence id="DDI-DrugBank.d185.s1" text="During co-administration, systemic levels of TMP and SMX were essentially unchanged.">
+        <entity charOffset="45-47" id="DDI-DrugBank.d185.s1.e0" text="TMP" type="drug" />
+        <entity charOffset="53-55" id="DDI-DrugBank.d185.s1.e1" text="SMX" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d185.s1.e0" e2="DDI-DrugBank.d185.s1.e1" id="DDI-DrugBank.d185.s1.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d185.s3" text="Exposure from the proposed topical dose is about 1% of that from the 100 mg oral dose, even when co-administered with TMP/SMX.">
+        <entity charOffset="118-120" id="DDI-DrugBank.d185.s3.e0" text="TMP" type="drug" />
+        <entity charOffset="122-124" id="DDI-DrugBank.d185.s3.e1" text="SMX" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d185.s3.e0" e2="DDI-DrugBank.d185.s3.e1" id="DDI-DrugBank.d185.s3.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d185.s4" text="Certain concomitant medications (such as rifampin, anticonvulsants, St.">
+        <entity charOffset="41-48" id="DDI-DrugBank.d185.s4.e0" text="rifampin" type="drug" />
+        <entity charOffset="51-65" id="DDI-DrugBank.d185.s4.e1" text="anticonvulsants" type="group" />
+        <pair ddi="false" e1="DDI-DrugBank.d185.s4.e0" e2="DDI-DrugBank.d185.s4.e1" id="DDI-DrugBank.d185.s4.p0" />
+    </sentence>
+    <sentence id="DDI-DrugBank.d185.s5" text="John s wort) may increase the formation of dapsone hydroxylamine, a metabolite of dapsone associated with hemolysis.">
+        <entity charOffset="43-63" id="DDI-DrugBank.d185.s5.e0" text="dapsone hydroxylamine" type="drug_n" />
+        <entity charOffset="82-88" id="DDI-DrugBank.d185.s5.e1" text="dapsone" type="drug" />
+        <pair ddi="false" e1="DDI-DrugBank.d185.s5.e0" e2="DDI-DrugBank.d185.s5.e1" id="DDI-DrugBank.d185.s5.p0" />
+    </sentence>
+    </document>
